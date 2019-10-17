@@ -1,4 +1,4 @@
-// require('dotenv').config()
+require('dotenv').config()
 const weapons = require('./lib/weapons')
 const Discord = require('discord.js');
 const client = new Discord.Client();
