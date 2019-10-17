@@ -1,0 +1,17 @@
+{
+  "name": "inobase",
+  "version": "1.0.0",
+  "description": "none yet",
+  "main": "index.js",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuliana",
+  "license": "MIT"
+}
