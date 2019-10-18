@@ -1,5 +1,4 @@
 require('dotenv').config()
-const weapons = require('./lib/weapons')
 const { isCommand, getCommand, getQueries } = require('./lib/commands')
 const Discord = require('discord.js');
 const client = new Discord.Client();
@@ -10,7 +9,7 @@ client.on('ready', () => {
 
 client.on('message', msg => {
   if (isCommand(msg.content)) {
-    console.log('woot',getQueries(msg.content));
+    console.log('woot',getQueries(msg.content).length, getQueries(msg.content)[0]);
     return;
   };
   return;

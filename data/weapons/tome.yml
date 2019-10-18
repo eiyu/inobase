@@ -1,701 +1,169 @@
+
 Book of Regrets:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  aid_skill: Attack Interference (I) Fixed chance to slightly reduce enemy's physical
+    ATK and magical ATK while attacking.
+  colosseum_skill: Incantation of Corrosion (I) 23SP. Reduce the physical ATK and
+    magical ATK of 2 enemies by a small amount.
+  cost: '13'
+  element: Fire
+  picture: https://sinoalice.wiki/images/thumb/2/2d/Icon_Weapon_0003.png/80px-Icon_Weapon_0003.png
+  story_skill: Incantation of Corrosion (I) 23SP. Reduce the physical ATK and magical
+    ATK of 2 enemies by a small amount.
+  tier: S
+  total_mlb: 2416
 
 Bibliography of Torture:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
+  aid_skill: Support Backup (One) Fixed chance to slightly increase support effects
+    while providing backup.
+  colosseum_skill: Curse of Surrender (II) 17SP. Reduce the physical ATK and magical
+    ATK of 1 enemy by a moderate amount.
+  cost: '13'
   element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  picture: https://sinoalice.wiki/images/thumb/3/35/Icon_Weapon_0019.png/80px-Icon_Weapon_0019.png
+  story_skill: Curse of Surrender (II) 17SP. Reduce the physical DEF and magical DEF
+    of 1 enemy by a moderate amount.
+  tier: S
+  total_mlb: 2440
 
 Grimoire of Ten Thousand Commandments:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
+  aid_skill: Mana Supply (Two) Fixed chance to moderately reduce SP consumption while
+    executing commands.
+  colosseum_skill: Curse of Debility (IV) 18SP. Reduce the magical ATK of 1 enemy
+    by a massive amount.
+  cost: '16'
+  element: Fire
+  picture: https://sinoalice.wiki/images/thumb/f/fe/Icon_Weapon_0035.png/80px-Icon_Weapon_0035.png
+  story_skill: Curse of Debility (IV) 18SP. Reduce the magical ATK of 1 enemy by a
+    massive amount.
   tier: SS
-  total_mlb: 4692
+  total_mlb: 3540
 
 Records of Otherworldly Minerals:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  aid_skill: Magic ATK Interference (I) Fixed chance to slightly reduce enemy's magical
+    ATK while attacking.
+  colosseum_skill: Incantation of Corrosion (I) 22SP. Reduce the physical ATK and
+    magical ATK of 2 enemies by a small amount.
+  cost: '12'
+  element: Fire
+  picture: https://sinoalice.wiki/images/thumb/4/42/Icon_Weapon_0052.png/80px-Icon_Weapon_0052.png
+  story_skill: Incantation of Corrosion (I) 22SP. Reduce the physical ATK and magical
+    ATK of 2 enemies by a small amount.
+  tier: A
+  total_mlb: 1392
 
 Chaotic Desire:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  aid_skill: Support Backup (One) Fixed chance to slightly increase support effects
+    while providing backup.
+  colosseum_skill: Curse of Surrender (I) 15SP. Reduce the physical DEF and magical
+    DEF of 1 enemy by a small amount.
+  cost: '9'
+  element: Fire
+  picture: https://sinoalice.wiki/images/thumb/4/47/Icon_Weapon_0071.png/80px-Icon_Weapon_0071.png
+  story_skill: Curse of Surrender (I) 15SP. Reduce the physical DEF and magical DEF
+    of 1 enemy by a small amount.
+  tier: A
+  total_mlb: 1060
 
 Devil's Arm:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
+  aid_skill: Physical DEF Interference (II) Fixed chance to moderately reduce enemy's
+    physical DEF while attacking.
+  colosseum_skill: Incantation of Crumbling Walls (III) 21SP. Reduce the physical
+    DEF of 1-2 enemies by a great amount.
+  cost: '16'
+  element: Fire
+  picture: https://sinoalice.wiki/images/thumb/d/d8/Icon_Weapon_0089.png/80px-Icon_Weapon_0089.png
+  story_skill: Incantation of Crumbling Walls (III) 21SP. Reduce the physical DEF
+    of 1-2 enemies by a great amount.
   tier: SS
-  total_mlb: 4692
+  total_mlb: 3556
 
 Omniscient Tome:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
+  aid_skill: Magic ATK Interference (II) Fixed chance to moderately reduce enemy's
+    magical ATK while attacking.
+  colosseum_skill: Incantation of Debility (III) 21SP. Reduce the magical ATK of 1-2
+    enemies by a great amount.
+  cost: '16'
   element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
+  picture: https://sinoalice.wiki/images/thumb/2/22/Icon_Weapon_0105.png/80px-Icon_Weapon_0105.png
+  story_skill: Incantation of Debility (III) 21SP. Reduce the magical ATK of 1-2 enemies
+    by a great amount.
   tier: SS
-  total_mlb: 4692
+  total_mlb: 3540
 
 Records of the Great Flood:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
+  aid_skill: Mana Supply (One) Fixed chance to slightly reduce SP consumption while
+    executing commands.
+  colosseum_skill: Curse of Corrosion (III) 17SP. Reduce the physical ATK and magical
+    ATK of 1 enemy by a great amount.
+  cost: '13'
   element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  picture: https://sinoalice.wiki/images/thumb/d/d8/Icon_Weapon_0117.png/80px-Icon_Weapon_0117.png
+  story_skill: Curse of Corrosion (III) 17SP. Reduce the physical ATK and magical
+    ATK of 1 enemy by a great amount.
+  tier: S
+  total_mlb: 2432
 
 Tome of Judgement:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  aid_skill: Barrier Destruction (I) Fixed chance to slightly reduce enemy's physical
+    DEF and magical DEF while attacking.
+  colosseum_skill: Incantation of Surrender (I) 23SP. Reduce the physical DEF and
+    magical DEF of 2 enemies by a small amount.
+  cost: '13'
+  element: Wind
+  picture: https://sinoalice.wiki/images/thumb/d/da/Icon_Weapon_0133.png/80px-Icon_Weapon_0133.png
+  story_skill: Incantation of Surrender (I) 23SP. Reduce the physical DEF and magical
+    DEF of 2 enemies by a small amount.
+  tier: S
+  total_mlb: 2416
 
 Grimoire of Fantasies:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
+  aid_skill: Support Backup (One) Fixed chance to slightly increase support effects
+    while providing backup.
+  colosseum_skill: Curse of Corrosion (I) 15SP. Reduce the physical ATK and magical
+    ATK of 1 enemy by a small amount.
+  cost: '11'
   element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  picture: https://sinoalice.wiki/images/thumb/4/4a/Icon_Weapon_0153.png/80px-Icon_Weapon_0153.png
+  story_skill: 15SP. Reduce the physical ATK and magical ATK of 1 enemy by a small
+    amount.
+  tier: A
+  total_mlb: 1303
 
 Enquiry of the World Tree:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
+  aid_skill: Physical DEF Interference (I) Fixed chance to slightly reduce enemy's
+    physical DEF while attacking.
+  colosseum_skill: Incantation of Surrender (I) 22SP. Reduce the physical DEF and
+    magical DEF of 2 enemies by a small amount.
+  cost: '10'
   element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  picture: https://sinoalice.wiki/images/thumb/1/14/Icon_Weapon_0173.png/80px-Icon_Weapon_0173.png
+  story_skill: Incantation of Surrender (I) 22SP. Reduce the physical DEF and magical
+    DEF of 2 enemies by a small amount.
+  tier: A
+  total_mlb: 1210
 
 Record of Human Observations:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
+  aid_skill: Support Backup (Two) Fixed chance to moderately increase support effects
+    while providing backup.
+  colosseum_skill: Curse of Rusted Blades (IV) 18SP. Reduce the physical ATK of 1
+    enemy by a massive amount.
+  cost: '16'
   element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
+  picture: https://sinoalice.wiki/images/thumb/8/8c/Icon_Weapon_0191.png/80px-Icon_Weapon_0191.png
+  story_skill: Curse of Rusted Blades (IV) 18SP. Reduce the physical ATK of 1 enemy
+    by a massive amount.
   tier: SS
-  total_mlb: 4692
+  total_mlb: 3524
 
 Grimoire of Dependency:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Memoirs of an Elder Sage:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Imperial Scouting Notes:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Foreign Tome:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Blank Grimoire:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Knight's Journal:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Records of the First Palace:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Husk in the Snow:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Magic Tome of Reversed Cruelty:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Tome of Violence:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Doctrine of Emptiness:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Forbidden Tome of Rebirth:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Tome of Restriction:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Secret Map:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Wrought Iron Tome:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Scroll on the Bookshelf:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Black Ritual Book:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Silver Grimoire:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Innermost Secret to Pleading for One's Life:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Book of the Castle Gates:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Textbook of Inquisition:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Scripture of Heresy:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Moonshadow Sutra:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Astronomy Book:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Dead One's Scriptures:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Book of Husks:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Notes on Assassination:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Unusual Wrought Iron Tome:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Tome of Ancient Ruins:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Medical Journal of Darkness:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Dancer's Fan:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Black Dragon Scroll:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Prophecy of the Final Act:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Criminal's Manuscript:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Tome of Justice:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Pirate's Book:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Voltage Dictionary:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Frozen Grimoire:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Accord's Book:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Book of Lessons:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-King's Ordinance:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
-
-Tome of Sorrow:
-  aid_skill: Magic DEF Intereference (II) Fixed chance to moderately reduce enemy's
-    magical DEF while attacking.
-  colosseum_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy,
-    and increase own magical ATK and magical DEF by a small amount.
-  cost: '19'
-  element: Water
-  picture: https://sinoalice.wiki/images/thumb/9/9d/Icon_Weapon_1815.png/80px-Icon_Weapon_1815.png
-  story_skill: Third Form (Thin Ice) 19SP. Deal great magical damage to 1 enemy, and
-    increase own magical ATK and magical DEF by a small amount.
-  tier: SS
-  total_mlb: 4692
+  aid_skill: Attack Interference (I) Fixed chance to slightly reduce enemy's physical
+    ATK and magical ATK while attacking.
+  colosseum_skill: Curse of Corrosion (III) 17SP. Reduce the physical ATK and magical
+    ATK of 1 enemy by a great amount.
+  cost: '13'
+  element: Fire
+  picture: https://sinoalice.wiki/images/thumb/6/64/Icon_Weapon_0205.png/80px-Icon_Weapon_0205.png
+  story_skill: Curse of Corrosion (III) 17SP. Reduce the physical ATK and magical
+    ATK of 1 enemy by a great amount.
+  tier: S
+  total_mlb: 2424
