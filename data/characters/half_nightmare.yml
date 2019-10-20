@@ -1,0 +1,47 @@
+char_details:
+  lv1: 'Ranged 30% UP in areas affiliated with Alice  '
+  lv10: 'HP +50  '
+  lv11: 'Physical Defense +200  '
+  lv12: 'Physical Defense +200  '
+  lv2: 'Ranged 10% UP  '
+  lv3: 'Physical Attack +100  '
+  lv4: 'Physical Defense +100  '
+  lv5: 'Ranged 10% UP in areas affiliated with Alice  '
+  lv6: 'Physical Defense +100  '
+  lv7: 'HP +50  '
+  lv8: 'Physical Defense +100  '
+  lv9: 'Ranged 10% UP in areas affiliated with Alice  '
+char_picture: https://sinoalice.wiki/images/thumb/c/c1/Alice_Half-Nightmare_Icon.png/80px-Alice_Half-Nightmare_Icon.png
+name: Alice (Half-Nightmare)
+
+char_details:
+  lv1: 'Staff 30% UP in areas affiliated with Briar Rose  '
+  lv10: 'Staff 15% UP  '
+  lv11: 'Magical Defense +500  '
+  lv12: 'Staff 5% UP  '
+  lv2: 'Instrument 25% DOWN '
+  lv3: 'Tome 25% DOWN '
+  lv4: 'Instrument 25% DOWN '
+  lv5: 'Tome 25% DOWN '
+  lv6: 'Instrument 25% DOWN '
+  lv7: 'Tome 25% DOWN '
+  lv8: 'Staff 15% UP  '
+  lv9: 'Physical Defense +500  '
+char_picture: https://sinoalice.wiki/images/thumb/4/49/Briar_Rose_Half-Nightmare_Icon.png/80px-Briar_Rose_Half-Nightmare_Icon.png
+name: Briar Rose (Half-Nightmare)
+
+char_details:
+  lv1: 'Ranged 30% UP in areas affiliated with Snow White  '
+  lv10: 'HP +50  '
+  lv11: 'Magical Defense +200  '
+  lv12: 'Magical Defense +200  '
+  lv2: 'Ranged 10% UP  '
+  lv3: 'Magical Attack +100  '
+  lv4: 'Magical Defense +100  '
+  lv5: 'Ranged 10% UP in areas affiliated with Snow White  '
+  lv6: 'Magical Defense +100  '
+  lv7: 'HP +50  '
+  lv8: 'Magical Defense +100  '
+  lv9: 'Ranged 10% UP in areas affiliated with Snow White  '
+char_picture: https://sinoalice.wiki/images/thumb/f/f5/Snow_White_Half-Nightmare_Icon.png/80px-Snow_White_Half-Nightmare_Icon.png
+name: Snow White (Half-Nightmare)

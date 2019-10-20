@@ -1,0 +1,15 @@
+char_details:
+  lv1: 'Ranged 30% UP in areas affiliated with Alice  '
+  lv10: 'HP +50  '
+  lv11: 'Physical Defense +200  '
+  lv12: 'Physical Defense +200  '
+  lv2: 'Ranged 10% UP  '
+  lv3: 'Physical Attack +100  '
+  lv4: 'Physical Defense +100  '
+  lv5: 'Ranged 10% UP in areas affiliated with Alice  '
+  lv6: 'Physical Defense +100  '
+  lv7: 'HP +50  '
+  lv8: 'Physical Defense +100  '
+  lv9: 'Ranged 10% UP in areas affiliated with Alice  '
+char_picture: https://sinoalice.wiki/images/thumb/5/50/Alice_Another_Icon.png/80px-Alice_Another_Icon.png
+name: Alice (Another)
