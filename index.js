@@ -11,14 +11,13 @@ client.on('ready', () => {
 client.on('message', msg => {
   const { queries } = destruct(msg.content)
   const [type, query_1, query_2] = queries
-  console.log(!isWeapon(query_1), !isQuery(query_1), queries.length)
+  
   if (isCommand(msg.content)) {
     const either = isWeapon(query_1) || isQuery(query_1);
     if(queries.length == 2 && (either)) {
       // invalid branch
       msg.channel.send('your query is not valid');
       return;
-
     }
 
     // specific branch

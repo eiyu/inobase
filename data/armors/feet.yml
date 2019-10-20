@@ -1,296 +1,296 @@
-ranged:
+Virgins_Heels_Ranged:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
+  picture: https://sinoalice.wiki/images/thumb/7/7f/Icon_Weapon_0406.png/80px-Icon_Weapon_0406.png
+  story_skill: Increases effect of all skills against Beast enemies.
+  tier: B
+  total_mlb: 1363
+  weapon_type: Ranged
+
+Childs_Pumps_Foci:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/9/99/Icon_Weapon_0418.png/80px-Icon_Weapon_0418.png
+  story_skill: Increases effect of all skills against Plant enemies.
+  tier: B
+  total_mlb: 1367
+  weapon_type: Foci
+
+Sorrowful_Pumps_Ranged:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/b/bc/Icon_Weapon_0430.png/80px-Icon_Weapon_0430.png
+  story_skill: Increases effect of all skills against Bird enemies.
+  tier: A
+  total_mlb: 1844
+  weapon_type: Ranged
+
+Nuns_Boots_Foci:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/3/34/Icon_Weapon_0442.png/80px-Icon_Weapon_0442.png
+  story_skill: '?'
+  tier: A
+  total_mlb: 1848
+  weapon_type: Foci
+
+Abyssal_Mule_Blades:
+  cost: ''
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/3/34/Icon_Weapon_0597.png/80px-Icon_Weapon_0597.png
   story_skill: Increases effect of all skills against Dragon enemies.
   tier: A
-  total_mlb: 1860
+  total_mlb: 1858
+  weapon_type: Blades
+
+Abyssal_Mule_Hammers:
+  cost: ''
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/5/52/Icon_Weapon_0609.png/80px-Icon_Weapon_0609.png
+  story_skill: Increases effect of all skills against Dragon enemies.
+  tier: A
+  total_mlb: 1862
+  weapon_type: Hammers
+
+Abyssal_Mule_Instruments:
+  cost: ''
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/f/f6/Icon_Weapon_0621.png/80px-Icon_Weapon_0621.png
+  story_skill: Increases effect of all skills against Dragon enemies.
+  tier: A
+  total_mlb: 1846
+  weapon_type: Instruments
+
+Abyssal_Mule_Staves:
+  cost: ''
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/e/ed/Icon_Weapon_0633.png/80px-Icon_Weapon_0633.png
+  story_skill: Increases effect of all skills against Dragon enemies.
+  tier: A
+  total_mlb: 1850
+  weapon_type: Staves
+
+Blackstone_Boots_Polearms:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/e/e6/Icon_Weapon_0701.png/80px-Icon_Weapon_0701.png
+  story_skill: Increases effect of all skills against Orc enemies.
+  tier: A
+  total_mlb: 1846
+  weapon_type: Polearms
+
+Blackstone_Boots_Ranged:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/5/57/Icon_Weapon_0713.png/80px-Icon_Weapon_0713.png
+  story_skill: Increases effect of all skills against Orc enemies.
+  tier: A
+  total_mlb: 1850
+  weapon_type: Ranged
+
+Blackstone_Boots_Tomes:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/8/82/Icon_Weapon_0725.png/80px-Icon_Weapon_0725.png
+  story_skill: Increases effect of all skills against Orc enemies.
+  tier: A
+  total_mlb: 1854
   weapon_type: Tomes
 
-foci:
+Blackstone_Boots_Foci:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
+  picture: https://sinoalice.wiki/images/thumb/7/7f/Icon_Weapon_0737.png/80px-Icon_Weapon_0737.png
+  story_skill: Increases effect of all skills against Orc enemies.
   tier: A
-  total_mlb: 1860
+  total_mlb: 1858
+  weapon_type: Foci
+
+2B_Boots_Polearms:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/a/ad/Icon_Weapon_0835.png/80px-Icon_Weapon_0835.png
+  story_skill: Increases effect of all skills against Beauvoir.
+  tier: A
+  total_mlb: 1858
+  weapon_type: Polearms
+
+2B_Boots_Ranged:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/c/c4/Icon_Weapon_0849.png/80px-Icon_Weapon_0849.png
+  story_skill: Increases effect of all skills against Beauvoir.
+  tier: A
+  total_mlb: 1862
+  weapon_type: Ranged
+
+2B_Boots_Tomes:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/e/ee/Icon_Weapon_0861.png/80px-Icon_Weapon_0861.png
+  story_skill: Increases effect of all skills against Beauvoir.
+  tier: A
+  total_mlb: 1846
   weapon_type: Tomes
 
-ranged:
+2B_Boots_Foci:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
+  picture: https://sinoalice.wiki/images/thumb/6/69/Icon_Weapon_0873.png/80px-Icon_Weapon_0873.png
+  story_skill: Increases effect of all skills against Beauvoir.
   tier: A
-  total_mlb: 1860
+  total_mlb: 1850
+  weapon_type: Foci
+
+2B_Boots_Blades:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/b/b4/Icon_Weapon_0885.png/80px-Icon_Weapon_0885.png
+  story_skill: Increases effect of all skills against Beauvoir.
+  tier: A
+  total_mlb: 1854
+  weapon_type: Blades
+
+2B_Boots_Hammers:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/8/82/Icon_Weapon_0897.png/80px-Icon_Weapon_0897.png
+  story_skill: Increases effect of all skills against Beauvoir.
+  tier: A
+  total_mlb: 1858
+  weapon_type: Hammers
+
+2B_Boots_Instruments:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/2/23/Icon_Weapon_0909.png/80px-Icon_Weapon_0909.png
+  story_skill: Increases effect of all skills against Beauvoir.
+  tier: A
+  total_mlb: 1862
+  weapon_type: Instruments
+
+2B_Boots_Staves:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/c/cf/Icon_Weapon_0921.png/80px-Icon_Weapon_0921.png
+  story_skill: Increases effect of all skills against Beauvoir.
+  tier: A
+  total_mlb: 1846
+  weapon_type: Staves
+
+Golden_Shinguards_Ranged:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/7/70/Icon_Weapon_0935.png/80px-Icon_Weapon_0935.png
+  story_skill: Increases effect of all skills against Beasts.
+  tier: A
+  total_mlb: 1854
+  weapon_type: Ranged
+
+Golden_Shinguards_Hammers:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/f/fa/Icon_Weapon_0947.png/80px-Icon_Weapon_0947.png
+  story_skill: Increases effect of all skills against Beasts.
+  tier: A
+  total_mlb: 1858
+  weapon_type: Hammers
+
+Golden_Shinguards_Tomes:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/4/42/Icon_Weapon_0959.png/80px-Icon_Weapon_0959.png
+  story_skill: Increases effect of all skills against Beasts.
+  tier: A
+  total_mlb: 1862
   weapon_type: Tomes
 
-foci:
+Golden_Shinguards_Staves:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
+  picture: https://sinoalice.wiki/images/thumb/a/af/Icon_Weapon_0971.png/80px-Icon_Weapon_0971.png
+  story_skill: Increases effect of all skills against Beasts.
   tier: A
-  total_mlb: 1860
+  total_mlb: 1846
+  weapon_type: Staves
+
+Schoolgirls_Shoes_Ranged:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/5/57/Icon_Weapon_1215.png/80px-Icon_Weapon_1215.png
+  story_skill: Increases effect of all skills against Humans.
+  tier: B
+  total_mlb: 492
+  weapon_type: Ranged
+
+Schoolgirls_Shoes_Hammers:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/1/10/Icon_Weapon_1227.png/80px-Icon_Weapon_1227.png
+  story_skill: Increases effect of all skills against Humans.
+  tier: B
+  total_mlb: 496
+  weapon_type: Hammers
+
+Schoolgirls_Shoes_Tomes:
+  cost: '0'
+  element: null
+  picture: https://sinoalice.wiki/images/thumb/4/44/Icon_Weapon_1239.png/80px-Icon_Weapon_1239.png
+  story_skill: Increases effect of all skills against Humans.
+  tier: B
+  total_mlb: 500
   weapon_type: Tomes
 
-blades:
+Schoolgirls_Shoes_Staves:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
+  picture: https://sinoalice.wiki/images/thumb/d/d8/Icon_Weapon_1251.png/80px-Icon_Weapon_1251.png
+  story_skill: Increases effect of all skills against Humans.
+  tier: B
+  total_mlb: 484
+  weapon_type: Staves
 
-hammers:
+Schoolgirls_Shoes_Polearms:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
+  picture: https://sinoalice.wiki/images/thumb/c/c7/Icon_Weapon_1269.png/80px-Icon_Weapon_1269.png
+  story_skill: Increases effect of all skills against Humans.
+  tier: B
+  total_mlb: 500
+  weapon_type: Polearms
 
-instruments:
+Schoolgirls_Shoes_Blades:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
+  picture: https://sinoalice.wiki/images/thumb/5/5f/Icon_Weapon_1281.png/80px-Icon_Weapon_1281.png
+  story_skill: Increases effect of all skills against Humans.
+  tier: B
+  total_mlb: 484
+  weapon_type: Blades
 
-staves:
+Schoolgirls_Shoes_Instruments:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
+  picture: https://sinoalice.wiki/images/thumb/9/9f/Icon_Weapon_1293.png/80px-Icon_Weapon_1293.png
+  story_skill: Increases effect of all skills against Humans.
+  tier: B
+  total_mlb: 488
+  weapon_type: Instruments
 
-polearms:
+Abyssal_Mule_Polearms:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
+  picture: https://sinoalice.wiki/images/thumb/d/d1/Icon_Weapon_1323.png/80px-Icon_Weapon_1323.png
   story_skill: Increases effect of all skills against Dragon enemies.
   tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
+  total_mlb: 1850
+  weapon_type: Polearms
 
-ranged:
+Abyssal_Mule_Tomes:
   cost: '0'
   element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
+  picture: https://sinoalice.wiki/images/thumb/f/f0/Icon_Weapon_1335.png/80px-Icon_Weapon_1335.png
   story_skill: Increases effect of all skills against Dragon enemies.
   tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-tomes:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-foci:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-polearms:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-ranged:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-tomes:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-foci:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-blades:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-hammers:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-instruments:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-staves:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-ranged:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-hammers:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-tomes:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-staves:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-ranged:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-hammers:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-tomes:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-staves:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-polearms:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-blades:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-instruments:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-polearms:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
-  weapon_type: Tomes
-
-tomes:
-  cost: '0'
-  element: null
-  picture: https://sinoalice.wiki/images/thumb/0/06/Icon_Weapon_1338.png/80px-Icon_Weapon_1338.png
-  story_skill: Increases effect of all skills against Dragon enemies.
-  tier: A
-  total_mlb: 1860
+  total_mlb: 1854
   weapon_type: Tomes
