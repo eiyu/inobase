@@ -22,6 +22,7 @@ client.on('message', msg => {
 
     // specific branch
     const data = getResult(msg)
+    console.log(data[0])
     const buildEmbedForItem = (itemData, id) => {
       return new Discord.RichEmbed()
         .setColor('#0099ff')
