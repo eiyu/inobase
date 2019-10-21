@@ -8,10 +8,13 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}! bleh`);
 });
 
-client.on('message', msg => {
-  const { queries } = destruct(msg.content)
+client.on('message', async msg => {
+  const {prefix, queries } = destruct(msg.content)
   const [type, query_1, query_2] = queries
-  
+  if(prefix && !isCommand(msg.content)) {
+    msg.reply("there is no such command try")
+    return;
+  }
   if (isCommand(msg.content)) {
     const either = isWeapon(query_1) || isQuery(query_1);
     if(queries.length == 2 && (either)) {
@@ -21,8 +24,8 @@ client.on('message', msg => {
     }
 
     // specific branch
-    const data = getResult(msg)
-    console.log(data[0])
+    const data = await getResult(msg)
+    // console.log(data[0])
     const buildEmbedForItem = (itemData, id) => {
       return new Discord.RichEmbed()
         .setColor('#0099ff')
