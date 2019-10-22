@@ -9,7 +9,8 @@
     "dotenv": "^8.2.0",
     "fuzzyset.js": "0.0.8",
     "js-yaml": "^3.13.1",
-    "ramda.curry": "^0.26.1"
+    "ramda.curry": "^0.26.1",
+    "ramda.flatten": "^0.26.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
