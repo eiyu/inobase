@@ -1,18 +1,19 @@
-char_details:
-  lv1: 'Blade 30% UP in areas affiliated with Pinocchio  '
-  lv10: 'HP +50  '
-  lv11: 'Physical Defense +200  '
-  lv12: 'Physical Defense +200  '
-  lv2: 'Blade 10% UP  '
-  lv3: 'Physical Attack +100  '
-  lv4: 'Physical Defense +100  '
-  lv5: 'Blade 10% UP in areas affiliated with Pinocchio  '
-  lv6: 'Physical Defense +100  '
-  lv7: 'HP +50  '
-  lv8: 'Physical Defense +100  '
-  lv9: 'Blade 10% UP in areas affiliated with Pinocchio  '
-char_picture: https://sinoalice.wiki/images/thumb/2/2d/Pinocchio_Tuna_Paladin_Icon.png/80px-Pinocchio_Tuna_Paladin_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/a/ad/Icon_Weapon_1376.png/80px-Icon_Weapon_1376.png
-name: Pinocchio (Tuna Paladin)
-weapon_details: https://sinoalice.wiki/Fishing_Rod_of_Dependency
-weapon_picture: https://sinoalice.wiki/images/thumb/a/ad/Icon_Weapon_1376.png/80px-Icon_Weapon_1376.png
+Pinocchio_Tuna Paladin_fxq:
+  char_details:
+    lv1: 'Blade 30% UP in areas affiliated with Pinocchio  '
+    lv10: 'HP +50  '
+    lv11: 'Physical Defense +200  '
+    lv12: 'Physical Defense +200  '
+    lv2: 'Blade 10% UP  '
+    lv3: 'Physical Attack +100  '
+    lv4: 'Physical Defense +100  '
+    lv5: 'Blade 10% UP in areas affiliated with Pinocchio  '
+    lv6: 'Physical Defense +100  '
+    lv7: 'HP +50  '
+    lv8: 'Physical Defense +100  '
+    lv9: 'Blade 10% UP in areas affiliated with Pinocchio  '
+  char_picture: https://sinoalice.wiki/images/thumb/2/2d/Pinocchio_Tuna_Paladin_Icon.png/80px-Pinocchio_Tuna_Paladin_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/a/ad/Icon_Weapon_1376.png/80px-Icon_Weapon_1376.png
+  name: Pinocchio (Tuna Paladin)
+  weapon_details: https://sinoalice.wiki/Fishing_Rod_of_Dependency
+  weapon_picture: https://sinoalice.wiki/images/thumb/a/ad/Icon_Weapon_1376.png/80px-Icon_Weapon_1376.png

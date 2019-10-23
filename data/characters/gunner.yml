@@ -1,139 +1,147 @@
-char_details:
-  lv1: 'Ranged 30% UP in areas affiliated with Alice  '
-  lv10: 'HP +50  '
-  lv11: 'Physical Defense +200  '
-  lv12: 'Physical Defense +200  '
-  lv2: 'Ranged 10% UP  '
-  lv3: 'Physical Attack +100  '
-  lv4: 'Physical Defense +100  '
-  lv5: 'Ranged 10% UP in areas affiliated with Alice  '
-  lv6: 'Physical Defense +100  '
-  lv7: 'HP +50  '
-  lv8: 'Physical Defense +100  '
-  lv9: 'Ranged 10% UP in areas affiliated with Alice  '
-char_picture: https://sinoalice.wiki/images/thumb/e/ea/Alice_Gunner_Icon.png/80px-Alice_Gunner_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/2/24/Icon_Weapon_1574.png/80px-Icon_Weapon_1574.png
-name: Alice (Gunner)
-weapon_details: https://sinoalice.wiki/Gun_of_Restriction
-weapon_picture: https://sinoalice.wiki/images/thumb/2/24/Icon_Weapon_1574.png/80px-Icon_Weapon_1574.png
+Alice_Gunner_qxx:
+  char_details:
+    lv1: 'Ranged 30% UP in areas affiliated with Alice  '
+    lv10: 'HP +50  '
+    lv11: 'Physical Defense +200  '
+    lv12: 'Physical Defense +200  '
+    lv2: 'Ranged 10% UP  '
+    lv3: 'Physical Attack +100  '
+    lv4: 'Physical Defense +100  '
+    lv5: 'Ranged 10% UP in areas affiliated with Alice  '
+    lv6: 'Physical Defense +100  '
+    lv7: 'HP +50  '
+    lv8: 'Physical Defense +100  '
+    lv9: 'Ranged 10% UP in areas affiliated with Alice  '
+  char_picture: https://sinoalice.wiki/images/thumb/e/ea/Alice_Gunner_Icon.png/80px-Alice_Gunner_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/2/24/Icon_Weapon_1574.png/80px-Icon_Weapon_1574.png
+  name: Alice (Gunner)
+  weapon_details: https://sinoalice.wiki/Gun_of_Restriction
+  weapon_picture: https://sinoalice.wiki/images/thumb/2/24/Icon_Weapon_1574.png/80px-Icon_Weapon_1574.png
 
-char_details:
-  lv1: 'Staff 30% UP in areas affiliated with Briar Rose  '
-  lv10: 'Staff 15% UP  '
-  lv11: 'Magical Defense +500  '
-  lv12: 'Staff 5% UP  '
-  lv2: 'Instrument 25% DOWN '
-  lv3: 'Tome 25% DOWN '
-  lv4: 'Instrument 25% DOWN '
-  lv5: 'Tome 25% DOWN '
-  lv6: 'Instrument 25% DOWN '
-  lv7: 'Tome 25% DOWN '
-  lv8: 'Staff 15% UP  '
-  lv9: 'Physical Defense +500  '
-char_picture: https://sinoalice.wiki/images/thumb/c/c0/Briar_Rose_Gunner_Icon.png/80px-Briar_Rose_Gunner_Icon.png
-name: Briar Rose (Gunner)
+Briar_Rose_Gunner_jqd:
+  char_details:
+    lv1: 'Staff 30% UP in areas affiliated with Briar Rose  '
+    lv10: 'Staff 15% UP  '
+    lv11: 'Magical Defense +500  '
+    lv12: 'Staff 5% UP  '
+    lv2: 'Instrument 25% DOWN '
+    lv3: 'Tome 25% DOWN '
+    lv4: 'Instrument 25% DOWN '
+    lv5: 'Tome 25% DOWN '
+    lv6: 'Instrument 25% DOWN '
+    lv7: 'Tome 25% DOWN '
+    lv8: 'Staff 15% UP  '
+    lv9: 'Physical Defense +500  '
+  char_picture: https://sinoalice.wiki/images/thumb/c/c0/Briar_Rose_Gunner_Icon.png/80px-Briar_Rose_Gunner_Icon.png
+  name: Briar Rose (Gunner)
 
-char_details:
-  lv1: 'Polearm 30% UP in areas affiliated with Cinderella  '
-  lv10: 'HP +50  '
-  lv11: 'Magical Attack +200  '
-  lv12: 'Magical Attack +200  '
-  lv2: 'Polearm 10% UP  '
-  lv3: 'Magical Attack +100  '
-  lv4: 'Magical Defense +100  '
-  lv5: 'Polearm 10% UP in areas affiliated with Cinderella  '
-  lv6: 'Magical Attack +100  '
-  lv7: 'HP +50  '
-  lv8: 'Magical Attack +100  '
-  lv9: 'Polearm 10% UP in areas affiliated with Cinderella  '
-char_picture: https://sinoalice.wiki/images/thumb/4/41/Cinderella_Gunner_Icon.png/80px-Cinderella_Gunner_Icon.png
-name: Cinderella (Gunner)
+Cinderella_Gunner_qmt:
+  char_details:
+    lv1: 'Polearm 30% UP in areas affiliated with Cinderella  '
+    lv10: 'HP +50  '
+    lv11: 'Magical Attack +200  '
+    lv12: 'Magical Attack +200  '
+    lv2: 'Polearm 10% UP  '
+    lv3: 'Magical Attack +100  '
+    lv4: 'Magical Defense +100  '
+    lv5: 'Polearm 10% UP in areas affiliated with Cinderella  '
+    lv6: 'Magical Attack +100  '
+    lv7: 'HP +50  '
+    lv8: 'Magical Attack +100  '
+    lv9: 'Polearm 10% UP in areas affiliated with Cinderella  '
+  char_picture: https://sinoalice.wiki/images/thumb/4/41/Cinderella_Gunner_Icon.png/80px-Cinderella_Gunner_Icon.png
+  name: Cinderella (Gunner)
 
-char_details:
-  lv1: 'Instrument 30% UP in areas affiliated with Dorothy  '
-  lv10: 'HP +50  '
-  lv11: 'HP +200  '
-  lv12: 'HP +200  '
-  lv2: 'Instrument 10% UP  '
-  lv3: 'Magical Attack +100  '
-  lv4: 'Physical Defense +100  '
-  lv5: 'Instrument 10% UP in areas affiliated with Dorothy  '
-  lv6: 'Magical Attack +70  '
-  lv7: 'HP +50  '
-  lv8: 'Physical Attack +100  '
-  lv9: 'Instrument 10% UP in areas affiliated with Dorothy  '
-char_picture: https://sinoalice.wiki/images/thumb/6/64/Dorothy_Gunner_Icon.png/80px-Dorothy_Gunner_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/f/fc/Icon_Weapon_0983.png/80px-Icon_Weapon_0983.png
-name: Dorothy (Gunner)
-weapon_details: https://sinoalice.wiki/Syringe_of_Pursuit
-weapon_picture: https://sinoalice.wiki/images/thumb/f/fc/Icon_Weapon_0983.png/80px-Icon_Weapon_0983.png
+Dorothy_Gunner_jwa:
+  char_details:
+    lv1: 'Instrument 30% UP in areas affiliated with Dorothy  '
+    lv10: 'HP +50  '
+    lv11: 'HP +200  '
+    lv12: 'HP +200  '
+    lv2: 'Instrument 10% UP  '
+    lv3: 'Magical Attack +100  '
+    lv4: 'Physical Defense +100  '
+    lv5: 'Instrument 10% UP in areas affiliated with Dorothy  '
+    lv6: 'Magical Attack +70  '
+    lv7: 'HP +50  '
+    lv8: 'Physical Attack +100  '
+    lv9: 'Instrument 10% UP in areas affiliated with Dorothy  '
+  char_picture: https://sinoalice.wiki/images/thumb/6/64/Dorothy_Gunner_Icon.png/80px-Dorothy_Gunner_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/f/fc/Icon_Weapon_0983.png/80px-Icon_Weapon_0983.png
+  name: Dorothy (Gunner)
+  weapon_details: https://sinoalice.wiki/Syringe_of_Pursuit
+  weapon_picture: https://sinoalice.wiki/images/thumb/f/fc/Icon_Weapon_0983.png/80px-Icon_Weapon_0983.png
 
-char_details:
-  lv1: 'Polearm 50% UP in areas affiliated with Gretel  '
-  lv10: 'Physical Attack +150  '
-  lv11: 'HP +200  '
-  lv12: 'HP +200  '
-  lv2: 'Polearm 10% UP  '
-  lv3: 'Physical Attack +10  '
-  lv4: 'Physical Defense +30  '
-  lv5: 'Magical Attack +50  '
-  lv6: 'Magical Defense +70  '
-  lv7: 'Magical Defense +90  '
-  lv8: 'Magical Attack +110  '
-  lv9: 'Physical Defense +130  '
-char_picture: https://sinoalice.wiki/images/thumb/c/cc/Gretel_Gunner_Icon.png/80px-Gretel_Gunner_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/6/62/Icon_Weapon_0775.png/80px-Icon_Weapon_0775.png
-name: Gretel (Gunner)
-weapon_details: https://sinoalice.wiki/Hunter%27s_Bow_of_Delusion
-weapon_picture: https://sinoalice.wiki/images/thumb/6/62/Icon_Weapon_0775.png/80px-Icon_Weapon_0775.png
+Gretel_Gunner_dtw:
+  char_details:
+    lv1: 'Polearm 50% UP in areas affiliated with Gretel  '
+    lv10: 'Physical Attack +150  '
+    lv11: 'HP +200  '
+    lv12: 'HP +200  '
+    lv2: 'Polearm 10% UP  '
+    lv3: 'Physical Attack +10  '
+    lv4: 'Physical Defense +30  '
+    lv5: 'Magical Attack +50  '
+    lv6: 'Magical Defense +70  '
+    lv7: 'Magical Defense +90  '
+    lv8: 'Magical Attack +110  '
+    lv9: 'Physical Defense +130  '
+  char_picture: https://sinoalice.wiki/images/thumb/c/cc/Gretel_Gunner_Icon.png/80px-Gretel_Gunner_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/6/62/Icon_Weapon_0775.png/80px-Icon_Weapon_0775.png
+  name: Gretel (Gunner)
+  weapon_details: https://sinoalice.wiki/Hunter%27s_Bow_of_Delusion
+  weapon_picture: https://sinoalice.wiki/images/thumb/6/62/Icon_Weapon_0775.png/80px-Icon_Weapon_0775.png
 
-char_details:
-  lv1: 'Tome 30% UP in areas affiliated with Little Mermaid  '
-  lv10: 'HP +50  '
-  lv11: 'HP +200  '
-  lv12: 'HP +200  '
-  lv2: 'Tome 10% UP  '
-  lv3: 'Magical Defense +100  '
-  lv4: 'Physical Defense +100  '
-  lv5: 'Tome 10% UP in areas affiliated with Little Mermaid  '
-  lv6: 'Magical Attack +100  '
-  lv7: 'HP +50  '
-  lv8: 'Physical Attack +100  '
-  lv9: 'Tome 10% UP in areas affiliated with Little Mermaid  '
-char_picture: https://sinoalice.wiki/images/thumb/7/76/Little_Mermaid_Gunner_Icon.png/80px-Little_Mermaid_Gunner_Icon.png
-name: Little Mermaid (Gunner)
+Little_Mermaid_Gunner_rtd:
+  char_details:
+    lv1: 'Tome 30% UP in areas affiliated with Little Mermaid  '
+    lv10: 'HP +50  '
+    lv11: 'HP +200  '
+    lv12: 'HP +200  '
+    lv2: 'Tome 10% UP  '
+    lv3: 'Magical Defense +100  '
+    lv4: 'Physical Defense +100  '
+    lv5: 'Tome 10% UP in areas affiliated with Little Mermaid  '
+    lv6: 'Magical Attack +100  '
+    lv7: 'HP +50  '
+    lv8: 'Physical Attack +100  '
+    lv9: 'Tome 10% UP in areas affiliated with Little Mermaid  '
+  char_picture: https://sinoalice.wiki/images/thumb/7/76/Little_Mermaid_Gunner_Icon.png/80px-Little_Mermaid_Gunner_Icon.png
+  name: Little Mermaid (Gunner)
 
-char_details:
-  lv1: 'Blade 30% UP in areas affiliated with Pinocchio  '
-  lv10: 'HP +50  '
-  lv11: 'Physical Defense +200  '
-  lv12: 'Physical Defense +200  '
-  lv2: 'Blade 10% UP  '
-  lv3: 'Physical Attack +100  '
-  lv4: 'Physical Defense +100  '
-  lv5: 'Blade 10% UP in areas affiliated with Pinocchio  '
-  lv6: 'Physical Defense +100  '
-  lv7: 'HP +50  '
-  lv8: 'Physical Defense +100  '
-  lv9: 'Blade 10% UP in areas affiliated with Pinocchio  '
-char_picture: https://sinoalice.wiki/images/thumb/4/45/Pinocchio_Gunner_Icon.png/80px-Pinocchio_Gunner_Icon.png
-name: Pinocchio (Gunner)
+Pinocchio_Gunner_epi:
+  char_details:
+    lv1: 'Blade 30% UP in areas affiliated with Pinocchio  '
+    lv10: 'HP +50  '
+    lv11: 'Physical Defense +200  '
+    lv12: 'Physical Defense +200  '
+    lv2: 'Blade 10% UP  '
+    lv3: 'Physical Attack +100  '
+    lv4: 'Physical Defense +100  '
+    lv5: 'Blade 10% UP in areas affiliated with Pinocchio  '
+    lv6: 'Physical Defense +100  '
+    lv7: 'HP +50  '
+    lv8: 'Physical Defense +100  '
+    lv9: 'Blade 10% UP in areas affiliated with Pinocchio  '
+  char_picture: https://sinoalice.wiki/images/thumb/4/45/Pinocchio_Gunner_Icon.png/80px-Pinocchio_Gunner_Icon.png
+  name: Pinocchio (Gunner)
 
-char_details:
-  lv1: 'Ranged 30% UP in areas affiliated with Snow White  '
-  lv10: 'HP +50  '
-  lv11: 'Magical Defense +200  '
-  lv12: 'Magical Defense +200  '
-  lv2: 'Ranged 10% UP  '
-  lv3: 'Magical Attack +100  '
-  lv4: 'Magical Defense +100  '
-  lv5: 'Ranged 10% UP in areas affiliated with Snow White  '
-  lv6: 'Magical Defense +100  '
-  lv7: 'HP +50  '
-  lv8: 'Magical Defense +100  '
-  lv9: 'Ranged 10% UP in areas affiliated with Snow White  '
-char_picture: https://sinoalice.wiki/images/thumb/8/84/Snow_White_Gunner_Icon.png/80px-Snow_White_Gunner_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/9/91/Icon_Weapon_1654.png/80px-Icon_Weapon_1654.png
-name: Snow White (Gunner)
-weapon_details: https://sinoalice.wiki/Crossbow_of_Justice
-weapon_picture: https://sinoalice.wiki/images/thumb/9/91/Icon_Weapon_1654.png/80px-Icon_Weapon_1654.png
+Snow_White_Gunner_rcj:
+  char_details:
+    lv1: 'Ranged 30% UP in areas affiliated with Snow White  '
+    lv10: 'HP +50  '
+    lv11: 'Magical Defense +200  '
+    lv12: 'Magical Defense +200  '
+    lv2: 'Ranged 10% UP  '
+    lv3: 'Magical Attack +100  '
+    lv4: 'Magical Defense +100  '
+    lv5: 'Ranged 10% UP in areas affiliated with Snow White  '
+    lv6: 'Magical Defense +100  '
+    lv7: 'HP +50  '
+    lv8: 'Magical Defense +100  '
+    lv9: 'Ranged 10% UP in areas affiliated with Snow White  '
+  char_picture: https://sinoalice.wiki/images/thumb/8/84/Snow_White_Gunner_Icon.png/80px-Snow_White_Gunner_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/9/91/Icon_Weapon_1654.png/80px-Icon_Weapon_1654.png
+  name: Snow White (Gunner)
+  weapon_details: https://sinoalice.wiki/Crossbow_of_Justice
+  weapon_picture: https://sinoalice.wiki/images/thumb/9/91/Icon_Weapon_1654.png/80px-Icon_Weapon_1654.png

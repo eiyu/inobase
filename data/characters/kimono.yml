@@ -1,56 +1,59 @@
-char_details:
-  lv1: 'Ranged 30% UP in areas affiliated with Alice  '
-  lv10: 'HP +50  '
-  lv11: 'Physical Defense +200  '
-  lv12: 'Physical Defense +200  '
-  lv2: 'Ranged 10% UP  '
-  lv3: 'Physical Attack +100  '
-  lv4: 'Physical Defense +100  '
-  lv5: 'Ranged 10% UP in areas affiliated with Alice  '
-  lv6: 'Physical Defense +100  '
-  lv7: 'HP +50  '
-  lv8: 'Physical Defense +100  '
-  lv9: 'Ranged 10% UP in areas affiliated with Alice  '
-char_picture: https://sinoalice.wiki/images/thumb/4/4c/Alice_Kimono_Icon.png/80px-Alice_Kimono_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/9/94/Icon_Weapon_1432.png/80px-Icon_Weapon_1432.png
-name: Alice (Kimono)
-weapon_details: https://sinoalice.wiki/%3F%3F%3F%3F%3F_(Usumidori)
-weapon_picture: https://sinoalice.wiki/images/thumb/9/94/Icon_Weapon_1432.png/80px-Icon_Weapon_1432.png
+Alice_Kimono_bqy:
+  char_details:
+    lv1: 'Ranged 30% UP in areas affiliated with Alice  '
+    lv10: 'HP +50  '
+    lv11: 'Physical Defense +200  '
+    lv12: 'Physical Defense +200  '
+    lv2: 'Ranged 10% UP  '
+    lv3: 'Physical Attack +100  '
+    lv4: 'Physical Defense +100  '
+    lv5: 'Ranged 10% UP in areas affiliated with Alice  '
+    lv6: 'Physical Defense +100  '
+    lv7: 'HP +50  '
+    lv8: 'Physical Defense +100  '
+    lv9: 'Ranged 10% UP in areas affiliated with Alice  '
+  char_picture: https://sinoalice.wiki/images/thumb/4/4c/Alice_Kimono_Icon.png/80px-Alice_Kimono_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/9/94/Icon_Weapon_1432.png/80px-Icon_Weapon_1432.png
+  name: Alice (Kimono)
+  weapon_details: https://sinoalice.wiki/%3F%3F%3F%3F%3F_(Usumidori)
+  weapon_picture: https://sinoalice.wiki/images/thumb/9/94/Icon_Weapon_1432.png/80px-Icon_Weapon_1432.png
 
-char_details:
-  lv1: 'Polearm 30% UP in areas affiliated with Cinderella  '
-  lv10: 'HP +50  '
-  lv11: 'Magical Attack +200  '
-  lv12: 'Magical Attack +200  '
-  lv2: 'Polearm 10% UP  '
-  lv3: 'Magical Attack +100  '
-  lv4: 'Magical Defense +100  '
-  lv5: 'Polearm 10% UP in areas affiliated with Cinderella  '
-  lv6: 'Magical Attack +100  '
-  lv7: 'HP +50  '
-  lv8: 'Magical Attack +100  '
-  lv9: 'Polearm 10% UP in areas affiliated with Cinderella  '
-char_picture: https://sinoalice.wiki/images/thumb/f/f5/Cinderella_Kimono_Icon.png/80px-Cinderella_Kimono_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/d/d9/Icon_Weapon_1436.png/80px-Icon_Weapon_1436.png
-name: Cinderella (Kimono)
-weapon_details: https://sinoalice.wiki/Dancer%27s_Fan
-weapon_picture: https://sinoalice.wiki/images/thumb/d/d9/Icon_Weapon_1436.png/80px-Icon_Weapon_1436.png
+Cinderella_Kimono_hoi:
+  char_details:
+    lv1: 'Polearm 30% UP in areas affiliated with Cinderella  '
+    lv10: 'HP +50  '
+    lv11: 'Magical Attack +200  '
+    lv12: 'Magical Attack +200  '
+    lv2: 'Polearm 10% UP  '
+    lv3: 'Magical Attack +100  '
+    lv4: 'Magical Defense +100  '
+    lv5: 'Polearm 10% UP in areas affiliated with Cinderella  '
+    lv6: 'Magical Attack +100  '
+    lv7: 'HP +50  '
+    lv8: 'Magical Attack +100  '
+    lv9: 'Polearm 10% UP in areas affiliated with Cinderella  '
+  char_picture: https://sinoalice.wiki/images/thumb/f/f5/Cinderella_Kimono_Icon.png/80px-Cinderella_Kimono_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/d/d9/Icon_Weapon_1436.png/80px-Icon_Weapon_1436.png
+  name: Cinderella (Kimono)
+  weapon_details: https://sinoalice.wiki/Dancer%27s_Fan
+  weapon_picture: https://sinoalice.wiki/images/thumb/d/d9/Icon_Weapon_1436.png/80px-Icon_Weapon_1436.png
 
-char_details:
-  lv1: 'Staff 20% UP in areas affiliated with Red Riding Hood  '
-  lv10: 'HP +50  '
-  lv11: 'Staff 10% UP in areas affiliated with Red Riding Hood  '
-  lv12: 'HP +300  '
-  lv2: 'Staff 10% UP  '
-  lv3: 'Magical Defense +75  '
-  lv4: 'Physical Defense +75  '
-  lv5: 'Staff 10% UP in areas affiliated with Red Riding Hood  '
-  lv6: 'Magical Attack +75  '
-  lv7: 'HP +50  '
-  lv8: 'Physical Attack +75  '
-  lv9: 'Staff 10% UP in areas affiliated with Red Riding Hood  '
-char_picture: https://sinoalice.wiki/images/thumb/d/d5/Red_Riding_Hood_Kimono_Icon.png/80px-Red_Riding_Hood_Kimono_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/a/a1/Icon_Weapon_1434.png/80px-Icon_Weapon_1434.png
-name: Red Riding Hood (Kimono)
-weapon_details: https://sinoalice.wiki/%3F%3F%3F%3F%3F%3F_(Imanotsurugi)
-weapon_picture: https://sinoalice.wiki/images/thumb/a/a1/Icon_Weapon_1434.png/80px-Icon_Weapon_1434.png
+Red_Riding_Hood_Kimono_lgw:
+  char_details:
+    lv1: 'Staff 20% UP in areas affiliated with Red Riding Hood  '
+    lv10: 'HP +50  '
+    lv11: 'Staff 10% UP in areas affiliated with Red Riding Hood  '
+    lv12: 'HP +300  '
+    lv2: 'Staff 10% UP  '
+    lv3: 'Magical Defense +75  '
+    lv4: 'Physical Defense +75  '
+    lv5: 'Staff 10% UP in areas affiliated with Red Riding Hood  '
+    lv6: 'Magical Attack +75  '
+    lv7: 'HP +50  '
+    lv8: 'Physical Attack +75  '
+    lv9: 'Staff 10% UP in areas affiliated with Red Riding Hood  '
+  char_picture: https://sinoalice.wiki/images/thumb/d/d5/Red_Riding_Hood_Kimono_Icon.png/80px-Red_Riding_Hood_Kimono_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/a/a1/Icon_Weapon_1434.png/80px-Icon_Weapon_1434.png
+  name: Red Riding Hood (Kimono)
+  weapon_details: https://sinoalice.wiki/%3F%3F%3F%3F%3F%3F_(Imanotsurugi)
+  weapon_picture: https://sinoalice.wiki/images/thumb/a/a1/Icon_Weapon_1434.png/80px-Icon_Weapon_1434.png

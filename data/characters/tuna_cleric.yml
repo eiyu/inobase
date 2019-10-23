@@ -1,18 +1,19 @@
-char_details:
-  lv1: 'Ranged 30% UP in areas affiliated with Snow White  '
-  lv10: 'HP +50  '
-  lv11: 'Magical Defense +200  '
-  lv12: 'Magical Defense +200  '
-  lv2: 'Ranged 10% UP  '
-  lv3: 'Magical Attack +100  '
-  lv4: 'Magical Defense +100  '
-  lv5: 'Ranged 10% UP in areas affiliated with Snow White  '
-  lv6: 'Magical Defense +100  '
-  lv7: 'HP +50  '
-  lv8: 'Magical Defense +100  '
-  lv9: 'Ranged 10% UP in areas affiliated with Snow White  '
-char_picture: https://sinoalice.wiki/images/thumb/e/e3/Snow_White_Tuna_Cleric_Icon.png/80px-Snow_White_Tuna_Cleric_Icon.png
-char_weapon: https://sinoalice.wiki/images/thumb/e/e8/Icon_Weapon_1374.png/80px-Icon_Weapon_1374.png
-name: Snow White (Tuna Cleric)
-weapon_details: https://sinoalice.wiki/Fishing_Rod_of_Justice
-weapon_picture: https://sinoalice.wiki/images/thumb/e/e8/Icon_Weapon_1374.png/80px-Icon_Weapon_1374.png
+Snow_White_Tuna Cleric_pwy:
+  char_details:
+    lv1: 'Ranged 30% UP in areas affiliated with Snow White  '
+    lv10: 'HP +50  '
+    lv11: 'Magical Defense +200  '
+    lv12: 'Magical Defense +200  '
+    lv2: 'Ranged 10% UP  '
+    lv3: 'Magical Attack +100  '
+    lv4: 'Magical Defense +100  '
+    lv5: 'Ranged 10% UP in areas affiliated with Snow White  '
+    lv6: 'Magical Defense +100  '
+    lv7: 'HP +50  '
+    lv8: 'Magical Defense +100  '
+    lv9: 'Ranged 10% UP in areas affiliated with Snow White  '
+  char_picture: https://sinoalice.wiki/images/thumb/e/e3/Snow_White_Tuna_Cleric_Icon.png/80px-Snow_White_Tuna_Cleric_Icon.png
+  char_weapon: https://sinoalice.wiki/images/thumb/e/e8/Icon_Weapon_1374.png/80px-Icon_Weapon_1374.png
+  name: Snow White (Tuna Cleric)
+  weapon_details: https://sinoalice.wiki/Fishing_Rod_of_Justice
+  weapon_picture: https://sinoalice.wiki/images/thumb/e/e8/Icon_Weapon_1374.png/80px-Icon_Weapon_1374.png
