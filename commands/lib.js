@@ -80,11 +80,33 @@ const elementBuff = {
   'fire': 'fire-element'
 };
 
+// every buff must be registered here
 const buffList = {
   'matk': 'increase own magical ATK',
   'patk': 'increase own physical ATK',
-  'mdef': "increase own magical DEF",
-  'pdef': "increase own physical DEF",
+  'mdef': 'increase own magical DEF',
+  'pdef': 'increase own physical DEF',
+  'spcost': 'SP cost of',
+  'hit': 'hit rate of',
+  'spres': 'of max SP',
+  'hpres': 'of max HP'
+};
+
+const nightmareElement = {
+  'wind': 'increases the effectiveness of Wind',
+  'water': 'increases the effectiveness of Water',
+  'fire': 'increases the effectiveness of Fire'
+};
+
+const nightmareBuff = {
+  'matk': 'raise magical attack',
+  'patk': 'raise physical attack',
+  'mdef': 'raise magical defense',
+  'pdef': 'raise physical defense',
+  'spcost': 'sp cost of',
+  'hit': 'hit rate of',
+  'spres': 'of max sp',
+  'hpres': 'of max hp'
 };
 
 const tierList = [
@@ -143,7 +165,7 @@ const isQuery = is('query', false);
 const isWeapon = is('weapons', false);
 const isArmor = is('armors', false);
 const isElement = is('element', false);
-const isTier = is('tier', false);
+// const isTier = is('tier', false);
 const isSlayer = is('slayer', elementBuff);
 
 const isBuff = (value) => {
@@ -168,9 +190,17 @@ const queryFilter = (query, item) => {
 
 const slayerFilter = (query, item) => {
   const elemBuff = elementBuff[query];
-  return item ? item['story_skill'].toLowerCase().indexOf(query) >= 0 ||
-          (item['set_effect'].toLowerCase().indexOf(query) >= 0 || item['set_effect'].toLowerCase().indexOf(elemBuff) >= 0 ): false;
+  return item ? item['colosseum_skill'].toLowerCase().indexOf(query) >= 0 ||
+          (item['col_aid_skill'].toLowerCase().indexOf(query) >= 0 || item['col_aid_skill'].toLowerCase().indexOf(elemBuff) >= 0 ): false;
 };
+
+const nightmareFilter = (data, query, item) => {
+  const elemBuff = data[query];
+  // console.log(elemBuff)
+  return item ? item['colosseum_skill'].toLowerCase().indexOf(query) >= 0 ||
+          (item['col_aid_skill'].toLowerCase().indexOf(query) >= 0 || item['col_aid_skill'].toLowerCase().indexOf(elemBuff) >= 0 ): false;
+};
+
 
 const typeFilter = curry((type, item) => item ? item['weapon_type'].toLowerCase() == type : false);
 const elementFilter = curry((val, item) => item ? item['element'].toLowerCase() == val : false);
@@ -230,5 +260,8 @@ module.exports = {
   queryFilter,
   typeFilter,
   slayerFilter,
-  tierFilter
+  tierFilter,
+  nightmareFilter,
+  nightmareBuff,
+  nightmareElement
 };

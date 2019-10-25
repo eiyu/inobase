@@ -49,7 +49,7 @@ const getArmors = (msg) => {
         return items[subItem][item];
       });
     }))
-    .reduce( (item, next, id, arr) => {
+    .reduce( (item, next) => {
       if(deepSearch1 && slayerFilter(query_1, next) && typeFilter(rest[0], next)) {
         return item.concat(next);
       };
@@ -77,13 +77,13 @@ const getArmors = (msg) => {
 
 module.exports = { getArmors };
 
-// const a = getArmors({content: "?arms body type instrument slay ghost"}); 
-// const b = getArmors({content: "?arms head slay ghos type instrument"});
-// const c = getArmors({content: "?arms type instrument slay ghost"});
-// const d = getArmors({content: "?arms slay ghost type instrument"});
-// const e = getArmors({content: "?arms type instrument slay"});
-// const f = getArmors({content: "?arms slay ghost type"});
-// const g = getArmors({content: "?arms type instrument"});
-// const h = getArmors({content: "?arms slay ghost"});
+const a = getArmors({content: "?arms body type instrument slay ghost"}); 
+const b = getArmors({content: "?arms head slay ghos type instrument"});
+const c = getArmors({content: "?arms type instrument slay ghost"});
+const d = getArmors({content: "?arms slay ghost type instrument"});
+const e = getArmors({content: "?arms type instrument slay"});
+const f = getArmors({content: "?arms slay ghost type"});
+const g = getArmors({content: "?arms type instrument"});
+const h = getArmors({content: "?arms slay ghost"});
 
-// console.log(a.length, b.length, c.length, d.length, e.length, f.length, g.length, h.length)
+console.log(a.length, b.length, c.length, d.length, e.length, f.length, g.length, h.length)

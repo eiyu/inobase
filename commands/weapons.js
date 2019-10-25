@@ -46,7 +46,7 @@ const getWeapons = (msg) => {
         return items[subItem][item];
       });
     }))
-    .reduce( (item, next, id) => {
+    .reduce( (item, next) => {
       if(deepSearch1 && elementFilter(query_1, next) && queryFilter(rest[0], next)) {
         return item.concat(next);
       };
@@ -71,13 +71,13 @@ const getWeapons = (msg) => {
 
 module.exports = { getWeapons };
 
-// const a = getWeapons({content: "?weap blade buff patk elem wat"}); 
-// const b = getWeapons({content: "?weap blade elem wat buff patk"});
-// const c = getWeapons({content: "?weap buff patk elem wat"});
-// const d = getWeapons({content: "?weap elem wat buff patk"});
-// const e = getWeapons({content: "?weap buff patk elem"});
-// const f = getWeapons({content: "?weap elem wat buff"});
-// const g = getWeapons({content: "?weap buff patk"});
-// const h = getWeapons({content: "?weap elem wat"});
+const a = getWeapons({content: "?weap blade buff patk elem wat"}); 
+const b = getWeapons({content: "?weap blade elem wat buff patk"});
+const c = getWeapons({content: "?weap buff patk elem wat"});
+const d = getWeapons({content: "?weap elem wat buff patk"});
+const e = getWeapons({content: "?weap buff patk elem"});
+const f = getWeapons({content: "?weap elem wat buff"});
+const g = getWeapons({content: "?weap buff patk"});
+const h = getWeapons({content: "?weap elem wat"});
 
-// console.log(e.length, f.length, g.length, h.length)
+console.log(a.length, b.length, c.length, d.length, e.length, f.length, g.length, h.length)
