@@ -13,7 +13,7 @@ let characters = {};
 
 try {
   CHAR_TYPES.forEach(type => {
-    const file = fs.readFileSync(`./data/characters/${type}.yml`, 'utf8');
+    const file = fs.readFileSync(`./assets/characters/${type}.yml`, 'utf8');
     Object.assign(characters, {
       [type]:  yaml.safeLoad(file)
     });

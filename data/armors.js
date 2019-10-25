@@ -5,7 +5,7 @@ let armors = {};
 
 try {
   ARMOR_TYPES.forEach(type => {
-    const file = fs.readFileSync(`./data/armors/${type}.yml`, 'utf8');
+    const file = fs.readFileSync(`./assets/armors/${type}.yml`, 'utf8');
     Object.assign(armors, {
       [type]:  yaml.safeLoad(file)
     });

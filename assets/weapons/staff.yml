@@ -1,0 +1,1467 @@
+
+wrought_iron_staff:
+  atk: 1466
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 964
+  element: water
+  matk: 1462
+  mdef: 962
+  name: "Wrought Iron Staff\u9ED2\u9244\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0780.png
+  total: 4854(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u6756"
+
+white_staff_of_justice:
+  atk: 1620
+  col_aid_skill: "(\u2160)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a slightly amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
+  cost: 18
+  def: 1066
+  element: water
+  matk: 1616
+  mdef: 1064
+  name: "White Staff of Justice\u6B63\u7FA9\u306E\u767D\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1074.png
+  total: 5366(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u767D\u6756"
+
+staff_of_husks:
+  atk: 1889
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: Heal 1 ally by a great amount of HP, and recover their SP by 20.
+  cost: 19
+  def: 1162
+  element: water
+  matk: 1885
+  mdef: 1160
+  name: "Staff of Husks\u6BBB\u30CE\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1102.png
+  total: 6096(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6BBB\u30CE\u6756"
+
+staff_of_corpses:
+  atk: 1648
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1258
+  element: water
+  matk: 2365
+  mdef: 1256
+  name: "Staff of Corpses\u9AB8\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1150.png
+  total: 6527(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9AB8\u306E\u6756"
+
+staff_of_delusion:
+  atk: 2190
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ physical DEF by a small amount."
+  cost: 18
+  def: 1264
+  element: fire
+  matk: 2186
+  mdef: 1023
+  name: "Staff of Delusion\u865A\u5984\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1156.png
+  total: 6663(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u6756"
+
+wrought_iron_swordstick:
+  atk: 1470
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 18
+  def: 968
+  element: wind
+  matk: 1466
+  mdef: 966
+  name: "Wrought Iron Swordstick\u9ED2\u9244\u306E\u4ED5\u8FBC\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1344.png
+  total: 4870(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u4ED5\u8FBC\u6756"
+
+pagan_staff:
+  atk: 1921
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1024
+  element: wind
+  matk: 2370
+  mdef: 1261
+  name: "Pagan Staff\u7570\u6559\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1365.png
+  total: 6576(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7570\u6559\u306E\u6756"
+
+staff_of_inheritance:
+  atk: 2051
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1242
+  element: water
+  matk: 2047
+  mdef: 1240
+  name: "Staff of Inheritance\u7D99\u627F\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1393.png
+  total: 6580(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D99\u627F\u306E\u6756"
+
+staff_of_a_criminal:
+  atk: 1845
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 18
+  def: 982
+  element: fire
+  matk: 1841
+  mdef: 980
+  name: "Staff of a Criminal\u548E\u4EBA\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1443.png
+  total: 5648(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u548E\u4EBA\u306E\u6756"
+
+staff_of_deep_prayer:
+  atk: 2009
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1265
+  element: water
+  matk: 2005
+  mdef: 1263
+  name: "Staff Of Deep Prayer\u6DF1\u7948\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1457.png
+  total: 6542(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6DF1\u7948\u306E\u6756"
+
+staff_of_precious_wood:
+  atk: 2187
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1163
+  element: wind
+  matk: 2183
+  mdef: 1161
+  name: "Staff of Precious Wood\u5B9D\u6A39\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1473.png
+  total: 6694(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5B9D\u6A39\u306E\u6756"
+
+staff_of_solicitude:
+  atk: 2053
+  col_aid_skill: "(\u2161)Fixed chance to increase magical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ physical DEF by a small amount."
+  cost: 18
+  def: 1263
+  element: water
+  matk: 2049
+  mdef: 1261
+  name: "Staff of Solicitude\u6C17\u9063\u3044\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1495.png
+  total: 6626(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C17\u9063\u3044\u306E\u6756"
+
+gift_of_dragons:
+  atk: 2057
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1322
+  element: water
+  matk: 2053
+  mdef: 1320
+  name: "Gift of Dragons\u7ADC\u795E\u306E\u991E\u5225"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1609.png
+  total: 6752(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7ADC\u795E\u306E\u991E\u5225"
+
+staff_of_divine_winds:
+  atk: 2187
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 18
+  def: 1163
+  element: water
+  matk: 2183
+  mdef: 1161
+  name: "Staff of Divine Winds\u795E\u98A8\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1623.png
+  total: 6694(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795E\u98A8\u306E\u6756"
+
+manah's_staff:
+  atk: 2193
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: Heal 1 ally by a great amount of HP, and recover their SP by 20.
+  cost: 18
+  def: 1169
+  element: fire
+  matk: 2189
+  mdef: 1167
+  name: "Manah's Staff\u30DE\u30CA\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1629.png
+  total: 6718(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30DE\u30CA\u306E\u6756"
+
+staff_of_silence:
+  atk: 2193
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1169
+  element: wind
+  matk: 2189
+  mdef: 1167
+  name: "Staff of Silence\u9ED9\u7977\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1719.png
+  total: 6718(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED9\u7977\u306E\u6756"
+
+staff_of_fraternity:
+  atk: 2104
+  col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 18
+  def: 1277
+  element: wind
+  matk: 2047
+  mdef: 1275
+  name: "Staff of Fraternity\u53CB\u611B\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1733.png
+  total: 6703(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u53CB\u611B\u306E\u6756"
+
+staff_of_inquisition:
+  atk: 2189
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1209
+  element: fire
+  matk: 2102
+  mdef: 1187
+  name: "Staff of Inquisition\u63A2\u7A76\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1735.png
+  total: 6687(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u6756"
+
+dark_staff_of_slumber:
+  atk: 1944
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ magical DEF by a small amount."
+  cost: 19
+  def: 1135
+  element: water
+  matk: 1940
+  mdef: 1179
+  name: "Dark Staff of Slumber\u7761\u7720\u306E\u9ED2\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1747.png
+  total: 6198(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u9ED2\u6756"
+
+solar_summon_staff:
+  atk: 2101
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical DEF of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1160
+  element: fire
+  matk: 2097
+  mdef: 1158
+  name: "Solar Summon Staff\u65E5\u8F2A\u62DB\u6765\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1810.png
+  total: 6516(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u65E5\u8F2A\u62DB\u6765\u6756"
+
+wrought_iron_wheeled_staff:
+  atk: 1468
+  col_aid_skill: "(\u2160)Fixed chance to increase physical ATK of one member of the\
+    \ vanguard by a small amount while executing commands."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
+  cost: 18
+  def: 1149
+  element: fire
+  matk: 1464
+  mdef: 1072
+  name: "Wrought Iron Wheeled Staff\u9ED2\u9244\u306E\u8ECA\u8F2A\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1822.png
+  total: 5153(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u8ECA\u8F2A\u6756"
+
+revived_breath:
+  atk: 2105
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1243
+  element: wind
+  matk: 2101
+  mdef: 1241
+  name: "Revived Breath\u518D\u751F\u306E\u606F\u5439"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1904.png
+  total: 6690(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u518D\u751F\u306E\u606F\u5439"
+
+staff_of_blessings:
+  atk: 2050
+  col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1090
+  element: water
+  matk: 2301
+  mdef: 1239
+  name: "Staff of Blessings\u795D\u798F\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1912.png
+  total: 6680(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795D\u798F\u306E\u6756"
+
+truths_&_lies:
+  atk: 2103
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1162
+  element: fire
+  matk: 2264
+  mdef: 1160
+  name: "Truths & Lies\u771F\u5B9F\u3068\u865A\u507D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2022.png
+  total: 6689(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u771F\u5B9F\u3068\u865A\u507D"
+
+graceful_staff_of_flames:
+  atk: 2229
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 18
+  def: 1184
+  element: fire
+  matk: 2044
+  mdef: 1202
+  name: "Graceful Staff of Flames\u708E\u56C0\u306E\u6075\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2030.png
+  total: 6659(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u708E\u56C0\u306E\u6075\u6756"
+
+staff_of_gluttony:
+  atk: 2108
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1231
+  element: water
+  matk: 2104
+  mdef: 1209
+  name: "Staff of Gluttony\u66B4\u98DF\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2037.png
+  total: 6652(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u98DF\u306E\u6756"
+
+staff_of_the_revived_moment_(calamitous):
+  atk: 2371
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 20
+  def: 1344
+  element: fire
+  matk: 2620
+  mdef: 1342
+  name: "Staff of the Revived Moment (Calamitous)\u5FA9\u6D3B\u306E\u523B\u6756(\u798D\
+    )"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2073.png
+  total: 7677(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FA9\u6D3B\u306E\u523B\u6756(\u798D\
+    )"
+
+staff_of_the_universe_(calamitous):
+  atk: 2213
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 19
+  def: 1324
+  element: fire
+  matk: 2267
+  mdef: 1338
+  name: "Staff of the Universe (Calamitous)\u4E16\u8A60\u306E\u6756(\u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2075.png
+  total: 7142(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E16\u8A60\u306E\u6756(\u798D)"
+
+bud_of_corrosions_:
+  atk: 2057
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1248
+  element: fire
+  matk: 2106
+  mdef: 1211
+  name: "Bud of Corrosions \u8150\u98DF\u306E\u857E"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2079.png
+  total: 6622(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8150\u98DF\u306E\u857E"
+
+gambler's_holy_staff:
+  atk: 1779
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 18
+  def: 1040
+  element: fire
+  matk: 1775
+  mdef: 1038
+  name: "Gambler's Holy Staff\u8CED\u535A\u5E2B\u306E\u8056\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2097.png
+  total: 5632(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8CED\u535A\u5E2B\u306E\u8056\u6756"
+
+collapse_of_the_afterlife:
+  atk: 2104
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: Heal 1-3 allies by a great amount of HP.
+  cost: 18
+  def: 1227
+  element: wind
+  matk: 2100
+  mdef: 1185
+  name: "Collapse of the Afterlife\u6765\u4E16\u306E\u5D29\u58CA"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2113.png
+  total: 6616(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6765\u4E16\u306E\u5D29\u58CA"
+
+staff_of_slumber:
+  atk: 2049
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1225
+  element: wind
+  matk: 2098
+  mdef: 1238
+  name: "Staff of Slumber\u7761\u7720\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2191.png
+  total: 6610(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u6756"
+
+meaning_of_suffering:
+  atk: 2108
+  col_aid_skill: "(\u2160)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a slightly amount while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1211
+  element: water
+  matk: 2104
+  mdef: 1229
+  name: "Meaning of Suffering\u88AB\u8650\u306E\u610F\u601D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2207.png
+  total: 6652(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u610F\u601D"
+
+staff_of_twin_heads:
+  atk: 2053
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
+  cost: 18
+  def: 1244
+  element: water
+  matk: 2049
+  mdef: 1207
+  name: "Staff of Twin Heads\u53CC\u982D\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2215.png
+  total: 6553(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u53CC\u982D\u306E\u6756"
+
+staff_of_dependency_:
+  atk: 2049
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 18
+  def: 1225
+  element: wind
+  matk: 2045
+  mdef: 1223
+  name: "Staff of Dependency \u4F9D\u5B58\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2221.png
+  total: 6542(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u6756"
+
+staff_of_the_dictator:
+  atk: 2110
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 18
+  def: 1283
+  element: water
+  matk: 2053
+  mdef: 1281
+  name: "Staff of the Dictator\u72EC\u88C1\u8005\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2239.png
+  total: 6727(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u72EC\u88C1\u8005\u306E\u6756"
+
+staff_of_demonic_commandments:
+  atk: 2055
+  col_aid_skill: "(\u2161)Fixed chance to increase magical ATK of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1231
+  element: fire
+  matk: 2104
+  mdef: 1229
+  name: "Staff of Demonic Commandments\u9B54\u6212\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2247.png
+  total: 6619(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9B54\u6212\u306E\u6756"
+
+staff_of_demonic_illusions:
+  atk: 2211
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 19
+  def: 1322
+  element: water
+  matk: 2265
+  mdef: 1299
+  name: "Staff of Demonic Illusions\u5E7B\u9B54\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2253.png
+  total: 7097(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5E7B\u9B54\u306E\u6756"
+
+life_chooser:
+  atk: 2057
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1233
+  element: fire
+  matk: 2106
+  mdef: 1246
+  name: "Life Chooser\u547D\u306E\u9078\u629E"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2349.png
+  total: 6642(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u547D\u306E\u9078\u629E"
+
+staff_of_the_corpse:
+  atk: 2049
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1225
+  element: fire
+  matk: 2098
+  mdef: 1223
+  name: "Staff of the Corpse\u5486\u9AB8\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2361.png
+  total: 6595(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5486\u9AB8\u306E\u6756"
+
+thorned_erosion_:
+  atk: 2191
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 18
+  def: 1191
+  element: wind
+  matk: 2005
+  mdef: 1229
+  name: "Thorned Erosion \u4FB5\u8755\u306E\u68D8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2367.png
+  total: 6616(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4FB5\u8755\u306E\u68D8"
+
+evil_god's_staff:
+  atk: 1781
+  col_aid_skill: "(\u2160)Fixed chance to Increase the magical DEF of 1 ally in the\
+    \ vanguard by a slightly amount while healing."
+  colosseum_skill: Heal 1-3 allies by a great amount of HP.
+  cost: 19
+  def: 1025
+  element: water
+  matk: 1777
+  mdef: 1023
+  name: "Evil God's Staff\u90AA\u795E\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2379.png
+  total: 5606(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u90AA\u795E\u306E\u6756"
+
+ice_god's_staff:
+  atk: 2055
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1292
+  element: water
+  matk: 2051
+  mdef: 1279
+  name: "Ice God's Staff\u6C37\u795E\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2417.png
+  total: 6677(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C37\u795E\u306E\u6756"
+
+key_of_vows:
+  atk: 2049
+  col_aid_skill: "(\u2161)Fixed chance to increase magical ATK of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: Heal 1-2 allies by a great amount of HP, and recover their SP by
+    20.
+  cost: 18
+  def: 1240
+  element: wind
+  matk: 2098
+  mdef: 1238
+  name: "Key of Vows\u8A93\u7D04\u306E\u9375"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2421.png
+  total: 6625(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8A93\u7D04\u306E\u9375"
+
+viscera_of_justice:
+  atk: 2377
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: Heal 1-3 allies by a massive amount of HP, and increase their physical
+    ATK and physical DEF by a small amount.
+  cost: 22
+  def: 1441
+  element: fire
+  matk: 2321
+  mdef: 1421
+  name: "Viscera of Justice\u6B63\u7FA9\u306E\u30BE\u30A6\u30D5"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2439.png
+  total: 7560(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u30BE\u30A6\u30D5"
+
+staff_of_the_great_general:
+  atk: 2102
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 18
+  def: 1268
+  element: water
+  matk: 2045
+  mdef: 1223
+  name: "Staff of the Great General\u5927\u5C06\u9996\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2511.png
+  total: 6638(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5927\u5C06\u9996\u306E\u6756"
+
+staff_of_icebergs:
+  atk: 2057
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 18
+  def: 1276
+  element: water
+  matk: 2053
+  mdef: 1246
+  name: "Staff of Icebergs\u6C37\u5C71\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2519.png
+  total: 6632(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C37\u5C71\u306E\u6756"
+
+staff_of_blooming:
+  atk: 2269
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their physical DEF by a small amount."
+  cost: 19
+  def: 1301
+  element: fire
+  matk: 2265
+  mdef: 1299
+  name: "Staff of Blooming\u958B\u82B1\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2603.png
+  total: 7134(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u958B\u82B1\u306E\u6756"
+
+healing_guidance_:
+  atk: 2048
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: Heal 1-2 allies by a great amount of HP, and recover their SP by
+    20.
+  cost: 18
+  def: 1239
+  element: fire
+  matk: 2097
+  mdef: 1237
+  name: "Healing Guidance \u7652\u3057\u306E\u5C0E\u304D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2650.png
+  total: 6621(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7652\u3057\u306E\u5C0E\u304D"
+
+thorned_branch:
+  atk: 2274
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 19
+  def: 1327
+  element: wind
+  matk: 2212
+  mdef: 1304
+  name: "Thorned Branch\u68D8\u306E\u679D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2658.png
+  total: 7117(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u68D8\u306E\u679D"
+
+the_princess's_emerald_bird:
+  atk: 2105
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their physical DEF by a small amount."
+  cost: 18
+  def: 1243
+  element: wind
+  matk: 2101
+  mdef: 1206
+  name: "The Princess's Emerald Bird\u738B\u5983\u306E\u9752\u3044\u9CE5"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2714.png
+  total: 6655(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u738B\u5983\u306E\u9752\u3044\u9CE5"
+
+deer's_spirit:
+  atk: 2052
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1243
+  element: wind
+  matk: 2101
+  mdef: 1241
+  name: "Deer's Spirit\u98A8\u9E7F\u306E\u5FA1\u852D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2724.png
+  total: 6637(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u98A8\u9E7F\u306E\u5FA1\u852D"
+
+the_hanged_man:
+  atk: 2214
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 19
+  def: 1341
+  element: wind
+  matk: 2210
+  mdef: 1323
+  name: "The Hanged Man\u540A\u308B\u3055\u308C\u305F\u7537"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2746.png
+  total: 7088(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u540A\u308B\u3055\u308C\u305F\u7537"
+
+absurd_conviction:
+  atk: 2107
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: Heal 1-2 allies by a great amount of HP, and recover their SP by
+    20.
+  cost: 18
+  def: 1245
+  element: water
+  matk: 2050
+  mdef: 1243
+  name: "Absurd Conviction\u4E0D\u6761\u7406\u306A\u65AD\u7F6A"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2756.png
+  total: 6645(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u6761\u7406\u306A\u65AD\u7F6A"
+
+staff_of_radiance_:
+  atk: 2050
+  col_aid_skill: "(\u2161)Fixed chance to increase magical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1241
+  element: fire
+  matk: 2099
+  mdef: 1239
+  name: "Staff of Radiance \u6804\u5149\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2772.png
+  total: 6629(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6804\u5149\u306E\u6756"
+
+believer's_wail:
+  atk: 2216
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: Heal 1-3 allies by a great amount of HP.
+  cost: 19
+  def: 1343
+  element: wind
+  matk: 2212
+  mdef: 1341
+  name: "Believer's Wail\u4FE1\u8005\u306E\u5606\u304D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2788.png
+  total: 7112(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4FE1\u8005\u306E\u5606\u304D"
+
+bodyguard_in_night_snow:
+  atk: 2008
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 18
+  def: 1264
+  element: wind
+  matk: 2103
+  mdef: 1262
+  name: "Bodyguard in Night Snow\u8B77\u885B\u591C\u53C9"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2806.png
+  total: 6637(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8B77\u885B\u591C\u53C9"
+
+rainmaking_staff:
+  atk: 2214
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 19
+  def: 1341
+  element: water
+  matk: 2210
+  mdef: 1339
+  name: "Rainmaking Staff\u7948\u96E8\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2846.png
+  total: 7104(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7948\u96E8\u306E\u6756"
+
+battle_ceremony:
+  atk: 2052
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical DEF by a small amount."
+  cost: 18
+  def: 1271
+  element: water
+  matk: 2048
+  mdef: 1241
+  name: "Battle Ceremony\u6226\u3044\u306E\u5100"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2854.png
+  total: 6612(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6226\u3044\u306E\u5100"
+
+wish_of_the_moon_cat:
+  atk: 2050
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Increase Skill\
+    \ Effects at 5 Minutes Remaining."
+  cost: 18
+  def: 1260
+  element: wind
+  matk: 2046
+  mdef: 1258
+  name: "Wish of the Moon Cat\u6708\u732B\u30CE\u9858\u30D2"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2872.png
+  total: 6614(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6708\u732B\u30CE\u9858\u30D2"
+
+twin_hearts:
+  atk: 2054
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1264
+  element: wind
+  matk: 2050
+  mdef: 1262
+  name: "Twin Hearts\u540C\u80DE\u306E\u5FC3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2966.png
+  total: 6630(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u540C\u80DE\u306E\u5FC3"
+
+popola&devola's_staff&:
+  atk: 1953
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their physical DEF by a small amount."
+  cost: 18
+  def: 1352
+  element: wind
+  matk: 1998
+  mdef: 1333
+  name: "Popola&Devola's Staff\u30C7\u30DC\u30EB&\u30DD\u30DD\u30EB\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3100.png
+  total: 6636(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30C7\u30DC\u30EB&\u30DD\u30DD\u30EB\
+    \u306E\u6756"
+
+beautiful_black_cane:
+  atk: 2052
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical DEF by a small amount."
+  cost: 18
+  def: 1271
+  element: wind
+  matk: 2101
+  mdef: 1226
+  name: "Beautiful Black Cane\u9E97\u3057\u306E\u9ED2\u6756\u5B98"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3114.png
+  total: 6650(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9E97\u3057\u306E\u9ED2\u6756\u5B98"
+
+staff_of_the_fake_spouse:
+  atk: 2167
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between The\
+    \ Start of Colosseum & 5 Minutes before it ends, Recover 6sp with every use."
+  cost: 19
+  def: 1327
+  element: wind
+  matk: 2270
+  mdef: 1325
+  name: "Staff of the Fake Spouse\u507D\u5A66\u4EBA\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3128.png
+  total: 7089(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u507D\u5A66\u4EBA\u306E\u6756"
+
+staff_of_violence:
+  atk: 1940
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical DEF by a small amount."
+  cost: 18
+  def: 1163
+  element: water
+  matk: 1886
+  mdef: 1143
+  name: "Staff of Violence\u66B4\u529B\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3193.png
+  total: 6132(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u6756"
+
+staff_of_the_sea_giant:
+  atk: 2011
+  col_aid_skill: "(\u2161)Fixed chance to increase magical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Between The Start\
+    \ of Colosseum & 5 Minutes before it ends, Recover 8sp with every use."
+  cost: 18
+  def: 1307
+  element: water
+  matk: 2007
+  mdef: 1320
+  name: "Staff of the Sea Giant\u6D77\u5DE8\u4EBA\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3199.png
+  total: 6645(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6D77\u5DE8\u4EBA\u306E\u6756"
+
+thunder_staff:
+  atk: 2002
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 18
+  def: 1298
+  element: wind
+  matk: 1998
+  mdef: 1296
+  name: "Thunder Staff\u96F7\u9CF4\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3310.png
+  total: 6594(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u96F7\u9CF4\u306E\u6756"
+
+lamp-carrying_staff_of_inquisition_:
+  atk: 2006
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Between The Start\
+    \ of Colosseum & 5 Minutes before it ends, Recover 8sp with every use."
+  cost: 18
+  def: 1302
+  element: fire
+  matk: 2002
+  mdef: 1300
+  name: "Lamp-Carrying Staff of Inquisition \u63A2\u7A76\u306E\u63D0\u71C8\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3324.png
+  total: 6610(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u63D0\u71C8\u6756"
+
+dawn's_blessing:
+  atk: 2211
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Increase Skill\
+    \ Effects at 5 Minutes Remaining."
+  cost: 19
+  def: 1338
+  element: fire
+  matk: 2207
+  mdef: 1336
+  name: "Dawn's Blessing\u591C\u660E\u3051\u306E\u795D\u798F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3343.png
+  total: 7092(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u591C\u660E\u3051\u306E\u795D\u798F"
+
+fortune_teller's_staff:
+  atk: 2004
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Increase Skill\
+    \ Effects at 5 Minutes Remaining."
+  cost: 18
+  def: 1337
+  element: water
+  matk: 2000
+  mdef: 1313
+  name: "Fortune Teller's Staff\u5360\u3044\u5E2B\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3392.png
+  total: 6654(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5360\u3044\u5E2B\u306E\u6756"
+
+wind_invitation_staff:
+  atk: 1955
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Between The Start\
+    \ of Colosseum & 5 Minutes before it ends, Recover 8sp with every use."
+  cost: 18
+  def: 1315
+  element: wind
+  matk: 2046
+  mdef: 1298
+  name: "Wind Invitation Staff\u98A8\u62DB\u304D\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3402.png
+  total: 6614(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u98A8\u62DB\u304D\u306E\u6756"
+
+staff_of_fire_rings:
+  atk: 2212
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between the\
+    \ Start of Colosseum & 5 Minutes before it ends, Increase Effects."
+  cost: 19
+  def: 1361
+  element: fire
+  matk: 2159
+  mdef: 1359
+  name: "Staff of Fire Rings\u706B\u8F2A\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3424.png
+  total: 7091(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u706B\u8F2A\u306E\u6756"
+
+secret_staff_of_lust_(kageuchi):
+  atk: 2057
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1267
+  element: water
+  matk: 2007
+  mdef: 1281
+  name: "Secret Staff of Lust (Kageuchi)\u8272\u6B32\u30CE\u79D8\u6756(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3429.png
+  total: 6612(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8272\u6B32\u30CE\u79D8\u6756(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+guardian's_staff:
+  atk: 2213
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their physical DEF by a small amount."
+  cost: 19
+  def: 1362
+  element: water
+  matk: 2160
+  mdef: 1322
+  name: "Guardian's Staff\u5B88\u8B77\u8005\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3515.png
+  total: 7057(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5B88\u8B77\u8005\u306E\u6756"
+
+chancellor's_brain_(catastrophe):
+  atk: 2636
+  col_aid_skill: "(\u2162)Fixed chance to greatly increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a great amount of HP, 1.5x effect when\
+    \ at a disadvantage."
+  cost: 22
+  def: 1658
+  element: water
+  matk: 2632
+  mdef: 1630
+  name: "Chancellor's Brain (Catastrophe)\u5BB0\u76F8\u306E\u8133(\u51F6\u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3537.png
+  total: 8556(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5BB0\u76F8\u306E\u8133(\u51F6\u798D\
+    )"
+
+staff_of_the_fool's_gold_(catastrophe):
+  atk: 2538
+  col_aid_skill: Fixed chance to moderately increase HP recovered while healing. and
+    Fixed chance to slightly increase support effects while providing backup.
+  colosseum_skill: "(\u2164)Heal 2-3 allies by a moderate amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 21
+  def: 1562
+  element: wind
+  matk: 2478
+  mdef: 1560
+  name: "Staff of the Fool's Gold (Catastrophe)\u611A\u91D1\u306E\u6756(\u51F6\u798D\
+    )"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3539.png
+  total: 8138(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u611A\u91D1\u306E\u6756(\u51F6\u798D\
+    )"
+
+judgement:
+  atk: 2217
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between the\
+    \ Start of Colosseum & 5 Minutes before it ends, Increase Effects."
+  cost: 19
+  def: 1328
+  element: wind
+  matk: 2213
+  mdef: 1326
+  name: "Judgement\u30B8\u30E3\u30C3\u30B8\u30E1\u30F3\u30C8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3549.png
+  total: 7084(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30B8\u30E3\u30C3\u30B8\u30E1\u30F3\u30C8"
+
+healing_staff_of_purity:
+  atk: 2052
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1289
+  element: wind
+  matk: 2002
+  mdef: 1276
+  name: "Healing Staff of Purity\u7D14\u6F54\u306E\u6CBB\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3744.png
+  total: 6619(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D14\u6F54\u306E\u6CBB\u6756"
+
+light_in_black_fog:
+  atk: 2208
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 19
+  def: 1337
+  element: fire
+  matk: 2212
+  mdef: 1339
+  name: "Light in Black Fog\u9ED2\u9727\u306E\u706F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3764.png
+  total: 7096(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9727\u306E\u706F"
+
+passionate_sewing_(smelt):
+  atk: 2318
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between The\
+    \ Start of Colosseum & 5 Minutes before it ends, Recover 6sp with every use."
+  cost: 20
+  def: 1502
+  element: fire
+  matk: 2314
+  mdef: 1518
+  name: "Passionate Sewing (Smelt)\u7E2B\u3044\u4ED8\u304F\u60C5\u5FF5(\u932C)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3782.png
+  total: 7652(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7E2B\u3044\u4ED8\u304F\u60C5\u5FF5\
+    (\u932C)"
+
+star_ocean_staff:
+  atk: 2320
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Increase Skill\
+    \ Effects at 5 Minutes Remaining."
+  cost: 20
+  def: 1436
+  element: water
+  matk: 2430
+  mdef: 1467
+  name: "Star Ocean Staff\u661F\u6D77\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3804.png
+  total: 7653(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u661F\u6D77\u306E\u6756"
+
+guidance_to_salvation:
+  atk: 2208
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their physical ATK by a small amount."
+  cost: 19
+  def: 1373
+  element: fire
+  matk: 2155
+  mdef: 1364
+  name: "Guidance to Salvation\u6551\u6E08\u306E\u5C0E"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3820.png
+  total: 7100(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6551\u6E08\u306E\u5C0E"
+
+great_flames_of_deception:
+  atk: 2163
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
+    \ magical DEF by a small amount."
+  cost: 19
+  def: 1323
+  element: fire
+  matk: 2266
+  mdef: 1337
+  name: "Great Flames of Deception\u6B3A\u779E\u306E\u5927\u706B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3844.png
+  total: 7089(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B3A\u779E\u306E\u5927\u706B"
+
+warden_of_the_grim_seas:
+  atk: 2159
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
+    \ physical DEF by a small amount."
+  cost: 19
+  def: 1415
+  element: water
+  matk: 2102
+  mdef: 1397
+  name: "Warden of the Grim Seas\u6E9F\u6D77\u306E\u7BA1\u7406\u8005"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3940.png
+  total: 7073(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6E9F\u6D77\u306E\u7BA1\u7406\u8005"
+
+euphemia's_staff:
+  atk: 1959
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical DEF of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1291
+  element: water
+  matk: 2050
+  mdef: 1302
+  name: "Euphemia's Staff\u30E6\u30FC\u30D5\u30A7\u30DF\u30A2\u306E\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3956.png
+  total: 6602(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30E6\u30FC\u30D5\u30A7\u30DF\u30A2\u306E\
+    \u6756"
+
+envoy_of_purgatory:
+  atk: 2438
+  col_aid_skill: Fixed chance to moderately increase HP recovered while healing. and
+    Fixed chance to slightly increase support effects while providing backup.
+  colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
+    \ physical ATK by a small amount."
+  cost: 20
+  def: 1508
+  element: fire
+  matk: 2263
+  mdef: 1471
+  name: "Envoy of Purgatory\u7149\u7344\u306E\u4F7F\u8005"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4038.png
+  total: 7680(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7149\u7344\u306E\u4F7F\u8005"
+
+emperor_staff_of_parvenu:
+  atk: 2050
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Between The Start\
+    \ of Colosseum & 5 Minutes before it ends, Recover 8sp with every use."
+  cost: 18
+  def: 1276
+  element: wind
+  matk: 2000
+  mdef: 1267
+  name: "Emperor Staff of Parvenu\u6210\u91D1\u306E\u738B\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4042.png
+  total: 6593(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6210\u91D1\u306E\u738B\u6756"
+
+illusion's_reasoning:
+  atk: 2074
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
+    \ magical ATK by a small amount."
+  cost: 19
+  def: 1393
+  element: wind
+  matk: 2212
+  mdef: 1421
+  name: "Illusion's Reasoning\u5E7B\u306E\u7406"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4058.png
+  total: 7100(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5E7B\u306E\u7406"
+
+badrosa:
+  atk: 2262
+  col_aid_skill: Fixed chance to moderately increase HP recovered while healing.  Increased
+    effect when at a disadvantage.
+  colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
+    \ magical DEF by a small amount."
+  cost: 20
+  def: 1488
+  element: water
+  matk: 2367
+  mdef: 1544
+  name: "Badrosa\u30D0\u30C9\u30ED\u30FC\u30B5"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4093.png
+  total: 7661(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30D0\u30C9\u30ED\u30FC\u30B5"
+
+chocobo_feather:
+  atk: 1851
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 18
+  def: 1189
+  element: water
+  matk: 1888
+  mdef: 1199
+  name: "Chocobo Feather\u30C1\u30E7\u30B3\u30DC\u30D5\u30A7\u30B6\u30FC"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4395.png
+  total: 6127(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30C1\u30E7\u30B3\u30DC\u30D5\u30A7\u30B6\
+    \u30FC"
+
+white_mage_staff_of_gluttony:
+  atk: 2113
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between the\
+    \ Start of Colosseum & 5 Minutes before it ends, Increase Effects."
+  cost: 19
+  def: 1392
+  element: water
+  matk: 2211
+  mdef: 1404
+  name: "White Mage Staff of Gluttony\u66B4\u98DF\u306E\u767D\u9B54\u6756"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4407.png
+  total: 7120(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u98DF\u306E\u767D\u9B54\u6756"
+
+will-o-wisp_lamp:
+  atk: 2160
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: Heal 1-2 allies by a great amount of HP, and recover their SP by
+    20.
+  cost: 19
+  def: 1416
+  element: wind
+  matk: 2103
+  mdef: 1398
+  name: "Will-o-Wisp Lamp\u9B3C\u706B\u306E\u6848\u5185\u706F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4431.png
+  total: 7077(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9B3C\u706B\u306E\u6848\u5185\u706F"
+
+illuminating_heavenly_light:
+  atk: 2604
+  col_aid_skill: "(\u2162)Fixed chance to greatly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 21
+  def: 1562
+  element: fire
+  matk: 2478
+  mdef: 1493
+  name: "Illuminating Heavenly Light\u7167\u3089\u3059\u795E\u5149"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4529.png
+  total: 8137(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7167\u3089\u3059\u795E\u5149"
+
+afterlife's_bed:
+  atk: 2075
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 19
+  def: 1366
+  element: fire
+  matk: 2271
+  mdef: 1373
+  name: "Afterlife's Bed\u6765\u4E16\u306E\u5BDD\u53F0"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4569.png
+  total: 7085(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6765\u4E16\u306E\u5BDD\u53F0"
+
+gift_of_tears:
+  atk: 2267
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
+    \ physical ATK by a small amount."
+  cost: 19
+  def: 1463
+  element: water
+  matk: 1965
+  mdef: 1414
+  name: "Gift of Tears\u8D04\u306E\u6D99"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4581.png
+  total: 7109(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8D04\u306E\u6D99"
+
+allure_of_the_underworld:
+  atk: 2437
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Increase Skill\
+    \ Effects at 5 Minutes Remaining."
+  cost: 20
+  def: 1525
+  element: wind
+  matk: 2319
+  mdef: 1374
+  name: "Allure of the Underworld\u5E7D\u51A5\u3078\u306E\u8A98\u3044"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4607.png
+  total: 7655(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5E7D\u51A5\u3078\u306E\u8A98\u3044"

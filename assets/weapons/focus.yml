@@ -1,0 +1,733 @@
+
+mask_of_heresy:
+  atk: 1918
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 18
+  def: 1162
+  element: water
+  matk: 2367
+  mdef: 1160
+  name: "Mask of Heresy\u90AA\u6559\u306E\u4EEE\u9762"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1112.png
+  total: 6607(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u90AA\u6559\u306E\u4EEE\u9762"
+
+spinel_of_distant_thunder:
+  atk: 1654
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 883
+  element: water
+  matk: 2474
+  mdef: 1317
+  name: "Spinel of Distant Thunder\u9060\u96F7\u306E\u5C16\u6676\u77F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1146.png
+  total: 6328(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9060\u96F7\u306E\u5C16\u6676\u77F3"
+
+sickly_sweet_cake:
+  atk: 1918
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 18
+  def: 1162
+  element: wind
+  matk: 2367
+  mdef: 1160
+  name: "Sickly Sweet Cake\u6BD2\u83D3\u5B50\u306E\u30B1\u30FC\u30AD"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1162.png
+  total: 6607(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6BD2\u83D3\u5B50\u306E\u30B1\u30FC\u30AD"
+
+journey_of_regrets:
+  atk: 1922
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 18
+  def: 1025
+  element: water
+  matk: 2371
+  mdef: 1262
+  name: "Journey of Regrets\u5F8C\u6094\u306E\u65C5\u8DEF"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1306.png
+  total: 6580(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5F8C\u6094\u306E\u65C5\u8DEF"
+
+black_knight's_soul:
+  atk: 1925
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1169
+  element: fire
+  matk: 2374
+  mdef: 1167
+  name: "Black Knight's Soul\u9ED2\u9A0E\u58EB\u30CE\u9B42"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1369.png
+  total: 6635(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9A0E\u58EB\u30CE\u9B42"
+
+a_vane_to_court_death:
+  atk: 1925
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 18
+  def: 1028
+  element: wind
+  matk: 2374
+  mdef: 1265
+  name: "A Vane to Court Death\u6B7B\u3092\u62DB\u304F\u98A8\u898B\u9D8F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1389.png
+  total: 6592(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B7B\u3092\u62DB\u304F\u98A8\u898B\u9D8F"
+
+black_holy_grail:
+  atk: 2189
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and recover\
+    \ a small amount of own HP."
+  cost: 18
+  def: 1165
+  element: water
+  matk: 2185
+  mdef: 1163
+  name: "Black Holy Grail\u9ED2\u306E\u8056\u676F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1475.png
+  total: 6702(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u306E\u8056\u676F"
+
+clown's_box:
+  atk: 2376
+  col_aid_skill: "(\u2162)Fixed chance to greatly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and recover\
+    \ a small amount of own HP."
+  cost: 18
+  def: 1026
+  element: fire
+  matk: 2372
+  mdef: 882
+  name: "Clown's Box\u9053\u5316\u5E2B\u306E\u7BB1"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1557.png
+  total: 6656(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9053\u5316\u5E2B\u306E\u7BB1"
+
+mask_of_pride:
+  atk: 1175
+  col_aid_skill: "(\u2161)Fixed chance to increase magical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 18
+  def: 1314
+  element: wind
+  matk: 2819
+  mdef: 1399
+  name: "Mask of Pride\u50B2\u6162\u30CE\u4EEE\u9762"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1581.png
+  total: 6707(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u50B2\u6162\u30CE\u4EEE\u9762"
+
+umbrella_of_removing_darkness:
+  atk: 1921
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: Deal great magical damage to 1-2 enemies, 1.5x effect when at a
+    disadvantage.
+  cost: 18
+  def: 1122
+  element: fire
+  matk: 2638
+  mdef: 1120
+  name: "Umbrella of Removing Darkness\u95C7\u9664\u30B1\u30CE\u5098"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1615.png
+  total: 6801(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u95C7\u9664\u30B1\u30CE\u5098"
+
+light_from_hell:
+  atk: 2312
+  col_aid_skill: "(\u2162)Fixed chance to greatly increase own magical ATK while attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 18
+  def: 1047
+  element: fire
+  matk: 2308
+  mdef: 1045
+  name: "Light from Hell\u51A5\u5E9C\u304B\u3089\u306E\u706F\u706B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1659.png
+  total: 6712(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u51A5\u5E9C\u304B\u3089\u306E\u706F\u706B"
+
+queen's_compass:
+  atk: 2106
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and recover\
+    \ a small amount of own HP."
+  cost: 18
+  def: 1318
+  element: wind
+  matk: 2102
+  mdef: 1316
+  name: "Queen's Compass\u738B\u5983\u306E\u9053\u6A19"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1725.png
+  total: 6842(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u738B\u5983\u306E\u9053\u6A19"
+
+stuffed_toy_of_grief:
+  atk: 1953
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1184
+  element: fire
+  matk: 2394
+  mdef: 1182
+  name: "Stuffed Toy of Grief\u60B2\u6101\u306E\u7E2B\u3044\u5305\u307F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1900.png
+  total: 6713(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u6101\u306E\u7E2B\u3044\u5305\u307F"
+
+crown_of_bubbles:
+  atk: 2109
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1125
+  element: wind
+  matk: 2270
+  mdef: 1190
+  name: "Crown of Bubbles\u6CE1\u6CAB\u306E\u738B\u51A0"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2018.png
+  total: 6694(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6CE1\u6CAB\u306E\u738B\u51A0"
+
+orb_of_justice:
+  atk: 2053
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1165
+  element: water
+  matk: 2267
+  mdef: 1163
+  name: "Orb of Justice\u6B63\u7FA9\u306E\u9B54\u5177"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2045.png
+  total: 6648(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u9B54\u5177"
+
+birdcage_of_frenzied_flowers_(calamitous):
+  atk: 2213
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 19
+  def: 1178
+  element: wind
+  matk: 2444
+  mdef: 1301
+  name: "Birdcage of Frenzied Flowers (Calamitous)\u72C2\u82B1\u306E\u7C60(\u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2065.png
+  total: 7136(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u72C2\u82B1\u306E\u7C60(\u798D)"
+
+night_poison_(calamitous):
+  atk: 2375
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 20
+  def: 1298
+  element: water
+  matk: 2624
+  mdef: 1397
+  name: "Night Poison (Calamitous)\u5BB5\u306E\u6BD2\u85AC(\u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2067.png
+  total: 7694(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5BB5\u306E\u6BD2\u85AC(\u798D)"
+
+orb_of_husks:
+  atk: 2064
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: Deal great magical damage to 1-2 enemies. Always hits 2 enemies
+    when at a disadvantage
+  cost: 19
+  def: 948
+  element: fire
+  matk: 2189
+  mdef: 946
+  name: "Orb of Husks\u6BBB\u30CE\u9B54\u5177"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2189.png
+  total: 6147(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6BBB\u30CE\u9B54\u5177"
+
+pod_153153:
+  atk: 2106
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 18
+  def: 1122
+  element: water
+  matk: 2267
+  mdef: 1163
+  name: "Pod 153\u30DD\u30C3\u30C9153"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2205.png
+  total: 6658(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30DD\u30C3\u30C9153"
+
+restricted_puppet:
+  atk: 2007
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 18
+  def: 1093
+  element: wind
+  matk: 2419
+  mdef: 1207
+  name: "Restricted Puppet\u4E0D\u81EA\u7531\u306A\u5080\u5121"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2235.png
+  total: 6726(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u81EA\u7531\u306A\u5080\u5121"
+
+bouquet_of_sacrifice:
+  atk: 2211
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 19
+  def: 1207
+  element: water
+  matk: 2402
+  mdef: 1278
+  name: "Bouquet of Sacrifice\u6B7B\u8D04\u306E\u82B1\u675F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2263.png
+  total: 7098(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B7B\u8D04\u306E\u82B1\u675F"
+
+reversed_engraving:
+  atk: 1958
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 18
+  def: 1069
+  element: fire
+  matk: 2370
+  mdef: 1261
+  name: "Reversed Engraving\u9006\u69D8\u306E\u523B\u754C"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2345.png
+  total: 6658(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9006\u69D8\u306E\u523B\u754C"
+
+light_of_dim_forests:
+  atk: 1956
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical ATK by a small amount."
+  cost: 18
+  def: 1091
+  element: wind
+  matk: 2442
+  mdef: 1205
+  name: "Light of Dim Forests\u9670\u68EE\u306E\u706F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2413.png
+  total: 6694(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9670\u68EE\u306E\u706F"
+
+sealed_ship_in_a_bottle:
+  atk: 2213
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 19
+  def: 1178
+  element: water
+  matk: 2404
+  mdef: 1301
+  name: "Sealed Ship in a Bottle\u5C01\u3058\u3089\u308C\u3057\u5E06\u8239"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2605.png
+  total: 7096(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5C01\u3058\u3089\u308C\u3057\u5E06\u8239"
+
+orb_of_restriction:
+  atk: 1619
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 18
+  def: 922
+  element: water
+  matk: 2011
+  mdef: 1017
+  name: "Orb of Restriction\u675F\u7E1B\u306E\u9B54\u5177"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2623.png
+  total: 5569(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u9B54\u5177"
+
+leading-age_trends:
+  atk: 2159
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 19
+  def: 1173
+  element: fire
+  matk: 2479
+  mdef: 1296
+  name: "Leading-Age Trends\u6D41\u884C\u306E\u6700\u5148\u7AEF"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2660.png
+  total: 7107(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6D41\u884C\u306E\u6700\u5148\u7AEF"
+
+feather_of_a_violent_bird:
+  atk: 2048
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and recover\
+    \ a small amount of own HP."
+  cost: 18
+  def: 1117
+  element: fire
+  matk: 2328
+  mdef: 1222
+  name: "Feather of a Violent Bird\u66B4\u9CE5\u306E\u7FBD\u6839"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2670.png
+  total: 6715(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u9CE5\u306E\u7FBD\u6839"
+
+compass_of_astray_:
+  atk: 2161
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and recover\
+    \ 10 SP"
+  cost: 19
+  def: 1149
+  element: water
+  matk: 2481
+  mdef: 1335
+  name: "Compass of Astray \u8FF7\u4E0D\u306E\u7F85\u91DD\u76E4"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2742.png
+  total: 7126(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8FF7\u4E0D\u306E\u7F85\u91DD\u76E4"
+
+brave_general's_memento:
+  atk: 2114
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 19
+  def: 1181
+  element: wind
+  matk: 2487
+  mdef: 1325
+  name: "Brave General's Memento\u52C7\u5C06\u30CE\u5F62\u898B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2798.png
+  total: 7107(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u52C7\u5C06\u30CE\u5F62\u898B"
+
+leg_of_depravity:
+  atk: 2345
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: Deal great magical damage to 1-2 enemies, and increase own magical
+    ATK and magical DEF by a small amount.
+  cost: 22
+  def: 1259
+  element: fire
+  matk: 2550
+  mdef: 1257
+  name: "Leg of Depravity\u5351\u52A3\u306E\u30AB\u30B7"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2824.png
+  total: 7411(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5351\u52A3\u306E\u30AB\u30B7"
+
+the_princess's_hot_air_balloon:
+  atk: 2108
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own physical DEF and magical DEF by a small amount."
+  cost: 19
+  def: 1149
+  element: wind
+  matk: 2512
+  mdef: 1319
+  name: "The Princess's Hot Air Balloon\u516C\u5973\u306E\u71B1\u6C17\u7403"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2842.png
+  total: 7088(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u516C\u5973\u306E\u71B1\u6C17\u7403"
+
+halua_head:
+  atk: 1718
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies. Increase Combo\
+    \ Count by +5 when comboing."
+  cost: 18
+  def: 1072
+  element: wind
+  matk: 2599
+  mdef: 1229
+  name: "Halua Head\u30CF\u30EB\u30A2\u30D8\u30C3\u30C9"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3098.png
+  total: 6618(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30CF\u30EB\u30A2\u30D8\u30C3\u30C9"
+
+maiden's_break:
+  atk: 2163
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 19
+  def: 1151
+  element: fire
+  matk: 2443
+  mdef: 1337
+  name: "Maiden's Break\u5C11\u5973\u306E\u4F11\u606F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3124.png
+  total: 7094(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5C11\u5973\u306E\u4F11\u606F"
+
+ghostly_signal:
+  atk: 2168
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies. Increase Combo\
+    \ Count by +5 when comboing."
+  cost: 19
+  def: 1128
+  element: wind
+  matk: 2519
+  mdef: 1305
+  name: "Ghostly Signal\u5E7D\u6697\u306A\u4FE1\u53F7"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3339.png
+  total: 7120(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5E7D\u6697\u306A\u4FE1\u53F7"
+
+arrogant_pegasus:
+  atk: 2159
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal moderate magical damage to 1-2 enemies, and increase\
+    \ Power with Low SP Remaining."
+  cost: 19
+  def: 1098
+  element: water
+  matk: 2604
+  mdef: 1249
+  name: "Arrogant Pegasus\u5B64\u9AD8\u306E\u5929\u99AC"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3420.png
+  total: 7110(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5B64\u9AD8\u306E\u5929\u99AC"
+
+indignant_tool_(catastrophe):
+  atk: 2482
+  col_aid_skill: Fixed chance to greatly increase damage while attacking.
+  colosseum_skill: "(\u2164)Deal great magical damage to 2 enemies."
+  cost: 21
+  def: 1322
+  element: water
+  matk: 2849
+  mdef: 1517
+  name: "Indignant Tool (Catastrophe)\u61A4\u679C\u306E\u5668(\u51F6\u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3529.png
+  total: 8170(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u61A4\u679C\u306E\u5668(\u51F6\u798D\
+    )"
+
+resounding_nightmare_(catastrophe):
+  atk: 2566
+  col_aid_skill: Fixed chance to greatly increase damage while attacking.
+  colosseum_skill: "(\u2164)Deal great magical damage to 1-3 enemies."
+  cost: 22
+  def: 1363
+  element: fire
+  matk: 3021
+  mdef: 1604
+  name: "Resounding Nightmare (Catastrophe)\u60AA\u5922\u306E\u97FF\u304D(\u51F6\u798D\
+    )"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3531.png
+  total: 8554(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60AA\u5922\u306E\u97FF\u304D(\u51F6\
+    \u798D)"
+
+orb_of_sorrow:
+  atk: 1962
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and recover\
+    \ a small amount of own HP."
+  cost: 18
+  def: 1028
+  element: water
+  matk: 2403
+  mdef: 1231
+  name: "Orb of Sorrow\u60B2\u54C0\u306E\u9B54\u5177"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3559.png
+  total: 6624(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u9B54\u5177"
+
+black_foal_of_gluttony:
+  atk: 2109
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 20
+  def: 1072
+  element: wind
+  matk: 2270
+  mdef: 1166
+  name: "Black Foal of Gluttony\u66B4\u98DF\u306E\u9ED2\u99D2"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3648.png
+  total: 6617(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u98DF\u306E\u9ED2\u99D2"
+
+orb_of_dependancy_:
+  atk: 1918
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ Power when Party Summon [] is active."
+  cost: 18
+  def: 1020
+  element: wind
+  matk: 2511
+  mdef: 1223
+  name: "Orb of Dependancy \u4F9D\u5B58\u306E\u9B54\u5177"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3752.png
+  total: 6672(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u9B54\u5177"
+
+icy_flower_in_a_cage_(smelt):
+  atk: 2316
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 20
+  def: 1258
+  element: water
+  matk: 2736
+  mdef: 1339
+  name: "Icy Flower in a Cage (Smelt)\u6C37\u83EF\u306E\u6ABB(\u932C)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3780.png
+  total: 7649(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C37\u83EF\u306E\u6ABB(\u932C)"
+
+cait_sith's_holy_treasure:
+  atk: 2368
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ Power when Party Summon [] is active."
+  cost: 20
+  def: 1291
+  element: wind
+  matk: 2574
+  mdef: 1430
+  name: "Cait Sith's Holy Treasure\u732B\u738B\u306E\u8056\u5B9D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3800.png
+  total: 7663(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u732B\u738B\u306E\u8056\u5B9D"
+
+blissful_pair:
+  atk: 1852
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 19
+  def: 1327
+  element: fire
+  matk: 2558
+  mdef: 1363
+  name: "Blissful Pair\u5E78\u798F\u306A\u756A\u9CE5"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3818.png
+  total: 7100(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5E78\u798F\u306A\u756A\u9CE5"
+
+the_lady's_poison_bottle:
+  atk: 2041
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ Power when Party Summon [] is active."
+  cost: 20
+  def: 1522
+  element: fire
+  matk: 2578
+  mdef: 1520
+  name: "The Lady's Poison Bottle\u8CB4\u5A66\u4EBA\u306E\u6BD2\u74F6"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4034.png
+  total: 7661(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8CB4\u5A66\u4EBA\u306E\u6BD2\u74F6"
+
+moogle_trust:
+  atk: 2439
+  col_aid_skill: Fixed chance to greatly increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies. Increase Combo\
+    \ Count by +5 when comboing."
+  cost: 20
+  def: 1267
+  element: water
+  matk: 2669
+  mdef: 1298
+  name: "Moogle Trust\u30C8\u30E9\u30B9\u30C8\u30E2\u30FC\u30B0\u30EA"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4089.png
+  total: 7673(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30C8\u30E9\u30B9\u30C8\u30E2\u30FC\u30B0\
+    \u30EA"
+
+bell_of_blessings:
+  atk: 1969
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 19
+  def: 1320
+  element: fire
+  matk: 2480
+  mdef: 1334
+  name: "Bell of Blessings\u795D\u798F\u306E\u9418"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4121.png
+  total: 7103(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795D\u798F\u306E\u9418"
+
+maiden's_regret:
+  atk: 2369
+  col_aid_skill: Fixed chance to greatly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal moderate magical damage to 1-2 enemies, and increase\
+    \ Power with Low SP Remaining."
+  cost: 21
+  def: 1489
+  element: wind
+  matk: 2751
+  mdef: 1511
+  name: "Maiden's Regret\u4E59\u5973\u306E\u5F8C\u6094"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4533.png
+  total: 8120(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E59\u5973\u306E\u5F8C\u6094"
+
+ancient_butterfly's_dream:
+  atk: 2264
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ Power when Party Summon [] is active."
+  cost: 20
+  def: 1397
+  element: wind
+  matk: 2579
+  mdef: 1435
+  name: "Ancient Butterfly's Dream\u53E4\u8776\u306E\u5922"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4605.png
+  total: 7675(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u53E4\u8776\u306E\u5922"

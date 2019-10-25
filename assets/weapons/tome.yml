@@ -1,0 +1,1604 @@
+
+wrought_iron_tome:
+  atk: 1472
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the magical DEF of 1-2 enemies by a great amount."
+  cost: 18
+  def: 786
+  element: wind
+  matk: 1815
+  mdef: 968
+  name: "Wrought Iron Tome\u9ED2\u9244\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0786.png
+  total: 5041(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u66F8"
+
+textbook_of_inquisition:
+  atk: 1390
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the magical ATK of 1-2 enemies by a great amount."
+  cost: 18
+  def: 740
+  element: fire
+  matk: 1994
+  mdef: 1262
+  name: "Textbook of Inquisition\u63A2\u7A76\u306E\u5B66\u8853\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1090.png
+  total: 5386(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u5B66\u8853\u66F8"
+
+scripture_of_heresy:
+  atk: 2188
+  col_aid_skill: "(\u2160)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a small amount while executing commands."
+  colosseum_skill: "(\u2163)Reduce the magical DEF of 1 enemy by a massive amount."
+  cost: 18
+  def: 881
+  element: wind
+  matk: 2184
+  mdef: 1315
+  name: "Scripture of Heresy\u90AA\u6559\u306E\u7D4C\u5178"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1114.png
+  total: 6568(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u90AA\u6559\u306E\u7D4C\u5178"
+
+moonshadow_sutra:
+  atk: 2188
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the physical DEF of 2 enemies by a moderate amount."
+  cost: 18
+  def: 1317
+  element: water
+  matk: 2184
+  mdef: 879
+  name: "Moonshadow Sutra\u6708\u5F71\u306E\u7D4C\u672C"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1134.png
+  total: 6568(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6708\u5F71\u306E\u7D4C\u672C"
+
+astronomy_book:
+  atk: 2192
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the magical DEF of 2 enemies by a moderate amount."
+  cost: 18
+  def: 885
+  element: wind
+  matk: 2188
+  mdef: 1319
+  name: "Astronomy Book\u5929\u6587\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1148.png
+  total: 6584(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5929\u6587\u306E\u66F8"
+
+book_of_husks:
+  atk: 2281
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.  Increased effect when at a disadvantage.
+  colosseum_skill: "(\u2163)Reduce the physical ATK of 1 enemy by a massive amount."
+  cost: 19
+  def: 1130
+  element: water
+  matk: 1517
+  mdef: 1128
+  name: "Book of Husks\u6BBB\u30CE\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1262.png
+  total: 6056(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6BBB\u30CE\u66F8"
+
+notes_on_assassination:
+  atk: 1920
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1023
+  element: wind
+  matk: 2369
+  mdef: 1260
+  name: "Notes on Assassination\u6697\u6BBA\u8349\u7A3F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1304.png
+  total: 6572(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6697\u6BBA\u8349\u7A3F"
+
+unusual_wrought_iron_tome:
+  atk: 1466
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the physical DEF of 2 enemies by a moderate amount."
+  cost: 18
+  def: 780
+  element: fire
+  matk: 1809
+  mdef: 962
+  name: "Unusual Wrought Iron Tome\u9ED2\u9244\u306E\u5947\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1350.png
+  total: 5017(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u5947\u66F8"
+
+tome_of_ancient_ruins:
+  atk: 2102
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1 enemy by\
+    \ a great amount."
+  cost: 18
+  def: 1185
+  element: wind
+  matk: 2098
+  mdef: 1183
+  name: "Tome of Ancient Ruins\u53E4\u4EE3\u907A\u8DE1\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1391.png
+  total: 6568(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u53E4\u4EE3\u907A\u8DE1\u306E\u66F8"
+
+medical_journal_of_darkness:
+  atk: 2189
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1165
+  element: wind
+  matk: 2185
+  mdef: 1163
+  name: "Medical Journal of Darkness\u95C7\u30CE\u533B\u5B66\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1415.png
+  total: 6702(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u95C7\u30CE\u533B\u5B66\u66F8"
+
+prophecy_of_the_final_act:
+  atk: 2191
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the physical DEF of 2 enemies by a moderate amount."
+  cost: 18
+  def: 1167
+  element: water
+  matk: 2187
+  mdef: 1165
+  name: "Prophecy of the Final Act\u7D42\u5287\u306E\u9810\u8A00\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1477.png
+  total: 6710(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D42\u5287\u306E\u9810\u8A00\u66F8"
+
+criminal's_manuscript:
+  atk: 2187
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1 enemy by\
+    \ a great amount."
+  cost: 18
+  def: 1163
+  element: fire
+  matk: 2183
+  mdef: 1161
+  name: "Criminal's Manuscript\u7F6A\u4EBA\u306E\u5199\u672C"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1493.png
+  total: 6694(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7F6A\u4EBA\u306E\u5199\u672C"
+
+pirate's_book:
+  atk: 2378
+  col_aid_skill: "(\u2161)Fixed chance to increase physical ATK of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Reduce the magical ATK of 1-2 enemies by a great amount."
+  cost: 18
+  def: 1028
+  element: water
+  matk: 2374
+  mdef: 884
+  name: "Pirate's Book\u5147\u8CCA\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1579.png
+  total: 6664(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5147\u8CCA\u306E\u66F8"
+
+voltage_dictionary:
+  atk: 2193
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1169
+  element: wind
+  matk: 2189
+  mdef: 1167
+  name: "Voltage Dictionary\u96FB\u5727\u306E\u8F9E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1589.png
+  total: 6718(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u96FB\u5727\u306E\u8F9E\u66F8"
+
+frozen_grimoire:
+  atk: 2187
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the magical ATK of 2 enemies by a moderate amount."
+  cost: 18
+  def: 1163
+  element: water
+  matk: 2183
+  mdef: 1161
+  name: "Frozen Grimoire\u6C37\u7E1B\u306E\u9B54\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1613.png
+  total: 6694(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C37\u7E1B\u306E\u9B54\u66F8"
+
+accord's_book:
+  atk: 2187
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2161)Reduce the physical ATK and magical ATK of 2 enemies by\
+    \ a moderate amount."
+  cost: 18
+  def: 1163
+  element: fire
+  matk: 2183
+  mdef: 1161
+  name: "Accord's Book\u30A2\u30B3\u30FC\u30EB\u306E\u672C"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1633.png
+  total: 6694(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30A2\u30B3\u30FC\u30EB\u306E\u672C"
+
+book_of_lessons:
+  atk: 2185
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1161
+  element: water
+  matk: 2181
+  mdef: 1159
+  name: "Book of Lessons\u6559\u8A13\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1661.png
+  total: 6686(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6559\u8A13\u306E\u66F8"
+
+king's_ordinance:
+  atk: 2187
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1187
+  element: fire
+  matk: 2183
+  mdef: 1161
+  name: "King's Ordinance\u738B\u306E\u6212\u5F8B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1723.png
+  total: 6718(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u738B\u306E\u6212\u5F8B"
+
+wrought_iron_corpus:
+  atk: 1679
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1 enemy by\
+    \ a great amount."
+  cost: 18
+  def: 897
+  element: water
+  matk: 1675
+  mdef: 895
+  name: "Wrought Iron Corpus\u9ED2\u9244\u306E\u5168\u96C6"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1828.png
+  total: 5146(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u5168\u96C6"
+
+book_of_stranger_streetlights:
+  atk: 2184
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical DEF of 1-2 enemies by a great amount."
+  cost: 18
+  def: 1258
+  element: fire
+  matk: 2097
+  mdef: 1158
+  name: "Book of Stranger Streetlights\u7570\u754C\u8857\u706F\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1890.png
+  total: 6697(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7570\u754C\u8857\u706F\u306E\u66F8"
+
+book_of_the_fiery_soul:
+  atk: 2334
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1021
+  element: fire
+  matk: 2330
+  mdef: 1019
+  name: "Book of the Fiery Soul\u708E\u9B42\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1902.png
+  total: 6704(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u708E\u9B42\u306E\u66F8"
+
+book_of_observations:
+  atk: 2270
+  col_aid_skill: "(\u2161)Fixed chance to increase physical ATK of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1208
+  element: wind
+  matk: 2048
+  mdef: 1119
+  name: "Book of Observations\u89B3\u6E2C\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1924.png
+  total: 6645(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u89B3\u6E2C\u306E\u66F8"
+
+meaning_of_slumber:
+  atk: 2101
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1224
+  element: wind
+  matk: 2097
+  mdef: 1222
+  name: "Meaning of Slumber\u7761\u7720\u306E\u610F\u601D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1940.png
+  total: 6644(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u610F\u601D"
+
+book_of_the_lingering_soul:
+  atk: 2105
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the magical DEF of 1-2 enemies by a great amount."
+  cost: 18
+  def: 1092
+  element: wind
+  matk: 2229
+  mdef: 1226
+  name: "Book of the Lingering Soul\u52FE\u9B42\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2004.png
+  total: 6652(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u52FE\u9B42\u306E\u66F8"
+
+forgotten_teachings:
+  atk: 2101
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2161)Reduce the magical ATK of 2 enemies by a moderate amount."
+  cost: 18
+  def: 1160
+  element: water
+  matk: 2262
+  mdef: 1158
+  name: "Forgotten Teachings\u5FD8\u308C\u3058\u306E\u6559\u3048"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2020.png
+  total: 6681(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FD8\u308C\u3058\u306E\u6559\u3048"
+
+parasite_tome_of_delusion:
+  atk: 2189
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Reduce the physical ATK of 1-2 enemies by a great amount."
+  cost: 19
+  def: 1165
+  element: wind
+  matk: 1801
+  mdef: 1033
+  name: "Parasite Tome of Delusion\u865A\u5984\u306E\u5BC4\u751F\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2035.png
+  total: 6188(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u5BC4\u751F\u66F8"
+
+sign_of_a_stranger_world:
+  atk: 2110
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF of 1-2 enemies by a great amount."
+  cost: 18
+  def: 1233
+  element: wind
+  matk: 2106
+  mdef: 1211
+  name: "Sign of a Stranger World\u7570\u754C\u5F0F\u6A19\u8B58"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2039.png
+  total: 6660(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7570\u754C\u5F0F\u6A19\u8B58"
+
+half-eyed_stranger_tome_(calamitous):
+  atk: 2630
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 20
+  def: 1401
+  element: wind
+  matk: 2373
+  mdef: 1265
+  name: "Half-Eyed Stranger Tome (Calamitous)\u534A\u773C\u306E\u7570\u66F8(\u798D\
+    )"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2069.png
+  total: 7669(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u534A\u773C\u306E\u7570\u66F8(\u798D\
+    )"
+
+tome_of_locks_(calamitous):
+  atk: 2209
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1174
+  element: fire
+  matk: 2440
+  mdef: 1297
+  name: "Tome of Locks (Calamitous)\u91CD\u9320\u306E\u9B54\u66F8(\u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2071.png
+  total: 7120(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u91CD\u9320\u306E\u9B54\u66F8(\u798D\
+    )"
+
+curiosa_of_gluttony_(kageuchi):
+  atk: 2273
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1045
+  element: fire
+  matk: 2269
+  mdef: 1043
+  name: "Curiosa of Gluttony (Kageuchi)\u5927\u98DF\u30CE\u5947\u66F8\uFF08\u30AB\u30B2\
+    \u30A6\u30C1\uFF09"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2077.png
+  total: 6630(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5927\u98DF\u30CE\u5947\u66F8\uFF08\u30AB\
+    \u30B2\u30A6\u30C1\uFF09"
+
+gambler's_book:
+  atk: 1773
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2163)Reduce the magical ATK of 1 enemy by a massive amount."
+  cost: 18
+  def: 980
+  element: wind
+  matk: 1877
+  mdef: 999
+  name: "Gambler's Book\u8CED\u535A\u5E2B\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2101.png
+  total: 5629(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8CED\u535A\u5E2B\u306E\u66F8"
+
+military_records_of_the_ice_country:
+  atk: 2236
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1191
+  element: water
+  matk: 2104
+  mdef: 1122
+  name: "Military Records of the Ice Country\u6C37\u56FD\u306E\u8ECD\u8A18"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2107.png
+  total: 6653(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C37\u56FD\u306E\u8ECD\u8A18"
+
+a_person_who_controls_time:
+  atk: 2055
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1231
+  element: water
+  matk: 2104
+  mdef: 1244
+  name: "A Person who Controls Time\u6642\u3092\u53F8\u308B\u8005"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2197.png
+  total: 6634(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6642\u3092\u53F8\u308B\u8005"
+
+locksmith's_monologue:
+  atk: 2009
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1124
+  element: water
+  matk: 2269
+  mdef: 1229
+  name: "Locksmith's Monologue\u9320\u524D\u5E2B\u306E\u72EC\u767D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2227.png
+  total: 6631(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9320\u524D\u5E2B\u306E\u72EC\u767D"
+
+tome_of_philosophical_time_travel:
+  atk: 2055
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the physical DEF and magical DEF of 2 enemies by\
+    \ a moderate amount."
+  cost: 18
+  def: 1281
+  element: fire
+  matk: 2051
+  mdef: 1279
+  name: "Tome of Philosophical Time Travel\u6642\u7A7A\u306E\u54F2\u5B66\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2237.png
+  total: 6666(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6642\u7A7A\u306E\u54F2\u5B66\u66F8"
+
+forbidden_tome_of_heated_steel:
+  atk: 2011
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1233
+  element: fire
+  matk: 2106
+  mdef: 1246
+  name: "Forbidden Tome of Heated Steel\u71B1\u92FC\u306E\u7981\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2249.png
+  total: 6596(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u71B1\u92FC\u306E\u7981\u66F8"
+
+engraved_warning:
+  atk: 2408
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1152
+  element: fire
+  matk: 2404
+  mdef: 1150
+  name: "Engraved Warning\u523B\u306E\u8B66\u544A"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2265.png
+  total: 7114(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u523B\u306E\u8B66\u544A"
+
+forbidden_tome_of_gluttony_(kageuchi):
+  atk: 2108
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1246
+  element: wind
+  matk: 2051
+  mdef: 1244
+  name: "Forbidden Tome of Gluttony (Kageuchi)\u5927\u98DF\u30CE\u7981\u66F8\uFF08\
+    \u30AB\u30B2\u30A6\u30C1\uFF09"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2327.png
+  total: 6649(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5927\u98DF\u30CE\u7981\u66F8\uFF08\u30AB\
+    \u30B2\u30A6\u30C1\uFF09"
+
+tome_of_delusion:
+  atk: 2108
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1211
+  element: wind
+  matk: 2104
+  mdef: 1209
+  name: "Tome of Delusion\u865A\u5984\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2337.png
+  total: 6632(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u66F8"
+
+tome_of_the_night:
+  atk: 2310
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the physical ATK and physical DEF of 2 enemies\
+    \ by a moderate amount."
+  cost: 18
+  def: 1231
+  element: water
+  matk: 2051
+  mdef: 1093
+  name: "Tome of the Night\u591C\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2347.png
+  total: 6685(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u591C\u306E\u66F8"
+
+cursed_tome_of_ripples:
+  atk: 2269
+  col_aid_skill: "(\u2161)Fixed chance to increase physical ATK of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1041
+  element: water
+  matk: 2265
+  mdef: 1039
+  name: "Cursed Tome of Ripples\u6CE2\u7D0B\u306E\u546A\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2363.png
+  total: 6614(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6CE2\u7D0B\u306E\u546A\u66F8"
+
+evil_god's_tome:
+  atk: 1775
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2161)Reduce the magical ATK of 2 enemies by a moderate amount."
+  cost: 19
+  def: 946
+  element: wind
+  matk: 1942
+  mdef: 980
+  name: "Evil God's Tome\u90AA\u795E\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2383.png
+  total: 5643(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u90AA\u795E\u306E\u66F8"
+
+tome_of_the_heavenly_rat:
+  atk: 2003
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the magical ATK of 1-2 enemies by a great amount."
+  cost: 18
+  def: 1089
+  element: fire
+  matk: 2329
+  mdef: 1203
+  name: "Tome of the Heavenly Rat\u5929\u9F20\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2391.png
+  total: 6624(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5929\u9F20\u306E\u66F8"
+
+seahorse_tome:
+  atk: 2374
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the physical ATK and magical ATK of 2 enemies by\
+    \ a moderate amount."
+  cost: 18
+  def: 1043
+  element: fire
+  matk: 2304
+  mdef: 974
+  name: "Seahorse Tome\u6D77\u99AC\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2415.png
+  total: 6695(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6D77\u99AC\u306E\u66F8"
+
+windmill_tome:
+  atk: 2234
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF of 1-2 enemies by a great amount."
+  cost: 18
+  def: 1263
+  element: wind
+  matk: 2102
+  mdef: 1041
+  name: "Windmill Tome\u98A8\u5DE1\u308A\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2435.png
+  total: 6640(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u98A8\u5DE1\u308A\u306E\u66F8"
+
+biological_encyclopedia:
+  atk: 2267
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1225
+  element: wind
+  matk: 2045
+  mdef: 1087
+  name: "Biological Encyclopedia\u6A19\u672C\u56F3\u9451"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2521.png
+  total: 6624(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6A19\u672C\u56F3\u9451"
+
+scroll_of_divine_wood:
+  atk: 2209
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1174
+  element: wind
+  matk: 2400
+  mdef: 1318
+  name: "Scroll of Divine Wood\u795E\u6728\u306E\u5DFB\u7269"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2601.png
+  total: 7101(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795E\u6728\u306E\u5DFB\u7269"
+
+meaning_of_justice:
+  atk: 2185
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK of 1-2 enemies by a great amount."
+  cost: 18
+  def: 1185
+  element: fire
+  matk: 2045
+  mdef: 1087
+  name: "Meaning of Justice\u6B63\u7FA9\u306E\u610F\u601D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2611.png
+  total: 6502(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u610F\u601D"
+
+texts_of_beasts_&_demons:
+  atk: 2102
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1089
+  element: wind
+  matk: 2263
+  mdef: 1183
+  name: "Texts of Beasts & Demons\u7363\u9B54\u6761\u6587"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2621.png
+  total: 6637(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7363\u9B54\u6761\u6587"
+
+tome_of_slumber:
+  atk: 2005
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical DEF of 1-2 enemies by a great amount."
+  cost: 18
+  def: 1115
+  element: wind
+  matk: 1619
+  mdef: 773
+  name: "Tome of Slumber\u7761\u7720\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2627.png
+  total: 5512(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u66F8"
+
+book_of_the_core:
+  atk: 2103
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1226
+  element: fire
+  matk: 2099
+  mdef: 1224
+  name: "Book of the Core\u7089\u5FC3\u306E\u672C"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2642.png
+  total: 6652(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7089\u5FC3\u306E\u672C"
+
+holy_scriptures_of_dead_souls:
+  atk: 2449
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the physical ATK and physical DEF of 2 enemies\
+    \ by a moderate amount."
+  cost: 19
+  def: 1325
+  element: water
+  matk: 2210
+  mdef: 1123
+  name: "Holy Scriptures of Dead Souls\u6B7B\u970A\u306E\u8056\u5178"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2656.png
+  total: 7107(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B7B\u970A\u306E\u8056\u5178"
+
+tome_of_the_organ:
+  atk: 2048
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Reduce the magical ATK and magical DEF of 2 enemies by\
+    \ a moderate amount."
+  cost: 18
+  def: 1117
+  element: wind
+  matk: 2299
+  mdef: 1222
+  name: "Tome of the Organ\u98A8\u7434\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2700.png
+  total: 6686(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u98A8\u7434\u306E\u66F8"
+
+melody_of_the_burning_song:
+  atk: 2235
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2161)Reduce the physical ATK and magical ATK of 2 enemies by\
+    \ a moderate amount."
+  cost: 18
+  def: 1070
+  element: fire
+  matk: 2231
+  mdef: 1092
+  name: "Melody of the Burning Song\u6B4C\u708E\u306E\u8ABF\u3079"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2716.png
+  total: 6628(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B4C\u708E\u306E\u8ABF\u3079"
+
+tome_of_honeycombs:
+  atk: 2048
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1258
+  element: wind
+  matk: 2097
+  mdef: 1237
+  name: "Tome of Honeycombs\u8702\u7AA9\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2730.png
+  total: 6640(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8702\u7AA9\u306E\u66F8"
+
+records_of_a_sorrowful_love:
+  atk: 2407
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 19
+  def: 1151
+  element: fire
+  matk: 2403
+  mdef: 1149
+  name: "Records of a Sorrowful Love\u60B2\u604B\u306E\u8A18\u9332"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2744.png
+  total: 7110(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u604B\u306E\u8A18\u9332"
+
+nature's_scriptures:
+  atk: 2483
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1335
+  element: water
+  matk: 2102
+  mdef: 1202
+  name: "Nature's Scriptures\u5929\u8DA3\u306E\u8056\u5178"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2800.png
+  total: 7122(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5929\u8DA3\u306E\u8056\u5178"
+
+maiden's_diary:
+  atk: 2233
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "/(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 18
+  def: 1068
+  element: fire
+  matk: 2266
+  mdef: 1066
+  name: "Maiden's Diary\u4E59\u5973\u306E\u65E5\u8A18"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2834.png
+  total: 6633(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E59\u5973\u306E\u65E5\u8A18"
+
+ancient_wind_tome:
+  atk: 2110
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1403
+  element: wind
+  matk: 2159
+  mdef: 1401
+  name: "Ancient Wind Tome\u53E4\u306E\u98A8\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2844.png
+  total: 7073(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u53E4\u306E\u98A8\u66F8"
+
+waterfowl's_tome:
+  atk: 2008
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1070
+  element: water
+  matk: 2305
+  mdef: 1243
+  name: "Waterfowl's Tome\u6C34\u9CE5\u306E\u9B54\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2856.png
+  total: 6626(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C34\u9CE5\u306E\u9B54\u66F8"
+
+eye_of_slumber:
+  atk: 2395
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: Reduce the physical DEF and magical DEF of 2 enemies by a massive
+    amount.
+  cost: 22
+  def: 1379
+  element: water
+  matk: 2391
+  mdef: 1327
+  name: "Eye of Slumber\u7761\u7720\u306E\u30DE\u30CA\u30B3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2862.png
+  total: 7492(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u30DE\u30CA\u30B3"
+
+tome_of_the_heavenly_doors:
+  atk: 2307
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1228
+  element: wind
+  matk: 2002
+  mdef: 1090
+  name: "Tome of the Heavenly Doors\u795E\u9580\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2964.png
+  total: 6627(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795E\u9580\u306E\u66F8"
+
+princess's_diary:
+  atk: 2048
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1258
+  element: fire
+  matk: 2044
+  mdef: 1256
+  name: "Princess's Diary\u738B\u5983\u306E\u65E5\u8A18"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2970.png
+  total: 6606(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u738B\u5983\u306E\u65E5\u8A18"
+
+steel_tome:
+  atk: 2272
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1044
+  element: water
+  matk: 2268
+  mdef: 1068
+  name: "Steel Tome\u92FC\u9244\u306E\u9B54\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3106.png
+  total: 6652(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u92FC\u9244\u306E\u9B54\u66F8"
+
+sound_of_the_flapping_wings:
+  atk: 2214
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1153
+  element: water
+  matk: 2405
+  mdef: 1323
+  name: "Sound of the Flapping Wings\u7FBD\u97F3\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3126.png
+  total: 7095(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7FBD\u97F3\u306E\u66F8"
+
+green_mirror_of_dependancy:
+  atk: 2229
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical DEF of 1-2 enemies by a great amount."
+  cost: 20
+  def: 1258
+  element: fire
+  matk: 2044
+  mdef: 1086
+  name: "Green Mirror of Dependancy\u4F9D\u5B58\u306E\u7DD1\u93E1"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3130.png
+  total: 6617(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u7DD1\u93E1"
+
+hateful_casket_of_demonic_sleep:
+  atk: 2311
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1072
+  element: water
+  matk: 2006
+  mdef: 1245
+  name: "Hateful Casket of Demonic Sleep\u9B54\u7720\u306E\u53AD\u67E9"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3138.png
+  total: 6634(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9B54\u7720\u306E\u53AD\u67E9"
+
+tome_of_time-limited_wings:
+  atk: 2274
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 18
+  def: 1027
+  element: wind
+  matk: 2307
+  mdef: 1025
+  name: "Tome of Time-Limited Wings\u6642\u9650\u7FFC\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3148.png
+  total: 6633(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6642\u9650\u7FFC\u306E\u66F8"
+
+sorcery_tome_of_dread_seas:
+  atk: 2010
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1293
+  element: water
+  matk: 2006
+  mdef: 1291
+  name: "Sorcery Tome of Dread Seas\u9B54\u6D77\u306E\u9B54\u5C0E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3308.png
+  total: 6600(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9B54\u6D77\u306E\u9B54\u5C0E\u66F8"
+
+general's_foresight:
+  atk: 2410
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1126
+  element: water
+  matk: 2211
+  mdef: 1340
+  name: "General's Foresight\u5148\u898B\u306E\u77E5\u5C06"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3337.png
+  total: 7087(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5148\u898B\u306E\u77E5\u5C06"
+
+prohibited_tome_of_the_blood_spider:
+  atk: 2334
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1315
+  element: fire
+  matk: 1951
+  mdef: 1019
+  name: "Prohibited Tome of the Blood Spider\u8840\u8718\u86DB\u306E\u7981\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3382.png
+  total: 6619(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8840\u8718\u86DB\u306E\u7981\u66F8"
+
+seal_of_the_frozen_tree:
+  atk: 2334
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 18
+  def: 939
+  element: water
+  matk: 2383
+  mdef: 971
+  name: "Seal of the Frozen Tree\u6C37\u6A39\u306E\u5C01\u5370"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3412.png
+  total: 6627(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C37\u6A39\u306E\u5C01\u5370"
+
+lion_king's_burning_heart:
+  atk: 2268
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1100
+  element: fire
+  matk: 2401
+  mdef: 1335
+  name: "Lion King's Burning Heart\u7345\u5B50\u738B\u306E\u5FC3\u708E"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3422.png
+  total: 7104(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7345\u5B50\u738B\u306E\u5FC3\u708E"
+
+celebratory_tome:
+  atk: 2374
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1024
+  element: wind
+  matk: 1917
+  mdef: 1301
+  name: "Celebratory Tome\u795D\u88CF\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3435.png
+  total: 6616(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795D\u88CF\u306E\u66F8"
+
+purgatory_of_the_fool's_flames:
+  atk: 2051
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1301
+  element: fire
+  matk: 2001
+  mdef: 1286
+  name: "Purgatory of the Fool's Flames\u611A\u8005\u706B\u306E\u7149\u7344"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3503.png
+  total: 6639(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u611A\u8005\u706B\u306E\u7149\u7344"
+
+tome_of_the_phoenix_(catastrophe):
+  atk: 3029
+  col_aid_skill: Fixed chance to greatly increase support effects while providing
+    backup.
+  colosseum_skill: Reduce the physical ATK and magical ATK of 2 enemies by a great
+    amount.
+  cost: 22
+  def: 1341
+  element: fire
+  matk: 2928
+  mdef: 1276
+  name: "Tome of the Phoenix (Catastrophe)\u4E0D\u6B7B\u9CE5\u306E\u9B54\u66F8(\u51F6\
+    \u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3525.png
+  total: 8574(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u6B7B\u9CE5\u306E\u9B54\u66F8\
+    (\u51F6\u798D)"
+
+omen_of_catastrophes_(catastrophe):
+  atk: 2480
+  col_aid_skill: Fixed chance to greatly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2164)Reduce the magical ATK of 2-3 enemies by a massive amount."
+  cost: 21
+  def: 1320
+  element: water
+  matk: 2801
+  mdef: 1534
+  name: "Omen of Catastrophes (Catastrophe)\u60E8\u798D\u306E\u4E88\u5146(\u51F6\u798D\
+    )"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3527.png
+  total: 8135(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60E8\u798D\u306E\u4E88\u5146(\u51F6\
+    \u798D)"
+
+wonderous_creature_encyclopedia_:
+  atk: 2213
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1324
+  element: wind
+  matk: 2209
+  mdef: 1322
+  name: "Wonderous Creature Encyclopedia \u4E0D\u53EF\u601D\u8B70\u751F\u7269\u56F3\
+    \u9451"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3555.png
+  total: 7068(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u53EF\u601D\u8B70\u751F\u7269\u56F3\
+    \u9451"
+
+tome_of_the_decayed_great_tree:
+  atk: 2213
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1152
+  element: wind
+  matk: 2444
+  mdef: 1301
+  name: "Tome of the Decayed Great Tree\u673D\u3061\u305F\u5927\u6A39\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3565.png
+  total: 7110(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u673D\u3061\u305F\u5927\u6A39\u306E\u66F8"
+
+the_student's_locus:
+  atk: 2443
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "/(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1298
+  element: fire
+  matk: 2204
+  mdef: 1145
+  name: "The Student's Locus\u5B66\u5F92\u306E\u8ECC\u8DE1"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3750.png
+  total: 7090(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5B66\u5F92\u306E\u8ECC\u8DE1"
+
+fantasy_tome_(smelt):
+  atk: 2324
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 20
+  def: 1508
+  element: water
+  matk: 2320
+  mdef: 1506
+  name: "Fantasy Tome (Smelt)\u5929\u5E7B\u306E\u66F8(\u932C)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3778.png
+  total: 7658(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5929\u5E7B\u306E\u66F8(\u932C)"
+
+sealed_tome_of_gluttony_(kageuchi):
+  atk: 2008
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1273
+  element: wind
+  matk: 2050
+  mdef: 1278
+  name: "Sealed Tome of Gluttony (Kageuchi)\u5927\u98DF\u30CE\u5C01\u66F8\uFF08\u30AB\
+    \u30B2\u30A6\u30C1\uFF09"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3786.png
+  total: 6609(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5927\u98DF\u30CE\u5C01\u66F8\uFF08\u30AB\
+    \u30B2\u30A6\u30C1\uFF09"
+
+book_of_profanities:
+  atk: 2533
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 20
+  def: 1440
+  element: fire
+  matk: 2372
+  mdef: 1297
+  name: "Book of Profanities\u5192\u6D9C\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3798.png
+  total: 7642(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5192\u6D9C\u306E\u66F8"
+
+virtual_narcissism:
+  atk: 2214
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1341
+  element: wind
+  matk: 2210
+  mdef: 1339
+  name: "Virtual Narcissism\u81EA\u611B\u306E\u865A\u50CF"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3816.png
+  total: 7104(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u81EA\u611B\u306E\u865A\u50CF"
+
+tome_of_the_flaming_eye:
+  atk: 2272
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1125
+  element: fire
+  matk: 2405
+  mdef: 1302
+  name: "Tome of the Flaming Eye\u707C\u773C\u306E\u9B54\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3846.png
+  total: 7104(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u707C\u773C\u306E\u9B54\u66F8"
+
+lelouch's_scroll:
+  atk: 2268
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1066
+  element: water
+  matk: 2099
+  mdef: 1160
+  name: "Lelouch's Scroll\u30EB\u30EB\u30FC\u30B7\u30E5\u306E\u5DFB\u7269"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3932.png
+  total: 6593(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30EB\u30EB\u30FC\u30B7\u30E5\u306E\u5DFB\
+    \u7269"
+
+tome_of_the_palace:
+  atk: 2212
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1361
+  element: water
+  matk: 2208
+  mdef: 1321
+  name: "Tome of the Palace\u5BAE\u6BBF\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3944.png
+  total: 7102(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5BAE\u6BBF\u306E\u66F8"
+
+thorned_tome_of_gluttony_(kageuchi):
+  atk: 2274
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1046
+  element: water
+  matk: 2270
+  mdef: 1024
+  name: "Thorned Tome of Gluttony (Kageuchi)\u5927\u98DF\u30CE\u68D8\u66F8(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3948.png
+  total: 6614(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5927\u98DF\u30CE\u68D8\u66F8(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+textbook_of_wicked_curses:
+  atk: 2531
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 20
+  def: 1506
+  element: wind
+  matk: 2370
+  mdef: 1262
+  name: "Textbook of Wicked Curses\u9B54\u546A\u306E\u6559\u672C"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4036.png
+  total: 7669(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9B54\u546A\u306E\u6559\u672C"
+
+tome_of_the_withered_wood:
+  atk: 2409
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1283
+  element: wind
+  matk: 2268
+  mdef: 1123
+  name: "Tome of the Withered Wood\u67AF\u308C\u6728\u306E\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4056.png
+  total: 7083(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u67AF\u308C\u6728\u306E\u66F8"
+
+secret_navigation_diary:
+  atk: 2450
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Reduce the physical ATK and magical DEF of 1-2 enemies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1053
+  element: water
+  matk: 2269
+  mdef: 1324
+  name: "Secret Navigation Diary\u79D8\u5BC6\u306E\u822A\u6D77\u65E5\u8A8C"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4077.png
+  total: 7096(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u79D8\u5BC6\u306E\u822A\u6D77\u65E5\u8A8C"
+
+the_divine_art_of_war:
+  atk: 2260
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.  Increased effect when at a disadvantage.
+  colosseum_skill: "/(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 20
+  def: 1292
+  element: water
+  matk: 2661
+  mdef: 1464
+  name: "The Divine Art of War\u795E\u7B56\u306E\u5175\u6CD5\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4091.png
+  total: 7677(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795E\u7B56\u306E\u5175\u6CD5\u66F8"
+
+chocobo_memoria:
+  atk: 1890
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2161)Reduce the physical DEF and magical DEF of 2 enemies by\
+    \ a moderate amount."
+  cost: 18
+  def: 1145
+  element: water
+  matk: 1936
+  mdef: 1161
+  name: "Chocobo Memoria\u30C1\u30E7\u30B3\u30DC\u30E1\u30E2\u30EA\u30A2"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4393.png
+  total: 6132(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30C1\u30E7\u30B3\u30DC\u30E1\u30E2\u30EA\
+    \u30A2"
+
+book_of_evil_guidance:
+  atk: 2211
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the magical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1301
+  element: fire
+  matk: 2442
+  mdef: 1148
+  name: "Book of Evil Guidance\u60AA\u30CE\u8A98\u3090\u30CE\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4423.png
+  total: 7102(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60AA\u30CE\u8A98\u3090\u30CE\u66F8"
+
+slashed_tome_of_gluttony_(kageuchi):
+  atk: 2234
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 18
+  def: 1043
+  element: wind
+  matk: 2230
+  mdef: 1120
+  name: "Slashed Tome of Gluttony (Kageuchi)\u5927\u98DF\u30CE\u88C1\u66F8(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4425.png
+  total: 6627(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5927\u98DF\u30CE\u88C1\u66F8(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+secret_recipe:
+  atk: 2697
+  col_aid_skill: Fixed chance to greatly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2163)Reduce the physical ATK of 1-3 enemies by a massive amount."
+  cost: 21
+  def: 1511
+  element: wind
+  matk: 2409
+  mdef: 1509
+  name: "Secret Recipe\u79D8\u4F1D\u306E\u30EC\u30B7\u30D4"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4531.png
+  total: 8126(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u79D8\u4F1D\u306E\u30EC\u30B7\u30D4"
+
+burning_passion:
+  atk: 2209
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the magical ATK and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1120
+  element: fire
+  matk: 2440
+  mdef: 1318
+  name: "Burning Passion\u707C\u71B1\u306E\u60C5\u5FF5"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4561.png
+  total: 7087(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u707C\u71B1\u306E\u60C5\u5FF5"
+
+field_records:
+  atk: 2166
+  col_aid_skill: "(\u2161)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Reduce the physical DEF and magical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1364
+  element: wind
+  matk: 2211
+  mdef: 1362
+  name: "Field Records\u8349\u539F\u306E\u8A18\u9332"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4567.png
+  total: 7103(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8349\u539F\u306E\u8A18\u9332"
+
+death_declaration:
+  atk: 2412
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Reduce the physical ATK and magical ATK of 1-2 enemies\
+    \ by a great amount."
+  cost: 19
+  def: 1055
+  element: fire
+  matk: 2519
+  mdef: 1126
+  name: "Death Declaration\u6B7B\u306E\u5BA3\u544A\u66F8"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4589.png
+  total: 7112(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B7B\u306E\u5BA3\u544A\u66F8"
+
+a_captive_tale:
+  atk: 2371
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Reduce the magical ATK and physical DEF of 1-2 enemies\
+    \ by a great amount."
+  cost: 20
+  def: 1435
+  element: fire
+  matk: 2620
+  mdef: 1259
+  name: "A Captive Tale\u56DA\u308F\u308C\u306E\u7269\u8A9E"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4603.png
+  total: 7685(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u56DA\u308F\u308C\u306E\u7269\u8A9E"

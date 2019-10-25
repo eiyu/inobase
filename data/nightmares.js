@@ -5,7 +5,7 @@ let nightmares = {};
 
 try {
   NIGHTMARES.forEach(type => {
-    const file = fs.readFileSync(`./data/nightmares/${type}.yml`, 'utf8');
+    const file = fs.readFileSync(`./assets/nightmares/${type}.yml`, 'utf8');
     Object.assign(nightmares, {
       [type]:  yaml.safeLoad(file)
     });

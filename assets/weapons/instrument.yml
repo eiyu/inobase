@@ -1,0 +1,1402 @@
+
+wrought_iron_violin:
+  atk: 1895
+  col_aid_skill: "(\u2160)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a small amount while executing commands."
+  colosseum_skill: "(\u2163)Increase the physical ATK of 1 ally by a massive amount."
+  cost: 18
+  def: 1010
+  element: fire
+  matk: 1261
+  mdef: 674
+  name: "Wrought Iron Violin\u9ED2\u9244\u306E\u63D0\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0784.png
+  total: 4840(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u63D0\u7434"
+
+trumpet_gun_of_depravity:
+  atk: 1916
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Increase the magical ATK of 1-2 allies by a great amount."
+  cost: 18
+  def: 1160
+  element: water
+  matk: 2365
+  mdef: 1158
+  name: "Trumpet Gun of Depravity\u5351\u52A3\u306E\u5587\u53ED\u9283"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1130.png
+  total: 6599(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5351\u52A3\u306E\u5587\u53ED\u9283"
+
+dragon_harp_of_silence:
+  atk: 2476
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK of 1-2 allies by a great amount."
+  cost: 18
+  def: 1164
+  element: water
+  matk: 1648
+  mdef: 1162
+  name: "Dragon Harp of Silence\u9759\u5BC2\u306E\u7ADC\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1144.png
+  total: 6450(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9759\u5BC2\u306E\u7ADC\u7434"
+
+harp_of_husks:
+  atk: 2283
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.  Increased effect when at a disadvantage.
+  colosseum_skill: "(\u2163)Increase the physical ATK of 1 ally by a massive amount."
+  cost: 19
+  def: 1132
+  element: wind
+  matk: 1519
+  mdef: 1130
+  name: "Harp of Husks\u6BBB\u30CE\u7AEA\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1154.png
+  total: 6064(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6BBB\u30CE\u7AEA\u7434"
+
+sickly_sweet_harp:
+  atk: 2184
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical DEF and magical DEF of 1 ally by\
+    \ a great amount."
+  cost: 18
+  def: 1160
+  element: water
+  matk: 2180
+  mdef: 1158
+  name: "Sickly Sweet Harp\u6BD2\u83D3\u5B50\u306E\u7AEA\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1160.png
+  total: 6682(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6BD2\u83D3\u5B50\u306E\u7AEA\u7434"
+
+violin_of_justice:
+  atk: 2371
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1 ally by\
+    \ a great amount."
+  cost: 18
+  def: 879
+  element: wind
+  matk: 2367
+  mdef: 877
+  name: "Violin of Justice\u6B63\u7FA9\u306E\u63D0\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1302.png
+  total: 6494(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u63D0\u7434"
+
+wrought_iron_harp:
+  atk: 1899
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2163)Increase the magical ATK of 1 ally by a massive amount."
+  cost: 18
+  def: 1014
+  element: water
+  matk: 1265
+  mdef: 678
+  name: "Wrought Iron Harp\u9ED2\u9244\u306E\u7AEA\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1348.png
+  total: 4856(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u7AEA\u7434"
+
+harp_of_violence:
+  atk: 1844
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the magical DEF of 1-2 allies by a great amount."
+  cost: 18
+  def: 742
+  element: fire
+  matk: 1840
+  mdef: 1108
+  name: "Harp of Violence\u66B4\u529B\u306E\u7AEA\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1352.png
+  total: 5534(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u7AEA\u7434"
+
+sound_of_hot_illumination:
+  atk: 2479
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2163)Increase the physical ATK of 1 ally by a massive amount,\
+    \ 1.5x effect when at a disadvantage."
+  cost: 18
+  def: 1167
+  element: fire
+  matk: 1651
+  mdef: 1165
+  name: "Sound of Hot Illumination\u71B1\u30AF\u7167\u30E9\u30B9\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1387.png
+  total: 6462(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u71B1\u30AF\u7167\u30E9\u30B9\u97F3"
+
+sunshine_whistle:
+  atk: 2374
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1263
+  element: fire
+  matk: 1917
+  mdef: 1022
+  name: "Sunshine Whistle\u967D\u5149\u306E\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1455.png
+  total: 6576(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u967D\u5149\u306E\u7B1B"
+
+string_instrument_of_the_evil_bone:
+  atk: 2193
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Increase the magical ATK of 2 allies by a moderate amount."
+  cost: 18
+  def: 1169
+  element: fire
+  matk: 2189
+  mdef: 1167
+  name: "String Instrument of the Evil Bone\u9B54\u9AB8\u306E\u5F26\u697D\u5668"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1479.png
+  total: 6718(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9B54\u9AB8\u306E\u5F26\u697D\u5668"
+
+harp_of_the_warrior:
+  atk: 2108
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1265
+  element: fire
+  matk: 2051
+  mdef: 1263
+  name: "Harp of the Warrior\u93A7\u95D8\u58EB\u306E\u7AEA\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1567.png
+  total: 6687(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u93A7\u95D8\u58EB\u306E\u7AEA\u7434"
+
+steel_whistle:
+  atk: 2055
+  col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2161)Increase the magical DEF of 2 allies by a moderate amount."
+  cost: 18
+  def: 1265
+  element: water
+  matk: 2104
+  mdef: 1263
+  name: "Steel Whistle\u92FC\u9244\u306E\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1587.png
+  total: 6687(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u92FC\u9244\u306E\u7B1B"
+
+sound_of_remains:
+  atk: 2185
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2161)Increase the physical ATK of 2 allies by a moderate amount."
+  cost: 18
+  def: 1161
+  element: wind
+  matk: 2181
+  mdef: 1159
+  name: "Sound of Remains\u907A\u9AB8\u306E\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1611.png
+  total: 6686(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u907A\u9AB8\u306E\u97F3"
+
+harp_of_new_bonds:
+  atk: 2185
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1 ally by\
+    \ a great amount."
+  cost: 18
+  def: 1185
+  element: wind
+  matk: 2181
+  mdef: 1159
+  name: "Harp of New Bonds\u65B0\u7DD1\u5171\u6709\u306E\u7AEA\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1721.png
+  total: 6710(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u65B0\u7DD1\u5171\u6709\u306E\u7AEA\u7434"
+
+violin_of_fraternity:
+  atk: 2185
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2161)Increase the physical ATK and magical ATK of 2 allies\
+    \ by a moderate amount."
+  cost: 18
+  def: 1089
+  element: water
+  matk: 2181
+  mdef: 1087
+  name: "Violin of Fraternity\u53CB\u611B\u306E\u63D0\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1731.png
+  total: 6542(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u53CB\u611B\u306E\u63D0\u7434"
+
+wrought_iron_fife:
+  atk: 1677
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 895
+  element: wind
+  matk: 1673
+  mdef: 893
+  name: "Wrought Iron Fife\u9ED2\u9244\u306E\u6A2A\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1826.png
+  total: 5138(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u6A2A\u7B1B"
+
+guide_of_the_evil_rabbit:
+  atk: 2056
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Increase the physical DEF and magical DEF of 2 allies\
+    \ by a moderate amount."
+  cost: 18
+  def: 1293
+  element: water
+  matk: 2052
+  mdef: 1291
+  name: "Guide of the Evil Rabbit\u60AA\u514E\u306E\u9053\u3057\u308B\u3079"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1898.png
+  total: 6692(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60AA\u514E\u306E\u9053\u3057\u308B\u3079"
+
+dark_forests:
+  atk: 2048
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the magical ATK of 1-2 allies by a great amount."
+  cost: 18
+  def: 1117
+  element: wind
+  matk: 2299
+  mdef: 1202
+  name: "Dark Forests\u95C7\u591C\u30CE\u68EE"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1910.png
+  total: 6666(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u95C7\u591C\u30CE\u68EE"
+
+a_breeze's_whisper:
+  atk: 2107
+  col_aid_skill: "(\u2161)Fixed chance to increase magical ATK of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Increase the magical DEF of 1-2 allies by a great amount."
+  cost: 18
+  def: 1245
+  element: wind
+  matk: 2186
+  mdef: 1121
+  name: "A Breeze's Whisper\u6DBC\u98A8\u306E\u56C1\u304D"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1926.png
+  total: 6659(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6DBC\u98A8\u306E\u56C1\u304D"
+
+harp_of_the_bird_winner:
+  atk: 2235
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1094
+  element: wind
+  matk: 2268
+  mdef: 1092
+  name: "Harp of the Bird Winner\u9CE5\u51A0\u306E\u7AEA\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1946.png
+  total: 6689(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9CE5\u51A0\u306E\u7AEA\u7434"
+
+biwa_of_suffering:
+  atk: 2268
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2163)Increase the physical ATK of 1 ally by a massive amount,\
+    \ 1.5x effect when at a disadvantage."
+  cost: 18
+  def: 1162
+  element: water
+  matk: 2046
+  mdef: 1160
+  name: "Biwa of Suffering\u88AB\u8650\u306E\u7435\u7436"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2002.png
+  total: 6636(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u7435\u7436"
+
+sound_of_restriants:
+  atk: 2272
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Increase the physical ATK and magical ATK of 2 allies\
+    \ by a moderate amount."
+  cost: 18
+  def: 1070
+  element: wind
+  matk: 2268
+  mdef: 1068
+  name: "Sound of Restriants\u7DCA\u7E1B\u306E\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2016.png
+  total: 6678(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7DCA\u7E1B\u306E\u97F3"
+
+violin_of_divine_fires:
+  atk: 2237
+  col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Increase the physical DEF of 1-2 allies by a great amount."
+  cost: 18
+  def: 1212
+  element: fire
+  matk: 2105
+  mdef: 1094
+  name: "Violin of Divine Fires\u795E\u706B\u306E\u63D0\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2028.png
+  total: 6648(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795E\u706B\u306E\u63D0\u7434"
+
+flute_of_the_altar:
+  atk: 2273
+  col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2161)Increase the physical ATK of 2 allies by a moderate amount."
+  cost: 18
+  def: 1167
+  element: fire
+  matk: 2051
+  mdef: 1165
+  name: "Flute of the Altar\u796D\u58C7\u306E\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2047.png
+  total: 6656(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u796D\u58C7\u306E\u7B1B"
+
+sound_of_death_knells_(calamitous):
+  atk: 2622
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 20
+  def: 1415
+  element: wind
+  matk: 2365
+  mdef: 1257
+  name: "Sound of Death Knells (Calamitous)\u65AD\u672B\u9B54\u306E\u97F3(\u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2061.png
+  total: 7659(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u65AD\u672B\u9B54\u306E\u97F3(\u798D\
+    )"
+
+timbre_of_immorality_(calamitous):
+  atk: 2446
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Increase the physical ATK and magical ATK of 2 allies\
+    \ by a moderate amount."
+  cost: 19
+  def: 1122
+  element: fire
+  matk: 2442
+  mdef: 1120
+  name: "Timbre of Immorality (Calamitous)\u80CC\u5FB3\u306E\u97F3\u8272(\u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2063.png
+  total: 7130(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u80CC\u5FB3\u306E\u97F3\u8272(\u798D\
+    )"
+
+gambler's_whistle:
+  atk: 1781
+  col_aid_skill: "(\u2160)Fixed chance to Increase the magical DEF of 1 ally in the\
+    \ vanguard by a slightly amount while healing."
+  colosseum_skill: "(\u2163)Increase the magical DEF of 1 ally by a massive amount."
+  cost: 18
+  def: 988
+  element: fire
+  matk: 1847
+  mdef: 1023
+  name: "Gambler's Whistle\u8CED\u535A\u5E2B\u306E\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2099.png
+  total: 5639(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8CED\u535A\u5E2B\u306E\u7B1B"
+
+voice_in_the_resounding_dark:
+  atk: 2273
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical ATK of 1-2 allies by a great amount."
+  cost: 18
+  def: 1211
+  element: water
+  matk: 2051
+  mdef: 1093
+  name: "Voice in the Resounding Dark\u95C7\u306B\u97FF\u304F\u58F0"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2217.png
+  total: 6628(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u95C7\u306B\u97FF\u304F\u58F0"
+
+timbre_of_flowing_water:
+  atk: 2335
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Increase the physical ATK and magical ATK of 2 allies\
+    \ by a moderate amount."
+  cost: 18
+  def: 1041
+  element: water
+  matk: 2331
+  mdef: 1020
+  name: "Timbre of Flowing Water\u6D41\u6C34\u306E\u97F3\u8272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2233.png
+  total: 6727(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6D41\u6C34\u306E\u97F3\u8272"
+
+bone_instrument_of_the_water_fish:
+  atk: 2404
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1148
+  element: water
+  matk: 2400
+  mdef: 1172
+  name: "Bone Instrument of the Water Fish\u6C34\u9B5A\u306E\u9AA8\u697D\u5668"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2251.png
+  total: 7124(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C34\u9B5A\u306E\u9AA8\u697D\u5668"
+
+harmonies_of_movements:
+  atk: 1954
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2161)Increase the magical ATK of 2 allies by a moderate amount."
+  cost: 18
+  def: 1161
+  element: fire
+  matk: 2329
+  mdef: 1183
+  name: "Harmonies of Movements\u8AE7\u8B14\u66F2\u306E\u697D\u7AE0"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2321.png
+  total: 6627(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8AE7\u8B14\u66F2\u306E\u697D\u7AE0"
+
+black_harp_of_sorrow:
+  atk: 2128
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical ATK of 1-2 allies by a great amount."
+  cost: 19
+  def: 1075
+  element: water
+  matk: 1847
+  mdef: 1095
+  name: "Black Harp of Sorrow\u60B2\u54C0\u306E\u9ED2\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2325.png
+  total: 6145(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u9ED2\u7434"
+
+timbre_of_the_sacred_tree:
+  atk: 2051
+  col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Increase the physical DEF of 1-2 allies by a great amount."
+  cost: 18
+  def: 1270
+  element: wind
+  matk: 2047
+  mdef: 1161
+  name: "Timbre of the Sacred Tree\u795E\u8056\u6A39\u306E\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2333.png
+  total: 6529(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795E\u8056\u6A39\u306E\u97F3"
+
+crafted_six-stringed_guitar:
+  atk: 2335
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Increase the physical ATK of 2 allies by a moderate amount."
+  cost: 18
+  def: 1163
+  element: fire
+  matk: 1952
+  mdef: 1161
+  name: "Crafted Six-Stringed Guitar\u610F\u5320\u306E\u516D\u7D43\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2343.png
+  total: 6611(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u610F\u5320\u306E\u516D\u7D43\u7434"
+
+evil_god's_flute:
+  atk: 1728
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "(\u2161)Increase the magical DEF of 2 allies by a moderate amount."
+  cost: 19
+  def: 1017
+  element: fire
+  matk: 1769
+  mdef: 1032
+  name: "Evil God's Flute\u90AA\u795E\u306E\u6A2A\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2381.png
+  total: 5546(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u90AA\u795E\u306E\u6A2A\u7B1B"
+
+timbre_of_the_hourglass:
+  atk: 2011
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1097
+  element: fire
+  matk: 2337
+  mdef: 1191
+  name: "Timbre of the Hourglass\u7802\u785D\u5B50\u306E\u97F3\u8272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2389.png
+  total: 6636(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7802\u785D\u5B50\u306E\u97F3\u8272"
+
+sound_of_evil_liberation:
+  atk: 2236
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1124
+  element: water
+  matk: 2187
+  mdef: 1093
+  name: "Sound of Evil Liberation\u60AA\u3092\u653E\u3064\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2397.png
+  total: 6640(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60AA\u3092\u653E\u3064\u97F3"
+
+a_song_to_the_rainbow:
+  atk: 2003
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1089
+  element: water
+  matk: 2329
+  mdef: 1223
+  name: "A Song to the Rainbow\u8679\u306B\u6367\u3052\u308B\u5504"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2411.png
+  total: 6644(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8679\u306B\u6367\u3052\u308B\u5504"
+
+winged_whickers:
+  atk: 2306
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1242
+  element: wind
+  matk: 2047
+  mdef: 1039
+  name: "Winged Whickers\u5636\u304F\u6709\u7FFC"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2433.png
+  total: 6634(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5636\u304F\u6709\u7FFC"
+
+ceremony_of_divine_waters:
+  atk: 2051
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Increase the magical DEF of 1-2 allies by a great amount."
+  cost: 18
+  def: 1163
+  element: water
+  matk: 2183
+  mdef: 1240
+  name: "Ceremony of Divine Waters\u795E\u6C34\u306E\u5100\u5F0F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2513.png
+  total: 6637(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u795E\u6C34\u306E\u5100\u5F0F"
+
+trancing_sleep:
+  atk: 2410
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1305
+  element: wind
+  matk: 2211
+  mdef: 1178
+  name: "Trancing Sleep\u604D\u60DA\u306E\u7720\u308A"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2607.png
+  total: 7104(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u604D\u60DA\u306E\u7720\u308A"
+
+timbre_of_dietary:
+  atk: 2048
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1088
+  element: fire
+  matk: 2299
+  mdef: 1222
+  name: "Timbre of Dietary\u98DF\u4E8B\u306E\u97F3\u8272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2640.png
+  total: 6657(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u98DF\u4E8B\u306E\u97F3\u8272"
+
+melody_of_blessings:
+  atk: 2340
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2161)Increase the physical ATK and physical DEF of 2 allies\
+    \ by a moderate amount."
+  cost: 18
+  def: 1232
+  element: fire
+  matk: 2006
+  mdef: 1044
+  name: "Melody of Blessings\u5E78\u798F\u306E\u65CB\u5F8B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2648.png
+  total: 6622(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5E78\u798F\u306E\u65CB\u5F8B"
+
+goddess'_poems:
+  atk: 2268
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1321
+  element: water
+  matk: 2206
+  mdef: 1319
+  name: "Goddess' Poems\u5973\u795E\u306E\u8A69"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2662.png
+  total: 7114(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5973\u795E\u306E\u8A69"
+
+echoes_of_restriction:
+  atk: 2270
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2161)Increase the physical ATK and magical ATK of 2 allies\
+    \ by a moderate amount."
+  cost: 18
+  def: 1068
+  element: water
+  matk: 2266
+  mdef: 1066
+  name: "Echoes of Restriction\u675F\u7E1B\u306E\u6B8B\u97FF"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2694.png
+  total: 6670(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u6B8B\u97FF"
+
+expectation_of_births:
+  atk: 2268
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1206
+  element: wind
+  matk: 2046
+  mdef: 1088
+  name: "Expectation of Births\u751F\u8A95\u3078\u306E\u671F\u5F85"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2732.png
+  total: 6608(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u751F\u8A95\u3078\u306E\u671F\u5F85"
+
+fife_of_bucktooths:
+  atk: 2266
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 19
+  def: 1319
+  element: wind
+  matk: 2204
+  mdef: 1317
+  name: "Fife of Bucktooths\u66B4\u7259\u306E\u6A2A\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2740.png
+  total: 7106(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u7259\u306E\u6A2A\u7B1B"
+
+fife_of_refraction:
+  atk: 2103
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "/(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 18
+  def: 1226
+  element: water
+  matk: 2046
+  mdef: 1224
+  name: "Fife of Refraction\u5C48\u6298\u5149\u306E\u6A2A\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2782.png
+  total: 6599(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5C48\u6298\u5149\u306E\u6A2A\u7B1B"
+
+the_artist's_secret:
+  atk: 2449
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1325
+  element: fire
+  matk: 2161
+  mdef: 1177
+  name: "The Artist's Secret\u753B\u5BB6\u306E\u79D8\u5BC6"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2786.png
+  total: 7112(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u753B\u5BB6\u306E\u79D8\u5BC6"
+
+violin_of_fictions:
+  atk: 1961
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1125
+  element: wind
+  matk: 2307
+  mdef: 1245
+  name: "Violin of Fictions\u865A\u69CB\u306E\u63D0\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2808.png
+  total: 6638(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u865A\u69CB\u306E\u63D0\u7434"
+
+nose_of_dependancy:
+  atk: 2304
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: Increase the physical DEF and magical DEF of 1-2 allies by a massive
+    amount.
+  cost: 22
+  def: 1336
+  element: water
+  matk: 2471
+  mdef: 1334
+  name: "Nose of Dependancy\u4F9D\u5B58\u306E\u30D3\u30EA\u30E7\u30A6"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2821.png
+  total: 7445(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u30D3\u30EA\u30E7\u30A6"
+
+sound_of_the_moonlight:
+  atk: 2159
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1147
+  element: water
+  matk: 2479
+  mdef: 1317
+  name: "Sound of the Moonlight\u6708\u706F\u308A\u306E\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2840.png
+  total: 7102(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6708\u706F\u308A\u306E\u97F3"
+
+timbre_of_garrote:
+  atk: 2006
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical DEF and magical DEF while providing backup."
+  colosseum_skill: "(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1068
+  element: fire
+  matk: 2303
+  mdef: 1226
+  name: "Timbre of Garrote\u9244\u74B0\u306E\u97F3\u8272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2974.png
+  total: 6603(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9244\u74B0\u306E\u97F3\u8272"
+
+wood_tones_of_the_end:
+  atk: 2056
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 18
+  def: 1266
+  element: water
+  matk: 2052
+  mdef: 1273
+  name: "Wood Tones of The End\u6700\u671F\u306E\u6728\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3108.png
+  total: 6647(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6700\u671F\u306E\u6728\u97F3"
+
+timbre_of_the_evil_invitation:
+  atk: 2008
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the magical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1245
+  element: water
+  matk: 2268
+  mdef: 1121
+  name: "Timbre of the Evil Invitation\u8A98\u60AA\u306E\u97F3\u8272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3116.png
+  total: 6642(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8A98\u60AA\u306E\u97F3\u8272"
+
+mechanical_tunes:
+  atk: 2405
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1121
+  element: wind
+  matk: 2441
+  mdef: 1119
+  name: "Mechanical Tunes\u6A5F\u68B0\u4ED5\u639B\u30B1\u30CE\u5F8B\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3122.png
+  total: 7086(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6A5F\u68B0\u4ED5\u639B\u30B1\u30CE\u5F8B\
+    \u97F3"
+
+joyful_flute_of_the_fallen:
+  atk: 2333
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1259
+  element: water
+  matk: 1950
+  mdef: 1087
+  name: "Joyful Flute of the Fallen\u5815\u5929\u306E\u559C\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3201.png
+  total: 6629(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5815\u5929\u306E\u559C\u7B1B"
+
+six-stringed_travels_of_restriction:
+  atk: 1953
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2161)Increase the magical ATK and magical DEF of 2 allies by\
+    \ a moderate amount."
+  cost: 18
+  def: 1038
+  element: fire
+  matk: 2365
+  mdef: 1256
+  name: "Six-Stringed Travels of Restriction\u675F\u7E1B\u306E\u65C5\u516D\u5F26"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3320.png
+  total: 6612(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u65C5\u516D\u5F26"
+
+"d\xE1insleif":
+  atk: 2160
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the magical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1358
+  element: fire
+  matk: 2440
+  mdef: 1118
+  name: "D\xE1insleif\u30C0\u30FC\u30A4\u30F3\u30B9\u30EC\u30A4\u30F4"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3341.png
+  total: 7076(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30C0\u30FC\u30A4\u30F3\u30B9\u30EC\u30A4\
+    \u30F4"
+
+timbre_of_the_loving_fate:
+  atk: 2002
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 18
+  def: 1298
+  element: fire
+  matk: 2044
+  mdef: 1296
+  name: "Timbre of the Loving Fate\u904B\u547D\u611B\u306E\u97F3\u8272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3390.png
+  total: 6640(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u904B\u547D\u611B\u306E\u97F3\u8272"
+
+warped_chord:
+  atk: 2332
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1258
+  element: water
+  matk: 1998
+  mdef: 1036
+  name: "Warped Chord\u6B6A\u5F62\u306E\u548C\u97F3"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3400.png
+  total: 6624(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B6A\u5F62\u306E\u548C\u97F3"
+
+demon's_violin:
+  atk: 1953
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1019
+  element: wind
+  matk: 2414
+  mdef: 1237
+  name: "Demon's Violin\u5996\u9B54\u306E\u63D0\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3410.png
+  total: 6623(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5996\u9B54\u306E\u63D0\u7434"
+
+prosperous_&_benovelent:
+  atk: 2167
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1127
+  element: wind
+  matk: 2487
+  mdef: 1325
+  name: "Prosperous & Benovelent\u76DB\u5B9F\u306E\u52A9\u7272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3418.png
+  total: 7106(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u76DB\u5B9F\u306E\u52A9\u7272"
+
+sanshin_of_laziness_(kageuchi):
+  atk: 2230
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1039
+  element: water
+  matk: 2263
+  mdef: 1087
+  name: "Sanshin of Laziness (Kageuchi)\u6020\u60F0\u30CE\u4E09\u7DDA(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3501.png
+  total: 6619(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6020\u60F0\u30CE\u4E09\u7DDA(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+flaming_demonic_fife:
+  atk: 2162
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1101
+  element: fire
+  matk: 2482
+  mdef: 1336
+  name: "Flaming Demonic Fife\u707C\u71B1\u306E\u9B54\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3513.png
+  total: 7081(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u707C\u71B1\u306E\u9B54\u7B1B"
+
+the_princess's_relics_(catastrophe):
+  atk: 3114
+  col_aid_skill: Fixed chance to greatly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2164)Increase the physical ATK of 2-3 allies by a massive amount."
+  cost: 22
+  def: 1674
+  element: water
+  matk: 2396
+  mdef: 1363
+  name: "The Princess's Relics (Catastrophe)\u738B\u5983\u306E\u907A\u7269(\u51F6\u798D\
+    )"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3533.png
+  total: 8547(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u738B\u5983\u306E\u907A\u7269(\u51F6\
+    \u798D)"
+
+violin_of_the_fearful_sound_(catastrophe):
+  atk: 2417
+  col_aid_skill: Fixed chance to greatly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2164)Increase the magical ATK of 2-3 allies by a massive amount."
+  cost: 21
+  def: 1286
+  element: wind
+  matk: 2881
+  mdef: 1556
+  name: "Violin of the Fearful Sound (Catastrophe)\u5FCC\u97F3\u306E\u63D0\u7434(\u51F6\
+    \u798D)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3535.png
+  total: 8140(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FCC\u97F3\u306E\u63D0\u7434(\u51F6\
+    \u798D)"
+
+gold_craving_fife_of_depravity:
+  atk: 2515
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1336
+  element: wind
+  matk: 2103
+  mdef: 1118
+  name: "Gold Craving Fife of Depravity\u5351\u52A3\u306E\u91D1\u6B32\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3551.png
+  total: 7072(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5351\u52A3\u306E\u91D1\u6B32\u7B1B"
+
+guardian's_whistle:
+  atk: 2405
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while providing backup."
+  colosseum_skill: "/(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1368
+  element: fire
+  matk: 2157
+  mdef: 1147
+  name: "Guardian's Whistle\u5B88\u308A\u4EBA\u306E\u547C\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3762.png
+  total: 7077(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5B88\u308A\u4EBA\u306E\u547C\u7B1B"
+
+reverberating_jealousy_(smelt):
+  atk: 2531
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 20
+  def: 1297
+  element: fire
+  matk: 2527
+  mdef: 1295
+  name: "Reverberating Jealousy (Smelt)\u5AC9\u5FC3\u306E\u5730\u97FF(\u932C)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3776.png
+  total: 7650(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5AC9\u5FC3\u306E\u5730\u97FF(\u932C\
+    )"
+
+gift_of_song_to_the_gatekeeper:
+  atk: 2210
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the magical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1300
+  element: wind
+  matk: 2441
+  mdef: 1147
+  name: "Gift of Song to the Gatekeeper\u9580\u756A\u306E\u8D08\u308A\u6B4C"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3792.png
+  total: 7098(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9580\u756A\u306E\u8D08\u308A\u6B4C"
+
+performance_of_flames:
+  atk: 2527
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 20
+  def: 1434
+  element: fire
+  matk: 2366
+  mdef: 1341
+  name: "Performance of Flames\u71C8\u706B\u306E\u594F"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3802.png
+  total: 7668(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u71C8\u706B\u306E\u594F"
+
+timbre_of_the_sprout:
+  atk: 2212
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the physical DEF and magical DEF of 1-2 allies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 19
+  def: 1339
+  element: wind
+  matk: 2208
+  mdef: 1337
+  name: "Timbre of the Sprout\u82BD\u5439\u304D\u306E\u97F3\u8272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3814.png
+  total: 7096(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u82BD\u5439\u304D\u306E\u97F3\u8272"
+
+c.c's_biwac.c.:
+  atk: 2052
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1092
+  element: water
+  matk: 2303
+  mdef: 1162
+  name: "C.C's BiwaC.C.\u306E\u7435\u7436"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3934.png
+  total: 6609(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/C.C.\u306E\u7435\u7436"
+
+timbre_of_the_impure:
+  atk: 2447
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1123
+  element: water
+  matk: 2403
+  mdef: 1121
+  name: "Timbre of the Impure\u6C5A\u6FC1\u306E\u97F3\u8272"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3954.png
+  total: 7094(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C5A\u6FC1\u306E\u97F3\u8272"
+
+harp_of_bubbles:
+  atk: 2432
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 20
+  def: 1416
+  element: water
+  matk: 2428
+  mdef: 1392
+  name: "Harp of Bubbles\u6CE1\u6CAB\u306E\u7AEA\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4032.png
+  total: 7668(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6CE1\u6CAB\u306E\u7AEA\u7434"
+
+the_lady's_trap:
+  atk: 2216
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1054
+  element: fire
+  matk: 2487
+  mdef: 1325
+  name: "The Lady's Trap\u8CB4\u5A66\u4EBA\u306E\u7F60"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4048.png
+  total: 7082(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8CB4\u5A66\u4EBA\u306E\u7F60"
+
+anchor_strings_of_violence:
+  atk: 2450
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 19
+  def: 1364
+  element: wind
+  matk: 2211
+  mdef: 1103
+  name: "Anchor Strings of Violence\u66B4\u529B\u306E\u9328\u5F26"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4067.png
+  total: 7128(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u9328\u5F26"
+
+flute_of_the_prejudiced:
+  atk: 2448
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1124
+  element: fire
+  matk: 2209
+  mdef: 1301
+  name: "Flute of the Prejudiced\u504F\u5C48\u8005\u306E\u6A2A\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4075.png
+  total: 7082(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u504F\u5C48\u8005\u306E\u6A2A\u7B1B"
+
+apollo_harp:
+  atk: 2223
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.  Increased effect when at a disadvantage.
+  colosseum_skill: "/(\u2162)Increase the magical ATK and magical DEF of 1-2 allies\
+    \ by a moderate amount. Increase Skill Effects at 5 Minutes Remaining."
+  cost: 20
+  def: 1298
+  element: water
+  matk: 2667
+  mdef: 1477
+  name: "Apollo Harp\u30A2\u30DD\u30ED\u30F3\u306E\u30CF\u30FC\u30D7"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4087.png
+  total: 7665(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u30A2\u30DD\u30ED\u30F3\u306E\u30CF\u30FC\
+    \u30D7"
+
+violin_of_rocks:
+  atk: 2168
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "/(\u2162)Increase the magical ATK and physical DEF of 1-2 allies\
+    \ by a moderate amount. Between the Start of Colosseum & 5 Minutes before it ends,\
+    \ Increase Effects."
+  cost: 19
+  def: 1344
+  element: wind
+  matk: 2488
+  mdef: 1105
+  name: "Violin of Rocks\u5CA9\u306E\u63D0\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4119.png
+  total: 7105(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5CA9\u306E\u63D0\u7434"
+
+ivy_harp_of_laziness_(kageuchi):
+  atk: 2236
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase one vanguard member's\
+    \ physical ATK and magical ATK while providing backup."
+  colosseum_skill: "(\u2162)Increase the magical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1124
+  element: fire
+  matk: 2232
+  mdef: 1043
+  name: "Ivy Harp of Laziness (Kageuchi)\u6020\u60F0\u30CE\u8526\u7434(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4417.png
+  total: 6635(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6020\u60F0\u30CE\u8526\u7434(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+poison_snake's_sneer:
+  atk: 2703
+  col_aid_skill: Fixed chance to greatly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2163)Increase the physical ATK of 1-3 allies by a massive amount."
+  cost: 21
+  def: 1517
+  element: fire
+  matk: 2415
+  mdef: 1491
+  name: "Poison Snake's Sneer\u6BD2\u86C7\u306E\u55E4\u3044"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4527.png
+  total: 8126(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6BD2\u86C7\u306E\u55E4\u3044"
+
+death_knells:
+  atk: 2452
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1213
+  element: wind
+  matk: 2111
+  mdef: 1305
+  name: "Death Knells\u65AD\u672B\u9B54"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4559.png
+  total: 7081(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u65AD\u672B\u9B54"
+
+scythe_flute_of_aesthetics:
+  atk: 2308
+  col_aid_skill: Fixed chance to slightly increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and physical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 18
+  def: 1228
+  element: water
+  matk: 2003
+  mdef: 1067
+  name: "Scythe Flute of Aesthetics\u803D\u7F8E\u306E\u938C\u7B1B"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4575.png
+  total: 6606(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u803D\u7F8E\u306E\u938C\u7B1B"
+
+glorious_violin_of_parvenu:
+  atk: 2446
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical ATK of 1-2 allies\
+    \ by a great amount."
+  cost: 19
+  def: 1049
+  element: fire
+  matk: 2482
+  mdef: 1120
+  name: "Glorious Violin of Parvenu\u6210\u91D1\u306E\u9E97\u63D0\u7434"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4583.png
+  total: 7097(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6210\u91D1\u306E\u9E97\u63D0\u7434"
+
+scarlet_mermaid:
+  atk: 2622
+  col_aid_skill: Fixed chance to moderately increase support effects while providing
+    backup.
+  colosseum_skill: "(\u2162)Increase the physical ATK and magical DEF of 1-2 allies\
+    \ by a great amount."
+  cost: 20
+  def: 1259
+  element: water
+  matk: 2365
+  mdef: 1431
+  name: "Scarlet Mermaid\u4EBA\u9B5A\u306E\u7DCB\u96EB"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4601.png
+  total: 7677(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4EBA\u9B5A\u306E\u7DCB\u96EB"

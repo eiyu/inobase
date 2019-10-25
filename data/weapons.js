@@ -5,7 +5,7 @@ let weapons = {};
 
 try {
   WEAPON_TYPES.forEach(type => {
-    const file = fs.readFileSync(`./data/weapons/${type}.yml`, 'utf8');
+    const file = fs.readFileSync(`./assets/weapons/${type}.yml`, 'utf8');
     Object.assign(weapons, {
       [type]:  yaml.safeLoad(file)
     });

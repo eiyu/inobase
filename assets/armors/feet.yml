@@ -1,0 +1,1630 @@
+
+sorrowful_pumps_ranged:
+  def: 1744
+  mdef: 1413
+  name: "Sorrowful Pumps (Ranged)\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9[\u5C04\
+    \u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0432.png
+  set_effect: Increased Skill effect against Birds.
+  story_skill: Increases effect of Wind-element Ranged skills.
+  total: 3157(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u5C04\u51FA]"
+  weapon_type: ranged
+
+nun's_boots_focus:
+  def: 1417
+  mdef: 1744
+  name: "Nun's Boots (Focus)\u4FEE\u9053\u5973\u306E\u30D6\u30FC\u30C4[\u9B54\u5177\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0444.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Fire-element Focus skills.
+  total: 3161(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4FEE\u9053\u5973\u306E\u30D6\u30FC\u30C4\
+    [\u9B54\u5177]"
+  weapon_type: focus
+
+abyssal_mule_blade:
+  def: 1422
+  mdef: 1749
+  name: "Abyssal Mule (Blade)\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB[\u5200\u5263\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0599.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Water-element Blade skills.
+  total: 3171(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB\
+    [\u5200\u5263]"
+  weapon_type: blade
+
+abyssal_mule_hammer:
+  def: 1414
+  mdef: 1741
+  name: "Abyssal Mule (Hammer)\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB[\u6253\u6483\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0611.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Water-element Hammer skills.
+  total: 3155(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB\
+    [\u6253\u6483]"
+  weapon_type: hammer
+
+abyssal_mule_instrument:
+  def: 1416
+  mdef: 1743
+  name: "Abyssal Mule (Instrument)\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB[\u697D\
+    \u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0623.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Water-element Instrument skills.
+  total: 3159(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB\
+    [\u697D\u5668]"
+  weapon_type: instrument
+
+abyssal_mule_staff:
+  def: 1418
+  mdef: 1745
+  name: "Abyssal Mule (Staff)\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB[\u7948\u7977\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0635.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3163(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB\
+    [\u7948\u7977]"
+  weapon_type: staff
+
+blackstone_boots_polearm:
+  def: 1416
+  mdef: 1743
+  name: "Blackstone Boots (Polearm)\u9ED2\u77F3\u306E\u30D6\u30FC\u30C4[\u9577\u67C4\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0703.png
+  set_effect: Increased Skill effect against Orcs.
+  story_skill: Increases effect of Fire-element Polearm skills.
+  total: 3159(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9ED2\u77F3\u306E\u30D6\u30FC\u30C4[\u9577\
+    \u67C4]"
+  weapon_type: polearm
+
+blackstone_boots_ranged:
+  def: 1418
+  mdef: 1745
+  name: "Blackstone Boots (Ranged)\u9ED2\u77F3\u306E\u30D6\u30FC\u30C4[\u5C04\u51FA\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0715.png
+  set_effect: Increased Skill effect against Orcs.
+  story_skill: Increases effect of Fire-element Ranged skills.
+  total: 3163(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9ED2\u77F3\u306E\u30D6\u30FC\u30C4[\u5C04\
+    \u51FA]"
+  weapon_type: ranged
+
+blackstone_boots_tome:
+  def: 1420
+  mdef: 1747
+  name: "Blackstone Boots (Tome)\u9ED2\u77F3\u306E\u30D6\u30FC\u30C4[\u9B54\u66F8]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0727.png
+  set_effect: Increased Skill effect against Orcs.
+  story_skill: Increases effect of Fire-element Tome skills.
+  total: 3167(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9ED2\u77F3\u306E\u30D6\u30FC\u30C4[\u9B54\
+    \u66F8]"
+  weapon_type: tome
+
+blackstone_boots_focus:
+  def: 1422
+  mdef: 1749
+  name: "Blackstone Boots (Focus)\u9ED2\u77F3\u306E\u30D6\u30FC\u30C4[\u9B54\u5177\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0739.png
+  set_effect: Increased Skill effect against Orcs.
+  story_skill: Increases effect of Fire-element Focus skills.
+  total: 3171(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9ED2\u77F3\u306E\u30D6\u30FC\u30C4[\u9B54\
+    \u5177]"
+  weapon_type: focus
+
+2b_boots_polearmb_:
+  def: 1422
+  mdef: 1749
+  name: "2B Boots (Polearm)\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4[\u9577\u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0839.png
+  set_effect: Increased Skill effect against Machine Lifeforms and Emil .
+  story_skill: Increases effect of Water-element Polearm skills.
+  total: 3171(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4\
+    [\u9577\u67C4]"
+  weapon_type: polearm
+
+2b_boots_rangedb_:
+  def: 1414
+  mdef: 1741
+  name: "2B Boots (Ranged)\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4[\u5C04\u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0851.png
+  set_effect: Increased Skill effect against Machine Lifeforms and Emil .
+  story_skill: Increases effect of Water-element Ranged skills.
+  total: 3155(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4\
+    [\u5C04\u51FA]"
+  weapon_type: ranged
+
+2b_boots_tomeb_:
+  def: 1416
+  mdef: 1743
+  name: "2B Boots (Tome)\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4[\u9B54\u66F8]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0863.png
+  set_effect: Increased Skill effect against Machine Lifeforms and Emil .
+  story_skill: Increases effect of Water-element Tome skills.
+  total: 3159(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4\
+    [\u9B54\u66F8]"
+  weapon_type: tome
+
+2b_boots_focusb_:
+  def: 1418
+  mdef: 1745
+  name: "2B Boots (Focus)\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4[\u9B54\u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0875.png
+  set_effect: Increased Skill effect against Machine Lifeforms and Emil .
+  story_skill: Increases effect of Water-element Focus skills.
+  total: 3163(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4\
+    [\u9B54\u5177]"
+  weapon_type: focus
+
+2b_boots_bladeb_:
+  def: 1420
+  mdef: 1747
+  name: "2B Boots (Blade)\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4[\u5200\u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0887.png
+  set_effect: Increased Skill effect against Machine Lifeforms and Emil .
+  story_skill: Increases effect of Water-element Blade skills.
+  total: 3167(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4\
+    [\u5200\u5263]"
+  weapon_type: blade
+
+2b_boots_hammerb_:
+  def: 1422
+  mdef: 1749
+  name: "2B Boots (Hammer)\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4[\u6253\u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0899.png
+  set_effect: Increased Skill effect against Machine Lifeforms and Emil .
+  story_skill: Increases effect of Water-element Hammer skills.
+  total: 3171(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4\
+    [\u6253\u6483]"
+  weapon_type: hammer
+
+2b_boots_instrumentb_:
+  def: 1414
+  mdef: 1741
+  name: "2B Boots (Instrument)\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4[\u697D\u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0911.png
+  set_effect: Increased Skill effect against Machine Lifeforms and Emil .
+  story_skill: Increases effect of Water-element Instrument skills.
+  total: 3155(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4\
+    [\u697D\u5668]"
+  weapon_type: instrument
+
+2b_boots_staffb_:
+  def: 1416
+  mdef: 1743
+  name: "2B Boots (Staff)\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4[\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0923.png
+  set_effect: Increased Skill effect against Machine Lifeforms and Emil .
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3159(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4E8C\u53F7B\u578B \u30D6\u30FC\u30C4\
+    [\u7948\u7977]"
+  weapon_type: staff
+
+golden_shinguards_ranged:
+  def: 1420
+  mdef: 1747
+  name: "Golden Shinguards (Ranged)\u9EC4\u91D1\u306E\u811B\u5F53\u3066[\u5C04\u51FA\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0937.png
+  set_effect: Increased Skill effect against Beasts.
+  story_skill: Increases effect of Wind-element Ranged skills.
+  total: 3167(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9EC4\u91D1\u306E\u811B\u5F53\u3066[\u5C04\
+    \u51FA]"
+  weapon_type: ranged
+
+golden_shinguards_hammer:
+  def: 1422
+  mdef: 1749
+  name: "Golden Shinguards (Hammer)\u9EC4\u91D1\u306E\u811B\u5F53\u3066[\u6253\u6483\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0949.png
+  set_effect: Increased Skill effect against Beasts.
+  story_skill: Increases effect of Wind-element Hammer skills.
+  total: 3171(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9EC4\u91D1\u306E\u811B\u5F53\u3066[\u6253\
+    \u6483]"
+  weapon_type: hammer
+
+golden_shinguards_tome:
+  def: 1414
+  mdef: 1741
+  name: "Golden Shinguards (Tome)\u9EC4\u91D1\u306E\u811B\u5F53\u3066[\u9B54\u66F8\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0961.png
+  set_effect: Increased Skill effect against Beasts.
+  story_skill: Increases effect of Wind-element Tome skills.
+  total: 3155(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9EC4\u91D1\u306E\u811B\u5F53\u3066[\u9B54\
+    \u66F8]"
+  weapon_type: tome
+
+golden_shinguards_staff:
+  def: 1416
+  mdef: 1743
+  name: "Golden Shinguards (Staff)\u9EC4\u91D1\u306E\u811B\u5F53\u3066[\u7948\u7977\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS0973.png
+  set_effect: Increased Skill effect against Beasts.
+  story_skill: Increases effect of Wind-element Staff skills.
+  total: 3159(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9EC4\u91D1\u306E\u811B\u5F53\u3066[\u7948\
+    \u7977]"
+  weapon_type: staff
+
+abyssal_mule_polearm:
+  def: 1418
+  mdef: 1745
+  name: "Abyssal Mule (Polearm)\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB[\u9577\u67C4\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1325.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Water-element Polearm skills.
+  total: 3163(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB\
+    [\u9577\u67C4]"
+  weapon_type: polearm
+
+abyssal_mule_tome:
+  def: 1420
+  mdef: 1747
+  name: "Abyssal Mule (Tome)\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB[\u9B54\u66F8\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1337.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Water-element Tome skills.
+  total: 3167(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u5E95\u306E\u30DF\u30E5\u30FC\u30EB\
+    [\u9B54\u66F8]"
+  weapon_type: tome
+
+sandstone_boots_polearm:
+  def: 1415
+  mdef: 1742
+  name: "Sandstone Boots (Polearm)\u7802\u5CA9\u306E\u30D6\u30FC\u30C4[\u9577\u67C4\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1512.png
+  set_effect: Increased Skill effect against Wisps.
+  story_skill: Increases effect of Fire-element Polearm skills.
+  total: 3157(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u7802\u5CA9\u306E\u30D6\u30FC\u30C4[\u9577\
+    \u67C4]"
+  weapon_type: polearm
+
+sandstone_boots_blade:
+  def: 1417
+  mdef: 1744
+  name: "Sandstone Boots (Blade)\u7802\u5CA9\u306E\u30D6\u30FC\u30C4[\u5200\u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1524.png
+  set_effect: Increased Skill effect against Wisps.
+  story_skill: Increases effect of Fire-element Blade skills.
+  total: 3161(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u7802\u5CA9\u306E\u30D6\u30FC\u30C4[\u5200\
+    \u5263]"
+  weapon_type: blade
+
+sandstone_boots_instrument:
+  def: 1419
+  mdef: 1746
+  name: "Sandstone Boots (Instrument)\u7802\u5CA9\u306E\u30D6\u30FC\u30C4[\u697D\u5668\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1536.png
+  set_effect: Increased Skill effect against Wisps.
+  story_skill: Increases effect of Fire-element Instrument skills.
+  total: 3165(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u7802\u5CA9\u306E\u30D6\u30FC\u30C4[\u697D\
+    \u5668]"
+  weapon_type: instrument
+
+sandstone_boots_staff:
+  def: 1421
+  mdef: 1748
+  name: "Sandstone Boots (Staff)\u7802\u5CA9\u306E\u30D6\u30FC\u30C4[\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1548.png
+  set_effect: Increased Skill effect against Wisps.
+  story_skill: Increases effect of Fire-element Staff skills.
+  total: 3169(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u7802\u5CA9\u306E\u30D6\u30FC\u30C4[\u7948\
+    \u7977]"
+  weapon_type: staff
+
+marching_band_shoes_ranged:
+  def: 1928
+  mdef: 1926
+  name: "Marching Band Shoes (Ranged)\u97F3\u697D\u968A\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u5C04\u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4096.png
+  set_effect: Increased Skill effect against Satans.
+  story_skill: Increases effect of Wind-element Ranged skills.
+  total: 3854(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u97F3\u697D\u968A\u306E\u30B7\u30E5\u30FC\
+    \u30BA[\u5C04\u51FA]"
+  weapon_type: ranged
+
+marching_band_shoes_hammer:
+  def: 1922
+  mdef: 1920
+  name: "Marching Band Shoes (Hammer)\u97F3\u697D\u968A\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u6253\u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4100.png
+  set_effect: Increased Skill effect against Satans.
+  story_skill: Increases effect of Wind-element Hammer skills.
+  total: 3842(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u97F3\u697D\u968A\u306E\u30B7\u30E5\u30FC\
+    \u30BA[\u6253\u6483]"
+  weapon_type: hammer
+
+marching_band_shoes_instrument:
+  def: 1926
+  mdef: 1924
+  name: "Marching Band Shoes (Instrument)\u97F3\u697D\u968A\u306E\u30B7\u30E5\u30FC\
+    \u30BA[\u697D\u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4104.png
+  set_effect: Increased Skill effect against Satans.
+  story_skill: Increases effect of Wind-element Instrument skills.
+  total: 3850(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u97F3\u697D\u968A\u306E\u30B7\u30E5\u30FC\
+    \u30BA[\u697D\u5668]"
+  weapon_type: instrument
+
+marching_band_shoes_focus:
+  def: 1930
+  mdef: 1928
+  name: "Marching Band Shoes (Focus)\u97F3\u697D\u968A\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u9B54\u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4108.png
+  set_effect: Increased Skill effect against Satans.
+  story_skill: Increases effect of Wind-element Focus skills.
+  total: 3858(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u97F3\u697D\u968A\u306E\u30B7\u30E5\u30FC\
+    \u30BA[\u9B54\u5177]"
+  weapon_type: focus
+
+zero_shoes_blade:
+  def: 1618
+  mdef: 1616
+  name: "Zero Shoes (Blade)\u30BC\u30ED\u306E\u9774[\u5200\u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1763.png
+  set_effect: Increased Skill effect against Monster[DOD3].
+  story_skill: Slightly increase effect of Blade Weapon skills.
+  total: 3234(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u30BC\u30ED\u306E\u9774[\u5200\u5263]"
+  weapon_type: blade
+
+zero_shoes_polearm:
+  def: 1620
+  mdef: 1618
+  name: "Zero Shoes (Polearm)\u30BC\u30ED\u306E\u9774[\u9577\u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1775.png
+  set_effect: Increased Skill effect against Monster[DOD3].
+  story_skill: Slightly increase effect of Polearm Weapon skills.
+  total: 3238(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u30BC\u30ED\u306E\u9774[\u9577\u67C4]"
+  weapon_type: polearm
+
+zero_shoes_staff:
+  def: 1622
+  mdef: 1620
+  name: "Zero Shoes (Staff)\u30BC\u30ED\u306E\u9774[\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1787.png
+  set_effect: Increased Skill effect against Monster[DOD3].
+  story_skill: Slightly increase effect of Staff Weapon skills.
+  total: 3242(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u30BC\u30ED\u306E\u9774[\u7948\u7977]"
+  weapon_type: staff
+
+zero_shoes_tome:
+  def: 1624
+  mdef: 1622
+  name: "Zero Shoes (Tome)\u30BC\u30ED\u306E\u9774[\u9B54\u66F8]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1799.png
+  set_effect: Increased Skill effect against Monster[DOD3].
+  story_skill: Slightly increase effect of Tome Weapon skills.
+  total: 3246(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u30BC\u30ED\u306E\u9774[\u9B54\u66F8]"
+  weapon_type: tome
+
+rainfall_shoes_hammer:
+  def: 1422
+  mdef: 1749
+  name: "Rainfall Shoes (Hammer)\u6D99\u96E8\u306E\u30B7\u30E5\u30FC\u30BA[\u6253\u6483\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1839.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Water-element Hammer skills.
+  total: 3171(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D99\u96E8\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u6253\u6483]"
+  weapon_type: hammer
+
+rainfall_shoes_blade:
+  def: 1414
+  mdef: 1741
+  name: "Rainfall Shoes (Blade)\u6D99\u96E8\u306E\u30B7\u30E5\u30FC\u30BA[\u5200\u5263\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1851.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Water-element Blade skills.
+  total: 3155(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D99\u96E8\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u5200\u5263]"
+  weapon_type: blade
+
+rainfall_shoes_staff:
+  def: 1416
+  mdef: 1743
+  name: "Rainfall Shoes (Staff)\u6D99\u96E8\u306E\u30B7\u30E5\u30FC\u30BA[\u7948\u7977\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1863.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3159(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D99\u96E8\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u7948\u7977]"
+  weapon_type: staff
+
+rainfall_shoes_tome:
+  def: 1418
+  mdef: 1745
+  name: "Rainfall Shoes (Tome)\u6D99\u96E8\u306E\u30B7\u30E5\u30FC\u30BA[\u9B54\u66F8\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1875.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Water-element Tome skills.
+  total: 3163(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u6D99\u96E8\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u9B54\u66F8]"
+  weapon_type: tome
+
+sin-eater's_heels_hammer:
+  def: 1637
+  mdef: 1511
+  name: "Sin-Eater's Heels (Hammer)\u98DF\u7F6A\u306E\u30D2\u30FC\u30EB[\u6253\u6483\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1961.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Fire-element Hammer skills.
+  total: 3148(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u98DF\u7F6A\u306E\u30D2\u30FC\u30EB[\u6253\
+    \u6483]"
+  weapon_type: hammer
+
+sin-eater's_heels_blade:
+  def: 1639
+  mdef: 1513
+  name: "Sin-Eater's Heels (Blade)\u98DF\u7F6A\u306E\u30D2\u30FC\u30EB[\u5200\u5263\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1973.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Fire-element Blade skills.
+  total: 3152(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u98DF\u7F6A\u306E\u30D2\u30FC\u30EB[\u5200\
+    \u5263]"
+  weapon_type: blade
+
+sin-eater's_heels_instrument:
+  def: 1641
+  mdef: 1515
+  name: "Sin-Eater's Heels (Instrument)\u98DF\u7F6A\u306E\u30D2\u30FC\u30EB[\u697D\
+    \u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1985.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Fire-element Instrument skills.
+  total: 3156(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u98DF\u7F6A\u306E\u30D2\u30FC\u30EB[\u697D\
+    \u5668]"
+  weapon_type: instrument
+
+sin-eater's_heels_staff:
+  def: 1643
+  mdef: 1517
+  name: "Sin-Eater's Heels (Staff)\u98DF\u7F6A\u306E\u30D2\u30FC\u30EB[\u7948\u7977\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS1997.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Fire-element Staff skills.
+  total: 3160(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u98DF\u7F6A\u306E\u30D2\u30FC\u30EB[\u7948\
+    \u7977]"
+  weapon_type: staff
+
+boots_of_loss_ranged:
+  def: 1621
+  mdef: 1619
+  name: "Boots of Loss (Ranged)\u55AA\u5931\u306E\u30D6\u30FC\u30C4[\u5C04\u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2146.png
+  set_effect: Increased Skill effect against Spiders.
+  story_skill: Increases effect of Water-element Ranged skills.
+  total: 3240(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u55AA\u5931\u306E\u30D6\u30FC\u30C4[\u5C04\
+    \u51FA]"
+  weapon_type: ranged
+
+boots_of_loss_blade:
+  def: 1623
+  mdef: 1621
+  name: "Boots of Loss (Blade)\u55AA\u5931\u306E\u30D6\u30FC\u30C4[\u5200\u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2158.png
+  set_effect: Increased Skill effect against Spiders.
+  story_skill: Increases effect of Water-element Blade skills.
+  total: 3244(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u55AA\u5931\u306E\u30D6\u30FC\u30C4[\u5200\
+    \u5263]"
+  weapon_type: blade
+
+boots_of_loss_instrument:
+  def: 1615
+  mdef: 1613
+  name: "Boots of Loss (Instrument)\u55AA\u5931\u306E\u30D6\u30FC\u30C4[\u697D\u5668\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2170.png
+  set_effect: Increased Skill effect against Spiders.
+  story_skill: Increases effect of Water-element Instrument skills.
+  total: 3228(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u55AA\u5931\u306E\u30D6\u30FC\u30C4[\u697D\
+    \u5668]"
+  weapon_type: instrument
+
+boots_of_loss_staff:
+  def: 1617
+  mdef: 1615
+  name: "Boots of Loss (Staff)\u55AA\u5931\u306E\u30D6\u30FC\u30C4[\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2182.png
+  set_effect: Increased Skill effect against Spiders.
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3232(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u55AA\u5931\u306E\u30D6\u30FC\u30C4[\u7948\
+    \u7977]"
+  weapon_type: staff
+
+lady's_heels_ranged:
+  def: 1931
+  mdef: 1929
+  name: "Lady's Heels (Ranged)\u6DD1\u5973\u306E\u30D2\u30FC\u30EB[\u5C04\u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4540.png
+  set_effect: Increased Skill effect against Snakes.
+  story_skill: Increases effect of Water-element Ranged skills.
+  total: 3860(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6DD1\u5973\u306E\u30D2\u30FC\u30EB[\u5C04\
+    \u51FA]"
+  weapon_type: ranged
+
+lady's_heels_polearm:
+  def: 1925
+  mdef: 1923
+  name: "Lady's Heels (Polearm)\u6DD1\u5973\u306E\u30D2\u30FC\u30EB[\u9577\u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4544.png
+  set_effect: Increased Skill effect against Snakes.
+  story_skill: Increases effect of Water-element Polearm skills.
+  total: 3848(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6DD1\u5973\u306E\u30D2\u30FC\u30EB[\u9577\
+    \u67C4]"
+  weapon_type: polearm
+
+lady's_heels_instrument:
+  def: 1929
+  mdef: 1927
+  name: "Lady's Heels (Instrument)\u6DD1\u5973\u306E\u30D2\u30FC\u30EB[\u697D\u5668\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4548.png
+  set_effect: Increased Skill effect against Snakes.
+  story_skill: Increases effect of Water-element Instrument skills.
+  total: 3856(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6DD1\u5973\u306E\u30D2\u30FC\u30EB[\u697D\
+    \u5668]"
+  weapon_type: instrument
+
+lady's_heels_focus:
+  def: 1923
+  mdef: 1921
+  name: "Lady's Heels (Focus)\u6DD1\u5973\u306E\u30D2\u30FC\u30EB[\u9B54\u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4552.png
+  set_effect: Increased Skill effect against Snakes.
+  story_skill: Increases effect of Water-element Focus skills.
+  total: 3844(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6DD1\u5973\u306E\u30D2\u30FC\u30EB[\u9B54\
+    \u5177]"
+  weapon_type: focus
+
+invader's_sandals_ranged:
+  def: 1520
+  mdef: 1735
+  name: "Invader's Sandals (Ranged)\u4FB5\u7565\u8005\u306E\u30B5\u30F3\u30C0\u30EB\
+    [\u5C04\u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2448.png
+  set_effect: Increased Skill effect against Invaders.
+  story_skill: Increases effect of Water-element Ranged skills.
+  total: 3255(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4FB5\u7565\u8005\u306E\u30B5\u30F3\u30C0\
+    \u30EB[\u5C04\u51FA]"
+  weapon_type: ranged
+
+invader's_sandals_polearm:
+  def: 1512
+  mdef: 1707
+  name: "Invader's Sandals (Polearm)\u4FB5\u7565\u8005\u306E\u30B5\u30F3\u30C0\u30EB\
+    [\u9577\u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2460.png
+  set_effect: Increased Skill effect against Invaders.
+  story_skill: Increases effect of Water-element Polearm skills.
+  total: 3219(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4FB5\u7565\u8005\u306E\u30B5\u30F3\u30C0\
+    \u30EB[\u9577\u67C4]"
+  weapon_type: polearm
+
+invader's_sandals_staff:
+  def: 1514
+  mdef: 1709
+  name: "Invader's Sandals (Staff)\u4FB5\u7565\u8005\u306E\u30B5\u30F3\u30C0\u30EB\
+    [\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2472.png
+  set_effect: Increased Skill effect against Invaders.
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3223(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4FB5\u7565\u8005\u306E\u30B5\u30F3\u30C0\
+    \u30EB[\u7948\u7977]"
+  weapon_type: staff
+
+invader's_sandals_focus:
+  def: 1516
+  mdef: 1731
+  name: "Invader's Sandals (Focus)\u4FB5\u7565\u8005\u306E\u30B5\u30F3\u30C0\u30EB\
+    [\u9B54\u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2484.png
+  set_effect: Increased Skill effect against Invaders.
+  story_skill: Increases effect of Water-element Focus skills.
+  total: 3247(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u4FB5\u7565\u8005\u306E\u30B5\u30F3\u30C0\
+    \u30EB[\u9B54\u5177]"
+  weapon_type: focus
+
+cyan_boots_ranged:
+  def: 1711
+  mdef: 1512
+  name: "Cyan Boots (Ranged)\u9752\u85CD\u306E\u30D6\u30FC\u30C4[\u5C04\u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2542.png
+  set_effect: Increased Skill effect against Beasts.
+  story_skill: Increases effect of Water-element Ranged skills.
+  total: 3223(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9752\u85CD\u306E\u30D6\u30FC\u30C4[\u5C04\
+    \u51FA]"
+  weapon_type: ranged
+
+cyan_boots_polearm:
+  def: 1713
+  mdef: 1514
+  name: "Cyan Boots (Polearm)\u9752\u85CD\u306E\u30D6\u30FC\u30C4[\u9577\u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2554.png
+  set_effect: Increased Skill effect against Beasts.
+  story_skill: Increases effect of Water-element Polearm skills.
+  total: 3227(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9752\u85CD\u306E\u30D6\u30FC\u30C4[\u9577\
+    \u67C4]"
+  weapon_type: polearm
+
+cyan_boots_tome:
+  def: 1715
+  mdef: 1516
+  name: "Cyan Boots (Tome)\u9752\u85CD\u306E\u30D6\u30FC\u30C4[\u9B54\u66F8]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2566.png
+  set_effect: Increased Skill effect against Beasts.
+  story_skill: Increases effect of Water-element Tome skills.
+  total: 3231(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9752\u85CD\u306E\u30D6\u30FC\u30C4[\u9B54\
+    \u66F8]"
+  weapon_type: tome
+
+cyan_boots_staff:
+  def: 1717
+  mdef: 1518
+  name: "Cyan Boots (Staff)\u9752\u85CD\u306E\u30D6\u30FC\u30C4[\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2578.png
+  set_effect: Increased Skill effect against Beasts.
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3235(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u9752\u85CD\u306E\u30D6\u30FC\u30C4[\u7948\
+    \u7977]"
+  weapon_type: staff
+
+shoes_of_the_white_night_focus:
+  def: 1714
+  mdef: 1515
+  name: "Shoes of the White Night (Focus)\u767D\u591C\u306E\u30D6\u30FC\u30C4[\u9B54\
+    \u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2685.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Fire-element Focus skills.
+  total: 3229(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u767D\u591C\u306E\u30D6\u30FC\u30C4[\u9B54\
+    \u5177]"
+  weapon_type: focus
+
+shoes_of_the_white_night_ranged:
+  def: 1709
+  mdef: 1510
+  name: "Shoes of the White Night (Ranged)\u767D\u591C\u306E\u30D6\u30FC\u30C4[\u5C04\
+    \u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2880.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Fire-element Ranged skills.
+  total: 3219(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u767D\u591C\u306E\u30D6\u30FC\u30C4[\u5C04\
+    \u51FA]"
+  weapon_type: ranged
+
+shoes_of_the_white_night_blade:
+  def: 1738
+  mdef: 1519
+  name: "Shoes of the White Night (Blade)\u767D\u591C\u306E\u30D6\u30FC\u30C4[\u5200\
+    \u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2889.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Fire-element Blade skills.
+  total: 3257(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u767D\u591C\u306E\u30D6\u30FC\u30C4[\u5200\
+    \u5263]"
+  weapon_type: blade
+
+shoes_of_the_white_night_staff:
+  def: 1710
+  mdef: 1511
+  name: "Shoes of the White Night (Staff)\u767D\u591C\u306E\u30D6\u30FC\u30C4[\u7948\
+    \u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2901.png
+  set_effect: Increased Skill effect against Dragons.
+  story_skill: Increases effect of Fire-element Staff skills.
+  total: 3221(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u767D\u591C\u306E\u30D6\u30FC\u30C4[\u7948\
+    \u7977]"
+  weapon_type: staff
+
+chameleon's_shoes_hammer:
+  def: 1521
+  mdef: 1749
+  name: "Chameleon's Shoes (Hammer)\u907F\u5F79\u306E\u30D6\u30FC\u30C4[\u6253\u6483\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2919.png
+  set_effect: Increased Skill effect against Golems.
+  story_skill: Increases effect of Wind-element Hammer skills.
+  total: 3270(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u907F\u5F79\u306E\u30D6\u30FC\u30C4[\u6253\
+    \u6483]"
+  weapon_type: hammer
+
+chameleon's_shoes_polearm:
+  def: 1513
+  mdef: 1741
+  name: "Chameleon's Shoes (Polearm)\u907F\u5F79\u306E\u30D6\u30FC\u30C4[\u9577\u67C4\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2931.png
+  set_effect: Increased Skill effect against Golems.
+  story_skill: Increases effect of Wind-element Polearm skills.
+  total: 3254(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u907F\u5F79\u306E\u30D6\u30FC\u30C4[\u9577\
+    \u67C4]"
+  weapon_type: polearm
+
+chameleon's_shoes_instrument:
+  def: 1515
+  mdef: 1743
+  name: "Chameleon's Shoes (Instrument)\u907F\u5F79\u306E\u30D6\u30FC\u30C4[\u697D\
+    \u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2943.png
+  set_effect: Increased Skill effect against Golems.
+  story_skill: Increases effect of Wind-element Instrument skills.
+  total: 3258(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u907F\u5F79\u306E\u30D6\u30FC\u30C4[\u697D\
+    \u5668]"
+  weapon_type: instrument
+
+chameleon's_shoes_tome:
+  def: 1517
+  mdef: 1745
+  name: "Chameleon's Shoes (Tome)\u907F\u5F79\u306E\u30D6\u30FC\u30C4[\u9B54\u66F8\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2955.png
+  set_effect: Increased Skill effect against Golems.
+  story_skill: Increases effect of Wind-element Tome skills.
+  total: 3262(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u907F\u5F79\u306E\u30D6\u30FC\u30C4[\u9B54\
+    \u66F8]"
+  weapon_type: tome
+
+nameless_youth's_shoes_blade:
+  def: 1717
+  mdef: 1518
+  name: "Nameless Youth's Shoes (Blade)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\u9774\
+    [\u5200\u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS2998.png
+  set_effect: Increased Skill effect against Shades.
+  story_skill: Increases effect of Wind-element Blade skills.
+  total: 3235(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u5200\u5263]"
+  weapon_type: blade
+
+nameless_youth's_shoes_staff:
+  def: 1709
+  mdef: 1510
+  name: "Nameless Youth's Shoes (Staff)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\u9774\
+    [\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3010.png
+  set_effect: Increased Skill effect against Shades.
+  story_skill: Increases effect of Wind-element Staff skills.
+  total: 3219(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u7948\u7977]"
+  weapon_type: staff
+
+nameless_youth's_shoes_instrument:
+  def: 1711
+  mdef: 1512
+  name: "Nameless Youth's Shoes (Instrument)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u697D\u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3022.png
+  set_effect: Increased Skill effect against Shades.
+  story_skill: Increases effect of Wind-element Instrument skills.
+  total: 3223(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u697D\u5668]"
+  weapon_type: instrument
+
+nameless_youth's_shoes_tome:
+  def: 1713
+  mdef: 1514
+  name: "Nameless Youth's Shoes (Tome)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\u9774\
+    [\u9B54\u66F8]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3034.png
+  set_effect: Increased Skill effect against Shades.
+  story_skill: Increases effect of Wind-element Tome skills.
+  total: 3227(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u9B54\u66F8]"
+  weapon_type: tome
+
+nameless_youth's_shoes_focus:
+  def: 1715
+  mdef: 1516
+  name: "Nameless Youth's Shoes (Focus)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\u9774\
+    [\u9B54\u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3046.png
+  set_effect: Increased Skill effect against Shades.
+  story_skill: Increases effect of Wind-element Focus skills.
+  total: 3231(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u9B54\u5177]"
+  weapon_type: focus
+
+nameless_youth's_shoes_polearm:
+  def: 1717
+  mdef: 1518
+  name: "Nameless Youth's Shoes (Polearm)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u9577\u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3058.png
+  set_effect: Increased Skill effect against Shades.
+  story_skill: Increases effect of Wind-element Polearm skills.
+  total: 3235(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u9577\u67C4]"
+  weapon_type: polearm
+
+nameless_youth's_shoes_hammer:
+  def: 1711
+  mdef: 1512
+  name: "Nameless Youth's Shoes (Hammer)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u6253\u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3072.png
+  set_effect: Increased Skill effect against Shades.
+  story_skill: Increases effect of Wind-element Hammer skills.
+  total: 3223(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u6253\u6483]"
+  weapon_type: hammer
+
+nameless_youth's_shoes_ranged:
+  def: 1713
+  mdef: 1514
+  name: "Nameless Youth's Shoes (Ranged)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u5C04\u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3084.png
+  set_effect: Increased Skill effect against Shades.
+  story_skill: Increases effect of Wind-element Ranged skills.
+  total: 3227(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
+    \u9774[\u5C04\u51FA]"
+  weapon_type: ranged
+
+shoes_of_coextinction_blade:
+  def: 1711
+  mdef: 1512
+  name: "Shoes of Coextinction (Blade)\u5171\u6EC5\u306E\u30D6\u30FC\u30C4[\u5200\u5263\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3212.png
+  set_effect: Increased Skill effect against Spiders.
+  story_skill: Increases effect of Fire-element Blade skills.
+  total: 3223(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u5171\u6EC5\u306E\u30D6\u30FC\u30C4[\u5200\
+    \u5263]"
+  weapon_type: blade
+
+shoes_of_coextinction_ranged:
+  def: 1713
+  mdef: 1514
+  name: "Shoes of Coextinction (Ranged)\u5171\u6EC5\u306E\u30D6\u30FC\u30C4[\u5C04\
+    \u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3224.png
+  set_effect: Increased Skill effect against Spiders.
+  story_skill: Increases effect of Fire-element Ranged skills.
+  total: 3227(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u5171\u6EC5\u306E\u30D6\u30FC\u30C4[\u5C04\
+    \u51FA]"
+  weapon_type: ranged
+
+shoes_of_coextinction_instrument:
+  def: 1715
+  mdef: 1516
+  name: "Shoes of Coextinction (Instrument)\u5171\u6EC5\u306E\u30D6\u30FC\u30C4[\u697D\
+    \u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3236.png
+  set_effect: Increased Skill effect against Spiders.
+  story_skill: Increases effect of Fire-element Instrument skills.
+  total: 3231(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u5171\u6EC5\u306E\u30D6\u30FC\u30C4[\u697D\
+    \u5668]"
+  weapon_type: instrument
+
+shoes_of_coextinction_staff:
+  def: 1717
+  mdef: 1518
+  name: "Shoes of Coextinction (Staff)\u5171\u6EC5\u306E\u30D6\u30FC\u30C4[\u7948\u7977\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3248.png
+  set_effect: Increased Skill effect against Spiders.
+  story_skill: Increases effect of Fire-element Staff skills.
+  total: 3235(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u5171\u6EC5\u306E\u30D6\u30FC\u30C4[\u7948\
+    \u7977]"
+  weapon_type: staff
+
+elegant_wing_heels_blade:
+  def: 1744
+  mdef: 1512
+  name: "Elegant Wing Heels (Blade)\u8276\u7FC5\u306E\u30D2\u30FC\u30EB[\u5200\u5263\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3262.png
+  set_effect: Increased Skill effect against Plants.
+  story_skill: Increases effect of Wind-element Blade skills.
+  total: 3256(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u8276\u7FC5\u306E\u30D2\u30FC\u30EB[\u5200\
+    \u5263]"
+  weapon_type: blade
+
+elegant_wing_heels_hammer:
+  def: 1746
+  mdef: 1514
+  name: "Elegant Wing Heels (Hammer)\u8276\u7FC5\u306E\u30D2\u30FC\u30EB[\u6253\u6483\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3274.png
+  set_effect: Increased Skill effect against Plants.
+  story_skill: Increases effect of Wind-element Hammer skills.
+  total: 3260(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u8276\u7FC5\u306E\u30D2\u30FC\u30EB[\u6253\
+    \u6483]"
+  weapon_type: hammer
+
+elegant_wing_heels_instrument:
+  def: 1748
+  mdef: 1516
+  name: "Elegant Wing Heels (Instrument)\u8276\u7FC5\u306E\u30D2\u30FC\u30EB[\u697D\
+    \u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3286.png
+  set_effect: Increased Skill effect against Plants.
+  story_skill: Increases effect of Wind-element Instrument skills.
+  total: 3264(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u8276\u7FC5\u306E\u30D2\u30FC\u30EB[\u697D\
+    \u5668]"
+  weapon_type: instrument
+
+elegant_wing_heels_focus:
+  def: 1750
+  mdef: 1518
+  name: "Elegant Wing Heels (Focus)\u8276\u7FC5\u306E\u30D2\u30FC\u30EB[\u9B54\u5177\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3298.png
+  set_effect: Increased Skill effect against Plants.
+  story_skill: Increases effect of Wind-element Focus skills.
+  total: 3268(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u8276\u7FC5\u306E\u30D2\u30FC\u30EB[\u9B54\
+    \u5177]"
+  weapon_type: focus
+
+noctiluca_shoes_blade:
+  def: 1516
+  mdef: 1731
+  name: "Noctiluca Shoes (Blade)\u591C\u5149\u87F2\u306E\u30D6\u30FC\u30C4[\u5200\u5263\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3444.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Wind-element Blade skills.
+  total: 3247(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u591C\u5149\u87F2\u306E\u30D6\u30FC\u30C4\
+    [\u5200\u5263]"
+  weapon_type: blade
+
+noctiluca_shoes_polearm:
+  def: 1518
+  mdef: 1733
+  name: "Noctiluca Shoes (Polearm)\u591C\u5149\u87F2\u306E\u30D6\u30FC\u30C4[\u9577\
+    \u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3456.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Wind-element Polearm skills.
+  total: 3251(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u591C\u5149\u87F2\u306E\u30D6\u30FC\u30C4\
+    [\u9577\u67C4]"
+  weapon_type: polearm
+
+noctiluca_shoes_focus:
+  def: 1520
+  mdef: 1735
+  name: "Noctiluca Shoes (Focus)\u591C\u5149\u87F2\u306E\u30D6\u30FC\u30C4[\u9B54\u5177\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3468.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Wind-element Focus skills.
+  total: 3255(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u591C\u5149\u87F2\u306E\u30D6\u30FC\u30C4\
+    [\u9B54\u5177]"
+  weapon_type: focus
+
+noctiluca_shoes_instrument:
+  def: 1512
+  mdef: 1707
+  name: "Noctiluca Shoes (Instrument)\u591C\u5149\u87F2\u306E\u30D6\u30FC\u30C4[\u697D\
+    \u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3480.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Wind-element Instrument skills.
+  total: 3219(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u591C\u5149\u87F2\u306E\u30D6\u30FC\u30C4\
+    [\u697D\u5668]"
+  weapon_type: instrument
+
+heels_of_fondness_blade:
+  def: 1844
+  mdef: 2013
+  name: "Heels of Fondness (Blade)\u504F\u611B\u306E\u30D2\u30FC\u30EB[\u5200\u5263\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3618.png
+  set_effect: Increased Skill effect against Plants.
+  story_skill: Increases effect of Fire-element Blade skills.
+  total: 3857(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u504F\u611B\u306E\u30D2\u30FC\u30EB[\u5200\
+    \u5263]"
+  weapon_type: blade
+
+heels_of_fondness_ranged:
+  def: 1838
+  mdef: 2007
+  name: "Heels of Fondness (Ranged)\u504F\u611B\u306E\u30D2\u30FC\u30EB[\u5C04\u51FA\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3622.png
+  set_effect: Increased Skill effect against Plants.
+  story_skill: Increases effect of Fire-element Ranged skills.
+  total: 3845(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u504F\u611B\u306E\u30D2\u30FC\u30EB[\u5C04\
+    \u51FA]"
+  weapon_type: ranged
+
+heels_of_fondness_instrument:
+  def: 1842
+  mdef: 2011
+  name: "Heels of Fondness (Instrument)\u504F\u611B\u306E\u30D2\u30FC\u30EB[\u697D\
+    \u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3626.png
+  set_effect: Increased Skill effect against Plants.
+  story_skill: Increases effect of Fire-element Instrument skills.
+  total: 3853(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u504F\u611B\u306E\u30D2\u30FC\u30EB[\u697D\
+    \u5668]"
+  weapon_type: instrument
+
+heels_of_fondness_tome:
+  def: 1836
+  mdef: 2005
+  name: "Heels of Fondness (Tome)\u504F\u611B\u306E\u30D2\u30FC\u30EB[\u9B54\u66F8\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3630.png
+  set_effect: Increased Skill effect against Plants.
+  story_skill: Increases effect of Fire-element Tome skills.
+  total: 3841(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u504F\u611B\u306E\u30D2\u30FC\u30EB[\u9B54\
+    \u66F8]"
+  weapon_type: tome
+
+sorrowful_pumps_blade:
+  def: 1746
+  mdef: 1415
+  name: "Sorrowful Pumps (Blade)\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9[\u5200\u5263\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3654.png
+  set_effect: Increased Skill effect against Birds.
+  story_skill: Increases effect of Wind-element Blade skills.
+  total: 3161(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u5200\u5263]"
+  weapon_type: blade
+
+sorrowful_pumps_hammer:
+  def: 1745
+  mdef: 1414
+  name: "Sorrowful Pumps (Hammer)\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9[\u6253\
+    \u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3663.png
+  set_effect: Increased Skill effect against Birds.
+  story_skill: Increases effect of Wind-element Hammer skills.
+  total: 3159(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u6253\u6483]"
+  weapon_type: hammer
+
+sorrowful_pumps_polearm:
+  def: 1746
+  mdef: 1415
+  name: "Sorrowful Pumps (Polearm)\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9[\u9577\
+    \u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3684.png
+  set_effect: Increased Skill effect against Birds.
+  story_skill: Increases effect of Wind-element Polearm skills.
+  total: 3161(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u9577\u67C4]"
+  weapon_type: polearm
+
+sorrowful_pumps_instrument:
+  def: 1745
+  mdef: 1414
+  name: "Sorrowful Pumps (Instrument)\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9[\u697D\
+    \u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3693.png
+  set_effect: Increased Skill effect against Birds.
+  story_skill: Increases effect of Wind-element Instrument skills.
+  total: 3159(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u697D\u5668]"
+  weapon_type: instrument
+
+sorrowful_pumps_tome:
+  def: 1747
+  mdef: 1416
+  name: "Sorrowful Pumps (Tome)\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9[\u9B54\u66F8\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3705.png
+  set_effect: Increased Skill effect against Birds.
+  story_skill: Increases effect of Wind-element Tome skills.
+  total: 3163(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u9B54\u66F8]"
+  weapon_type: tome
+
+sorrowful_pumps_staff:
+  def: 1749
+  mdef: 1418
+  name: "Sorrowful Pumps (Staff)\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9[\u7948\u7977\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3717.png
+  set_effect: Increased Skill effect against Birds.
+  story_skill: Increases effect of Wind-element Staff skills.
+  total: 3167(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u7948\u7977]"
+  weapon_type: staff
+
+sorrowful_pumps_focus:
+  def: 1751
+  mdef: 1420
+  name: "Sorrowful Pumps (Focus)\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9[\u9B54\u5177\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3729.png
+  set_effect: Increased Skill effect against Birds.
+  story_skill: Increases effect of Wind-element Focus skills.
+  total: 3171(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u60B2\u54C0\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u9B54\u5177]"
+  weapon_type: focus
+
+zero_shoes_hammer:
+  def: 1624
+  mdef: 1622
+  name: "Zero Shoes (Hammer)\u30BC\u30ED\u306E\u9774[\u6253\u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3829.png
+  set_effect: Increased Skill effect against Monster[DOD3].
+  story_skill: Slightly increase effect of Hammer Weapon skills.
+  total: 3246(Lv60)
+  url: "https://sinoalice.game-db.tw/armor/\u30BC\u30ED\u306E\u9774[\u6253\u6483]"
+  weapon_type: hammer
+
+shoes_of_ocean_husks_blade:
+  def: 2008
+  mdef: 1835
+  name: "Shoes of Ocean Husks (Blade)\u6D77\u6BBB\u306E\u30B7\u30E5\u30FC\u30BA[\u5200\
+    \u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3901.png
+  set_effect: Increased Skill effect against Satans.
+  story_skill: Increases effect of Water-element Blade skills.
+  total: 3843(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u6BBB\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u5200\u5263]"
+  weapon_type: blade
+
+shoes_of_ocean_husks_hammer:
+  def: 2012
+  mdef: 1839
+  name: "Shoes of Ocean Husks (Hammer)\u6D77\u6BBB\u306E\u30B7\u30E5\u30FC\u30BA[\u6253\
+    \u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3905.png
+  set_effect: Increased Skill effect against Satans.
+  story_skill: Increases effect of Water-element Hammer skills.
+  total: 3851(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u6BBB\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u6253\u6483]"
+  weapon_type: hammer
+
+shoes_of_ocean_husks_instrument:
+  def: 2016
+  mdef: 1843
+  name: "Shoes of Ocean Husks (Instrument)\u6D77\u6BBB\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u697D\u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3909.png
+  set_effect: Increased Skill effect against Satans.
+  story_skill: Increases effect of Water-element Instrument skills.
+  total: 3859(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u6BBB\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u697D\u5668]"
+  weapon_type: instrument
+
+shoes_of_ocean_husks_staff:
+  def: 2010
+  mdef: 1837
+  name: "Shoes of Ocean Husks (Staff)\u6D77\u6BBB\u306E\u30B7\u30E5\u30FC\u30BA[\u7948\
+    \u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS3913.png
+  set_effect: Increased Skill effect against Satans.
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3847(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6D77\u6BBB\u306E\u30B7\u30E5\u30FC\u30BA\
+    [\u7948\u7977]"
+  weapon_type: staff
+
+deceitful_fox's_boots_blade:
+  def: 1931
+  mdef: 1929
+  name: "Deceitful Fox's Boots (Blade)\u8A50\u72D0\u306E\u9577\u9774[\u5200\u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4009.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Fire-element Blade skills.
+  total: 3860(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u8A50\u72D0\u306E\u9577\u9774[\u5200\u5263\
+    ]"
+  weapon_type: blade
+
+deceitful_fox's_boots_ranged:
+  def: 1925
+  mdef: 1923
+  name: "Deceitful Fox's Boots (Ranged)\u8A50\u72D0\u306E\u9577\u9774[\u5C04\u51FA\
+    ]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4013.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Fire-element Ranged skills.
+  total: 3848(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u8A50\u72D0\u306E\u9577\u9774[\u5C04\u51FA\
+    ]"
+  weapon_type: ranged
+
+deceitful_fox's_boots_focus:
+  def: 1929
+  mdef: 1927
+  name: "Deceitful Fox's Boots (Focus)\u8A50\u72D0\u306E\u9577\u9774[\u9B54\u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4017.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Fire-element Focus skills.
+  total: 3856(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u8A50\u72D0\u306E\u9577\u9774[\u9B54\u5177\
+    ]"
+  weapon_type: focus
+
+deceitful_fox's_boots_staff:
+  def: 1923
+  mdef: 1921
+  name: "Deceitful Fox's Boots (Staff)\u8A50\u72D0\u306E\u9577\u9774[\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4021.png
+  set_effect: Increased Skill effect against Humans.
+  story_skill: Increases effect of Fire-element Staff skills.
+  total: 3844(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u8A50\u72D0\u306E\u9577\u9774[\u7948\u7977\
+    ]"
+  weapon_type: staff
+
+fina's_shoes_blade:
+  def: 1729
+  mdef: 2085
+  name: "Fina's Shoes (Blade)\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\u30C4[\u5200\
+    \u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4222.png
+  set_effect: Increased Skill effect against Bahamut.
+  story_skill: Increases effect of Water-element Blade skills.
+  total: 3814(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\
+    \u30C4[\u5200\u5263]"
+  weapon_type: blade
+
+fina's_shoes_hammer:
+  def: 1733
+  mdef: 2089
+  name: "Fina's Shoes (Hammer)\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\u30C4[\u6253\
+    \u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4226.png
+  set_effect: Increased Skill effect against Bahamut.
+  story_skill: Increases effect of Water-element Hammer skills.
+  total: 3822(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\
+    \u30C4[\u6253\u6483]"
+  weapon_type: hammer
+
+fina's_shoes_ranged:
+  def: 1727
+  mdef: 2083
+  name: "Fina's Shoes (Ranged)\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\u30C4[\u5C04\
+    \u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4230.png
+  set_effect: Increased Skill effect against Bahamut.
+  story_skill: Increases effect of Water-element Ranged skills.
+  total: 3810(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\
+    \u30C4[\u5C04\u51FA]"
+  weapon_type: ranged
+
+fina's_shoes_polearm:
+  def: 1731
+  mdef: 2087
+  name: "Fina's Shoes (Polearm)\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\u30C4[\u9577\
+    \u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4234.png
+  set_effect: Increased Skill effect against Bahamut.
+  story_skill: Increases effect of Water-element Polearm skills.
+  total: 3818(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\
+    \u30C4[\u9577\u67C4]"
+  weapon_type: polearm
+
+fina's_shoes_instrument:
+  def: 1735
+  mdef: 2091
+  name: "Fina's Shoes (Instrument)\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\u30C4\
+    [\u697D\u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4238.png
+  set_effect: Increased Skill effect against Bahamut.
+  story_skill: Increases effect of Water-element Instrument skills.
+  total: 3826(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\
+    \u30C4[\u697D\u5668]"
+  weapon_type: instrument
+
+fina's_shoes_tome:
+  def: 1729
+  mdef: 2085
+  name: "Fina's Shoes (Tome)\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\u30C4[\u9B54\
+    \u66F8]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4242.png
+  set_effect: Increased Skill effect against Bahamut.
+  story_skill: Increases effect of Water-element Tome skills.
+  total: 3814(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\
+    \u30C4[\u9B54\u66F8]"
+  weapon_type: tome
+
+fina's_shoes_staff:
+  def: 1733
+  mdef: 2089
+  name: "Fina's Shoes (Staff)\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\u30C4[\u7948\
+    \u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4246.png
+  set_effect: Increased Skill effect against Bahamut.
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3822(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\
+    \u30C4[\u7948\u7977]"
+  weapon_type: staff
+
+fina's_shoes_focus:
+  def: 1727
+  mdef: 2083
+  name: "Fina's Shoes (Focus)\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\u30C4[\u9B54\
+    \u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4250.png
+  set_effect: Increased Skill effect against Bahamut.
+  story_skill: Increases effect of Water-element Focus skills.
+  total: 3810(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u30D5\u30A3\u30FC\u30CA\u306E\u30D6\u30FC\
+    \u30C4[\u9B54\u5177]"
+  weapon_type: focus
+
+dark_fina's_shoes_blade:
+  def: 2087
+  mdef: 1727
+  name: "Dark Fina's Shoes (Blade)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u9774\
+    [\u5200\u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4354.png
+  set_effect: Increased Skill effect against Mythical Beastss.
+  story_skill: Increases effect of Water-element Blade skills.
+  total: 3814(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
+    \u9774[\u5200\u5263]"
+  weapon_type: blade
+
+dark_fina's_shoes_hammer:
+  def: 2091
+  mdef: 1731
+  name: "Dark Fina's Shoes (Hammer)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u9774\
+    [\u6253\u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4358.png
+  set_effect: Increased Skill effect against Mythical Beastss.
+  story_skill: Increases effect of Water-element Hammer skills.
+  total: 3822(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
+    \u9774[\u6253\u6483]"
+  weapon_type: hammer
+
+dark_fina's_shoes_ranged:
+  def: 2085
+  mdef: 1725
+  name: "Dark Fina's Shoes (Ranged)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u9774\
+    [\u5C04\u51FA]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4362.png
+  set_effect: Increased Skill effect against Mythical Beastss.
+  story_skill: Increases effect of Water-element Ranged skills.
+  total: 3810(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
+    \u9774[\u5C04\u51FA]"
+  weapon_type: ranged
+
+dark_fina's_shoes_polearm:
+  def: 2089
+  mdef: 1729
+  name: "Dark Fina's Shoes (Polearm)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u9774\
+    [\u9577\u67C4]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4366.png
+  set_effect: Increased Skill effect against Mythical Beastss.
+  story_skill: Increases effect of Water-element Polearm skills.
+  total: 3818(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
+    \u9774[\u9577\u67C4]"
+  weapon_type: polearm
+
+dark_fina's_shoes_instrument:
+  def: 2093
+  mdef: 1733
+  name: "Dark Fina's Shoes (Instrument)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u9774\
+    [\u697D\u5668]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4370.png
+  set_effect: Increased Skill effect against Mythical Beastss.
+  story_skill: Increases effect of Water-element Instrument skills.
+  total: 3826(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
+    \u9774[\u697D\u5668]"
+  weapon_type: instrument
+
+dark_fina's_shoes_tome:
+  def: 2087
+  mdef: 1727
+  name: "Dark Fina's Shoes (Tome)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u9774\
+    [\u9B54\u66F8]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4374.png
+  set_effect: Increased Skill effect against Mythical Beastss.
+  story_skill: Increases effect of Water-element Tome skills.
+  total: 3814(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
+    \u9774[\u9B54\u66F8]"
+  weapon_type: tome
+
+dark_fina's_shoes_staff:
+  def: 2091
+  mdef: 1731
+  name: "Dark Fina's Shoes (Staff)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u9774\
+    [\u7948\u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4378.png
+  set_effect: Increased Skill effect against Mythical Beastss.
+  story_skill: Increases effect of Water-element Staff skills.
+  total: 3822(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
+    \u9774[\u7948\u7977]"
+  weapon_type: staff
+
+dark_fina's_shoes_focus:
+  def: 2085
+  mdef: 1725
+  name: "Dark Fina's Shoes (Focus)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u9774\
+    [\u9B54\u5177]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4382.png
+  set_effect: Increased Skill effect against Mythical Beastss.
+  story_skill: Increases effect of Water-element Focus skills.
+  total: 3810(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
+    \u9774[\u9B54\u5177]"
+  weapon_type: focus
+
+songstress'_pumps_blade:
+  def: 1858
+  mdef: 1963
+  name: "Songstress' Pumps (Blade)\u6B4C\u59EB\u306E\u30D1\u30F3\u30D7\u30B9[\u5200\
+    \u5263]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4500.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Wind-element Blade skills.
+  total: 3821(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6B4C\u59EB\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u5200\u5263]"
+  weapon_type: blade
+
+songstress'_pumps_hammer:
+  def: 1862
+  mdef: 1967
+  name: "Songstress' Pumps (Hammer)\u6B4C\u59EB\u306E\u30D1\u30F3\u30D7\u30B9[\u6253\
+    \u6483]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4504.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Wind-element Hammer skills.
+  total: 3829(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6B4C\u59EB\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u6253\u6483]"
+  weapon_type: hammer
+
+songstress'_pumps_tome:
+  def: 1866
+  mdef: 1971
+  name: "Songstress' Pumps (Tome)\u6B4C\u59EB\u306E\u30D1\u30F3\u30D7\u30B9[\u9B54\
+    \u66F8]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4508.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Wind-element Tome skills.
+  total: 3837(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6B4C\u59EB\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u9B54\u66F8]"
+  weapon_type: tome
+
+songstress'_pumps_staff:
+  def: 1860
+  mdef: 1965
+  name: "Songstress' Pumps (Staff)\u6B4C\u59EB\u306E\u30D1\u30F3\u30D7\u30B9[\u7948\
+    \u7977]"
+  picture: https://sinoalice.game-db.tw/images/card/CardS4512.png
+  set_effect: Increased Skill effect against Ghosts.
+  story_skill: Increases effect of Wind-element Staff skills.
+  total: 3825(Lv80)
+  url: "https://sinoalice.game-db.tw/armor/\u6B4C\u59EB\u306E\u30D1\u30F3\u30D7\u30B9\
+    [\u7948\u7977]"
+  weapon_type: staff
