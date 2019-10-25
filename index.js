@@ -18,8 +18,8 @@ client.on('message', async msg => {
   const {prefix,command, queries } = destruct(msg.content);
   const [type, query_1, query_2] = queries;
   const data = await getMap[command](msg);
-  if(prefix && !isCommand(msg.content)) {
-    msg.reply("there is no such command try");
+  if(prefix == '?' && !isCommand(msg.content)) {
+    msg.reply("there is no such command please read the pinned message");
     return;
   }
   if(isCommand(msg.content)) {
