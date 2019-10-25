@@ -1,12 +1,12 @@
 
 wrought_iron_spear:
-  atk: 1074
+  patk: 1074
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 674
+  pdef: 674
   element: wind
   matk: 2015
   mdef: 1006
@@ -16,12 +16,12 @@ wrought_iron_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u69CD"
 
 pike_of_restriction:
-  atk: 1618
+  patk: 1618
   col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 18
-  def: 981
+  pdef: 981
   element: water
   matk: 2083
   mdef: 860
@@ -31,13 +31,13 @@ pike_of_restriction:
   url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u9577\u69CD"
 
 halberd_of_suffering:
-  atk: 1396
+  patk: 1396
   col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical DEF by a small amount."
   cost: 18
-  def: 985
+  pdef: 985
   element: water
   matk: 2087
   mdef: 983
@@ -47,12 +47,12 @@ halberd_of_suffering:
   url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u8599\u5200"
 
 black_spear_of_restriction:
-  atk: 1768
+  patk: 1768
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 19
-  def: 1162
+  pdef: 1162
   element: water
   matk: 2277
   mdef: 939
@@ -62,12 +62,12 @@ black_spear_of_restriction:
   url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u9ED2\u69CD"
 
 sasumata_of_violence:
-  atk: 1916
+  patk: 1916
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 18
-  def: 1019
+  pdef: 1019
   element: fire
   matk: 2365
   mdef: 1256
@@ -77,13 +77,13 @@ sasumata_of_violence:
   url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u523A\u53C8"
 
 parasitic_halberd:
-  atk: 1918
+  patk: 1918
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical DEF by a small amount."
   cost: 18
-  def: 1021
+  pdef: 1021
   element: fire
   matk: 2367
   mdef: 1258
@@ -93,12 +93,12 @@ parasitic_halberd:
   url: "https://sinoalice.game-db.tw/weapons/\u5BC4\u751F\u306E\u8599\u5200"
 
 scythe_of_burning_steel:
-  atk: 1648
+  patk: 1648
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1019
+  pdef: 1019
   element: fire
   matk: 2468
   mdef: 1311
@@ -108,13 +108,13 @@ scythe_of_burning_steel:
   url: "https://sinoalice.game-db.tw/weapons/\u713C\u9244\u306E\u938C"
 
 spear_of_husks:
-  atk: 1768
+  patk: 1768
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies. Always hits\
     \ 2 enemies when at a disadvantage"
   cost: 19
-  def: 983
+  pdef: 983
   element: water
   matk: 2182
   mdef: 1160
@@ -124,12 +124,12 @@ spear_of_husks:
   url: "https://sinoalice.game-db.tw/weapons/\u6BBB\u30CE\u69CD"
 
 the_pride_of_the_executioner:
-  atk: 2185
+  patk: 2185
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1161
+  pdef: 1161
   element: fire
   matk: 2181
   mdef: 1159
@@ -139,11 +139,11 @@ the_pride_of_the_executioner:
   url: "https://sinoalice.game-db.tw/weapons/\u51E6\u5211\u4EBA\u306E\u8A87\u308A"
 
 spear_of_a_criminal:
-  atk: 1843
+  patk: 1843
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 18
-  def: 980
+  pdef: 980
   element: water
   matk: 1839
   mdef: 978
@@ -153,12 +153,12 @@ spear_of_a_criminal:
   url: "https://sinoalice.game-db.tw/weapons/\u548E\u4EBA\u306E\u69CD"
 
 violent_bird_spear:
-  atk: 1917
+  patk: 1917
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 18
-  def: 1089
+  pdef: 1089
   element: wind
   matk: 2366
   mdef: 1257
@@ -168,13 +168,13 @@ violent_bird_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u5730\u70C8\u306E\u9CE5\u69CD"
 
 mikhail's_spear:
-  atk: 2189
+  patk: 2189
   col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 1165
+  pdef: 1165
   element: fire
   matk: 2185
   mdef: 1163
@@ -184,12 +184,12 @@ mikhail's_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u30DF\u30CF\u30A4\u30EB\u306E\u69CD"
 
 spear_of_penetration:
-  atk: 1923
+  patk: 1923
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 18
-  def: 1167
+  pdef: 1167
   element: wind
   matk: 2372
   mdef: 1263
@@ -199,12 +199,12 @@ spear_of_penetration:
   url: "https://sinoalice.game-db.tw/weapons/\u8CAB\u7A7F\u306E\u69CD"
 
 spear_of_garbage:
-  atk: 2055
+  patk: 2055
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 18
-  def: 1026
+  pdef: 1026
   element: water
   matk: 2372
   mdef: 1263
@@ -214,12 +214,12 @@ spear_of_garbage:
   url: "https://sinoalice.game-db.tw/weapons/\u30AC\u30E9\u30AF\u30BF\u306E\u69CD"
 
 water_snake_spear:
-  atk: 2055
+  patk: 2055
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 1071
+  pdef: 1071
   element: water
   matk: 2372
   mdef: 1209
@@ -229,13 +229,13 @@ water_snake_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u6C34\u86C7\u30CE\u69CD"
 
 great_crescent_moon:
-  atk: 2107
+  patk: 2107
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical DEF by a small amount."
   cost: 18
-  def: 1123
+  pdef: 1123
   element: water
   matk: 2268
   mdef: 1208
@@ -245,13 +245,13 @@ great_crescent_moon:
   url: "https://sinoalice.game-db.tw/weapons/\u5927\u4E09\u65E5\u6708\u938C"
 
 poison_snake_spear:
-  atk: 2186
+  patk: 2186
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 18
-  def: 1090
+  pdef: 1090
   element: water
   matk: 2301
   mdef: 1088
@@ -261,13 +261,13 @@ poison_snake_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u6BD2\u86C7\u306E\u69CD"
 
 scythe_of_the_anti-conquer:
-  atk: 2109
+  patk: 2109
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and recover\
     \ a small amount of own HP."
   cost: 18
-  def: 1125
+  pdef: 1125
   element: fire
   matk: 2307
   mdef: 1123
@@ -277,12 +277,12 @@ scythe_of_the_anti-conquer:
   url: "https://sinoalice.game-db.tw/weapons/\u53CD\u5F81\u670D\u306E\u938C"
 
 scythe_of_the_magic_user:
-  atk: 2103
+  patk: 2103
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1162
+  pdef: 1162
   element: water
   matk: 2264
   mdef: 1160
@@ -292,13 +292,13 @@ scythe_of_the_magic_user:
   url: "https://sinoalice.game-db.tw/weapons/\u4F7F\u3044\u9B54\u306E\u938C"
 
 heavy_spear_of_fierce_flames:
-  atk: 2057
+  patk: 2057
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical DEF by a small amount."
   cost: 18
-  def: 1126
+  pdef: 1126
   element: fire
   matk: 2271
   mdef: 1191
@@ -308,11 +308,11 @@ heavy_spear_of_fierce_flames:
   url: "https://sinoalice.game-db.tw/weapons/\u70C8\u706B\u306E\u91CD\u69CD"
 
 spear_of_the_iron_gate_(calamitous):
-  atk: 2437
+  patk: 2437
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 20
-  def: 1298
+  pdef: 1298
   element: wind
   matk: 2581
   mdef: 1374
@@ -322,12 +322,12 @@ spear_of_the_iron_gate_(calamitous):
   url: "https://sinoalice.game-db.tw/weapons/\u9244\u67F5\u306E\u69CD(\u798D)"
 
 gambler's_spear:
-  atk: 1777
+  patk: 1777
   col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 18
-  def: 984
+  pdef: 984
   element: water
   matk: 1881
   mdef: 982
@@ -337,12 +337,12 @@ gambler's_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u8CED\u535A\u5E2B\u306E\u69CD"
 
 halberd_of_blackout:
-  atk: 2011
+  patk: 2011
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1126
+  pdef: 1126
   element: wind
   matk: 2390
   mdef: 1191
@@ -352,12 +352,12 @@ halberd_of_blackout:
   url: "https://sinoalice.game-db.tw/weapons/\u65AD\u9ED2\u306E\u8599\u5200"
 
 scythe_of_the_ministry:
-  atk: 2217
+  patk: 2217
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 19
-  def: 1213
+  pdef: 1213
   element: fire
   matk: 2488
   mdef: 1180
@@ -367,13 +367,13 @@ scythe_of_the_ministry:
   url: "https://sinoalice.game-db.tw/weapons/\u5BA3\u6559\u306E\u938C"
 
 head_hunter's_scythe:
-  atk: 2185
+  patk: 2185
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical DEF by a small amount."
   cost: 18
-  def: 1089
+  pdef: 1089
   element: wind
   matk: 2263
   mdef: 1087
@@ -383,12 +383,12 @@ head_hunter's_scythe:
   url: "https://sinoalice.game-db.tw/weapons/\u9996\u72E9\u938C"
 
 great_scythe_of_the_witch:
-  atk: 2003
+  patk: 2003
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1118
+  pdef: 1118
   element: fire
   matk: 2300
   mdef: 1183
@@ -398,12 +398,12 @@ great_scythe_of_the_witch:
   url: "https://sinoalice.game-db.tw/weapons/\u9B54\u5973\u306E\u5927\u65A7"
 
 evil_god's_scythe:
-  atk: 1779
+  patk: 1779
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 19
-  def: 950
+  pdef: 950
   element: wind
   matk: 1914
   mdef: 984
@@ -413,13 +413,13 @@ evil_god's_scythe:
   url: "https://sinoalice.game-db.tw/weapons/\u90AA\u795E\u306E\u938C"
 
 spear_of_purple_quartz:
-  atk: 2110
+  patk: 2110
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1126
+  pdef: 1126
   element: water
   matk: 2271
   mdef: 1124
@@ -429,12 +429,12 @@ spear_of_purple_quartz:
   url: "https://sinoalice.game-db.tw/weapons/\u7D2B\u6C34\u6676\u306E\u77DB"
 
 spear_of_green_seas:
-  atk: 1960
+  patk: 1960
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and recover\
     \ a small amount of own HP."
   cost: 18
-  def: 1124
+  pdef: 1124
   element: water
   matk: 2388
   mdef: 1209
@@ -444,13 +444,13 @@ spear_of_green_seas:
   url: "https://sinoalice.game-db.tw/weapons/\u7DD1\u6D77\u306E\u77DB"
 
 furniture_of_the_house_of_earl:
-  atk: 2049
+  patk: 2049
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 1118
+  pdef: 1118
   element: wind
   matk: 2300
   mdef: 1159
@@ -460,12 +460,12 @@ furniture_of_the_house_of_earl:
   url: "https://sinoalice.game-db.tw/weapons/\u4F2F\u7235\u5BB6\u306E\u5BB6\u5177"
 
 soul-eating_slim_sickle:
-  atk: 2011
+  patk: 2011
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1073
+  pdef: 1073
   element: wind
   matk: 2308
   mdef: 1231
@@ -475,13 +475,13 @@ soul-eating_slim_sickle:
   url: "https://sinoalice.game-db.tw/weapons/\u9B42\u55B0\u306E\u8584\u938C"
 
 visitor's_naginata:
-  atk: 2010
+  patk: 2010
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies. Increase Combo\
     \ Count by +5 when comboing."
   cost: 18
-  def: 1096
+  pdef: 1096
   element: fire
   matk: 2307
   mdef: 1230
@@ -491,12 +491,12 @@ visitor's_naginata:
   url: "https://sinoalice.game-db.tw/weapons/\u8A2A\u554F\u8005\u306E\u8599\u5200"
 
 great_scythe_of_the_queen_bee:
-  atk: 2163
+  patk: 2163
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical DEF by a small amount."
   cost: 19
-  def: 1177
+  pdef: 1177
   element: wind
   matk: 2443
   mdef: 1321
@@ -506,13 +506,13 @@ great_scythe_of_the_queen_bee:
   url: "https://sinoalice.game-db.tw/weapons/\u5973\u738B\u8702\u306E\u5927\u938C"
 
 love_of_playing's_dead_end:
-  atk: 2008
+  patk: 2008
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 18
-  def: 1123
+  pdef: 1123
   element: wind
   matk: 2305
   mdef: 1228
@@ -522,12 +522,12 @@ love_of_playing's_dead_end:
   url: "https://sinoalice.game-db.tw/weapons/\u611B\u73A9\u306E\u672B\u8DEF"
 
 scythe_of_welcomes:
-  atk: 2004
+  patk: 2004
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1119
+  pdef: 1119
   element: fire
   matk: 2301
   mdef: 1224
@@ -537,13 +537,13 @@ scythe_of_welcomes:
   url: "https://sinoalice.game-db.tw/weapons/\u5949\u8FCE\u306E\u938C"
 
 charged_darkness:
-  atk: 2006
+  patk: 2006
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 18
-  def: 1092
+  pdef: 1092
   element: water
   matk: 2303
   mdef: 1226
@@ -553,13 +553,13 @@ charged_darkness:
   url: "https://sinoalice.game-db.tw/weapons/\u6697\u95C7\u306E\u7FBD\u640F"
 
 scythe_of_purity:
-  atk: 2052
+  patk: 2052
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 1121
+  pdef: 1121
   element: fire
   matk: 2266
   mdef: 1206
@@ -569,12 +569,12 @@ scythe_of_purity:
   url: "https://sinoalice.game-db.tw/weapons/\u6F54\u767D\u306E\u938C"
 
 thunder_scythe:
-  atk: 2110
+  patk: 2110
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 19
-  def: 1208
+  pdef: 1208
   element: wind
   matk: 2483
   mdef: 1321
@@ -584,13 +584,13 @@ thunder_scythe:
   url: "https://sinoalice.game-db.tw/weapons/\u96F7\u9706\u306E\u938C"
 
 red_afterlife:
-  atk: 2050
+  patk: 2050
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 18
-  def: 1090
+  pdef: 1090
   element: fire
   matk: 2264
   mdef: 1224
@@ -600,12 +600,12 @@ red_afterlife:
   url: "https://sinoalice.game-db.tw/weapons/\u7D05\u5F80\u751F"
 
 shallow_judgement:
-  atk: 2165
+  patk: 2165
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 19
-  def: 1153
+  pdef: 1153
   element: fire
   matk: 2445
   mdef: 1323
@@ -615,12 +615,12 @@ shallow_judgement:
   url: "https://sinoalice.game-db.tw/weapons/\u6D45\u306F\u304B\u306A\u88C1\u304D"
 
 kamaitachi's_ash_wings:
-  atk: 2050
+  patk: 2050
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 18
-  def: 1066
+  pdef: 1066
   element: wind
   matk: 2301
   mdef: 1224
@@ -630,12 +630,12 @@ kamaitachi's_ash_wings:
   url: "https://sinoalice.game-db.tw/weapons/\u7070\u7FFC\u306E\u938C\u9F2C"
 
 beastcurse:
-  atk: 1765
+  patk: 1765
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 18
-  def: 1092
+  pdef: 1092
   element: wind
   matk: 2513
   mdef: 1260
@@ -645,13 +645,13 @@ beastcurse:
   url: "https://sinoalice.game-db.tw/weapons/\u767E\u7363\u306E\u53CC\u69CD"
 
 heavenly_scythe_of_war:
-  atk: 2052
+  patk: 2052
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1068
+  pdef: 1068
   element: fire
   matk: 2303
   mdef: 1226
@@ -661,13 +661,13 @@ heavenly_scythe_of_war:
   url: "https://sinoalice.game-db.tw/weapons/\u6226\u706B\u306E\u795E\u938C"
 
 windcutter's_naginata:
-  atk: 2006
+  patk: 2006
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal moderate magical damage to 1-2 enemies, and increase\
     \ Power with Low SP Remaining."
   cost: 18
-  def: 1092
+  pdef: 1092
   element: wind
   matk: 2303
   mdef: 1206
@@ -677,11 +677,11 @@ windcutter's_naginata:
   url: "https://sinoalice.game-db.tw/weapons/\u98A8\u5207\u306E\u8599\u5200"
 
 culinary_spear_of_slumber:
-  atk: 2004
+  patk: 2004
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 18
-  def: 1021
+  pdef: 1021
   element: fire
   matk: 2330
   mdef: 1258
@@ -691,12 +691,12 @@ culinary_spear_of_slumber:
   url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u5186\u5319\u69CD"
 
 aquamarine_silence:
-  atk: 2162
+  patk: 2162
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal moderate magical damage to 1-2 enemies, and increase\
     \ Power with Low SP Remaining."
   cost: 19
-  def: 1150
+  pdef: 1150
   element: water
   matk: 2482
   mdef: 1299
@@ -706,13 +706,13 @@ aquamarine_silence:
   url: "https://sinoalice.game-db.tw/weapons/\u6C88\u9ED9\u306E\u78A7"
 
 trickster_fairy:
-  atk: 2010
+  patk: 2010
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical DEF by a small amount."
   cost: 18
-  def: 1096
+  pdef: 1096
   element: wind
   matk: 2307
   mdef: 1230
@@ -722,12 +722,12 @@ trickster_fairy:
   url: "https://sinoalice.game-db.tw/weapons/\u60AA\u622F\u306A\u5996\u7CBE"
 
 shadow_cutter_scythe:
-  atk: 2051
+  patk: 2051
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1022
+  pdef: 1022
   element: fire
   matk: 2331
   mdef: 1205
@@ -737,13 +737,13 @@ shadow_cutter_scythe:
   url: "https://sinoalice.game-db.tw/weapons/\u5F71\u5207\u938C"
 
 demon's_blade:
-  atk: 1832
+  patk: 1832
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 1045
+  pdef: 1045
   element: fire
   matk: 2516
   mdef: 1244
@@ -753,12 +753,12 @@ demon's_blade:
   url: "https://sinoalice.game-db.tw/weapons/\u7DCB\u5996\u9B54\u5200"
 
 black_crow's_curse_(catastrophe):
-  atk: 2566
+  patk: 2566
   col_aid_skill: Fixed chance to greatly increase damage while attacking.
   colosseum_skill: Deal great magical damage to 1-2 enemies, 1.5x effect when at a
     disadvantage.
   cost: 22
-  def: 1363
+  pdef: 1363
   element: wind
   matk: 2973
   mdef: 1650
@@ -770,11 +770,11 @@ black_crow's_curse_(catastrophe):
     \u798D)"
 
 gold_craving_spear_of_restriction:
-  atk: 2111
+  patk: 2111
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 19
-  def: 1124
+  pdef: 1124
   element: wind
   matk: 2484
   mdef: 1322
@@ -784,11 +784,11 @@ gold_craving_spear_of_restriction:
   url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u91D1\u6B32\u69CD"
 
 skeleton_of_suffering:
-  atk: 2275
+  patk: 2275
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 22
-  def: 1070
+  pdef: 1070
   element: fire
   matk: 2355
   mdef: 1114
@@ -798,12 +798,12 @@ skeleton_of_suffering:
   url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u30A4\u30B3\u30C4"
 
 opal_spear:
-  atk: 2216
+  patk: 2216
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 19
-  def: 1155
+  pdef: 1155
   element: water
   matk: 2447
   mdef: 1304
@@ -813,12 +813,12 @@ opal_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u86CB\u767D\u77F3\u306E\u77DB"
 
 breath_of_the_poisonous_flower:
-  atk: 2159
+  patk: 2159
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 19
-  def: 1204
+  pdef: 1204
   element: wind
   matk: 2439
   mdef: 1275
@@ -828,12 +828,12 @@ breath_of_the_poisonous_flower:
   url: "https://sinoalice.game-db.tw/weapons/\u6BD2\u83EF\u306E\u606F\u5439"
 
 return_of_the_dead_(smelt):
-  atk: 2434
+  patk: 2434
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 20
-  def: 1295
+  pdef: 1295
   element: wind
   matk: 2578
   mdef: 1343
@@ -844,13 +844,13 @@ return_of_the_dead_(smelt):
     )"
 
 five's_spear:
-  atk: 1941
+  patk: 1941
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1007
+  pdef: 1007
   element: fire
   matk: 2089
   mdef: 1094
@@ -860,12 +860,12 @@ five's_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u30D5\u30A1\u30A4\u30D6\u306E\u69CD"
 
 egalitarian:
-  atk: 2322
+  patk: 2322
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 20
-  def: 1347
+  pdef: 1347
   element: water
   matk: 2580
   mdef: 1418
@@ -875,12 +875,12 @@ egalitarian:
   url: "https://sinoalice.game-db.tw/weapons/\u5E73\u7B49\u4E3B\u7FA9\u8005"
 
 spear_of_smoky_quartz:
-  atk: 2210
+  patk: 2210
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal moderate magical damage to 1-2 enemies, and increase\
     \ Power with Low SP Remaining."
   cost: 19
-  def: 1121
+  pdef: 1121
   element: water
   matk: 2441
   mdef: 1298
@@ -890,13 +890,13 @@ spear_of_smoky_quartz:
   url: "https://sinoalice.game-db.tw/weapons/\u7159\u6C34\u6676\u306E\u69CD"
 
 claw_spear_of_greed_(kageuchi):
-  atk: 2048
+  patk: 2048
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1088
+  pdef: 1088
   element: water
   matk: 2262
   mdef: 1202
@@ -908,12 +908,12 @@ claw_spear_of_greed_(kageuchi):
     \u30B2\u30A6\u30C1)"
 
 vodyanoytail:
-  atk: 1907
+  patk: 1907
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ Power when Party Summon [] is active."
   cost: 19
-  def: 1306
+  pdef: 1306
   element: water
   matk: 2518
   mdef: 1363
@@ -925,12 +925,12 @@ vodyanoytail:
     \u30FB\u30C6\u30FC\u30EB"
 
 life-reaping_scythe:
-  atk: 2361
+  patk: 2361
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
   cost: 19
-  def: 1125
+  pdef: 1125
   element: wind
   matk: 2445
   mdef: 1151
@@ -941,13 +941,13 @@ life-reaping_scythe:
     \u938C"
 
 resonant_scythe_of_greed_(kageuchi):
-  atk: 2186
+  patk: 2186
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 1020
+  pdef: 1020
   element: fire
   matk: 2301
   mdef: 1088
@@ -959,13 +959,13 @@ resonant_scythe_of_greed_(kageuchi):
     (\u30AB\u30B2\u30A6\u30C1)"
 
 blazing_spiked_blade:
-  atk: 2211
+  patk: 2211
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and decrease\
     \ their magical ATK by a small amount."
   cost: 19
-  def: 1176
+  pdef: 1176
   element: fire
   matk: 2482
   mdef: 1252
@@ -975,12 +975,12 @@ blazing_spiked_blade:
   url: "https://sinoalice.game-db.tw/weapons/\u7114\u5149\u306E\u68D8\u5200"
 
 moogle_spear:
-  atk: 2180
+  patk: 2180
   col_aid_skill: Fixed chance to greatly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies. Deal great magical\
     \ damage to 1-3 enemies instead if Party Summon [] is active."
   cost: 21
-  def: 1534
+  pdef: 1534
   element: water
   matk: 2845
   mdef: 1575
@@ -990,12 +990,12 @@ moogle_spear:
   url: "https://sinoalice.game-db.tw/weapons/\u30E2\u30FC\u30B0\u30EA\u30B9\u30D4\u30A2"
 
 dragoon_spear_of_sorrow:
-  atk: 2168
+  patk: 2168
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 19
-  def: 1213
+  pdef: 1213
   element: water
   matk: 2488
   mdef: 1258
@@ -1005,13 +1005,13 @@ dragoon_spear_of_sorrow:
   url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u7ADC\u9A0E\u58EB\u69CD"
 
 new_moon's_wish:
-  atk: 2075
+  patk: 2075
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 19
-  def: 1260
+  pdef: 1260
   element: wind
   matk: 2448
   mdef: 1305
@@ -1021,12 +1021,12 @@ new_moon's_wish:
   url: "https://sinoalice.game-db.tw/weapons/\u65B0\u6708\u306E\u671B\u307F"
 
 soul_obsession:
-  atk: 2213
+  patk: 2213
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great magical damage to 1-2 enemies, and increase\
     \ own magical ATK by a small amount."
   cost: 19
-  def: 1178
+  pdef: 1178
   element: fire
   matk: 2444
   mdef: 1280
@@ -1036,12 +1036,12 @@ soul_obsession:
   url: "https://sinoalice.game-db.tw/weapons/\u57F7\u5FF5\u306E\u9B42\u9B44"
 
 goddess'_caress:
-  atk: 2225
+  patk: 2225
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ Power when Party Summon [] is active."
   cost: 20
-  def: 1401
+  pdef: 1401
   element: fire
   matk: 2626
   mdef: 1421
@@ -1051,12 +1051,12 @@ goddess'_caress:
   url: "https://sinoalice.game-db.tw/weapons/\u5973\u795E\u306E\u611B\u64AB"
 
 flashing_spear_of_inquisition:
-  atk: 2110
+  patk: 2110
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 20
-  def: 1073
+  pdef: 1073
   element: wind
   matk: 2271
   mdef: 1167

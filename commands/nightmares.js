@@ -1,3 +1,4 @@
+const fuzzyset = require('fuzzyset.js');
 const {
   destruct, 
   dataMap, 
@@ -5,7 +6,8 @@ const {
   isBuff, 
   nightmareFilter,
   nightmareBuff,
-  nightmareElement
+  nightmareElement,
+  allNighMares
 } = require('./lib');
 const flatten = require('ramda.flatten');
 
@@ -30,17 +32,20 @@ const getNhm = (msg) => {
     console.log(unSpecificData.length)
     return unSpecificData;
   };
-  return [{}]
+  return [{}];
 };
 
-module.exports = { getNhm };
-// getNhm({content: "?nightm eleme fire buff patk"});
-// getNhm({content: "?nightm buff patk eleme fire "});
-// getNhm({content: "?nightm buff patk"});
-// getNhm({content: "?nightm buff pdef"});
-getNhm({content: "?nightm buff hpr"});
-getNhm({content: "?nightm buff spr"});
-getNhm({content: "?nightm buff spc"});
-// getNhm({content: "?nightm eleme fire "});
+getNhmName = (msg) => {
+  const { command, queries } = destruct(msg.content);
+  const nhmsObj = dataMap['nightmares']['nightmares']
 
-// console.log(e.length, f.length, g.length, h.length)
+  console.log(command, queries);
+  if(command === 'nhm') {
+    const nightmare = nhmsObj[queries[0]];
+    return [nightmare]
+  };
+  
+};
+
+module.exports = { getNhm, getNhmName };
+getNhmName({content: "?nhm thelo"});

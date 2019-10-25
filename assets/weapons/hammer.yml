@@ -1,11 +1,11 @@
 
 lethal_weapon_of_violence:
-  atk: 2004
+  patk: 2004
   col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 18
-  def: 1068
+  pdef: 1068
   element: fire
   matk: 1618
   mdef: 864
@@ -15,13 +15,13 @@ lethal_weapon_of_violence:
   url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u51F6\u5668"
 
 wooden_hammer_of_dependency:
-  atk: 1998
+  patk: 1998
   col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical DEF by a small amount."
   cost: 18
-  def: 1062
+  pdef: 1062
   element: wind
   matk: 1612
   mdef: 858
@@ -31,13 +31,13 @@ wooden_hammer_of_dependency:
   url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u6728\u69CC"
 
 bludgeon_of_heresy:
-  atk: 2375
+  patk: 2375
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1264
+  pdef: 1264
   element: fire
   matk: 1918
   mdef: 1023
@@ -47,13 +47,13 @@ bludgeon_of_heresy:
   url: "https://sinoalice.game-db.tw/weapons/\u90AA\u6559\u306E\u68CD\u68D2"
 
 great_hammer_of_torture:
-  atk: 2375
+  patk: 2375
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 18
-  def: 1166
+  pdef: 1166
   element: fire
   matk: 1918
   mdef: 1164
@@ -63,12 +63,12 @@ great_hammer_of_torture:
   url: "https://sinoalice.game-db.tw/weapons/\u62F7\u554F\u306E\u5927\u69CC"
 
 iron_ball_of_suffering:
-  atk: 2369
+  patk: 2369
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1258
+  pdef: 1258
   element: wind
   matk: 1912
   mdef: 1017
@@ -78,12 +78,12 @@ iron_ball_of_suffering:
   url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u9244\u7403"
 
 wrought_iron_great_hammer:
-  atk: 1893
+  patk: 1893
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 966
+  pdef: 966
   element: water
   matk: 1259
   mdef: 780
@@ -93,13 +93,13 @@ wrought_iron_great_hammer:
   url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u5927\u69CC"
 
 meaning_of_violence:
-  atk: 2475
+  patk: 2475
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK while\
     \ attacking."
   colosseum_skill: Deal great physical damage to 1-2 enemies, 1.5x effect when at
     a disadvantage.
   cost: 18
-  def: 1261
+  pdef: 1261
   element: fire
   matk: 1647
   mdef: 1020
@@ -109,13 +109,13 @@ meaning_of_violence:
   url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u610F\u601D"
 
 treasure_rod:
-  atk: 2481
+  patk: 2481
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1322
+  pdef: 1322
   element: wind
   matk: 1653
   mdef: 884
@@ -126,13 +126,13 @@ treasure_rod:
     \u30C9"
 
 hegemony_of_the_emperor:
-  atk: 2477
+  patk: 2477
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1318
+  pdef: 1318
   element: water
   matk: 1649
   mdef: 1022
@@ -142,12 +142,12 @@ hegemony_of_the_emperor:
   url: "https://sinoalice.game-db.tw/weapons/\u7687\u5E1D\u306E\u8987\u6A29"
 
 flag_of_the_lost_country:
-  atk: 2481
+  patk: 2481
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical DEF by a small amount."
   cost: 18
-  def: 1097
+  pdef: 1097
   element: water
   matk: 2189
   mdef: 884
@@ -157,13 +157,13 @@ flag_of_the_lost_country:
   url: "https://sinoalice.game-db.tw/weapons/\u4EA1\u56FD\u306E\u65D7"
 
 final_axe_of_devastation:
-  atk: 2646
+  patk: 2646
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 18
-  def: 1322
+  pdef: 1322
   element: wind
   matk: 1406
   mdef: 1320
@@ -173,13 +173,13 @@ final_axe_of_devastation:
   url: "https://sinoalice.game-db.tw/weapons/\u8352\u5EC3\u306E\u6B8B\u65A7"
 
 iron_ball_of_the_luthier:
-  atk: 2644
+  patk: 2644
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and recover\
     \ a small amount of own HP."
   cost: 18
-  def: 884
+  pdef: 884
   element: fire
   matk: 2372
   mdef: 751
@@ -189,12 +189,12 @@ iron_ball_of_the_luthier:
   url: "https://sinoalice.game-db.tw/weapons/\u697D\u5668\u8077\u4EBA\u306E\u9244\u7403"
 
 battleaxe_of_mad_love:
-  atk: 2189
+  patk: 2189
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1165
+  pdef: 1165
   element: fire
   matk: 2185
   mdef: 1163
@@ -204,12 +204,12 @@ battleaxe_of_mad_love:
   url: "https://sinoalice.game-db.tw/weapons/\u51F6\u611B\u306E\u6226\u65A7"
 
 axe_of_magical_beasts:
-  atk: 2370
+  patk: 2370
   col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical ATK and\
     \ magical ATK while attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 18
-  def: 1089
+  pdef: 1089
   element: wind
   matk: 2181
   mdef: 1037
@@ -219,13 +219,13 @@ axe_of_magical_beasts:
   url: "https://sinoalice.game-db.tw/weapons/\u7363\u9B54\u306E\u65A7"
 
 hammer_of_fragments:
-  atk: 2267
+  patk: 2267
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK while\
     \ attacking."
   colosseum_skill: Deal great physical damage to 1-2 enemies, and decrease their physical
     ATK and magical ATK by a small amount.
   cost: 18
-  def: 1161
+  pdef: 1161
   element: wind
   matk: 2098
   mdef: 1159
@@ -235,12 +235,12 @@ hammer_of_fragments:
   url: "https://sinoalice.game-db.tw/weapons/\u6B20\u7247\u306E\u69CC"
 
 axe_of_judgement:
-  atk: 2235
+  patk: 2235
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical DEF by a small amount."
   cost: 18
-  def: 1190
+  pdef: 1190
   element: water
   matk: 2103
   mdef: 1164
@@ -250,12 +250,12 @@ axe_of_judgement:
   url: "https://sinoalice.game-db.tw/weapons/\u5211\u7F70\u306E\u65A7"
 
 eagle's_hit:
-  atk: 2391
+  patk: 2391
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1291
+  pdef: 1291
   element: wind
   matk: 1918
   mdef: 1092
@@ -265,12 +265,12 @@ eagle's_hit:
   url: "https://sinoalice.game-db.tw/weapons/\u5927\u9DF2\u306E\u4E00\u6253"
 
 mace_of_deep_seas:
-  atk: 2237
+  patk: 2237
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 18
-  def: 1192
+  pdef: 1192
   element: water
   matk: 2105
   mdef: 1166
@@ -280,13 +280,13 @@ mace_of_deep_seas:
   url: "https://sinoalice.game-db.tw/weapons/\u91CD\u6D77\u306E\u939A\u77DB"
 
 rousing_hammer:
-  atk: 2309
+  patk: 2309
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: Deal great physical damage to 1-2 enemies, and decrease their physical
     ATK and magical ATK by a small amount.
   cost: 18
-  def: 1123
+  pdef: 1123
   element: water
   matk: 2103
   mdef: 1121
@@ -296,13 +296,13 @@ rousing_hammer:
   url: "https://sinoalice.game-db.tw/weapons/\u6C7A\u8D77\u306E\u9271\u939A"
 
 bludgeon_of_calmness:
-  atk: 2267
+  patk: 2267
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1185
+  pdef: 1185
   element: wind
   matk: 2045
   mdef: 1116
@@ -312,11 +312,11 @@ bludgeon_of_calmness:
   url: "https://sinoalice.game-db.tw/weapons/\u51EA\u306E\u68CD\u68D2"
 
 final_strike_(calamitous):
-  atk: 2583
+  patk: 2583
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 20
-  def: 1374
+  pdef: 1374
   element: fire
   matk: 2431
   mdef: 1294
@@ -327,11 +327,11 @@ final_strike_(calamitous):
     )"
 
 gambler's_hammer:
-  atk: 1883
+  patk: 1883
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 18
-  def: 982
+  pdef: 982
   element: fire
   matk: 1771
   mdef: 980
@@ -341,12 +341,12 @@ gambler's_hammer:
   url: "https://sinoalice.game-db.tw/weapons/\u8CED\u535A\u5E2B\u306E\u69CC"
 
 iron_ball_of_sorrow:
-  atk: 2230
+  patk: 2230
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: Deal great physical damage to 1-2 enemies, and decrease their physical
     ATK and magical ATK by a small amount.
   cost: 18
-  def: 1205
+  pdef: 1205
   element: water
   matk: 2098
   mdef: 1087
@@ -356,12 +356,12 @@ iron_ball_of_sorrow:
   url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u9244\u7403"
 
 black_axe_of_violence:
-  atk: 2215
+  patk: 2215
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 19
-  def: 1165
+  pdef: 1165
   element: fire
   matk: 1767
   mdef: 1033
@@ -371,13 +371,13 @@ black_axe_of_violence:
   url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u9ED2\u65A7"
 
 hammer_of_husks:
-  atk: 2191
+  patk: 2191
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: Deal great physical damage to 1-2 enemies. Always hits 2 enemies
     when at a disadvantage
   cost: 19
-  def: 1167
+  pdef: 1167
   element: water
   matk: 1769
   mdef: 986
@@ -387,13 +387,13 @@ hammer_of_husks:
   url: "https://sinoalice.game-db.tw/weapons/\u6BBB\u30CE\u65A7"
 
 cleansing_heavy_strike:
-  atk: 2401
+  patk: 2401
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1187
+  pdef: 1187
   element: water
   matk: 1952
   mdef: 1089
@@ -403,13 +403,13 @@ cleansing_heavy_strike:
   url: "https://sinoalice.game-db.tw/weapons/\u6D44\u5316\u306E\u91CD\u6483"
 
 axe_of_evil_business:
-  atk: 2306
+  patk: 2306
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1163
+  pdef: 1163
   element: water
   matk: 2001
   mdef: 1161
@@ -419,13 +419,13 @@ axe_of_evil_business:
   url: "https://sinoalice.game-db.tw/weapons/\u60AA\u696D\u306E\u65A7"
 
 battle_gospel:
-  atk: 2306
+  patk: 2306
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: Deal great physical damage to 1-2 enemies, and decrease their physical
     ATK and magical ATK by a small amount.
   cost: 18
-  def: 1163
+  pdef: 1163
   element: wind
   matk: 2001
   mdef: 1161
@@ -435,12 +435,12 @@ battle_gospel:
   url: "https://sinoalice.game-db.tw/weapons/\u6226\u4E18\u306E\u798F\u97F3"
 
 hammer_of_the_windowside:
-  atk: 2490
+  patk: 2490
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 19
-  def: 1211
+  pdef: 1211
   element: wind
   matk: 2211
   mdef: 1209
@@ -450,12 +450,12 @@ hammer_of_the_windowside:
   url: "https://sinoalice.game-db.tw/weapons/\u7A93\u8FBA\u306E\u69CC"
 
 stick_of_decayed_ropes:
-  atk: 2312
+  patk: 2312
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: Deal great physical damage to 1-2 enemies, and decrease their physical
     ATK and magical ATK by a small amount.
   cost: 18
-  def: 1193
+  pdef: 1193
   element: wind
   matk: 2053
   mdef: 1124
@@ -465,13 +465,13 @@ stick_of_decayed_ropes:
   url: "https://sinoalice.game-db.tw/weapons/\u673D\u3061\u7E04\u306E\u68CD"
 
 glass_stick:
-  atk: 1912
+  patk: 1912
   col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 18
-  def: 1001
+  pdef: 1001
   element: water
   matk: 1724
   mdef: 942
@@ -481,13 +481,13 @@ glass_stick:
   url: "https://sinoalice.game-db.tw/weapons/\u785D\u5B50\u306E\u68CD"
 
 great_axe_of_restriction:
-  atk: 2130
+  patk: 2130
   col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1117
+  pdef: 1117
   element: water
   matk: 1849
   mdef: 1008
@@ -497,13 +497,13 @@ great_axe_of_restriction:
   url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u5927\u65A7"
 
 axe_of_the_fury_battle:
-  atk: 2310
+  patk: 2310
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
     \ attacking."
   colosseum_skill: Deal great physical damage to 1-2 enemies, and decrease their physical
     ATK and magical ATK by a small amount.
   cost: 18
-  def: 1191
+  pdef: 1191
   element: fire
   matk: 2005
   mdef: 1122
@@ -513,12 +513,12 @@ axe_of_the_fury_battle:
   url: "https://sinoalice.game-db.tw/weapons/\u8352\u6226\u306E\u65A7"
 
 flaming_club:
-  atk: 2337
+  patk: 2337
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1209
+  pdef: 1209
   element: fire
   matk: 1954
   mdef: 1091
@@ -528,13 +528,13 @@ flaming_club:
   url: "https://sinoalice.game-db.tw/weapons/\u7114\u306E\u68CD\u68D2"
 
 hammer_of_demonic_sealing:
-  atk: 2341
+  patk: 2341
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1233
+  pdef: 1233
   element: water
   matk: 1958
   mdef: 1095
@@ -544,12 +544,12 @@ hammer_of_demonic_sealing:
   url: "https://sinoalice.game-db.tw/weapons/\u5C01\u9B54\u306E\u30CF\u30F3\u30DE\u30FC"
 
 axe_of_corpses:
-  atk: 2410
+  patk: 2410
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical ATK by a small amount."
   cost: 19
-  def: 1305
+  pdef: 1305
   element: fire
   matk: 2211
   mdef: 1178
@@ -559,11 +559,11 @@ axe_of_corpses:
   url: "https://sinoalice.game-db.tw/weapons/\u5486\u54EE\u306E\u65A7"
 
 meaning_of_dependancy_:
-  atk: 2193
+  patk: 2193
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 18
-  def: 1193
+  pdef: 1193
   element: wind
   matk: 2053
   mdef: 1095
@@ -573,13 +573,13 @@ meaning_of_dependancy_:
   url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u610F\u601D"
 
 axe_of_the_cursed_eye:
-  atk: 2311
+  patk: 2311
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies. Increase Combo\
     \ Count by +5 when comboing."
   cost: 18
-  def: 1232
+  pdef: 1232
   element: fire
   matk: 2006
   mdef: 1094
@@ -589,13 +589,13 @@ axe_of_the_cursed_eye:
   url: "https://sinoalice.game-db.tw/weapons/\u546A\u773C\u306E\u65A7"
 
 axe_of_the_cathedral:
-  atk: 2305
+  patk: 2305
   col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1241
+  pdef: 1241
   element: wind
   matk: 2000
   mdef: 1088
@@ -605,11 +605,11 @@ axe_of_the_cathedral:
   url: "https://sinoalice.game-db.tw/weapons/\u8056\u5802\u306E\u65A7"
 
 whirlwind_hammer_of_black_roses:
-  atk: 2491
+  patk: 2491
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: Deal great physical damage to 1-2 enemies, and recover 10 SP
   cost: 19
-  def: 1343
+  pdef: 1343
   element: wind
   matk: 2163
   mdef: 1125
@@ -619,13 +619,13 @@ whirlwind_hammer_of_black_roses:
   url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u8594\u8587\u306E\u65CB\u98A8\u69CC"
 
 hammer_of_remorse:
-  atk: 2311
+  patk: 2311
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 18
-  def: 1247
+  pdef: 1247
   element: water
   matk: 2006
   mdef: 1044
@@ -635,12 +635,12 @@ hammer_of_remorse:
   url: "https://sinoalice.game-db.tw/weapons/\u6094\u6068\u306E\u69CC"
 
 manta_ray's_axe:
-  atk: 2485
+  patk: 2485
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: Deal great physical damage to 1-2 enemies, and decrease their physical
     ATK and magical ATK by a small amount.
   cost: 19
-  def: 1337
+  pdef: 1337
   element: water
   matk: 2104
   mdef: 1173
@@ -650,12 +650,12 @@ manta_ray's_axe:
   url: "https://sinoalice.game-db.tw/weapons/\u9B3C\u7CF8\u5DFB\u306E\u65A7"
 
 axe_of_vestige:
-  atk: 2311
+  patk: 2311
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies. Increase Combo\
     \ Count by +5 when comboing."
   cost: 18
-  def: 1232
+  pdef: 1232
   element: wind
   matk: 2006
   mdef: 1070
@@ -665,12 +665,12 @@ axe_of_vestige:
   url: "https://sinoalice.game-db.tw/weapons/\u9762\u5F71\u306E\u65A7"
 
 hammer_of_the_void:
-  atk: 2491
+  patk: 2491
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal moderate physical damage to 1-2 enemies, and increase\
     \ Power with Low SP Remaining."
   cost: 19
-  def: 1306
+  pdef: 1306
   element: water
   matk: 2163
   mdef: 1153
@@ -680,12 +680,12 @@ hammer_of_the_void:
   url: "https://sinoalice.game-db.tw/weapons/\u865A\u7A7A\u306E\u939A"
 
 sealed_burning_rock:
-  atk: 2307
+  patk: 2307
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 18
-  def: 1228
+  pdef: 1228
   element: fire
   matk: 2002
   mdef: 1090
@@ -695,13 +695,13 @@ sealed_burning_rock:
   url: "https://sinoalice.game-db.tw/weapons/\u5C01\u7DD8\u306E\u7114\u77F3"
 
 axe_of_slumber:
-  atk: 2124
+  patk: 2124
   col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and recover\
     \ a small amount of own HP."
   cost: 18
-  def: 1111
+  pdef: 1111
   element: wind
   matk: 1884
   mdef: 1002
@@ -711,13 +711,13 @@ axe_of_slumber:
   url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u65A7"
 
 centipede's_tooth:
-  atk: 2478
+  patk: 2478
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: Deal great physical damage to 1-2 enemies, and decrease their physical
     ATK and magical ATK by a small amount.
   cost: 18
-  def: 1280
+  pdef: 1280
   element: fire
   matk: 1918
   mdef: 941
@@ -727,12 +727,12 @@ centipede's_tooth:
   url: "https://sinoalice.game-db.tw/weapons/\u767E\u8DB3\u738B\u306E\u7259"
 
 singularity's_gravity:
-  atk: 2443
+  patk: 2443
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 18
-  def: 1204
+  pdef: 1204
   element: water
   matk: 1998
   mdef: 969
@@ -742,13 +742,13 @@ singularity's_gravity:
   url: "https://sinoalice.game-db.tw/weapons/\u91CD\u529B\u306E\u7279\u7570\u70B9"
 
 chained_axe_of_fury_(kageuchi):
-  atk: 2338
+  patk: 2338
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 18
-  def: 1190
+  pdef: 1190
   element: water
   matk: 2004
   mdef: 1068
@@ -760,12 +760,12 @@ chained_axe_of_fury_(kageuchi):
     \u30B2\u30A6\u30C1)"
 
 chirp_of_the_baby_bird:
-  atk: 2451
+  patk: 2451
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies. Increase Combo\
     \ Count by +5 when comboing."
   cost: 18
-  def: 1293
+  pdef: 1293
   element: wind
   matk: 1920
   mdef: 943
@@ -775,12 +775,12 @@ chirp_of_the_baby_bird:
   url: "https://sinoalice.game-db.tw/weapons/\u5C0F\u9CE5\u306E\u56C0\u308A"
 
 hammer_of_insight:
-  atk: 2487
+  patk: 2487
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ Power when Party Summon [] is active."
   cost: 19
-  def: 1302
+  pdef: 1302
   element: water
   matk: 2066
   mdef: 1253
@@ -790,12 +790,12 @@ hammer_of_insight:
   url: "https://sinoalice.game-db.tw/weapons/\u6167\u773C\u306E\u939A"
 
 silver_hammer_of_parvenu:
-  atk: 2378
+  patk: 2378
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ Power when Party Summon [] is active."
   cost: 18
-  def: 1267
+  pdef: 1267
   element: wind
   matk: 2007
   mdef: 978
@@ -805,11 +805,11 @@ silver_hammer_of_parvenu:
   url: "https://sinoalice.game-db.tw/weapons/\u6210\u91D1\u306E\u9280\u69CC"
 
 club_of_retribution_(catastrophe):
-  atk: 3158
+  patk: 3158
   col_aid_skill: Fixed chance to greatly increase damage while attacking.
   colosseum_skill: "(\u2164)Deal great physical damage to 1-3 enemies."
   cost: 22
-  def: 1680
+  pdef: 1680
   element: water
   matk: 2318
   mdef: 1403
@@ -821,12 +821,12 @@ club_of_retribution_(catastrophe):
     \u798D)"
 
 great_hammer_of_the_bloodstone:
-  atk: 2446
+  patk: 2446
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 19
-  def: 1301
+  pdef: 1301
   element: fire
   matk: 2207
   mdef: 1148
@@ -836,11 +836,11 @@ great_hammer_of_the_bloodstone:
   url: "https://sinoalice.game-db.tw/weapons/\u8840\u77F3\u306E\u5927\u69CC"
 
 muscle_of_violence:
-  atk: 2394
+  patk: 2394
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 22
-  def: 1110
+  pdef: 1110
   element: wind
   matk: 2264
   mdef: 1059
@@ -850,12 +850,12 @@ muscle_of_violence:
   url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u30AD\u30F3\u30BD\u30AF"
 
 unforseen_situation_(smelt):
-  atk: 2578
+  patk: 2578
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ Power when Party Summon [] is active."
   cost: 20
-  def: 1341
+  pdef: 1341
   element: fire
   matk: 2426
   mdef: 1289
@@ -866,12 +866,12 @@ unforseen_situation_(smelt):
     )"
 
 iron_giant's_fist:
-  atk: 2443
+  patk: 2443
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 19
-  def: 1251
+  pdef: 1251
   element: fire
   matk: 2262
   mdef: 1145
@@ -881,12 +881,12 @@ iron_giant's_fist:
   url: "https://sinoalice.game-db.tw/weapons/\u9244\u5DE8\u4EBA\u306E\u62F3"
 
 soul_strike:
-  atk: 2451
+  patk: 2451
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal moderate physical damage to 1-2 enemies, and increase\
     \ Power with Low SP Remaining."
   cost: 19
-  def: 1306
+  pdef: 1306
   element: water
   matk: 2212
   mdef: 1104
@@ -896,11 +896,11 @@ soul_strike:
   url: "https://sinoalice.game-db.tw/weapons/\u9B42\u5FC3\u306E\u4E00\u6253"
 
 kallen's_claw:
-  atk: 2309
+  patk: 2309
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 18
-  def: 1264
+  pdef: 1264
   element: water
   matk: 1955
   mdef: 1092
@@ -910,12 +910,12 @@ kallen's_claw:
   url: "https://sinoalice.game-db.tw/weapons/\u30AB\u30EC\u30F3\u306E\u722A"
 
 axe_of_the_pegasus:
-  atk: 2516
+  patk: 2516
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 19
-  def: 1401
+  pdef: 1401
   element: wind
   matk: 1897
   mdef: 1277
@@ -925,12 +925,12 @@ axe_of_the_pegasus:
   url: "https://sinoalice.game-db.tw/weapons/\u7FBD\u99AC\u306E\u65A7"
 
 ugly_heavy_makeup:
-  atk: 2629
+  patk: 2629
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ Power when Party Summon [] is active."
   cost: 20
-  def: 1463
+  pdef: 1463
   element: water
   matk: 2220
   mdef: 1375
@@ -940,12 +940,12 @@ ugly_heavy_makeup:
   url: "https://sinoalice.game-db.tw/weapons/\u919C\u6028\u306E\u539A\u5316\u7CA7"
 
 coral_wand_of_purity:
-  atk: 2492
+  patk: 2492
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great physical damage to 1-2 enemies, and recover\
     \ a small amount of own HP."
   cost: 19
-  def: 1366
+  pdef: 1366
   element: wind
   matk: 1973
   mdef: 1305
@@ -955,12 +955,12 @@ coral_wand_of_purity:
   url: "https://sinoalice.game-db.tw/weapons/\u7D14\u6F54\u306E\u73CA\u745A\u6756"
 
 mechabo_hammer:
-  atk: 2845
+  patk: 2845
   col_aid_skill: Fixed chance to greatly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies. Deal great\
     \ physical damage to 1-3 enemies instead if Party Summon [] is active."
   cost: 21
-  def: 1554
+  pdef: 1554
   element: water
   matk: 2251
   mdef: 1485
@@ -970,12 +970,12 @@ mechabo_hammer:
   url: "https://sinoalice.game-db.tw/weapons/\u30E1\u30AB\u30DC\u30CF\u30F3\u30DE\u30FC"
 
 parting_hammer_of_fury_(kageuchi):
-  atk: 2337
+  patk: 2337
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
     \ attacking."
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies."
   cost: 18
-  def: 1165
+  pdef: 1165
   element: fire
   matk: 1954
   mdef: 1163
@@ -987,12 +987,12 @@ parting_hammer_of_fury_(kageuchi):
     \u30B2\u30A6\u30C1\uFF09"
 
 club_of_knowledgable_speeches:
-  atk: 2490
+  patk: 2490
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great physical damage to 1-2 enemies, and decrease\
     \ their physical DEF by a small amount."
   cost: 19
-  def: 1284
+  pdef: 1284
   element: fire
   matk: 2069
   mdef: 1256
@@ -1002,12 +1002,12 @@ club_of_knowledgable_speeches:
   url: "https://sinoalice.game-db.tw/weapons/\u535A\u8B58\u306E\u5F01\u820C\u68D2"
 
 thorn_queen:
-  atk: 2803
+  patk: 2803
   col_aid_skill: Fixed chance to greatly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies. Deal great\
     \ physical damage to 1-3 enemies instead if Party Summon [] is active."
   cost: 21
-  def: 1466
+  pdef: 1466
   element: wind
   matk: 2413
   mdef: 1464
@@ -1017,12 +1017,12 @@ thorn_queen:
   url: "https://sinoalice.game-db.tw/weapons/\u8328\u306E\u5973\u738B"
 
 checkered_hammer_of_fury_(kageuchi):
-  atk: 2308
+  patk: 2308
   col_aid_skill: Fixed chance to slightly increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 18
-  def: 1122
+  pdef: 1122
   element: water
   matk: 2102
   mdef: 1091
@@ -1034,13 +1034,13 @@ checkered_hammer_of_fury_(kageuchi):
     (\u30AB\u30B2\u30A6\u30C1)"
 
 credulity_of_the_end:
-  atk: 2521
+  patk: 2521
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical DEF and magical DEF by a small amount."
   cost: 19
-  def: 1380
+  pdef: 1380
   element: fire
   matk: 1802
   mdef: 1378
@@ -1050,12 +1050,12 @@ credulity_of_the_end:
   url: "https://sinoalice.game-db.tw/weapons/\u5984\u4FE1\u306E\u679C\u3066"
 
 costume_handle_of_delusion:
-  atk: 2450
+  patk: 2450
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2163)Deal great physical damage to 1-2 enemies, and increase\
     \ own physical ATK by a small amount."
   cost: 19
-  def: 1258
+  pdef: 1258
   element: fire
   matk: 2269
   mdef: 1124
@@ -1065,12 +1065,12 @@ costume_handle_of_delusion:
   url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u4EEE\u88C5\u67C4"
 
 atrocious_desire:
-  atk: 2626
+  patk: 2626
   col_aid_skill: Fixed chance to moderately increase damage while attacking.
   colosseum_skill: "(\u2162)Deal great physical damage to 1-2 enemies, and increase\
     \ Power when Party Summon [] is active."
   cost: 20
-  def: 1419
+  pdef: 1419
   element: wind
   matk: 2217
   mdef: 1417

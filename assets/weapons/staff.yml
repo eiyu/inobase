@@ -1,10 +1,10 @@
 
 wrought_iron_staff:
-  atk: 1466
+  patk: 1466
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 964
+  pdef: 964
   element: water
   matk: 1462
   mdef: 962
@@ -14,12 +14,12 @@ wrought_iron_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u6756"
 
 white_staff_of_justice:
-  atk: 1620
+  patk: 1620
   col_aid_skill: "(\u2160)Fixed chance to Increase the physical DEF of 1 ally in the\
     \ vanguard by a slightly amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
   cost: 18
-  def: 1066
+  pdef: 1066
   element: water
   matk: 1616
   mdef: 1064
@@ -29,11 +29,11 @@ white_staff_of_justice:
   url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u767D\u6756"
 
 staff_of_husks:
-  atk: 1889
+  patk: 1889
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: Heal 1 ally by a great amount of HP, and recover their SP by 20.
   cost: 19
-  def: 1162
+  pdef: 1162
   element: water
   matk: 1885
   mdef: 1160
@@ -43,13 +43,13 @@ staff_of_husks:
   url: "https://sinoalice.game-db.tw/weapons/\u6BBB\u30CE\u6756"
 
 staff_of_corpses:
-  atk: 1648
+  patk: 1648
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1258
+  pdef: 1258
   element: water
   matk: 2365
   mdef: 1256
@@ -59,12 +59,12 @@ staff_of_corpses:
   url: "https://sinoalice.game-db.tw/weapons/\u9AB8\u306E\u6756"
 
 staff_of_delusion:
-  atk: 2190
+  patk: 2190
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
     \ physical DEF by a small amount."
   cost: 18
-  def: 1264
+  pdef: 1264
   element: fire
   matk: 2186
   mdef: 1023
@@ -74,11 +74,11 @@ staff_of_delusion:
   url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u6756"
 
 wrought_iron_swordstick:
-  atk: 1470
+  patk: 1470
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
   cost: 18
-  def: 968
+  pdef: 968
   element: wind
   matk: 1466
   mdef: 966
@@ -88,12 +88,12 @@ wrought_iron_swordstick:
   url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u4ED5\u8FBC\u6756"
 
 pagan_staff:
-  atk: 1921
+  patk: 1921
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1024
+  pdef: 1024
   element: wind
   matk: 2370
   mdef: 1261
@@ -103,11 +103,11 @@ pagan_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u7570\u6559\u306E\u6756"
 
 staff_of_inheritance:
-  atk: 2051
+  patk: 2051
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1242
+  pdef: 1242
   element: water
   matk: 2047
   mdef: 1240
@@ -117,11 +117,11 @@ staff_of_inheritance:
   url: "https://sinoalice.game-db.tw/weapons/\u7D99\u627F\u306E\u6756"
 
 staff_of_a_criminal:
-  atk: 1845
+  patk: 1845
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
   cost: 18
-  def: 982
+  pdef: 982
   element: fire
   matk: 1841
   mdef: 980
@@ -131,12 +131,12 @@ staff_of_a_criminal:
   url: "https://sinoalice.game-db.tw/weapons/\u548E\u4EBA\u306E\u6756"
 
 staff_of_deep_prayer:
-  atk: 2009
+  patk: 2009
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1265
+  pdef: 1265
   element: water
   matk: 2005
   mdef: 1263
@@ -146,12 +146,12 @@ staff_of_deep_prayer:
   url: "https://sinoalice.game-db.tw/weapons/\u6DF1\u7948\u306E\u6756"
 
 staff_of_precious_wood:
-  atk: 2187
+  patk: 2187
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1163
+  pdef: 1163
   element: wind
   matk: 2183
   mdef: 1161
@@ -161,13 +161,13 @@ staff_of_precious_wood:
   url: "https://sinoalice.game-db.tw/weapons/\u5B9D\u6A39\u306E\u6756"
 
 staff_of_solicitude:
-  atk: 2053
+  patk: 2053
   col_aid_skill: "(\u2161)Fixed chance to increase magical DEF of one member of the\
     \ vanguard by a great amount while executing commands."
   colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
     \ physical DEF by a small amount."
   cost: 18
-  def: 1263
+  pdef: 1263
   element: water
   matk: 2049
   mdef: 1261
@@ -177,12 +177,12 @@ staff_of_solicitude:
   url: "https://sinoalice.game-db.tw/weapons/\u6C17\u9063\u3044\u306E\u6756"
 
 gift_of_dragons:
-  atk: 2057
+  patk: 2057
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1322
+  pdef: 1322
   element: water
   matk: 2053
   mdef: 1320
@@ -192,12 +192,12 @@ gift_of_dragons:
   url: "https://sinoalice.game-db.tw/weapons/\u7ADC\u795E\u306E\u991E\u5225"
 
 staff_of_divine_winds:
-  atk: 2187
+  patk: 2187
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1163
+  pdef: 1163
   element: water
   matk: 2183
   mdef: 1161
@@ -207,11 +207,11 @@ staff_of_divine_winds:
   url: "https://sinoalice.game-db.tw/weapons/\u795E\u98A8\u306E\u6756"
 
 manah's_staff:
-  atk: 2193
+  patk: 2193
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: Heal 1 ally by a great amount of HP, and recover their SP by 20.
   cost: 18
-  def: 1169
+  pdef: 1169
   element: fire
   matk: 2189
   mdef: 1167
@@ -221,12 +221,12 @@ manah's_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u30DE\u30CA\u306E\u6756"
 
 staff_of_silence:
-  atk: 2193
+  patk: 2193
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1169
+  pdef: 1169
   element: wind
   matk: 2189
   mdef: 1167
@@ -236,12 +236,12 @@ staff_of_silence:
   url: "https://sinoalice.game-db.tw/weapons/\u9ED9\u7977\u306E\u6756"
 
 staff_of_fraternity:
-  atk: 2104
+  patk: 2104
   col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
     \ vanguard by a great amount while executing commands."
   colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
   cost: 18
-  def: 1277
+  pdef: 1277
   element: wind
   matk: 2047
   mdef: 1275
@@ -251,12 +251,12 @@ staff_of_fraternity:
   url: "https://sinoalice.game-db.tw/weapons/\u53CB\u611B\u306E\u6756"
 
 staff_of_inquisition:
-  atk: 2189
+  patk: 2189
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1209
+  pdef: 1209
   element: fire
   matk: 2102
   mdef: 1187
@@ -266,12 +266,12 @@ staff_of_inquisition:
   url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u6756"
 
 dark_staff_of_slumber:
-  atk: 1944
+  patk: 1944
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
     \ magical DEF by a small amount."
   cost: 19
-  def: 1135
+  pdef: 1135
   element: water
   matk: 1940
   mdef: 1179
@@ -281,12 +281,12 @@ dark_staff_of_slumber:
   url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u9ED2\u6756"
 
 solar_summon_staff:
-  atk: 2101
+  patk: 2101
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical DEF of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1160
+  pdef: 1160
   element: fire
   matk: 2097
   mdef: 1158
@@ -296,12 +296,12 @@ solar_summon_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u65E5\u8F2A\u62DB\u6765\u6756"
 
 wrought_iron_wheeled_staff:
-  atk: 1468
+  patk: 1468
   col_aid_skill: "(\u2160)Fixed chance to increase physical ATK of one member of the\
     \ vanguard by a small amount while executing commands."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
   cost: 18
-  def: 1149
+  pdef: 1149
   element: fire
   matk: 1464
   mdef: 1072
@@ -311,12 +311,12 @@ wrought_iron_wheeled_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9244\u306E\u8ECA\u8F2A\u6756"
 
 revived_breath:
-  atk: 2105
+  patk: 2105
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1243
+  pdef: 1243
   element: wind
   matk: 2101
   mdef: 1241
@@ -326,13 +326,13 @@ revived_breath:
   url: "https://sinoalice.game-db.tw/weapons/\u518D\u751F\u306E\u606F\u5439"
 
 staff_of_blessings:
-  atk: 2050
+  patk: 2050
   col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
     \ vanguard by a great amount while executing commands."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1090
+  pdef: 1090
   element: water
   matk: 2301
   mdef: 1239
@@ -342,12 +342,12 @@ staff_of_blessings:
   url: "https://sinoalice.game-db.tw/weapons/\u795D\u798F\u306E\u6756"
 
 truths_&_lies:
-  atk: 2103
+  patk: 2103
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1162
+  pdef: 1162
   element: fire
   matk: 2264
   mdef: 1160
@@ -357,13 +357,13 @@ truths_&_lies:
   url: "https://sinoalice.game-db.tw/weapons/\u771F\u5B9F\u3068\u865A\u507D"
 
 graceful_staff_of_flames:
-  atk: 2229
+  patk: 2229
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1184
+  pdef: 1184
   element: fire
   matk: 2044
   mdef: 1202
@@ -373,12 +373,12 @@ graceful_staff_of_flames:
   url: "https://sinoalice.game-db.tw/weapons/\u708E\u56C0\u306E\u6075\u6756"
 
 staff_of_gluttony:
-  atk: 2108
+  patk: 2108
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1231
+  pdef: 1231
   element: water
   matk: 2104
   mdef: 1209
@@ -388,12 +388,12 @@ staff_of_gluttony:
   url: "https://sinoalice.game-db.tw/weapons/\u66B4\u98DF\u306E\u6756"
 
 staff_of_the_revived_moment_(calamitous):
-  atk: 2371
+  patk: 2371
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 20
-  def: 1344
+  pdef: 1344
   element: fire
   matk: 2620
   mdef: 1342
@@ -405,11 +405,11 @@ staff_of_the_revived_moment_(calamitous):
     )"
 
 staff_of_the_universe_(calamitous):
-  atk: 2213
+  patk: 2213
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 19
-  def: 1324
+  pdef: 1324
   element: fire
   matk: 2267
   mdef: 1338
@@ -419,13 +419,13 @@ staff_of_the_universe_(calamitous):
   url: "https://sinoalice.game-db.tw/weapons/\u4E16\u8A60\u306E\u6756(\u798D)"
 
 bud_of_corrosions_:
-  atk: 2057
+  patk: 2057
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1248
+  pdef: 1248
   element: fire
   matk: 2106
   mdef: 1211
@@ -435,11 +435,11 @@ bud_of_corrosions_:
   url: "https://sinoalice.game-db.tw/weapons/\u8150\u98DF\u306E\u857E"
 
 gambler's_holy_staff:
-  atk: 1779
+  patk: 1779
   col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
   colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
   cost: 18
-  def: 1040
+  pdef: 1040
   element: fire
   matk: 1775
   mdef: 1038
@@ -449,12 +449,12 @@ gambler's_holy_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u8CED\u535A\u5E2B\u306E\u8056\u6756"
 
 collapse_of_the_afterlife:
-  atk: 2104
+  patk: 2104
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: Heal 1-3 allies by a great amount of HP.
   cost: 18
-  def: 1227
+  pdef: 1227
   element: wind
   matk: 2100
   mdef: 1185
@@ -464,13 +464,13 @@ collapse_of_the_afterlife:
   url: "https://sinoalice.game-db.tw/weapons/\u6765\u4E16\u306E\u5D29\u58CA"
 
 staff_of_slumber:
-  atk: 2049
+  patk: 2049
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1225
+  pdef: 1225
   element: wind
   matk: 2098
   mdef: 1238
@@ -480,13 +480,13 @@ staff_of_slumber:
   url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u6756"
 
 meaning_of_suffering:
-  atk: 2108
+  patk: 2108
   col_aid_skill: "(\u2160)Fixed chance to Increase the physical DEF of 1 ally in the\
     \ vanguard by a slightly amount while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1211
+  pdef: 1211
   element: water
   matk: 2104
   mdef: 1229
@@ -496,11 +496,11 @@ meaning_of_suffering:
   url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u610F\u601D"
 
 staff_of_twin_heads:
-  atk: 2053
+  patk: 2053
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
   cost: 18
-  def: 1244
+  pdef: 1244
   element: water
   matk: 2049
   mdef: 1207
@@ -510,13 +510,13 @@ staff_of_twin_heads:
   url: "https://sinoalice.game-db.tw/weapons/\u53CC\u982D\u306E\u6756"
 
 staff_of_dependency_:
-  atk: 2049
+  patk: 2049
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1225
+  pdef: 1225
   element: wind
   matk: 2045
   mdef: 1223
@@ -526,12 +526,12 @@ staff_of_dependency_:
   url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u6756"
 
 staff_of_the_dictator:
-  atk: 2110
+  patk: 2110
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1283
+  pdef: 1283
   element: water
   matk: 2053
   mdef: 1281
@@ -541,12 +541,12 @@ staff_of_the_dictator:
   url: "https://sinoalice.game-db.tw/weapons/\u72EC\u88C1\u8005\u306E\u6756"
 
 staff_of_demonic_commandments:
-  atk: 2055
+  patk: 2055
   col_aid_skill: "(\u2161)Fixed chance to increase magical ATK of one member of the\
     \ vanguard by a great amount while executing commands."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1231
+  pdef: 1231
   element: fire
   matk: 2104
   mdef: 1229
@@ -556,11 +556,11 @@ staff_of_demonic_commandments:
   url: "https://sinoalice.game-db.tw/weapons/\u9B54\u6212\u306E\u6756"
 
 staff_of_demonic_illusions:
-  atk: 2211
+  patk: 2211
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 19
-  def: 1322
+  pdef: 1322
   element: water
   matk: 2265
   mdef: 1299
@@ -570,12 +570,12 @@ staff_of_demonic_illusions:
   url: "https://sinoalice.game-db.tw/weapons/\u5E7B\u9B54\u306E\u6756"
 
 life_chooser:
-  atk: 2057
+  patk: 2057
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1233
+  pdef: 1233
   element: fire
   matk: 2106
   mdef: 1246
@@ -585,12 +585,12 @@ life_chooser:
   url: "https://sinoalice.game-db.tw/weapons/\u547D\u306E\u9078\u629E"
 
 staff_of_the_corpse:
-  atk: 2049
+  patk: 2049
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1225
+  pdef: 1225
   element: fire
   matk: 2098
   mdef: 1223
@@ -600,13 +600,13 @@ staff_of_the_corpse:
   url: "https://sinoalice.game-db.tw/weapons/\u5486\u9AB8\u306E\u6756"
 
 thorned_erosion_:
-  atk: 2191
+  patk: 2191
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1191
+  pdef: 1191
   element: wind
   matk: 2005
   mdef: 1229
@@ -616,12 +616,12 @@ thorned_erosion_:
   url: "https://sinoalice.game-db.tw/weapons/\u4FB5\u8755\u306E\u68D8"
 
 evil_god's_staff:
-  atk: 1781
+  patk: 1781
   col_aid_skill: "(\u2160)Fixed chance to Increase the magical DEF of 1 ally in the\
     \ vanguard by a slightly amount while healing."
   colosseum_skill: Heal 1-3 allies by a great amount of HP.
   cost: 19
-  def: 1025
+  pdef: 1025
   element: water
   matk: 1777
   mdef: 1023
@@ -631,11 +631,11 @@ evil_god's_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u90AA\u795E\u306E\u6756"
 
 ice_god's_staff:
-  atk: 2055
+  patk: 2055
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1292
+  pdef: 1292
   element: water
   matk: 2051
   mdef: 1279
@@ -645,13 +645,13 @@ ice_god's_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u6C37\u795E\u306E\u6756"
 
 key_of_vows:
-  atk: 2049
+  patk: 2049
   col_aid_skill: "(\u2161)Fixed chance to increase magical ATK of one member of the\
     \ vanguard by a great amount while executing commands."
   colosseum_skill: Heal 1-2 allies by a great amount of HP, and recover their SP by
     20.
   cost: 18
-  def: 1240
+  pdef: 1240
   element: wind
   matk: 2098
   mdef: 1238
@@ -661,12 +661,12 @@ key_of_vows:
   url: "https://sinoalice.game-db.tw/weapons/\u8A93\u7D04\u306E\u9375"
 
 viscera_of_justice:
-  atk: 2377
+  patk: 2377
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: Heal 1-3 allies by a massive amount of HP, and increase their physical
     ATK and physical DEF by a small amount.
   cost: 22
-  def: 1441
+  pdef: 1441
   element: fire
   matk: 2321
   mdef: 1421
@@ -676,12 +676,12 @@ viscera_of_justice:
   url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u30BE\u30A6\u30D5"
 
 staff_of_the_great_general:
-  atk: 2102
+  patk: 2102
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1268
+  pdef: 1268
   element: water
   matk: 2045
   mdef: 1223
@@ -691,12 +691,12 @@ staff_of_the_great_general:
   url: "https://sinoalice.game-db.tw/weapons/\u5927\u5C06\u9996\u306E\u6756"
 
 staff_of_icebergs:
-  atk: 2057
+  patk: 2057
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 18
-  def: 1276
+  pdef: 1276
   element: water
   matk: 2053
   mdef: 1246
@@ -706,12 +706,12 @@ staff_of_icebergs:
   url: "https://sinoalice.game-db.tw/weapons/\u6C37\u5C71\u306E\u6756"
 
 staff_of_blooming:
-  atk: 2269
+  patk: 2269
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their physical DEF by a small amount."
   cost: 19
-  def: 1301
+  pdef: 1301
   element: fire
   matk: 2265
   mdef: 1299
@@ -721,13 +721,13 @@ staff_of_blooming:
   url: "https://sinoalice.game-db.tw/weapons/\u958B\u82B1\u306E\u6756"
 
 healing_guidance_:
-  atk: 2048
+  patk: 2048
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: Heal 1-2 allies by a great amount of HP, and recover their SP by
     20.
   cost: 18
-  def: 1239
+  pdef: 1239
   element: fire
   matk: 2097
   mdef: 1237
@@ -737,12 +737,12 @@ healing_guidance_:
   url: "https://sinoalice.game-db.tw/weapons/\u7652\u3057\u306E\u5C0E\u304D"
 
 thorned_branch:
-  atk: 2274
+  patk: 2274
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 19
-  def: 1327
+  pdef: 1327
   element: wind
   matk: 2212
   mdef: 1304
@@ -752,13 +752,13 @@ thorned_branch:
   url: "https://sinoalice.game-db.tw/weapons/\u68D8\u306E\u679D"
 
 the_princess's_emerald_bird:
-  atk: 2105
+  patk: 2105
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1243
+  pdef: 1243
   element: wind
   matk: 2101
   mdef: 1206
@@ -768,13 +768,13 @@ the_princess's_emerald_bird:
   url: "https://sinoalice.game-db.tw/weapons/\u738B\u5983\u306E\u9752\u3044\u9CE5"
 
 deer's_spirit:
-  atk: 2052
+  patk: 2052
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1243
+  pdef: 1243
   element: wind
   matk: 2101
   mdef: 1241
@@ -784,11 +784,11 @@ deer's_spirit:
   url: "https://sinoalice.game-db.tw/weapons/\u98A8\u9E7F\u306E\u5FA1\u852D"
 
 the_hanged_man:
-  atk: 2214
+  patk: 2214
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 19
-  def: 1341
+  pdef: 1341
   element: wind
   matk: 2210
   mdef: 1323
@@ -798,12 +798,12 @@ the_hanged_man:
   url: "https://sinoalice.game-db.tw/weapons/\u540A\u308B\u3055\u308C\u305F\u7537"
 
 absurd_conviction:
-  atk: 2107
+  patk: 2107
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: Heal 1-2 allies by a great amount of HP, and recover their SP by
     20.
   cost: 18
-  def: 1245
+  pdef: 1245
   element: water
   matk: 2050
   mdef: 1243
@@ -813,13 +813,13 @@ absurd_conviction:
   url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u6761\u7406\u306A\u65AD\u7F6A"
 
 staff_of_radiance_:
-  atk: 2050
+  patk: 2050
   col_aid_skill: "(\u2161)Fixed chance to increase magical DEF of one member of the\
     \ vanguard by a great amount while executing commands."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1241
+  pdef: 1241
   element: fire
   matk: 2099
   mdef: 1239
@@ -829,11 +829,11 @@ staff_of_radiance_:
   url: "https://sinoalice.game-db.tw/weapons/\u6804\u5149\u306E\u6756"
 
 believer's_wail:
-  atk: 2216
+  patk: 2216
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: Heal 1-3 allies by a great amount of HP.
   cost: 19
-  def: 1343
+  pdef: 1343
   element: wind
   matk: 2212
   mdef: 1341
@@ -843,13 +843,13 @@ believer's_wail:
   url: "https://sinoalice.game-db.tw/weapons/\u4FE1\u8005\u306E\u5606\u304D"
 
 bodyguard_in_night_snow:
-  atk: 2008
+  patk: 2008
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1264
+  pdef: 1264
   element: wind
   matk: 2103
   mdef: 1262
@@ -859,12 +859,12 @@ bodyguard_in_night_snow:
   url: "https://sinoalice.game-db.tw/weapons/\u8B77\u885B\u591C\u53C9"
 
 rainmaking_staff:
-  atk: 2214
+  patk: 2214
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 19
-  def: 1341
+  pdef: 1341
   element: water
   matk: 2210
   mdef: 1339
@@ -874,13 +874,13 @@ rainmaking_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u7948\u96E8\u306E\u6756"
 
 battle_ceremony:
-  atk: 2052
+  patk: 2052
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1271
+  pdef: 1271
   element: water
   matk: 2048
   mdef: 1241
@@ -890,13 +890,13 @@ battle_ceremony:
   url: "https://sinoalice.game-db.tw/weapons/\u6226\u3044\u306E\u5100"
 
 wish_of_the_moon_cat:
-  atk: 2050
+  patk: 2050
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Increase Skill\
     \ Effects at 5 Minutes Remaining."
   cost: 18
-  def: 1260
+  pdef: 1260
   element: wind
   matk: 2046
   mdef: 1258
@@ -906,13 +906,13 @@ wish_of_the_moon_cat:
   url: "https://sinoalice.game-db.tw/weapons/\u6708\u732B\u30CE\u9858\u30D2"
 
 twin_hearts:
-  atk: 2054
+  patk: 2054
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1264
+  pdef: 1264
   element: wind
   matk: 2050
   mdef: 1262
@@ -922,12 +922,12 @@ twin_hearts:
   url: "https://sinoalice.game-db.tw/weapons/\u540C\u80DE\u306E\u5FC3"
 
 popola&devola's_staff&:
-  atk: 1953
+  patk: 1953
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1352
+  pdef: 1352
   element: wind
   matk: 1998
   mdef: 1333
@@ -938,13 +938,13 @@ popola&devola's_staff&:
     \u306E\u6756"
 
 beautiful_black_cane:
-  atk: 2052
+  patk: 2052
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1271
+  pdef: 1271
   element: wind
   matk: 2101
   mdef: 1226
@@ -954,12 +954,12 @@ beautiful_black_cane:
   url: "https://sinoalice.game-db.tw/weapons/\u9E97\u3057\u306E\u9ED2\u6756\u5B98"
 
 staff_of_the_fake_spouse:
-  atk: 2167
+  patk: 2167
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between The\
     \ Start of Colosseum & 5 Minutes before it ends, Recover 6sp with every use."
   cost: 19
-  def: 1327
+  pdef: 1327
   element: wind
   matk: 2270
   mdef: 1325
@@ -969,12 +969,12 @@ staff_of_the_fake_spouse:
   url: "https://sinoalice.game-db.tw/weapons/\u507D\u5A66\u4EBA\u306E\u6756"
 
 staff_of_violence:
-  atk: 1940
+  patk: 1940
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their physical DEF by a small amount."
   cost: 18
-  def: 1163
+  pdef: 1163
   element: water
   matk: 1886
   mdef: 1143
@@ -984,13 +984,13 @@ staff_of_violence:
   url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u6756"
 
 staff_of_the_sea_giant:
-  atk: 2011
+  patk: 2011
   col_aid_skill: "(\u2161)Fixed chance to increase magical DEF of one member of the\
     \ vanguard by a great amount while executing commands."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Between The Start\
     \ of Colosseum & 5 Minutes before it ends, Recover 8sp with every use."
   cost: 18
-  def: 1307
+  pdef: 1307
   element: water
   matk: 2007
   mdef: 1320
@@ -1000,13 +1000,13 @@ staff_of_the_sea_giant:
   url: "https://sinoalice.game-db.tw/weapons/\u6D77\u5DE8\u4EBA\u306E\u6756"
 
 thunder_staff:
-  atk: 2002
+  patk: 2002
   col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
     commands.
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 18
-  def: 1298
+  pdef: 1298
   element: wind
   matk: 1998
   mdef: 1296
@@ -1016,12 +1016,12 @@ thunder_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u96F7\u9CF4\u306E\u6756"
 
 lamp-carrying_staff_of_inquisition_:
-  atk: 2006
+  patk: 2006
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Between The Start\
     \ of Colosseum & 5 Minutes before it ends, Recover 8sp with every use."
   cost: 18
-  def: 1302
+  pdef: 1302
   element: fire
   matk: 2002
   mdef: 1300
@@ -1031,12 +1031,12 @@ lamp-carrying_staff_of_inquisition_:
   url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u63D0\u71C8\u6756"
 
 dawn's_blessing:
-  atk: 2211
+  patk: 2211
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Increase Skill\
     \ Effects at 5 Minutes Remaining."
   cost: 19
-  def: 1338
+  pdef: 1338
   element: fire
   matk: 2207
   mdef: 1336
@@ -1046,13 +1046,13 @@ dawn's_blessing:
   url: "https://sinoalice.game-db.tw/weapons/\u591C\u660E\u3051\u306E\u795D\u798F"
 
 fortune_teller's_staff:
-  atk: 2004
+  patk: 2004
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Increase Skill\
     \ Effects at 5 Minutes Remaining."
   cost: 18
-  def: 1337
+  pdef: 1337
   element: water
   matk: 2000
   mdef: 1313
@@ -1062,12 +1062,12 @@ fortune_teller's_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u5360\u3044\u5E2B\u306E\u6756"
 
 wind_invitation_staff:
-  atk: 1955
+  patk: 1955
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Between The Start\
     \ of Colosseum & 5 Minutes before it ends, Recover 8sp with every use."
   cost: 18
-  def: 1315
+  pdef: 1315
   element: wind
   matk: 2046
   mdef: 1298
@@ -1077,12 +1077,12 @@ wind_invitation_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u98A8\u62DB\u304D\u306E\u6756"
 
 staff_of_fire_rings:
-  atk: 2212
+  patk: 2212
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between the\
     \ Start of Colosseum & 5 Minutes before it ends, Increase Effects."
   cost: 19
-  def: 1361
+  pdef: 1361
   element: fire
   matk: 2159
   mdef: 1359
@@ -1092,12 +1092,12 @@ staff_of_fire_rings:
   url: "https://sinoalice.game-db.tw/weapons/\u706B\u8F2A\u306E\u6756"
 
 secret_staff_of_lust_(kageuchi):
-  atk: 2057
+  patk: 2057
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1267
+  pdef: 1267
   element: water
   matk: 2007
   mdef: 1281
@@ -1109,13 +1109,13 @@ secret_staff_of_lust_(kageuchi):
     \u30B2\u30A6\u30C1)"
 
 guardian's_staff:
-  atk: 2213
+  patk: 2213
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their physical DEF by a small amount."
   cost: 19
-  def: 1362
+  pdef: 1362
   element: water
   matk: 2160
   mdef: 1322
@@ -1125,12 +1125,12 @@ guardian's_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u5B88\u8B77\u8005\u306E\u6756"
 
 chancellor's_brain_(catastrophe):
-  atk: 2636
+  patk: 2636
   col_aid_skill: "(\u2162)Fixed chance to greatly increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a great amount of HP, 1.5x effect when\
     \ at a disadvantage."
   cost: 22
-  def: 1658
+  pdef: 1658
   element: water
   matk: 2632
   mdef: 1630
@@ -1141,13 +1141,13 @@ chancellor's_brain_(catastrophe):
     )"
 
 staff_of_the_fool's_gold_(catastrophe):
-  atk: 2538
+  patk: 2538
   col_aid_skill: Fixed chance to moderately increase HP recovered while healing. and
     Fixed chance to slightly increase support effects while providing backup.
   colosseum_skill: "(\u2164)Heal 2-3 allies by a moderate amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 21
-  def: 1562
+  pdef: 1562
   element: wind
   matk: 2478
   mdef: 1560
@@ -1159,12 +1159,12 @@ staff_of_the_fool's_gold_(catastrophe):
     )"
 
 judgement:
-  atk: 2217
+  patk: 2217
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between the\
     \ Start of Colosseum & 5 Minutes before it ends, Increase Effects."
   cost: 19
-  def: 1328
+  pdef: 1328
   element: wind
   matk: 2213
   mdef: 1326
@@ -1174,12 +1174,12 @@ judgement:
   url: "https://sinoalice.game-db.tw/weapons/\u30B8\u30E3\u30C3\u30B8\u30E1\u30F3\u30C8"
 
 healing_staff_of_purity:
-  atk: 2052
+  patk: 2052
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 18
-  def: 1289
+  pdef: 1289
   element: wind
   matk: 2002
   mdef: 1276
@@ -1189,13 +1189,13 @@ healing_staff_of_purity:
   url: "https://sinoalice.game-db.tw/weapons/\u7D14\u6F54\u306E\u6CBB\u6756"
 
 light_in_black_fog:
-  atk: 2208
+  patk: 2208
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 19
-  def: 1337
+  pdef: 1337
   element: fire
   matk: 2212
   mdef: 1339
@@ -1205,12 +1205,12 @@ light_in_black_fog:
   url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u9727\u306E\u706F"
 
 passionate_sewing_(smelt):
-  atk: 2318
+  patk: 2318
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between The\
     \ Start of Colosseum & 5 Minutes before it ends, Recover 6sp with every use."
   cost: 20
-  def: 1502
+  pdef: 1502
   element: fire
   matk: 2314
   mdef: 1518
@@ -1221,12 +1221,12 @@ passionate_sewing_(smelt):
     (\u932C)"
 
 star_ocean_staff:
-  atk: 2320
+  patk: 2320
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Increase Skill\
     \ Effects at 5 Minutes Remaining."
   cost: 20
-  def: 1436
+  pdef: 1436
   element: water
   matk: 2430
   mdef: 1467
@@ -1236,12 +1236,12 @@ star_ocean_staff:
   url: "https://sinoalice.game-db.tw/weapons/\u661F\u6D77\u306E\u6756"
 
 guidance_to_salvation:
-  atk: 2208
+  patk: 2208
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their physical ATK by a small amount."
   cost: 19
-  def: 1373
+  pdef: 1373
   element: fire
   matk: 2155
   mdef: 1364
@@ -1251,12 +1251,12 @@ guidance_to_salvation:
   url: "https://sinoalice.game-db.tw/weapons/\u6551\u6E08\u306E\u5C0E"
 
 great_flames_of_deception:
-  atk: 2163
+  patk: 2163
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
     \ magical DEF by a small amount."
   cost: 19
-  def: 1323
+  pdef: 1323
   element: fire
   matk: 2266
   mdef: 1337
@@ -1266,12 +1266,12 @@ great_flames_of_deception:
   url: "https://sinoalice.game-db.tw/weapons/\u6B3A\u779E\u306E\u5927\u706B"
 
 warden_of_the_grim_seas:
-  atk: 2159
+  patk: 2159
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
     \ physical DEF by a small amount."
   cost: 19
-  def: 1415
+  pdef: 1415
   element: water
   matk: 2102
   mdef: 1397
@@ -1281,13 +1281,13 @@ warden_of_the_grim_seas:
   url: "https://sinoalice.game-db.tw/weapons/\u6E9F\u6D77\u306E\u7BA1\u7406\u8005"
 
 euphemia's_staff:
-  atk: 1959
+  patk: 1959
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical DEF of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical DEF by a small amount."
   cost: 18
-  def: 1291
+  pdef: 1291
   element: water
   matk: 2050
   mdef: 1302
@@ -1298,13 +1298,13 @@ euphemia's_staff:
     \u6756"
 
 envoy_of_purgatory:
-  atk: 2438
+  patk: 2438
   col_aid_skill: Fixed chance to moderately increase HP recovered while healing. and
     Fixed chance to slightly increase support effects while providing backup.
   colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
     \ physical ATK by a small amount."
   cost: 20
-  def: 1508
+  pdef: 1508
   element: fire
   matk: 2263
   mdef: 1471
@@ -1314,13 +1314,13 @@ envoy_of_purgatory:
   url: "https://sinoalice.game-db.tw/weapons/\u7149\u7344\u306E\u4F7F\u8005"
 
 emperor_staff_of_parvenu:
-  atk: 2050
+  patk: 2050
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical DEF of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP. Between The Start\
     \ of Colosseum & 5 Minutes before it ends, Recover 8sp with every use."
   cost: 18
-  def: 1276
+  pdef: 1276
   element: wind
   matk: 2000
   mdef: 1267
@@ -1330,12 +1330,12 @@ emperor_staff_of_parvenu:
   url: "https://sinoalice.game-db.tw/weapons/\u6210\u91D1\u306E\u738B\u6756"
 
 illusion's_reasoning:
-  atk: 2074
+  patk: 2074
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
     \ magical ATK by a small amount."
   cost: 19
-  def: 1393
+  pdef: 1393
   element: wind
   matk: 2212
   mdef: 1421
@@ -1345,13 +1345,13 @@ illusion's_reasoning:
   url: "https://sinoalice.game-db.tw/weapons/\u5E7B\u306E\u7406"
 
 badrosa:
-  atk: 2262
+  patk: 2262
   col_aid_skill: Fixed chance to moderately increase HP recovered while healing.  Increased
     effect when at a disadvantage.
   colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
     \ magical DEF by a small amount."
   cost: 20
-  def: 1488
+  pdef: 1488
   element: water
   matk: 2367
   mdef: 1544
@@ -1361,11 +1361,11 @@ badrosa:
   url: "https://sinoalice.game-db.tw/weapons/\u30D0\u30C9\u30ED\u30FC\u30B5"
 
 chocobo_feather:
-  atk: 1851
+  patk: 1851
   col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
   colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
   cost: 18
-  def: 1189
+  pdef: 1189
   element: water
   matk: 1888
   mdef: 1199
@@ -1376,12 +1376,12 @@ chocobo_feather:
     \u30FC"
 
 white_mage_staff_of_gluttony:
-  atk: 2113
+  patk: 2113
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Between the\
     \ Start of Colosseum & 5 Minutes before it ends, Increase Effects."
   cost: 19
-  def: 1392
+  pdef: 1392
   element: water
   matk: 2211
   mdef: 1404
@@ -1391,13 +1391,13 @@ white_mage_staff_of_gluttony:
   url: "https://sinoalice.game-db.tw/weapons/\u66B4\u98DF\u306E\u767D\u9B54\u6756"
 
 will-o-wisp_lamp:
-  atk: 2160
+  patk: 2160
   col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: Heal 1-2 allies by a great amount of HP, and recover their SP by
     20.
   cost: 19
-  def: 1416
+  pdef: 1416
   element: wind
   matk: 2103
   mdef: 1398
@@ -1407,11 +1407,11 @@ will-o-wisp_lamp:
   url: "https://sinoalice.game-db.tw/weapons/\u9B3C\u706B\u306E\u6848\u5185\u706F"
 
 illuminating_heavenly_light:
-  atk: 2604
+  patk: 2604
   col_aid_skill: "(\u2162)Fixed chance to greatly increase HP recovered while healing."
   colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
   cost: 21
-  def: 1562
+  pdef: 1562
   element: fire
   matk: 2478
   mdef: 1493
@@ -1421,13 +1421,13 @@ illuminating_heavenly_light:
   url: "https://sinoalice.game-db.tw/weapons/\u7167\u3089\u3059\u795E\u5149"
 
 afterlife's_bed:
-  atk: 2075
+  patk: 2075
   col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
     \ vanguard by a moderate amount while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP, and increase\
     \ their magical ATK by a small amount."
   cost: 19
-  def: 1366
+  pdef: 1366
   element: fire
   matk: 2271
   mdef: 1373
@@ -1437,12 +1437,12 @@ afterlife's_bed:
   url: "https://sinoalice.game-db.tw/weapons/\u6765\u4E16\u306E\u5BDD\u53F0"
 
 gift_of_tears:
-  atk: 2267
+  patk: 2267
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2163)Heal 2 allies by a great amount of HP, and increase their\
     \ physical ATK by a small amount."
   cost: 19
-  def: 1463
+  pdef: 1463
   element: water
   matk: 1965
   mdef: 1414
@@ -1452,12 +1452,12 @@ gift_of_tears:
   url: "https://sinoalice.game-db.tw/weapons/\u8D04\u306E\u6D99"
 
 allure_of_the_underworld:
-  atk: 2437
+  patk: 2437
   col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
   colosseum_skill: "(\u2161)Heal 2 allies by a moderate amount of HP. Increase Skill\
     \ Effects at 5 Minutes Remaining."
   cost: 20
-  def: 1525
+  pdef: 1525
   element: wind
   matk: 2319
   mdef: 1374

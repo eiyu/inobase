@@ -13,7 +13,8 @@ const commandList = [
   'weapons',
   'armors',
   'nightmares',
-  'characters'
+  'characters',
+  'nhm',
 ];
 
 const weaponList = [
@@ -43,7 +44,6 @@ const charJobList = [
   'sorcerer', 'tuna_cleric', 
   'tuna_paladin'
 ];
-const nhmList = ['nightmares']
 
 const queryList = [
   'element',
@@ -115,11 +115,23 @@ const tierList = [
   'a'
 ];
 
+
+// const charNames = flatten(getDataNames(dataMap['characters']));
+
+const getDataNames = data => Object.keys(data).map(job => {
+  return Object.keys(data[job]);
+});
+
+const armorNames = flatten(getDataNames(dataMap['armors']));
+const weaponNames = flatten(getDataNames(dataMap['weapons']));
+const nhmNames = flatten(getDataNames(dataMap['nightmares']));
+const allNames = [...armorNames, ...weaponNames, ...nhmNames];
+
 const queryMap = {
   'weapons': weaponList, 
   'armors': armorList, 
   'characters': charJobList,
-  'nightmares': nhmList,
+  'nightmares': nhmNames,
   'query': queryList, 
   'element': elementList,
   'tier': tierList,
@@ -226,21 +238,12 @@ const buildSetArr = list => {
   return res;
 }
 
-const getDataNames = data => Object.keys(data).map(job => {
-  return Object.keys(data[job]);
-});
-
-const charNames = flatten(getDataNames(dataMap['characters']));
-const armorNames = flatten(getDataNames(dataMap['armors']));
-const weaponNames = flatten(getDataNames(dataMap['weapons']));
-const nhmNames = flatten(getDataNames(dataMap['nightmares']));
-const allNames = [...charNames, ...armorNames, ...weaponNames, ...nhmNames];
 
 // fuzzyset instances
 const commandSet = buildSetArr(commandList);
 const querySet = buildSetObj(queryMap);
 const dataSet = buildSetArr(allNames);
-
+const allNighMares = buildSetArr(nhmNames)
 
 module.exports = { 
   isCommand, 
@@ -263,5 +266,6 @@ module.exports = {
   tierFilter,
   nightmareFilter,
   nightmareBuff,
-  nightmareElement
+  nightmareElement,
+  allNighMares
 };

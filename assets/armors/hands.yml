@@ -1,6 +1,6 @@
 
 sorrowful_bracelet_polearm:
-  def: 1747
+  pdef: 1747
   mdef: 1416
   name: "Sorrowful Bracelet (Polearm)\u60B2\u54C0\u306E\u8155\u8F2A[\u9577\u67C4]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0435.png
@@ -12,7 +12,7 @@ sorrowful_bracelet_polearm:
   weapon_type: polearm
 
 nun's_gloves_staff:
-  def: 1420
+  pdef: 1420
   mdef: 1747
   name: "Nun's Gloves (Staff)\u4FEE\u9053\u5973\u306E\u624B\u888B[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0447.png
@@ -24,7 +24,7 @@ nun's_gloves_staff:
   weapon_type: staff
 
 abyssal_gloves_blade:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "Abyssal Gloves (Blade)\u6D77\u5E95\u306E\u30B0\u30ED\u30FC\u30D6[\u5200\u5263\
     ]"
@@ -37,7 +37,7 @@ abyssal_gloves_blade:
   weapon_type: blade
 
 abyssal_gloves_hammer:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "Abyssal Gloves (Hammer)\u6D77\u5E95\u306E\u30B0\u30ED\u30FC\u30D6[\u6253\u6483\
     ]"
@@ -50,7 +50,7 @@ abyssal_gloves_hammer:
   weapon_type: hammer
 
 abyssal_gloves_instrument:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "Abyssal Gloves (Instrument)\u6D77\u5E95\u306E\u30B0\u30ED\u30FC\u30D6[\u697D\
     \u5668]"
@@ -63,7 +63,7 @@ abyssal_gloves_instrument:
   weapon_type: instrument
 
 abyssal_gloves_staff:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "Abyssal Gloves (Staff)\u6D77\u5E95\u306E\u30B0\u30ED\u30FC\u30D6[\u7948\u7977\
     ]"
@@ -76,7 +76,7 @@ abyssal_gloves_staff:
   weapon_type: staff
 
 blackstone_gloves_polearm:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "Blackstone Gloves (Polearm)\u9ED2\u77F3\u306E\u30B0\u30ED\u30FC\u30D6[\u9577\
     \u67C4]"
@@ -89,7 +89,7 @@ blackstone_gloves_polearm:
   weapon_type: polearm
 
 blackstone_gloves_ranged:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "Blackstone Gloves (Ranged)\u9ED2\u77F3\u306E\u30B0\u30ED\u30FC\u30D6[\u5C04\
     \u51FA]"
@@ -102,7 +102,7 @@ blackstone_gloves_ranged:
   weapon_type: ranged
 
 blackstone_gloves_tome:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "Blackstone Gloves (Tome)\u9ED2\u77F3\u306E\u30B0\u30ED\u30FC\u30D6[\u9B54\
     \u66F8]"
@@ -115,7 +115,7 @@ blackstone_gloves_tome:
   weapon_type: tome
 
 blackstone_gloves_focus:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "Blackstone Gloves (Focus)\u9ED2\u77F3\u306E\u30B0\u30ED\u30FC\u30D6[\u9B54\
     \u5177]"
@@ -128,7 +128,7 @@ blackstone_gloves_focus:
   weapon_type: focus
 
 2b_gloves_polearmb_:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "2B Gloves (Polearm)\u4E8C\u53F7B\u578B \u30B0\u30ED\u30FC\u30D6[\u9577\u67C4\
     ]"
@@ -141,7 +141,7 @@ blackstone_gloves_focus:
   weapon_type: polearm
 
 2b_gloves_rangedb_:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "2B Gloves (Ranged)\u4E8C\u53F7B\u578B \u30B0\u30ED\u30FC\u30D6[\u5C04\u51FA\
     ]"
@@ -154,7 +154,7 @@ blackstone_gloves_focus:
   weapon_type: ranged
 
 2b_gloves_tomeb_:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "2B Gloves (Tome)\u4E8C\u53F7B\u578B \u30B0\u30ED\u30FC\u30D6[\u9B54\u66F8\
     ]"
@@ -167,7 +167,7 @@ blackstone_gloves_focus:
   weapon_type: tome
 
 2b_gloves_focusb_:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "2B Gloves (Focus)\u4E8C\u53F7B\u578B \u30B0\u30ED\u30FC\u30D6[\u9B54\u5177\
     ]"
@@ -180,7 +180,7 @@ blackstone_gloves_focus:
   weapon_type: focus
 
 2b_gloves_bladeb_:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "2B Gloves (Blade)\u4E8C\u53F7B\u578B \u30B0\u30ED\u30FC\u30D6[\u5200\u5263\
     ]"
@@ -193,7 +193,7 @@ blackstone_gloves_focus:
   weapon_type: blade
 
 2b_gloves_hammerb_:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "2B Gloves (Hammer)\u4E8C\u53F7B\u578B \u30B0\u30ED\u30FC\u30D6[\u6253\u6483\
     ]"
@@ -206,7 +206,7 @@ blackstone_gloves_focus:
   weapon_type: hammer
 
 2b_gloves_instrumentb_:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "2B Gloves (Instrument)\u4E8C\u53F7B\u578B \u30B0\u30ED\u30FC\u30D6[\u697D\
     \u5668]"
@@ -219,7 +219,7 @@ blackstone_gloves_focus:
   weapon_type: instrument
 
 2b_gloves_staffb_:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "2B Gloves (Staff)\u4E8C\u53F7B\u578B \u30B0\u30ED\u30FC\u30D6[\u7948\u7977\
     ]"
@@ -232,7 +232,7 @@ blackstone_gloves_focus:
   weapon_type: staff
 
 golden_gauntlets_ranged:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "Golden Gauntlets (Ranged)\u9EC4\u91D1\u306E\u7BED\u624B[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0940.png
@@ -244,7 +244,7 @@ golden_gauntlets_ranged:
   weapon_type: ranged
 
 golden_gauntlets_hammer:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "Golden Gauntlets (Hammer)\u9EC4\u91D1\u306E\u7BED\u624B[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0952.png
@@ -256,7 +256,7 @@ golden_gauntlets_hammer:
   weapon_type: hammer
 
 golden_gauntlets_tome:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "Golden Gauntlets (Tome)\u9EC4\u91D1\u306E\u7BED\u624B[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0964.png
@@ -268,7 +268,7 @@ golden_gauntlets_tome:
   weapon_type: tome
 
 golden_gauntlets_staff:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "Golden Gauntlets (Staff)\u9EC4\u91D1\u306E\u7BED\u624B[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0976.png
@@ -280,7 +280,7 @@ golden_gauntlets_staff:
   weapon_type: staff
 
 abyssal_gloves_polearm:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "Abyssal Gloves (Polearm)\u6D77\u5E95\u306E\u30B0\u30ED\u30FC\u30D6[\u9577\
     \u67C4]"
@@ -293,7 +293,7 @@ abyssal_gloves_polearm:
   weapon_type: polearm
 
 abyssal_gloves_tome:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "Abyssal Gloves (Tome)\u6D77\u5E95\u306E\u30B0\u30ED\u30FC\u30D6[\u9B54\u66F8\
     ]"
@@ -306,7 +306,7 @@ abyssal_gloves_tome:
   weapon_type: tome
 
 sandstone_gloves_polearm:
-  def: 1418
+  pdef: 1418
   mdef: 1745
   name: "Sandstone Gloves (Polearm)\u7802\u5CA9\u306E\u30B0\u30ED\u30FC\u30D6[\u9577\
     \u67C4]"
@@ -319,7 +319,7 @@ sandstone_gloves_polearm:
   weapon_type: polearm
 
 sandstone_gloves_blade:
-  def: 1420
+  pdef: 1420
   mdef: 1747
   name: "Sandstone Gloves (Blade)\u7802\u5CA9\u306E\u30B0\u30ED\u30FC\u30D6[\u5200\
     \u5263]"
@@ -332,7 +332,7 @@ sandstone_gloves_blade:
   weapon_type: blade
 
 sandstone_gloves_instrument:
-  def: 1422
+  pdef: 1422
   mdef: 1749
   name: "Sandstone Gloves (Instrument)\u7802\u5CA9\u306E\u30B0\u30ED\u30FC\u30D6[\u697D\
     \u5668]"
@@ -345,7 +345,7 @@ sandstone_gloves_instrument:
   weapon_type: instrument
 
 sandstone_gloves_staff:
-  def: 1414
+  pdef: 1414
   mdef: 1741
   name: "Sandstone Gloves (Staff)\u7802\u5CA9\u306E\u30B0\u30ED\u30FC\u30D6[\u7948\
     \u7977]"
@@ -358,7 +358,7 @@ sandstone_gloves_staff:
   weapon_type: staff
 
 marching_band_gloves_ranged:
-  def: 1929
+  pdef: 1929
   mdef: 1927
   name: "Marching Band Gloves (Ranged)\u97F3\u697D\u968A\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u5C04\u51FA]"
@@ -371,7 +371,7 @@ marching_band_gloves_ranged:
   weapon_type: ranged
 
 marching_band_gloves_hammer:
-  def: 1923
+  pdef: 1923
   mdef: 1921
   name: "Marching Band Gloves (Hammer)\u97F3\u697D\u968A\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u6253\u6483]"
@@ -384,7 +384,7 @@ marching_band_gloves_hammer:
   weapon_type: hammer
 
 marching_band_gloves_instrument:
-  def: 1927
+  pdef: 1927
   mdef: 1925
   name: "Marching Band Gloves (Instrument)\u97F3\u697D\u968A\u306E\u30B0\u30ED\u30FC\
     \u30D6[\u697D\u5668]"
@@ -397,7 +397,7 @@ marching_band_gloves_instrument:
   weapon_type: instrument
 
 marching_band_gloves_focus:
-  def: 1931
+  pdef: 1931
   mdef: 1929
   name: "Marching Band Gloves (Focus)\u97F3\u697D\u968A\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u9B54\u5177]"
@@ -410,7 +410,7 @@ marching_band_gloves_focus:
   weapon_type: focus
 
 zero_handguards_blade:
-  def: 1621
+  pdef: 1621
   mdef: 1619
   name: "Zero Handguards (Blade)\u30BC\u30ED\u306E\u624B\u7532[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1766.png
@@ -422,7 +422,7 @@ zero_handguards_blade:
   weapon_type: blade
 
 zero_handguards_polearm:
-  def: 1623
+  pdef: 1623
   mdef: 1621
   name: "Zero Handguards (Polearm)\u30BC\u30ED\u306E\u624B\u7532[\u9577\u67C4]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1778.png
@@ -434,7 +434,7 @@ zero_handguards_polearm:
   weapon_type: polearm
 
 zero_handguards_staff:
-  def: 1615
+  pdef: 1615
   mdef: 1613
   name: "Zero Handguards (Staff)\u30BC\u30ED\u306E\u624B\u7532[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1790.png
@@ -446,7 +446,7 @@ zero_handguards_staff:
   weapon_type: staff
 
 zero_handguards_tome:
-  def: 1617
+  pdef: 1617
   mdef: 1615
   name: "Zero Handguards (Tome)\u30BC\u30ED\u306E\u624B\u7532[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1802.png
@@ -458,7 +458,7 @@ zero_handguards_tome:
   weapon_type: tome
 
 rainfall_bangles_hammer:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "Rainfall Bangles (Hammer)\u6D99\u96E8\u306E\u8155\u8F2A[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1842.png
@@ -470,7 +470,7 @@ rainfall_bangles_hammer:
   weapon_type: hammer
 
 rainfall_bangles_blade:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "Rainfall Bangles (Blade)\u6D99\u96E8\u306E\u8155\u8F2A[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1854.png
@@ -482,7 +482,7 @@ rainfall_bangles_blade:
   weapon_type: blade
 
 rainfall_bangles_staff:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "Rainfall Bangles (Staff)\u6D99\u96E8\u306E\u8155\u8F2A[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1866.png
@@ -494,7 +494,7 @@ rainfall_bangles_staff:
   weapon_type: staff
 
 rainfall_bangles_tome:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "Rainfall Bangles (Tome)\u6D99\u96E8\u306E\u8155\u8F2A[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1878.png
@@ -506,7 +506,7 @@ rainfall_bangles_tome:
   weapon_type: tome
 
 sin-eater's_bangles_hammer:
-  def: 1640
+  pdef: 1640
   mdef: 1514
   name: "Sin-Eater's Bangles (Hammer)\u98DF\u7F6A\u306E\u8155\u8F2A[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1964.png
@@ -518,7 +518,7 @@ sin-eater's_bangles_hammer:
   weapon_type: hammer
 
 sin-eater's_bangles_blade:
-  def: 1642
+  pdef: 1642
   mdef: 1516
   name: "Sin-Eater's Bangles (Blade)\u98DF\u7F6A\u306E\u8155\u8F2A[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1976.png
@@ -530,7 +530,7 @@ sin-eater's_bangles_blade:
   weapon_type: blade
 
 sin-eater's_bangles_instrument:
-  def: 1644
+  pdef: 1644
   mdef: 1518
   name: "Sin-Eater's Bangles (Instrument)\u98DF\u7F6A\u306E\u8155\u8F2A[\u697D\u5668\
     ]"
@@ -543,7 +543,7 @@ sin-eater's_bangles_instrument:
   weapon_type: instrument
 
 sin-eater's_bangles_staff:
-  def: 1636
+  pdef: 1636
   mdef: 1510
   name: "Sin-Eater's Bangles (Staff)\u98DF\u7F6A\u306E\u8155\u8F2A[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2000.png
@@ -555,7 +555,7 @@ sin-eater's_bangles_staff:
   weapon_type: staff
 
 bracelet_of_loss_ranged:
-  def: 1624
+  pdef: 1624
   mdef: 1622
   name: "Bracelet of Loss (Ranged)\u55AA\u5931\u306E\u30D6\u30EC\u30B9\u30EC\u30C3\
     \u30C8[\u5C04\u51FA]"
@@ -568,7 +568,7 @@ bracelet_of_loss_ranged:
   weapon_type: ranged
 
 bracelet_of_loss_blade:
-  def: 1616
+  pdef: 1616
   mdef: 1614
   name: "Bracelet of Loss (Blade)\u55AA\u5931\u306E\u30D6\u30EC\u30B9\u30EC\u30C3\u30C8\
     [\u5200\u5263]"
@@ -581,7 +581,7 @@ bracelet_of_loss_blade:
   weapon_type: blade
 
 bracelet_of_loss_instrument:
-  def: 1618
+  pdef: 1618
   mdef: 1616
   name: "Bracelet of Loss (Instrument)\u55AA\u5931\u306E\u30D6\u30EC\u30B9\u30EC\u30C3\
     \u30C8[\u697D\u5668]"
@@ -594,7 +594,7 @@ bracelet_of_loss_instrument:
   weapon_type: instrument
 
 bracelet_of_loss_staff:
-  def: 1620
+  pdef: 1620
   mdef: 1618
   name: "Bracelet of Loss (Staff)\u55AA\u5931\u306E\u30D6\u30EC\u30B9\u30EC\u30C3\u30C8\
     [\u7948\u7977]"
@@ -607,7 +607,7 @@ bracelet_of_loss_staff:
   weapon_type: staff
 
 lady's_bracelet_ranged:
-  def: 1922
+  pdef: 1922
   mdef: 1920
   name: "Lady's Bracelet (Ranged)\u6DD1\u5973\u306E\u8155\u8F2A[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4541.png
@@ -619,7 +619,7 @@ lady's_bracelet_ranged:
   weapon_type: ranged
 
 lady's_bracelet_polearm:
-  def: 1926
+  pdef: 1926
   mdef: 1924
   name: "Lady's Bracelet (Polearm)\u6DD1\u5973\u306E\u8155\u8F2A[\u9577\u67C4]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4545.png
@@ -631,7 +631,7 @@ lady's_bracelet_polearm:
   weapon_type: polearm
 
 lady's_bracelet_instrument:
-  def: 1930
+  pdef: 1930
   mdef: 1928
   name: "Lady's Bracelet (Instrument)\u6DD1\u5973\u306E\u8155\u8F2A[\u697D\u5668]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4549.png
@@ -643,7 +643,7 @@ lady's_bracelet_instrument:
   weapon_type: instrument
 
 lady's_bracelet_focus:
-  def: 1924
+  pdef: 1924
   mdef: 1922
   name: "Lady's Bracelet (Focus)\u6DD1\u5973\u306E\u8155\u8F2A[\u9B54\u5177]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4553.png
@@ -655,7 +655,7 @@ lady's_bracelet_focus:
   weapon_type: focus
 
 invader's_misanga_ranged:
-  def: 1513
+  pdef: 1513
   mdef: 1708
   name: "Invader's Misanga (Ranged)\u4FB5\u7565\u8005\u306E\u30DF\u30B5\u30F3\u30AC\
     [\u5C04\u51FA]"
@@ -668,7 +668,7 @@ invader's_misanga_ranged:
   weapon_type: ranged
 
 invader's_misanga_polearm:
-  def: 1515
+  pdef: 1515
   mdef: 1730
   name: "Invader's Misanga (Polearm)\u4FB5\u7565\u8005\u306E\u30DF\u30B5\u30F3\u30AC\
     [\u9577\u67C4]"
@@ -681,7 +681,7 @@ invader's_misanga_polearm:
   weapon_type: polearm
 
 invader's_misanga_staff:
-  def: 1517
+  pdef: 1517
   mdef: 1732
   name: "Invader's Misanga (Staff)\u4FB5\u7565\u8005\u306E\u30DF\u30B5\u30F3\u30AC\
     [\u7948\u7977]"
@@ -694,7 +694,7 @@ invader's_misanga_staff:
   weapon_type: staff
 
 invader's_misanga_focus:
-  def: 1519
+  pdef: 1519
   mdef: 1734
   name: "Invader's Misanga (Focus)\u4FB5\u7565\u8005\u306E\u30DF\u30B5\u30F3\u30AC\
     [\u9B54\u5177]"
@@ -707,7 +707,7 @@ invader's_misanga_focus:
   weapon_type: focus
 
 cyan_bracelet_ranged:
-  def: 1714
+  pdef: 1714
   mdef: 1515
   name: "Cyan Bracelet (Ranged)\u9752\u85CD\u306E\u8155\u8F2A[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2545.png
@@ -719,7 +719,7 @@ cyan_bracelet_ranged:
   weapon_type: ranged
 
 cyan_bracelet_polearm:
-  def: 1716
+  pdef: 1716
   mdef: 1517
   name: "Cyan Bracelet (Polearm)\u9752\u85CD\u306E\u8155\u8F2A[\u9577\u67C4]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2557.png
@@ -731,7 +731,7 @@ cyan_bracelet_polearm:
   weapon_type: polearm
 
 cyan_bracelet_tome:
-  def: 1738
+  pdef: 1738
   mdef: 1519
   name: "Cyan Bracelet (Tome)\u9752\u85CD\u306E\u8155\u8F2A[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2569.png
@@ -743,7 +743,7 @@ cyan_bracelet_tome:
   weapon_type: tome
 
 cyan_bracelet_staff:
-  def: 1710
+  pdef: 1710
   mdef: 1511
   name: "Cyan Bracelet (Staff)\u9752\u85CD\u306E\u8155\u8F2A[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2581.png
@@ -755,7 +755,7 @@ cyan_bracelet_staff:
   weapon_type: staff
 
 gaunlet_of_the_white_night_staff:
-  def: 1717
+  pdef: 1717
   mdef: 1518
   name: "Gaunlet of the White Night (Staff)\u767D\u591C\u306E\u30AC\u30F3\u30C8\u30EC\
     \u30C3\u30C8[\u7948\u7977]"
@@ -768,7 +768,7 @@ gaunlet_of_the_white_night_staff:
   weapon_type: staff
 
 gaunlet_of_the_white_night_ranged:
-  def: 1712
+  pdef: 1712
   mdef: 1513
   name: "Gaunlet of the White Night (Ranged)\u767D\u591C\u306E\u30AC\u30F3\u30C8\u30EC\
     \u30C3\u30C8[\u5C04\u51FA]"
@@ -781,7 +781,7 @@ gaunlet_of_the_white_night_ranged:
   weapon_type: ranged
 
 gaunlet_of_the_white_night_blade:
-  def: 1711
+  pdef: 1711
   mdef: 1512
   name: "Gaunlet of the White Night (Blade)\u767D\u591C\u306E\u30AC\u30F3\u30C8\u30EC\
     \u30C3\u30C8[\u5200\u5263]"
@@ -794,7 +794,7 @@ gaunlet_of_the_white_night_blade:
   weapon_type: blade
 
 gaunlet_of_the_white_night_focus:
-  def: 1709
+  pdef: 1709
   mdef: 1510
   name: "Gaunlet of the White Night (Focus)\u767D\u591C\u306E\u30AC\u30F3\u30C8\u30EC\
     \u30C3\u30C8[\u9B54\u5177]"
@@ -807,7 +807,7 @@ gaunlet_of_the_white_night_focus:
   weapon_type: focus
 
 chameleon's_gloves_hammer:
-  def: 1514
+  pdef: 1514
   mdef: 1742
   name: "Chameleon's Gloves (Hammer)\u907F\u5F79\u306E\u30B0\u30ED\u30FC\u30D6[\u6253\
     \u6483]"
@@ -820,7 +820,7 @@ chameleon's_gloves_hammer:
   weapon_type: hammer
 
 chameleon's_gloves_polearm:
-  def: 1516
+  pdef: 1516
   mdef: 1744
   name: "Chameleon's Gloves (Polearm)\u907F\u5F79\u306E\u30B0\u30ED\u30FC\u30D6[\u9577\
     \u67C4]"
@@ -833,7 +833,7 @@ chameleon's_gloves_polearm:
   weapon_type: polearm
 
 chameleon's_gloves_instrument:
-  def: 1518
+  pdef: 1518
   mdef: 1746
   name: "Chameleon's Gloves (Instrument)\u907F\u5F79\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u697D\u5668]"
@@ -846,7 +846,7 @@ chameleon's_gloves_instrument:
   weapon_type: instrument
 
 chameleon's_gloves_tome:
-  def: 1520
+  pdef: 1520
   mdef: 1748
   name: "Chameleon's Gloves (Tome)\u907F\u5F79\u306E\u30B0\u30ED\u30FC\u30D6[\u9B54\
     \u66F8]"
@@ -859,7 +859,7 @@ chameleon's_gloves_tome:
   weapon_type: tome
 
 nameless_youth's_handguards_blade:
-  def: 1710
+  pdef: 1710
   mdef: 1511
   name: "Nameless Youth's Handguards (Blade)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u624B\u7532[\u5200\u5263]"
@@ -872,7 +872,7 @@ nameless_youth's_handguards_blade:
   weapon_type: blade
 
 nameless_youth's_handguards_staff:
-  def: 1712
+  pdef: 1712
   mdef: 1513
   name: "Nameless Youth's Handguards (Staff)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u624B\u7532[\u7948\u7977]"
@@ -885,7 +885,7 @@ nameless_youth's_handguards_staff:
   weapon_type: staff
 
 nameless_youth's_handguards_instrument:
-  def: 1714
+  pdef: 1714
   mdef: 1515
   name: "Nameless Youth's Handguards (Instrument)\u540D\u3082\u306A\u304D\u9752\u5E74\
     \u306E\u624B\u7532[\u697D\u5668]"
@@ -898,7 +898,7 @@ nameless_youth's_handguards_instrument:
   weapon_type: instrument
 
 nameless_youth's_handguards_tome:
-  def: 1716
+  pdef: 1716
   mdef: 1517
   name: "Nameless Youth's Handguards (Tome)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u624B\u7532[\u9B54\u66F8]"
@@ -911,7 +911,7 @@ nameless_youth's_handguards_tome:
   weapon_type: tome
 
 nameless_youth's_handguards_focus:
-  def: 1738
+  pdef: 1738
   mdef: 1519
   name: "Nameless Youth's Handguards (Focus)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u624B\u7532[\u9B54\u5177]"
@@ -924,7 +924,7 @@ nameless_youth's_handguards_focus:
   weapon_type: focus
 
 nameless_youth's_handguards_polearm:
-  def: 1710
+  pdef: 1710
   mdef: 1511
   name: "Nameless Youth's Handguards (Polearm)\u540D\u3082\u306A\u304D\u9752\u5E74\
     \u306E\u624B\u7532[\u9577\u67C4]"
@@ -937,7 +937,7 @@ nameless_youth's_handguards_polearm:
   weapon_type: polearm
 
 nameless_youth's_handguards_hammer:
-  def: 1714
+  pdef: 1714
   mdef: 1515
   name: "Nameless Youth's Handguards (Hammer)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u624B\u7532[\u6253\u6483]"
@@ -950,7 +950,7 @@ nameless_youth's_handguards_hammer:
   weapon_type: hammer
 
 nameless_youth's_handguards_ranged:
-  def: 1716
+  pdef: 1716
   mdef: 1517
   name: "Nameless Youth's Handguards (Ranged)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u624B\u7532[\u5C04\u51FA]"
@@ -963,7 +963,7 @@ nameless_youth's_handguards_ranged:
   weapon_type: ranged
 
 gloves_of_coextinction_blade:
-  def: 1714
+  pdef: 1714
   mdef: 1515
   name: "Gloves of Coextinction (Blade)\u5171\u6EC5\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u5200\u5263]"
@@ -976,7 +976,7 @@ gloves_of_coextinction_blade:
   weapon_type: blade
 
 gloves_of_coextinction_ranged:
-  def: 1716
+  pdef: 1716
   mdef: 1517
   name: "Gloves of Coextinction (Ranged)\u5171\u6EC5\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u5C04\u51FA]"
@@ -989,7 +989,7 @@ gloves_of_coextinction_ranged:
   weapon_type: ranged
 
 gloves_of_coextinction_instrument:
-  def: 1738
+  pdef: 1738
   mdef: 1519
   name: "Gloves of Coextinction (Instrument)\u5171\u6EC5\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u697D\u5668]"
@@ -1002,7 +1002,7 @@ gloves_of_coextinction_instrument:
   weapon_type: instrument
 
 gloves_of_coextinction_staff:
-  def: 1710
+  pdef: 1710
   mdef: 1511
   name: "Gloves of Coextinction (Staff)\u5171\u6EC5\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u7948\u7977]"
@@ -1015,7 +1015,7 @@ gloves_of_coextinction_staff:
   weapon_type: staff
 
 elegant_wing_bracelet_blade:
-  def: 1747
+  pdef: 1747
   mdef: 1515
   name: "Elegant Wing Bracelet (Blade)\u8276\u7FC5\u306E\u8155\u98FE\u308A[\u5200\u5263\
     ]"
@@ -1028,7 +1028,7 @@ elegant_wing_bracelet_blade:
   weapon_type: blade
 
 elegant_wing_bracelet_hammer:
-  def: 1749
+  pdef: 1749
   mdef: 1517
   name: "Elegant Wing Bracelet (Hammer)\u8276\u7FC5\u306E\u8155\u98FE\u308A[\u6253\
     \u6483]"
@@ -1041,7 +1041,7 @@ elegant_wing_bracelet_hammer:
   weapon_type: hammer
 
 elegant_wing_bracelet_instrument:
-  def: 1751
+  pdef: 1751
   mdef: 1519
   name: "Elegant Wing Bracelet (Instrument)\u8276\u7FC5\u306E\u8155\u98FE\u308A[\u697D\
     \u5668]"
@@ -1054,7 +1054,7 @@ elegant_wing_bracelet_instrument:
   weapon_type: instrument
 
 elegant_wing_bracelet_focus:
-  def: 1743
+  pdef: 1743
   mdef: 1511
   name: "Elegant Wing Bracelet (Focus)\u8276\u7FC5\u306E\u8155\u98FE\u308A[\u9B54\u5177\
     ]"
@@ -1067,7 +1067,7 @@ elegant_wing_bracelet_focus:
   weapon_type: focus
 
 noctiluca_bracelet_blade:
-  def: 1519
+  pdef: 1519
   mdef: 1734
   name: "Noctiluca Bracelet (Blade)\u591C\u5149\u87F2\u306E\u8155\u8F2A[\u5200\u5263\
     ]"
@@ -1080,7 +1080,7 @@ noctiluca_bracelet_blade:
   weapon_type: blade
 
 noctiluca_bracelet_polearm:
-  def: 1521
+  pdef: 1521
   mdef: 1736
   name: "Noctiluca Bracelet (Polearm)\u591C\u5149\u87F2\u306E\u8155\u8F2A[\u9577\u67C4\
     ]"
@@ -1093,7 +1093,7 @@ noctiluca_bracelet_polearm:
   weapon_type: polearm
 
 noctiluca_bracelet_focus:
-  def: 1513
+  pdef: 1513
   mdef: 1708
   name: "Noctiluca Bracelet (Focus)\u591C\u5149\u87F2\u306E\u8155\u8F2A[\u9B54\u5177\
     ]"
@@ -1106,7 +1106,7 @@ noctiluca_bracelet_focus:
   weapon_type: focus
 
 noctiluca_bracelet_instrument:
-  def: 1515
+  pdef: 1515
   mdef: 1730
   name: "Noctiluca Bracelet (Instrument)\u591C\u5149\u87F2\u306E\u8155\u8F2A[\u697D\
     \u5668]"
@@ -1119,7 +1119,7 @@ noctiluca_bracelet_instrument:
   weapon_type: instrument
 
 bangle_of_fondness_blade:
-  def: 1845
+  pdef: 1845
   mdef: 2014
   name: "Bangle of Fondness (Blade)\u504F\u611B\u306E\u30D0\u30F3\u30B0\u30EB[\u5200\
     \u5263]"
@@ -1132,7 +1132,7 @@ bangle_of_fondness_blade:
   weapon_type: blade
 
 bangle_of_fondness_ranged:
-  def: 1839
+  pdef: 1839
   mdef: 2008
   name: "Bangle of Fondness (Ranged)\u504F\u611B\u306E\u30D0\u30F3\u30B0\u30EB[\u5C04\
     \u51FA]"
@@ -1145,7 +1145,7 @@ bangle_of_fondness_ranged:
   weapon_type: ranged
 
 bangle_of_fondness_instrument:
-  def: 1843
+  pdef: 1843
   mdef: 2012
   name: "Bangle of Fondness (Instrument)\u504F\u611B\u306E\u30D0\u30F3\u30B0\u30EB\
     [\u697D\u5668]"
@@ -1158,7 +1158,7 @@ bangle_of_fondness_instrument:
   weapon_type: instrument
 
 bangle_of_fondness_tome:
-  def: 1837
+  pdef: 1837
   mdef: 2006
   name: "Bangle of Fondness (Tome)\u504F\u611B\u306E\u30D0\u30F3\u30B0\u30EB[\u9B54\
     \u66F8]"
@@ -1171,7 +1171,7 @@ bangle_of_fondness_tome:
   weapon_type: tome
 
 sorrowful_bracelet_blade:
-  def: 1749
+  pdef: 1749
   mdef: 1418
   name: "Sorrowful Bracelet (Blade)\u60B2\u54C0\u306E\u8155\u8F2A[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3657.png
@@ -1183,7 +1183,7 @@ sorrowful_bracelet_blade:
   weapon_type: blade
 
 sorrowful_bracelet_hammer:
-  def: 1748
+  pdef: 1748
   mdef: 1417
   name: "Sorrowful Bracelet (Hammer)\u60B2\u54C0\u306E\u8155\u8F2A[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3666.png
@@ -1195,7 +1195,7 @@ sorrowful_bracelet_hammer:
   weapon_type: hammer
 
 sorrowful_bracelet_ranged:
-  def: 1747
+  pdef: 1747
   mdef: 1416
   name: "Sorrowful Bracelet (Ranged)\u60B2\u54C0\u306E\u8155\u8F2A[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3675.png
@@ -1207,7 +1207,7 @@ sorrowful_bracelet_ranged:
   weapon_type: ranged
 
 sorrowful_bracelet_instrument:
-  def: 1748
+  pdef: 1748
   mdef: 1417
   name: "Sorrowful Bracelet (Instrument)\u60B2\u54C0\u306E\u8155\u8F2A[\u697D\u5668\
     ]"
@@ -1220,7 +1220,7 @@ sorrowful_bracelet_instrument:
   weapon_type: instrument
 
 sorrowful_bracelet_tome:
-  def: 1750
+  pdef: 1750
   mdef: 1419
   name: "Sorrowful Bracelet (Tome)\u60B2\u54C0\u306E\u8155\u8F2A[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3708.png
@@ -1232,7 +1232,7 @@ sorrowful_bracelet_tome:
   weapon_type: tome
 
 sorrowful_bracelet_staff:
-  def: 1742
+  pdef: 1742
   mdef: 1411
   name: "Sorrowful Bracelet (Staff)\u60B2\u54C0\u306E\u8155\u8F2A[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3720.png
@@ -1244,7 +1244,7 @@ sorrowful_bracelet_staff:
   weapon_type: staff
 
 sorrowful_bracelet_focus:
-  def: 1744
+  pdef: 1744
   mdef: 1413
   name: "Sorrowful Bracelet (Focus)\u60B2\u54C0\u306E\u8155\u8F2A[\u9B54\u5177]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3732.png
@@ -1256,7 +1256,7 @@ sorrowful_bracelet_focus:
   weapon_type: focus
 
 zero_handguards_hammer:
-  def: 1617
+  pdef: 1617
   mdef: 1615
   name: "Zero Handguards (Hammer)\u30BC\u30ED\u306E\u624B\u7532[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3832.png
@@ -1268,7 +1268,7 @@ zero_handguards_hammer:
   weapon_type: hammer
 
 gloves_of_ocean_husks_blade:
-  def: 2009
+  pdef: 2009
   mdef: 1836
   name: "Gloves of Ocean Husks (Blade)\u6D77\u6BBB\u306E\u30B0\u30ED\u30FC\u30D6[\u5200\
     \u5263]"
@@ -1281,7 +1281,7 @@ gloves_of_ocean_husks_blade:
   weapon_type: blade
 
 gloves_of_ocean_husks_hammer:
-  def: 2013
+  pdef: 2013
   mdef: 1840
   name: "Gloves of Ocean Husks (Hammer)\u6D77\u6BBB\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u6253\u6483]"
@@ -1294,7 +1294,7 @@ gloves_of_ocean_husks_hammer:
   weapon_type: hammer
 
 gloves_of_ocean_husks_instrument:
-  def: 2007
+  pdef: 2007
   mdef: 1834
   name: "Gloves of Ocean Husks (Instrument)\u6D77\u6BBB\u306E\u30B0\u30ED\u30FC\u30D6\
     [\u697D\u5668]"
@@ -1307,7 +1307,7 @@ gloves_of_ocean_husks_instrument:
   weapon_type: instrument
 
 gloves_of_ocean_husks_staff:
-  def: 2011
+  pdef: 2011
   mdef: 1838
   name: "Gloves of Ocean Husks (Staff)\u6D77\u6BBB\u306E\u30B0\u30ED\u30FC\u30D6[\u7948\
     \u7977]"
@@ -1320,7 +1320,7 @@ gloves_of_ocean_husks_staff:
   weapon_type: staff
 
 deceitful_fox's_gloves_blade:
-  def: 1922
+  pdef: 1922
   mdef: 1920
   name: "Deceitful Fox's Gloves (Blade)\u8A50\u72D0\u306E\u624B\u888B[\u5200\u5263\
     ]"
@@ -1333,7 +1333,7 @@ deceitful_fox's_gloves_blade:
   weapon_type: blade
 
 deceitful_fox's_gloves_ranged:
-  def: 1926
+  pdef: 1926
   mdef: 1924
   name: "Deceitful Fox's Gloves (Ranged)\u8A50\u72D0\u306E\u624B\u888B[\u5C04\u51FA\
     ]"
@@ -1346,7 +1346,7 @@ deceitful_fox's_gloves_ranged:
   weapon_type: ranged
 
 deceitful_fox's_gloves_focus:
-  def: 1930
+  pdef: 1930
   mdef: 1928
   name: "Deceitful Fox's Gloves (Focus)\u8A50\u72D0\u306E\u624B\u888B[\u9B54\u5177\
     ]"
@@ -1359,7 +1359,7 @@ deceitful_fox's_gloves_focus:
   weapon_type: focus
 
 deceitful_fox's_gloves_staff:
-  def: 1924
+  pdef: 1924
   mdef: 1922
   name: "Deceitful Fox's Gloves (Staff)\u8A50\u72D0\u306E\u624B\u888B[\u7948\u7977\
     ]"
@@ -1372,7 +1372,7 @@ deceitful_fox's_gloves_staff:
   weapon_type: staff
 
 fina's_handbag_blade:
-  def: 1730
+  pdef: 1730
   mdef: 2086
   name: "Fina's Handbag (Blade)\u30D5\u30A3\u30FC\u30CA\u306E\u624B\u888B[\u5200\u5263\
     ]"
@@ -1385,7 +1385,7 @@ fina's_handbag_blade:
   weapon_type: blade
 
 fina's_handbag_hammer:
-  def: 1734
+  pdef: 1734
   mdef: 2090
   name: "Fina's Handbag (Hammer)\u30D5\u30A3\u30FC\u30CA\u306E\u624B\u888B[\u6253\u6483\
     ]"
@@ -1398,7 +1398,7 @@ fina's_handbag_hammer:
   weapon_type: hammer
 
 fina's_handbag_ranged:
-  def: 1728
+  pdef: 1728
   mdef: 2084
   name: "Fina's Handbag (Ranged)\u30D5\u30A3\u30FC\u30CA\u306E\u624B\u888B[\u5C04\u51FA\
     ]"
@@ -1411,7 +1411,7 @@ fina's_handbag_ranged:
   weapon_type: ranged
 
 fina's_handbag_polearm:
-  def: 1732
+  pdef: 1732
   mdef: 2088
   name: "Fina's Handbag (Polearm)\u30D5\u30A3\u30FC\u30CA\u306E\u624B\u888B[\u9577\
     \u67C4]"
@@ -1424,7 +1424,7 @@ fina's_handbag_polearm:
   weapon_type: polearm
 
 fina's_handbag_instrument:
-  def: 1736
+  pdef: 1736
   mdef: 2132
   name: "Fina's Handbag (Instrument)\u30D5\u30A3\u30FC\u30CA\u306E\u624B\u888B[\u697D\
     \u5668]"
@@ -1437,7 +1437,7 @@ fina's_handbag_instrument:
   weapon_type: instrument
 
 fina's_handbag_tome:
-  def: 1730
+  pdef: 1730
   mdef: 2086
   name: "Fina's Handbag (Tome)\u30D5\u30A3\u30FC\u30CA\u306E\u624B\u888B[\u9B54\u66F8\
     ]"
@@ -1450,7 +1450,7 @@ fina's_handbag_tome:
   weapon_type: tome
 
 fina's_handbag_staff:
-  def: 1734
+  pdef: 1734
   mdef: 2090
   name: "Fina's Handbag (Staff)\u30D5\u30A3\u30FC\u30CA\u306E\u624B\u888B[\u7948\u7977\
     ]"
@@ -1463,7 +1463,7 @@ fina's_handbag_staff:
   weapon_type: staff
 
 fina's_handbag_focus:
-  def: 1728
+  pdef: 1728
   mdef: 2084
   name: "Fina's Handbag (Focus)\u30D5\u30A3\u30FC\u30CA\u306E\u624B\u888B[\u9B54\u5177\
     ]"
@@ -1476,7 +1476,7 @@ fina's_handbag_focus:
   weapon_type: focus
 
 dark_fina's_handbag_blade:
-  def: 2088
+  pdef: 2088
   mdef: 1728
   name: "Dark Fina's Handbag (Blade)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u624B\
     \u888B[\u5200\u5263]"
@@ -1489,7 +1489,7 @@ dark_fina's_handbag_blade:
   weapon_type: blade
 
 dark_fina's_handbag_hammer:
-  def: 2132
+  pdef: 2132
   mdef: 1732
   name: "Dark Fina's Handbag (Hammer)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u624B\
     \u888B[\u6253\u6483]"
@@ -1502,7 +1502,7 @@ dark_fina's_handbag_hammer:
   weapon_type: hammer
 
 dark_fina's_handbag_ranged:
-  def: 2086
+  pdef: 2086
   mdef: 1726
   name: "Dark Fina's Handbag (Ranged)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u624B\
     \u888B[\u5C04\u51FA]"
@@ -1515,7 +1515,7 @@ dark_fina's_handbag_ranged:
   weapon_type: ranged
 
 dark_fina's_handbag_polearm:
-  def: 2090
+  pdef: 2090
   mdef: 1730
   name: "Dark Fina's Handbag (Polearm)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u624B\
     \u888B[\u9577\u67C4]"
@@ -1528,7 +1528,7 @@ dark_fina's_handbag_polearm:
   weapon_type: polearm
 
 dark_fina's_handbag_instrument:
-  def: 2094
+  pdef: 2094
   mdef: 1734
   name: "Dark Fina's Handbag (Instrument)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\
     \u624B\u888B[\u697D\u5668]"
@@ -1541,7 +1541,7 @@ dark_fina's_handbag_instrument:
   weapon_type: instrument
 
 dark_fina's_handbag_tome:
-  def: 2088
+  pdef: 2088
   mdef: 1728
   name: "Dark Fina's Handbag (Tome)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u624B\
     \u888B[\u9B54\u66F8]"
@@ -1554,7 +1554,7 @@ dark_fina's_handbag_tome:
   weapon_type: tome
 
 dark_fina's_handbag_staff:
-  def: 2132
+  pdef: 2132
   mdef: 1732
   name: "Dark Fina's Handbag (Staff)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u624B\
     \u888B[\u7948\u7977]"
@@ -1567,7 +1567,7 @@ dark_fina's_handbag_staff:
   weapon_type: staff
 
 dark_fina's_handbag_focus:
-  def: 2086
+  pdef: 2086
   mdef: 1726
   name: "Dark Fina's Handbag (Focus)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u624B\
     \u888B[\u9B54\u5177]"
@@ -1580,7 +1580,7 @@ dark_fina's_handbag_focus:
   weapon_type: focus
 
 songstress'_handbag_blade:
-  def: 1859
+  pdef: 1859
   mdef: 1964
   name: "Songstress' Handbag (Blade)\u6B4C\u59EB\u306E\u624B\u888B[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4501.png
@@ -1592,7 +1592,7 @@ songstress'_handbag_blade:
   weapon_type: blade
 
 songstress'_handbag_hammer:
-  def: 1863
+  pdef: 1863
   mdef: 1968
   name: "Songstress' Handbag (Hammer)\u6B4C\u59EB\u306E\u624B\u888B[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4505.png
@@ -1604,7 +1604,7 @@ songstress'_handbag_hammer:
   weapon_type: hammer
 
 songstress'_handbag_tome:
-  def: 1867
+  pdef: 1867
   mdef: 1972
   name: "Songstress' Handbag (Tome)\u6B4C\u59EB\u306E\u624B\u888B[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4509.png
@@ -1616,7 +1616,7 @@ songstress'_handbag_tome:
   weapon_type: tome
 
 songstress'_handbag_staff:
-  def: 1861
+  pdef: 1861
   mdef: 1966
   name: "Songstress' Handbag (Staff)\u6B4C\u59EB\u306E\u624B\u888B[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4513.png

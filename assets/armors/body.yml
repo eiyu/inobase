@@ -1,6 +1,6 @@
 
 sorrowful_dress_hammer:
-  def: 1751
+  pdef: 1751
   mdef: 1420
   name: "Sorrowful Dress (Hammer)\u60B2\u54C0\u306E\u30C9\u30EC\u30B9[\u6253\u6483\
     ]"
@@ -13,7 +13,7 @@ sorrowful_dress_hammer:
   weapon_type: hammer
 
 nun's_tunic_tome:
-  def: 1414
+  pdef: 1414
   mdef: 1741
   name: "Nun's Tunic (Tome)\u4FEE\u9053\u5973\u306E\u30C8\u30A5\u30CB\u30AB[\u9B54\
     \u66F8]"
@@ -26,7 +26,7 @@ nun's_tunic_tome:
   weapon_type: tome
 
 abyssal_dress_blade:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "Abyssal Dress (Blade)\u6D77\u5E95\u306E\u30C9\u30EC\u30B9[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0596.png
@@ -38,7 +38,7 @@ abyssal_dress_blade:
   weapon_type: blade
 
 abyssal_dress_hammer:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "Abyssal Dress (Hammer)\u6D77\u5E95\u306E\u30C9\u30EC\u30B9[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0608.png
@@ -50,7 +50,7 @@ abyssal_dress_hammer:
   weapon_type: hammer
 
 abyssal_dress_instrument:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "Abyssal Dress (Instrument)\u6D77\u5E95\u306E\u30C9\u30EC\u30B9[\u697D\u5668\
     ]"
@@ -63,7 +63,7 @@ abyssal_dress_instrument:
   weapon_type: instrument
 
 abyssal_dress_staff:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "Abyssal Dress (Staff)\u6D77\u5E95\u306E\u30C9\u30EC\u30B9[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0632.png
@@ -75,7 +75,7 @@ abyssal_dress_staff:
   weapon_type: staff
 
 blackstone_straitjacket_polearm:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "Blackstone Straitjacket (Polearm)\u9ED2\u77F3\u306E\u62D8\u675F\u8863[\u9577\
     \u67C4]"
@@ -88,7 +88,7 @@ blackstone_straitjacket_polearm:
   weapon_type: polearm
 
 blackstone_straitjacket_ranged:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "Blackstone Straitjacket (Ranged)\u9ED2\u77F3\u306E\u62D8\u675F\u8863[\u5C04\
     \u51FA]"
@@ -101,7 +101,7 @@ blackstone_straitjacket_ranged:
   weapon_type: ranged
 
 blackstone_straitjacket_tome:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "Blackstone Straitjacket (Tome)\u9ED2\u77F3\u306E\u62D8\u675F\u8863[\u9B54\
     \u66F8]"
@@ -114,7 +114,7 @@ blackstone_straitjacket_tome:
   weapon_type: tome
 
 blackstone_straitjacket_focus:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "Blackstone Straitjacket (Focus)\u9ED2\u77F3\u306E\u62D8\u675F\u8863[\u9B54\
     \u5177]"
@@ -127,7 +127,7 @@ blackstone_straitjacket_focus:
   weapon_type: focus
 
 2b_combat_uniform_polearmb_:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "2B Combat Uniform (Polearm)\u4E8C\u53F7B\u578B \u6226\u95D8\u670D[\u9577\u67C4\
     ]"
@@ -140,7 +140,7 @@ blackstone_straitjacket_focus:
   weapon_type: polearm
 
 2b_combat_uniform_rangedb_:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "2B Combat Uniform (Ranged)\u4E8C\u53F7B\u578B \u6226\u95D8\u670D[\u5C04\u51FA\
     ]"
@@ -153,7 +153,7 @@ blackstone_straitjacket_focus:
   weapon_type: ranged
 
 2b_combat_uniform_tomeb_:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "2B Combat Uniform (Tome)\u4E8C\u53F7B\u578B \u6226\u95D8\u670D[\u9B54\u66F8\
     ]"
@@ -166,7 +166,7 @@ blackstone_straitjacket_focus:
   weapon_type: tome
 
 2b_combat_uniform_focusb_:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "2B Combat Uniform (Focus)\u4E8C\u53F7B\u578B \u6226\u95D8\u670D[\u9B54\u5177\
     ]"
@@ -179,7 +179,7 @@ blackstone_straitjacket_focus:
   weapon_type: focus
 
 2b_combat_uniform_bladeb_:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "2B Combat Uniform (Blade)\u4E8C\u53F7B\u578B \u6226\u95D8\u670D[\u5200\u5263\
     ]"
@@ -192,7 +192,7 @@ blackstone_straitjacket_focus:
   weapon_type: blade
 
 2b_combat_uniform_hammerb_:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "2B Combat Uniform (Hammer)\u4E8C\u53F7B\u578B \u6226\u95D8\u670D[\u6253\u6483\
     ]"
@@ -205,7 +205,7 @@ blackstone_straitjacket_focus:
   weapon_type: hammer
 
 2b_combat_uniform_instrumentb_:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "2B Combat Uniform (Instrument)\u4E8C\u53F7B\u578B \u6226\u95D8\u670D[\u697D\
     \u5668]"
@@ -218,7 +218,7 @@ blackstone_straitjacket_focus:
   weapon_type: instrument
 
 2b_combat_uniform_staffb_:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "2B Combat Uniform (Staff)\u4E8C\u53F7B\u578B \u6226\u95D8\u670D[\u7948\u7977\
     ]"
@@ -231,7 +231,7 @@ blackstone_straitjacket_focus:
   weapon_type: staff
 
 golden_armor_ranged:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "Golden Armor (Ranged)\u9EC4\u91D1\u306E\u93A7[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0934.png
@@ -242,7 +242,7 @@ golden_armor_ranged:
   weapon_type: ranged
 
 golden_armor_hammer:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "Golden Armor (Hammer)\u9EC4\u91D1\u306E\u93A7[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0946.png
@@ -253,7 +253,7 @@ golden_armor_hammer:
   weapon_type: hammer
 
 golden_armor_tome:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "Golden Armor (Tome)\u9EC4\u91D1\u306E\u93A7[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0958.png
@@ -264,7 +264,7 @@ golden_armor_tome:
   weapon_type: tome
 
 golden_armor_staff:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "Golden Armor (Staff)\u9EC4\u91D1\u306E\u93A7[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS0970.png
@@ -275,7 +275,7 @@ golden_armor_staff:
   weapon_type: staff
 
 abyssal_dress_polearm:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "Abyssal Dress (Polearm)\u6D77\u5E95\u306E\u30C9\u30EC\u30B9[\u9577\u67C4]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1322.png
@@ -287,7 +287,7 @@ abyssal_dress_polearm:
   weapon_type: polearm
 
 abyssal_dress_tome:
-  def: 1417
+  pdef: 1417
   mdef: 1744
   name: "Abyssal Dress (Tome)\u6D77\u5E95\u306E\u30C9\u30EC\u30B9[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1334.png
@@ -299,7 +299,7 @@ abyssal_dress_tome:
   weapon_type: tome
 
 sandstone_dress_polearm:
-  def: 1422
+  pdef: 1422
   mdef: 1749
   name: "Sandstone Dress (Polearm)\u7802\u5CA9\u306E\u30C9\u30EC\u30B9[\u9577\u67C4\
     ]"
@@ -312,7 +312,7 @@ sandstone_dress_polearm:
   weapon_type: polearm
 
 sandstone_dress_blade:
-  def: 1414
+  pdef: 1414
   mdef: 1741
   name: "Sandstone Dress (Blade)\u7802\u5CA9\u306E\u30C9\u30EC\u30B9[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1521.png
@@ -324,7 +324,7 @@ sandstone_dress_blade:
   weapon_type: blade
 
 sandstone_dress_instrument:
-  def: 1416
+  pdef: 1416
   mdef: 1743
   name: "Sandstone Dress (Instrument)\u7802\u5CA9\u306E\u30C9\u30EC\u30B9[\u697D\u5668\
     ]"
@@ -337,7 +337,7 @@ sandstone_dress_instrument:
   weapon_type: instrument
 
 sandstone_dress_staff:
-  def: 1418
+  pdef: 1418
   mdef: 1745
   name: "Sandstone Dress (Staff)\u7802\u5CA9\u306E\u30C9\u30EC\u30B9[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1545.png
@@ -349,7 +349,7 @@ sandstone_dress_staff:
   weapon_type: staff
 
 marching_band_quilt_ranged:
-  def: 1927
+  pdef: 1927
   mdef: 1925
   name: "Marching Band Quilt (Ranged)\u97F3\u697D\u968A\u306E\u30AD\u30EB\u30C8[\u5C04\
     \u51FA]"
@@ -362,7 +362,7 @@ marching_band_quilt_ranged:
   weapon_type: ranged
 
 marching_band_quilt_hammer:
-  def: 1931
+  pdef: 1931
   mdef: 1929
   name: "Marching Band Quilt (Hammer)\u97F3\u697D\u968A\u306E\u30AD\u30EB\u30C8[\u6253\
     \u6483]"
@@ -375,7 +375,7 @@ marching_band_quilt_hammer:
   weapon_type: hammer
 
 marching_band_quilt_instrument:
-  def: 1925
+  pdef: 1925
   mdef: 1923
   name: "Marching Band Quilt (Instrument)\u97F3\u697D\u968A\u306E\u30AD\u30EB\u30C8\
     [\u697D\u5668]"
@@ -388,7 +388,7 @@ marching_band_quilt_instrument:
   weapon_type: instrument
 
 marching_band_quilt_focus:
-  def: 1929
+  pdef: 1929
   mdef: 1927
   name: "Marching Band Quilt (Focus)\u97F3\u697D\u968A\u306E\u30AD\u30EB\u30C8[\u9B54\
     \u5177]"
@@ -401,7 +401,7 @@ marching_band_quilt_focus:
   weapon_type: focus
 
 zero_clothes_blade:
-  def: 1615
+  pdef: 1615
   mdef: 1613
   name: "Zero Clothes (Blade)\u30BC\u30ED\u306E\u670D[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1760.png
@@ -412,7 +412,7 @@ zero_clothes_blade:
   weapon_type: blade
 
 zero_clothes_polearm:
-  def: 1617
+  pdef: 1617
   mdef: 1615
   name: "Zero Clothes (Polearm)\u30BC\u30ED\u306E\u670D[\u9577\u67C4]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1772.png
@@ -423,7 +423,7 @@ zero_clothes_polearm:
   weapon_type: polearm
 
 zero_clothes_staff:
-  def: 1619
+  pdef: 1619
   mdef: 1617
   name: "Zero Clothes (Staff)\u30BC\u30ED\u306E\u670D[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1784.png
@@ -434,7 +434,7 @@ zero_clothes_staff:
   weapon_type: staff
 
 zero_clothes_tome:
-  def: 1621
+  pdef: 1621
   mdef: 1619
   name: "Zero Clothes (Tome)\u30BC\u30ED\u306E\u670D[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1796.png
@@ -445,7 +445,7 @@ zero_clothes_tome:
   weapon_type: tome
 
 rainfall_dress_hammer:
-  def: 1419
+  pdef: 1419
   mdef: 1746
   name: "Rainfall Dress (Hammer)\u6D99\u96E8\u306E\u30C9\u30EC\u30B9[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1836.png
@@ -457,7 +457,7 @@ rainfall_dress_hammer:
   weapon_type: hammer
 
 rainfall_dress_blade:
-  def: 1421
+  pdef: 1421
   mdef: 1748
   name: "Rainfall Dress (Blade)\u6D99\u96E8\u306E\u30C9\u30EC\u30B9[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1848.png
@@ -469,7 +469,7 @@ rainfall_dress_blade:
   weapon_type: blade
 
 rainfall_dress_staff:
-  def: 1413
+  pdef: 1413
   mdef: 1740
   name: "Rainfall Dress (Staff)\u6D99\u96E8\u306E\u30C9\u30EC\u30B9[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1860.png
@@ -481,7 +481,7 @@ rainfall_dress_staff:
   weapon_type: staff
 
 rainfall_dress_tome:
-  def: 1415
+  pdef: 1415
   mdef: 1742
   name: "Rainfall Dress (Tome)\u6D99\u96E8\u306E\u30C9\u30EC\u30B9[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS1872.png
@@ -493,7 +493,7 @@ rainfall_dress_tome:
   weapon_type: tome
 
 sin-eater's_dress_hammer:
-  def: 1644
+  pdef: 1644
   mdef: 1518
   name: "Sin-Eater's Dress (Hammer)\u98DF\u7F6A\u306E\u30C9\u30EC\u30B9[\u6253\u6483\
     ]"
@@ -506,7 +506,7 @@ sin-eater's_dress_hammer:
   weapon_type: hammer
 
 sin-eater's_dress_blade:
-  def: 1636
+  pdef: 1636
   mdef: 1510
   name: "Sin-Eater's Dress (Blade)\u98DF\u7F6A\u306E\u30C9\u30EC\u30B9[\u5200\u5263\
     ]"
@@ -519,7 +519,7 @@ sin-eater's_dress_blade:
   weapon_type: blade
 
 sin-eater's_dress_instrument:
-  def: 1638
+  pdef: 1638
   mdef: 1512
   name: "Sin-Eater's Dress (Instrument)\u98DF\u7F6A\u306E\u30C9\u30EC\u30B9[\u697D\
     \u5668]"
@@ -532,7 +532,7 @@ sin-eater's_dress_instrument:
   weapon_type: instrument
 
 sin-eater's_dress_staff:
-  def: 1640
+  pdef: 1640
   mdef: 1514
   name: "Sin-Eater's Dress (Staff)\u98DF\u7F6A\u306E\u30C9\u30EC\u30B9[\u7948\u7977\
     ]"
@@ -545,7 +545,7 @@ sin-eater's_dress_staff:
   weapon_type: staff
 
 dress_of_loss_ranged:
-  def: 1618
+  pdef: 1618
   mdef: 1616
   name: "Dress of Loss (Ranged)\u55AA\u5931\u306E\u30C9\u30EC\u30B9[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2143.png
@@ -557,7 +557,7 @@ dress_of_loss_ranged:
   weapon_type: ranged
 
 dress_of_loss_blade:
-  def: 1620
+  pdef: 1620
   mdef: 1618
   name: "Dress of Loss (Blade)\u55AA\u5931\u306E\u30C9\u30EC\u30B9[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2155.png
@@ -569,7 +569,7 @@ dress_of_loss_blade:
   weapon_type: blade
 
 dress_of_loss_instrument:
-  def: 1622
+  pdef: 1622
   mdef: 1620
   name: "Dress of Loss (Instrument)\u55AA\u5931\u306E\u30C9\u30EC\u30B9[\u697D\u5668\
     ]"
@@ -582,7 +582,7 @@ dress_of_loss_instrument:
   weapon_type: instrument
 
 dress_of_loss_staff:
-  def: 1624
+  pdef: 1624
   mdef: 1622
   name: "Dress of Loss (Staff)\u55AA\u5931\u306E\u30C9\u30EC\u30B9[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2179.png
@@ -594,7 +594,7 @@ dress_of_loss_staff:
   weapon_type: staff
 
 lady's_dress_ranged:
-  def: 1930
+  pdef: 1930
   mdef: 1928
   name: "Lady's Dress (Ranged)\u6DD1\u5973\u306E\u30C9\u30EC\u30B9[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4539.png
@@ -606,7 +606,7 @@ lady's_dress_ranged:
   weapon_type: ranged
 
 lady's_dress_polearm:
-  def: 1924
+  pdef: 1924
   mdef: 1922
   name: "Lady's Dress (Polearm)\u6DD1\u5973\u306E\u30C9\u30EC\u30B9[\u9577\u67C4]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4543.png
@@ -618,7 +618,7 @@ lady's_dress_polearm:
   weapon_type: polearm
 
 lady's_dress_instrument:
-  def: 1928
+  pdef: 1928
   mdef: 1926
   name: "Lady's Dress (Instrument)\u6DD1\u5973\u306E\u30C9\u30EC\u30B9[\u697D\u5668\
     ]"
@@ -631,7 +631,7 @@ lady's_dress_instrument:
   weapon_type: instrument
 
 lady's_dress_focus:
-  def: 1922
+  pdef: 1922
   mdef: 1920
   name: "Lady's Dress (Focus)\u6DD1\u5973\u306E\u30C9\u30EC\u30B9[\u9B54\u5177]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4551.png
@@ -643,7 +643,7 @@ lady's_dress_focus:
   weapon_type: focus
 
 invader's_jersey_ranged:
-  def: 1517
+  pdef: 1517
   mdef: 1732
   name: "Invader's Jersey (Ranged)\u4FB5\u7565\u8005\u306E\u30B8\u30E3\u30FC\u30B8\
     [\u5C04\u51FA]"
@@ -656,7 +656,7 @@ invader's_jersey_ranged:
   weapon_type: ranged
 
 invader's_jersey_polearm:
-  def: 1519
+  pdef: 1519
   mdef: 1734
   name: "Invader's Jersey (Polearm)\u4FB5\u7565\u8005\u306E\u30B8\u30E3\u30FC\u30B8\
     [\u9577\u67C4]"
@@ -669,7 +669,7 @@ invader's_jersey_polearm:
   weapon_type: polearm
 
 invader's_jersey_staff:
-  def: 1521
+  pdef: 1521
   mdef: 1736
   name: "Invader's Jersey (Staff)\u4FB5\u7565\u8005\u306E\u30B8\u30E3\u30FC\u30B8\
     [\u7948\u7977]"
@@ -682,7 +682,7 @@ invader's_jersey_staff:
   weapon_type: staff
 
 invader's_jersey_focus:
-  def: 1513
+  pdef: 1513
   mdef: 1708
   name: "Invader's Jersey (Focus)\u4FB5\u7565\u8005\u306E\u30B8\u30E3\u30FC\u30B8\
     [\u9B54\u5177]"
@@ -695,7 +695,7 @@ invader's_jersey_focus:
   weapon_type: focus
 
 cyan_clothes_ranged:
-  def: 1738
+  pdef: 1738
   mdef: 1519
   name: "Cyan Clothes (Ranged)\u9752\u85CD\u306E\u670D[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2539.png
@@ -706,7 +706,7 @@ cyan_clothes_ranged:
   weapon_type: ranged
 
 cyan_clothes_polearm:
-  def: 1710
+  pdef: 1710
   mdef: 1511
   name: "Cyan Clothes (Polearm)\u9752\u85CD\u306E\u670D[\u9577\u67C4]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2551.png
@@ -717,7 +717,7 @@ cyan_clothes_polearm:
   weapon_type: polearm
 
 cyan_clothes_tome:
-  def: 1712
+  pdef: 1712
   mdef: 1513
   name: "Cyan Clothes (Tome)\u9752\u85CD\u306E\u670D[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2563.png
@@ -728,7 +728,7 @@ cyan_clothes_tome:
   weapon_type: tome
 
 cyan_clothes_staff:
-  def: 1714
+  pdef: 1714
   mdef: 1515
   name: "Cyan Clothes (Staff)\u9752\u85CD\u306E\u670D[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS2575.png
@@ -739,7 +739,7 @@ cyan_clothes_staff:
   weapon_type: staff
 
 dress_of_the_white_night_blade:
-  def: 1711
+  pdef: 1711
   mdef: 1512
   name: "Dress of the White Night (Blade)\u767D\u591C\u306E\u30C9\u30EC\u30B9[\u5200\
     \u5263]"
@@ -752,7 +752,7 @@ dress_of_the_white_night_blade:
   weapon_type: blade
 
 dress_of_the_white_night_ranged:
-  def: 1716
+  pdef: 1716
   mdef: 1517
   name: "Dress of the White Night (Ranged)\u767D\u591C\u306E\u30C9\u30EC\u30B9[\u5C04\
     \u51FA]"
@@ -765,7 +765,7 @@ dress_of_the_white_night_ranged:
   weapon_type: ranged
 
 dress_of_the_white_night_staff:
-  def: 1717
+  pdef: 1717
   mdef: 1518
   name: "Dress of the White Night (Staff)\u767D\u591C\u306E\u30C9\u30EC\u30B9[\u7948\
     \u7977]"
@@ -778,7 +778,7 @@ dress_of_the_white_night_staff:
   weapon_type: staff
 
 dress_of_the_white_night_focus:
-  def: 1716
+  pdef: 1716
   mdef: 1517
   name: "Dress of the White Night (Focus)\u767D\u591C\u306E\u30C9\u30EC\u30B9[\u9B54\
     \u5177]"
@@ -791,7 +791,7 @@ dress_of_the_white_night_focus:
   weapon_type: focus
 
 chameleon's_tunic_hammer:
-  def: 1518
+  pdef: 1518
   mdef: 1746
   name: "Chameleon's Tunic (Hammer)\u907F\u5F79\u306E\u30C1\u30E5\u30CB\u30C3\u30AF\
     [\u6253\u6483]"
@@ -804,7 +804,7 @@ chameleon's_tunic_hammer:
   weapon_type: hammer
 
 chameleon's_tunic_polearm:
-  def: 1520
+  pdef: 1520
   mdef: 1748
   name: "Chameleon's Tunic (Polearm)\u907F\u5F79\u306E\u30C1\u30E5\u30CB\u30C3\u30AF\
     [\u9577\u67C4]"
@@ -817,7 +817,7 @@ chameleon's_tunic_polearm:
   weapon_type: polearm
 
 chameleon's_tunic_instrument:
-  def: 1512
+  pdef: 1512
   mdef: 1740
   name: "Chameleon's Tunic (Instrument)\u907F\u5F79\u306E\u30C1\u30E5\u30CB\u30C3\u30AF\
     [\u697D\u5668]"
@@ -830,7 +830,7 @@ chameleon's_tunic_instrument:
   weapon_type: instrument
 
 chameleon's_tunic_tome:
-  def: 1514
+  pdef: 1514
   mdef: 1742
   name: "Chameleon's Tunic (Tome)\u907F\u5F79\u306E\u30C1\u30E5\u30CB\u30C3\u30AF\
     [\u9B54\u66F8]"
@@ -843,7 +843,7 @@ chameleon's_tunic_tome:
   weapon_type: tome
 
 nameless_youth's_clothes_blade:
-  def: 1714
+  pdef: 1714
   mdef: 1515
   name: "Nameless Youth's Clothes (Blade)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u670D[\u5200\u5263]"
@@ -856,7 +856,7 @@ nameless_youth's_clothes_blade:
   weapon_type: blade
 
 nameless_youth's_clothes_staff:
-  def: 1716
+  pdef: 1716
   mdef: 1517
   name: "Nameless Youth's Clothes (Staff)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u670D[\u7948\u7977]"
@@ -869,7 +869,7 @@ nameless_youth's_clothes_staff:
   weapon_type: staff
 
 nameless_youth's_clothes_instrument:
-  def: 1738
+  pdef: 1738
   mdef: 1519
   name: "Nameless Youth's Clothes (Instrument)\u540D\u3082\u306A\u304D\u9752\u5E74\
     \u306E\u670D[\u697D\u5668]"
@@ -882,7 +882,7 @@ nameless_youth's_clothes_instrument:
   weapon_type: instrument
 
 nameless_youth's_clothes_tome:
-  def: 1710
+  pdef: 1710
   mdef: 1511
   name: "Nameless Youth's Clothes (Tome)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u670D[\u9B54\u66F8]"
@@ -895,7 +895,7 @@ nameless_youth's_clothes_tome:
   weapon_type: tome
 
 nameless_youth's_clothes_focus:
-  def: 1712
+  pdef: 1712
   mdef: 1513
   name: "Nameless Youth's Clothes (Focus)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u670D[\u9B54\u5177]"
@@ -908,7 +908,7 @@ nameless_youth's_clothes_focus:
   weapon_type: focus
 
 nameless_youth's_clothes_polearm:
-  def: 1714
+  pdef: 1714
   mdef: 1515
   name: "Nameless Youth's Clothes (Polearm)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u670D[\u9577\u67C4]"
@@ -921,7 +921,7 @@ nameless_youth's_clothes_polearm:
   weapon_type: polearm
 
 nameless_youth's_clothes_hammer:
-  def: 1738
+  pdef: 1738
   mdef: 1519
   name: "Nameless Youth's Clothes (Hammer)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u670D[\u6253\u6483]"
@@ -934,7 +934,7 @@ nameless_youth's_clothes_hammer:
   weapon_type: hammer
 
 nameless_youth's_clothes_ranged:
-  def: 1710
+  pdef: 1710
   mdef: 1511
   name: "Nameless Youth's Clothes (Ranged)\u540D\u3082\u306A\u304D\u9752\u5E74\u306E\
     \u670D[\u5C04\u51FA]"
@@ -947,7 +947,7 @@ nameless_youth's_clothes_ranged:
   weapon_type: ranged
 
 blouson_of_coextinction_blade:
-  def: 1738
+  pdef: 1738
   mdef: 1519
   name: "Blouson of Coextinction (Blade)\u5171\u6EC5\u306E\u30D6\u30EB\u30BE\u30F3\
     [\u5200\u5263]"
@@ -960,7 +960,7 @@ blouson_of_coextinction_blade:
   weapon_type: blade
 
 blouson_of_coextinction_ranged:
-  def: 1710
+  pdef: 1710
   mdef: 1511
   name: "Blouson of Coextinction (Ranged)\u5171\u6EC5\u306E\u30D6\u30EB\u30BE\u30F3\
     [\u5C04\u51FA]"
@@ -973,7 +973,7 @@ blouson_of_coextinction_ranged:
   weapon_type: ranged
 
 blouson_of_coextinction_instrument:
-  def: 1712
+  pdef: 1712
   mdef: 1513
   name: "Blouson of Coextinction (Instrument)\u5171\u6EC5\u306E\u30D6\u30EB\u30BE\u30F3\
     [\u697D\u5668]"
@@ -986,7 +986,7 @@ blouson_of_coextinction_instrument:
   weapon_type: instrument
 
 blouson_of_coextinction_staff:
-  def: 1714
+  pdef: 1714
   mdef: 1515
   name: "Blouson of Coextinction (Staff)\u5171\u6EC5\u306E\u30D6\u30EB\u30BE\u30F3\
     [\u7948\u7977]"
@@ -999,7 +999,7 @@ blouson_of_coextinction_staff:
   weapon_type: staff
 
 elegant_wing_dress_blade:
-  def: 1751
+  pdef: 1751
   mdef: 1519
   name: "Elegant Wing Dress (Blade)\u8276\u7FC5\u306E\u30C9\u30EC\u30B9[\u5200\u5263\
     ]"
@@ -1012,7 +1012,7 @@ elegant_wing_dress_blade:
   weapon_type: blade
 
 elegant_wing_dress_hammer:
-  def: 1743
+  pdef: 1743
   mdef: 1511
   name: "Elegant Wing Dress (Hammer)\u8276\u7FC5\u306E\u30C9\u30EC\u30B9[\u6253\u6483\
     ]"
@@ -1025,7 +1025,7 @@ elegant_wing_dress_hammer:
   weapon_type: hammer
 
 elegant_wing_dress_instrument:
-  def: 1745
+  pdef: 1745
   mdef: 1513
   name: "Elegant Wing Dress (Instrument)\u8276\u7FC5\u306E\u30C9\u30EC\u30B9[\u697D\
     \u5668]"
@@ -1038,7 +1038,7 @@ elegant_wing_dress_instrument:
   weapon_type: instrument
 
 elegant_wing_dress_focus:
-  def: 1747
+  pdef: 1747
   mdef: 1515
   name: "Elegant Wing Dress (Focus)\u8276\u7FC5\u306E\u30C9\u30EC\u30B9[\u9B54\u5177\
     ]"
@@ -1051,7 +1051,7 @@ elegant_wing_dress_focus:
   weapon_type: focus
 
 noctiluca_dress_blade:
-  def: 1513
+  pdef: 1513
   mdef: 1708
   name: "Noctiluca Dress (Blade)\u591C\u5149\u87F2\u306E\u30C9\u30EC\u30B9[\u5200\u5263\
     ]"
@@ -1064,7 +1064,7 @@ noctiluca_dress_blade:
   weapon_type: blade
 
 noctiluca_dress_polearm:
-  def: 1515
+  pdef: 1515
   mdef: 1730
   name: "Noctiluca Dress (Polearm)\u591C\u5149\u87F2\u306E\u30C9\u30EC\u30B9[\u9577\
     \u67C4]"
@@ -1077,7 +1077,7 @@ noctiluca_dress_polearm:
   weapon_type: polearm
 
 noctiluca_dress_focus:
-  def: 1517
+  pdef: 1517
   mdef: 1732
   name: "Noctiluca Dress (Focus)\u591C\u5149\u87F2\u306E\u30C9\u30EC\u30B9[\u9B54\u5177\
     ]"
@@ -1090,7 +1090,7 @@ noctiluca_dress_focus:
   weapon_type: focus
 
 noctiluca_dress_instrument:
-  def: 1519
+  pdef: 1519
   mdef: 1734
   name: "Noctiluca Dress (Instrument)\u591C\u5149\u87F2\u306E\u30C9\u30EC\u30B9[\u697D\
     \u5668]"
@@ -1103,7 +1103,7 @@ noctiluca_dress_instrument:
   weapon_type: instrument
 
 dress_of_fondness_blade:
-  def: 1843
+  pdef: 1843
   mdef: 2012
   name: "Dress of Fondness (Blade)\u504F\u611B\u306E\u30C9\u30EC\u30B9[\u5200\u5263\
     ]"
@@ -1116,7 +1116,7 @@ dress_of_fondness_blade:
   weapon_type: blade
 
 dress_of_fondness_ranged:
-  def: 1837
+  pdef: 1837
   mdef: 2006
   name: "Dress of Fondness (Ranged)\u504F\u611B\u306E\u30C9\u30EC\u30B9[\u5C04\u51FA\
     ]"
@@ -1129,7 +1129,7 @@ dress_of_fondness_ranged:
   weapon_type: ranged
 
 dress_of_fondness_instrument:
-  def: 1841
+  pdef: 1841
   mdef: 2010
   name: "Dress of Fondness (Instrument)\u504F\u611B\u306E\u30C9\u30EC\u30B9[\u697D\
     \u5668]"
@@ -1142,7 +1142,7 @@ dress_of_fondness_instrument:
   weapon_type: instrument
 
 dress_of_fondness_tome:
-  def: 1845
+  pdef: 1845
   mdef: 2014
   name: "Dress of Fondness (Tome)\u504F\u611B\u306E\u30C9\u30EC\u30B9[\u9B54\u66F8\
     ]"
@@ -1155,7 +1155,7 @@ dress_of_fondness_tome:
   weapon_type: tome
 
 sorrowful_dress_blade:
-  def: 1743
+  pdef: 1743
   mdef: 1412
   name: "Sorrowful Dress (Blade)\u60B2\u54C0\u306E\u30C9\u30EC\u30B9[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3651.png
@@ -1167,7 +1167,7 @@ sorrowful_dress_blade:
   weapon_type: blade
 
 sorrowful_dress_ranged:
-  def: 1744
+  pdef: 1744
   mdef: 1413
   name: "Sorrowful Dress (Ranged)\u60B2\u54C0\u306E\u30C9\u30EC\u30B9[\u5C04\u51FA\
     ]"
@@ -1180,7 +1180,7 @@ sorrowful_dress_ranged:
   weapon_type: ranged
 
 sorrowful_dress_polearm:
-  def: 1743
+  pdef: 1743
   mdef: 1412
   name: "Sorrowful Dress (Polearm)\u60B2\u54C0\u306E\u30C9\u30EC\u30B9[\u9577\u67C4\
     ]"
@@ -1193,7 +1193,7 @@ sorrowful_dress_polearm:
   weapon_type: polearm
 
 sorrowful_dress_instrument:
-  def: 1742
+  pdef: 1742
   mdef: 1411
   name: "Sorrowful Dress (Instrument)\u60B2\u54C0\u306E\u30C9\u30EC\u30B9[\u697D\u5668\
     ]"
@@ -1206,7 +1206,7 @@ sorrowful_dress_instrument:
   weapon_type: instrument
 
 sorrowful_dress_tome:
-  def: 1744
+  pdef: 1744
   mdef: 1413
   name: "Sorrowful Dress (Tome)\u60B2\u54C0\u306E\u30C9\u30EC\u30B9[\u9B54\u66F8]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3702.png
@@ -1218,7 +1218,7 @@ sorrowful_dress_tome:
   weapon_type: tome
 
 sorrowful_dress_staff:
-  def: 1746
+  pdef: 1746
   mdef: 1415
   name: "Sorrowful Dress (Staff)\u60B2\u54C0\u306E\u30C9\u30EC\u30B9[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3714.png
@@ -1230,7 +1230,7 @@ sorrowful_dress_staff:
   weapon_type: staff
 
 sorrowful_dress_focus:
-  def: 1748
+  pdef: 1748
   mdef: 1417
   name: "Sorrowful Dress (Focus)\u60B2\u54C0\u306E\u30C9\u30EC\u30B9[\u9B54\u5177]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3726.png
@@ -1242,7 +1242,7 @@ sorrowful_dress_focus:
   weapon_type: focus
 
 zero_clothes_hammer:
-  def: 1621
+  pdef: 1621
   mdef: 1619
   name: "Zero Clothes (Hammer)\u30BC\u30ED\u306E\u670D[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3826.png
@@ -1253,7 +1253,7 @@ zero_clothes_hammer:
   weapon_type: hammer
 
 dress_of_ocean_husks_blade:
-  def: 2007
+  pdef: 2007
   mdef: 1834
   name: "Dress of Ocean Husks (Blade)\u6D77\u6BBB\u306E\u670D[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3900.png
@@ -1264,7 +1264,7 @@ dress_of_ocean_husks_blade:
   weapon_type: blade
 
 dress_of_ocean_husks_hammer:
-  def: 2011
+  pdef: 2011
   mdef: 1838
   name: "Dress of Ocean Husks (Hammer)\u6D77\u6BBB\u306E\u670D[\u6253\u6483]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3904.png
@@ -1275,7 +1275,7 @@ dress_of_ocean_husks_hammer:
   weapon_type: hammer
 
 dress_of_ocean_husks_instrument:
-  def: 2015
+  pdef: 2015
   mdef: 1842
   name: "Dress of Ocean Husks (Instrument)\u6D77\u6BBB\u306E\u670D[\u697D\u5668]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3908.png
@@ -1286,7 +1286,7 @@ dress_of_ocean_husks_instrument:
   weapon_type: instrument
 
 dress_of_ocean_husks_staff:
-  def: 2009
+  pdef: 2009
   mdef: 1836
   name: "Dress of Ocean Husks (Staff)\u6D77\u6BBB\u306E\u670D[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS3912.png
@@ -1297,7 +1297,7 @@ dress_of_ocean_husks_staff:
   weapon_type: staff
 
 deceitful_fox's_coat_blade:
-  def: 1930
+  pdef: 1930
   mdef: 1928
   name: "Deceitful Fox's Coat (Blade)\u8A50\u72D0\u306E\u5916\u5957[\u5200\u5263]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4008.png
@@ -1309,7 +1309,7 @@ deceitful_fox's_coat_blade:
   weapon_type: blade
 
 deceitful_fox's_coat_ranged:
-  def: 1924
+  pdef: 1924
   mdef: 1922
   name: "Deceitful Fox's Coat (Ranged)\u8A50\u72D0\u306E\u5916\u5957[\u5C04\u51FA]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4012.png
@@ -1321,7 +1321,7 @@ deceitful_fox's_coat_ranged:
   weapon_type: ranged
 
 deceitful_fox's_coat_focus:
-  def: 1928
+  pdef: 1928
   mdef: 1926
   name: "Deceitful Fox's Coat (Focus)\u8A50\u72D0\u306E\u5916\u5957[\u9B54\u5177]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4016.png
@@ -1333,7 +1333,7 @@ deceitful_fox's_coat_focus:
   weapon_type: focus
 
 deceitful_fox's_coat_staff:
-  def: 1922
+  pdef: 1922
   mdef: 1920
   name: "Deceitful Fox's Coat (Staff)\u8A50\u72D0\u306E\u5916\u5957[\u7948\u7977]"
   picture: https://sinoalice.game-db.tw/images/card/CardS4020.png
@@ -1345,7 +1345,7 @@ deceitful_fox's_coat_staff:
   weapon_type: staff
 
 fina's_mantle_blade:
-  def: 1728
+  pdef: 1728
   mdef: 2084
   name: "Fina's Mantle (Blade)\u30D5\u30A3\u30FC\u30CA\u306E\u30DE\u30F3\u30C8[\u5200\
     \u5263]"
@@ -1358,7 +1358,7 @@ fina's_mantle_blade:
   weapon_type: blade
 
 fina's_mantle_hammer:
-  def: 1732
+  pdef: 1732
   mdef: 2088
   name: "Fina's Mantle (Hammer)\u30D5\u30A3\u30FC\u30CA\u306E\u30DE\u30F3\u30C8[\u6253\
     \u6483]"
@@ -1371,7 +1371,7 @@ fina's_mantle_hammer:
   weapon_type: hammer
 
 fina's_mantle_ranged:
-  def: 1736
+  pdef: 1736
   mdef: 2132
   name: "Fina's Mantle (Ranged)\u30D5\u30A3\u30FC\u30CA\u306E\u30DE\u30F3\u30C8[\u5C04\
     \u51FA]"
@@ -1384,7 +1384,7 @@ fina's_mantle_ranged:
   weapon_type: ranged
 
 fina's_mantle_polearm:
-  def: 1730
+  pdef: 1730
   mdef: 2086
   name: "Fina's Mantle (Polearm)\u30D5\u30A3\u30FC\u30CA\u306E\u30DE\u30F3\u30C8[\u9577\
     \u67C4]"
@@ -1397,7 +1397,7 @@ fina's_mantle_polearm:
   weapon_type: polearm
 
 fina's_mantle_instrument:
-  def: 1734
+  pdef: 1734
   mdef: 2090
   name: "Fina's Mantle (Instrument)\u30D5\u30A3\u30FC\u30CA\u306E\u30DE\u30F3\u30C8\
     [\u697D\u5668]"
@@ -1410,7 +1410,7 @@ fina's_mantle_instrument:
   weapon_type: instrument
 
 fina's_mantle_tome:
-  def: 1728
+  pdef: 1728
   mdef: 2084
   name: "Fina's Mantle (Tome)\u30D5\u30A3\u30FC\u30CA\u306E\u30DE\u30F3\u30C8[\u9B54\
     \u66F8]"
@@ -1423,7 +1423,7 @@ fina's_mantle_tome:
   weapon_type: tome
 
 fina's_mantle_staff:
-  def: 1732
+  pdef: 1732
   mdef: 2088
   name: "Fina's Mantle (Staff)\u30D5\u30A3\u30FC\u30CA\u306E\u30DE\u30F3\u30C8[\u7948\
     \u7977]"
@@ -1436,7 +1436,7 @@ fina's_mantle_staff:
   weapon_type: staff
 
 fina's_mantle_focus:
-  def: 1736
+  pdef: 1736
   mdef: 2132
   name: "Fina's Mantle (Focus)\u30D5\u30A3\u30FC\u30CA\u306E\u30DE\u30F3\u30C8[\u9B54\
     \u5177]"
@@ -1449,7 +1449,7 @@ fina's_mantle_focus:
   weapon_type: focus
 
 dark_fina's_dress_blade:
-  def: 2086
+  pdef: 2086
   mdef: 1726
   name: "Dark Fina's Dress (Blade)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u30C9\
     \u30EC\u30B9[\u5200\u5263]"
@@ -1462,7 +1462,7 @@ dark_fina's_dress_blade:
   weapon_type: blade
 
 dark_fina's_dress_hammer:
-  def: 2090
+  pdef: 2090
   mdef: 1730
   name: "Dark Fina's Dress (Hammer)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u30C9\
     \u30EC\u30B9[\u6253\u6483]"
@@ -1475,7 +1475,7 @@ dark_fina's_dress_hammer:
   weapon_type: hammer
 
 dark_fina's_dress_ranged:
-  def: 2094
+  pdef: 2094
   mdef: 1734
   name: "Dark Fina's Dress (Ranged)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u30C9\
     \u30EC\u30B9[\u5C04\u51FA]"
@@ -1488,7 +1488,7 @@ dark_fina's_dress_ranged:
   weapon_type: ranged
 
 dark_fina's_dress_polearm:
-  def: 2088
+  pdef: 2088
   mdef: 1728
   name: "Dark Fina's Dress (Polearm)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u30C9\
     \u30EC\u30B9[\u9577\u67C4]"
@@ -1501,7 +1501,7 @@ dark_fina's_dress_polearm:
   weapon_type: polearm
 
 dark_fina's_dress_instrument:
-  def: 2132
+  pdef: 2132
   mdef: 1732
   name: "Dark Fina's Dress (Instrument)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u30C9\
     \u30EC\u30B9[\u697D\u5668]"
@@ -1514,7 +1514,7 @@ dark_fina's_dress_instrument:
   weapon_type: instrument
 
 dark_fina's_dress_tome:
-  def: 2086
+  pdef: 2086
   mdef: 1726
   name: "Dark Fina's Dress (Tome)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u30C9\u30EC\
     \u30B9[\u9B54\u66F8]"
@@ -1527,7 +1527,7 @@ dark_fina's_dress_tome:
   weapon_type: tome
 
 dark_fina's_dress_staff:
-  def: 2090
+  pdef: 2090
   mdef: 1730
   name: "Dark Fina's Dress (Staff)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u30C9\
     \u30EC\u30B9[\u7948\u7977]"
@@ -1540,7 +1540,7 @@ dark_fina's_dress_staff:
   weapon_type: staff
 
 dark_fina's_dress_focus:
-  def: 2094
+  pdef: 2094
   mdef: 1734
   name: "Dark Fina's Dress (Focus)\u9B54\u4EBA\u30D5\u30A3\u30FC\u30CA\u306E\u30C9\
     \u30EC\u30B9[\u9B54\u5177]"
@@ -1553,7 +1553,7 @@ dark_fina's_dress_focus:
   weapon_type: focus
 
 songstress'_dress_blade:
-  def: 1867
+  pdef: 1867
   mdef: 1972
   name: "Songstress' Dress (Blade)\u6B4C\u59EB\u306E\u30C9\u30EC\u30B9[\u5200\u5263\
     ]"
@@ -1566,7 +1566,7 @@ songstress'_dress_blade:
   weapon_type: blade
 
 songstress'_dress_hammer:
-  def: 1861
+  pdef: 1861
   mdef: 1966
   name: "Songstress' Dress (Hammer)\u6B4C\u59EB\u306E\u30C9\u30EC\u30B9[\u6253\u6483\
     ]"
@@ -1579,7 +1579,7 @@ songstress'_dress_hammer:
   weapon_type: hammer
 
 songstress'_dress_tome:
-  def: 1865
+  pdef: 1865
   mdef: 1970
   name: "Songstress' Dress (Tome)\u6B4C\u59EB\u306E\u30C9\u30EC\u30B9[\u9B54\u66F8\
     ]"
@@ -1592,7 +1592,7 @@ songstress'_dress_tome:
   weapon_type: tome
 
 songstress'_dress_staff:
-  def: 1859
+  pdef: 1859
   mdef: 1964
   name: "Songstress' Dress (Staff)\u6B4C\u59EB\u306E\u30C9\u30EC\u30B9[\u7948\u7977\
     ]"
