@@ -9,7 +9,7 @@ const {
   queryList,
   queryMap,
   tierFilter
-} = require('./commands');
+} = require('./lib');
 const flatten = require('ramda.flatten');
 
 const getWeapons = (msg) => {
@@ -25,6 +25,9 @@ const getWeapons = (msg) => {
       if(query_1 === 'element' && isElement(query_2) && rest[0] === 'buff' && isBuff(rest[1])) {
         return elementFilter(query_2, item) && queryFilter(rest[1], item);
       };
+      if(query_1 === 'buff' && isBuff(query_2) && rest[0] === 'element' && isElement(rest[1])) {
+        return queryFilter(query_2, item) && elementFilter(rest[1], item);
+      };
       if(query_1 === 'element' && isElement(query_2)) {
         return elementFilter(query_2, item);
       };
@@ -32,7 +35,6 @@ const getWeapons = (msg) => {
         return queryFilter(query_2, item);
       };
     });
-    console.log(specificData.length)
     return rest[0] == 'tier' && isTier(rest[1]) ? tierFilter(rest, specificData) : specificData;
   };
 
@@ -66,3 +68,16 @@ const getWeapons = (msg) => {
     err: "Invalid Query"
   }];
 };
+
+module.exports = { getWeapons };
+
+// const a = getWeapons({content: "?weap blade buff patk elem wat"}); 
+// const b = getWeapons({content: "?weap blade elem wat buff patk"});
+// const c = getWeapons({content: "?weap buff patk elem wat"});
+// const d = getWeapons({content: "?weap elem wat buff patk"});
+// const e = getWeapons({content: "?weap buff patk elem"});
+// const f = getWeapons({content: "?weap elem wat buff"});
+// const g = getWeapons({content: "?weap buff patk"});
+// const h = getWeapons({content: "?weap elem wat"});
+
+// console.log(e.length, f.length, g.length, h.length)

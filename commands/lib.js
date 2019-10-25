@@ -169,7 +169,7 @@ const queryFilter = (query, item) => {
 const slayerFilter = (query, item) => {
   const elemBuff = elementBuff[query];
   return item ? item['story_skill'].toLowerCase().indexOf(query) >= 0 ||
-          item['set_effect'].toLowerCase().indexOf(elemBuff) >= 0 : false;
+          (item['set_effect'].toLowerCase().indexOf(query) >= 0 || item['set_effect'].toLowerCase().indexOf(elemBuff) >= 0 ): false;
 };
 
 const typeFilter = curry((type, item) => item ? item['weapon_type'].toLowerCase() == type : false);
@@ -212,106 +212,6 @@ const querySet = buildSetObj(queryMap);
 const dataSet = buildSetArr(allNames);
 
 
-const getWeapons = (msg) => {
-  const { command, queries } = destruct(msg.content);
-  const [ category, query_1, query_2, ...rest ] = queries;
-  const requestItem = dataMap[command];
-
-  const items = isWeapon(category) ? 
-                 Object.keys(requestItem[category]).map( key => requestItem[category][key]) :
-                 requestItem;
-  
-  if(queryList.includes(query_1)) {
-    const specificData = items.filter( item => {
-      if(query_1 === 'element' && isElement(query_2) && rest[0] === 'buff' && isBuff(rest[1])) {
-        return elementFilter(query_2, item) && queryFilter(rest[1], item);
-      }
-      if(query_1 === 'element' && isElement(query_2)) {
-        return elementFilter(query_2, item);
-      }
-      if(query_1 === 'buff' && isBuff(query_2)) {
-        return queryFilter(query_2, item);
-      }
-    });
-    
-    return rest[0] == 'tier' && isTier(rest[1]) ? tierFilter(rest, specificData) : specificData;
-  };
-
-  if(category == 'element') {
-    const unSpecificData = flatten(queryMap[command].map(subItem => {
-      return Object.keys(items[subItem]).map(item => {
-        return items[subItem][item]
-      });
-    }))
-    .filter( item => {
-      if(category === 'element' && isElement(query_1) && query_2 === 'buff' && isBuff(rest[0])) {
-        return elementFilter(query_1, item) && queryFilter(rest[0], item);
-      };
-      if(category === 'element' && isElement(query_1)) {
-        return elementFilter(query_1, item);
-      };
-      if(category === 'buff' && isBuff(query_1)) {
-        return queryFilter(query_1, item);
-      };
-    });
-    
-    return query_2 == 'tier' && rest.length == 1 ? tierFilter([query_2, rest[0]], unSpecificData) : unSpecificData;
-  };
-  // is this unreachable ?? 
-  return [{}];
-};
-
-
-const getArmors = (msg) => {
-  const { command, queries } = destruct(msg.content);
-  const [ category, query_1, query_2, ...rest ] = queries;
-  const requestItem = dataMap[command];
-
-  const items = isArmor(category) ? 
-                 Object.keys(requestItem[category]).map( key => requestItem[category][key]) :
-                 requestItem;
-
-  if(queryList.includes(query_1)) {
-    const specificData = items.filter( item => {
-      if(query_1 === 'type' && isWeapon(query_2) && rest[0] === 'slayer' && isSlayer(rest[1])) {
-        return typeFilter(query_2, item) && slayerFilter(rest[1], item);
-      }
-      if(query_1 === 'type' && isWeapon(query_2)) {
-        return typeFilter(query_2, item);
-      }
-      if(query_1 === 'slayer' && isSlayer(query_2)) {
-        return slayerFilter(query_2, item);
-      }
-    })
-    return rest[0] == 'tier' && isTier(rest[1]) ? tierFilter(rest, specificData) : specificData;
-  };
-
-  if(category == 'type' || category == 'slayer') {
-    const unSpecificData = flatten(queryMap[command].map(subItem => {
-      return Object.keys(items[subItem]).map(item => {
-        return items[subItem][item]
-      });
-    }))
-    .filter( item => {
-      if(category === 'type' && isWeapon(query_1) && query_2 === 'slayer' && isSlayer(rest[0])) {
-        return typeFilter(query_1, item) && slayerFilter(rest[0], item);
-      }
-      if(category === 'type' && isWeapon(query_1)) {
-        return typeFilter(query_1, item);
-      }
-      if(category === 'slayer' && isSlayer(query_1)) {
-        return slayerFilter(query_1, item);
-      }
-    })
-    
-    return query_2 == 'tier' && rest.length == 1 ? tierFilter([query_2, rest[0]], unSpecificData) : unSpecificData;
-  };
-  // is this unreachable ?? 
-  return [{}];
-};
-
-
-
 module.exports = { 
   isCommand, 
   isQuery, 
@@ -320,9 +220,7 @@ module.exports = {
   isArmor,
   isSlayer,
   queryMap,
-  getCommand, 
-  getWeapons,
-  getArmors,
+  getCommand,
   commandList, 
   queryList, 
   destruct, 

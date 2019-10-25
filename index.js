@@ -1,5 +1,8 @@
 require('dotenv').config()
-const { isCommand, isQuery, isWeapon, getWeapons, getArmors, destruct } = require('./commands/commands')
+const { isCommand, isQuery, isWeapon, destruct } = require('./commands/lib')
+const { getWeapons } = require('./commands/weapons');
+const { getArmors } = require('./commands/armors');
+console.log(getWeapons)
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const ReactionMenu = require('discord.js-reaction-menu')
@@ -28,9 +31,8 @@ client.on('message', async msg => {
   if(data[0].hasOwnProperty('err')) {
     msg.channel.send(`Sorry I can't find it or, ${data[0]['err']}`);
   };
-  // if()
 
-  // specific branch
+  // this shouldn't be here, under development
   const buildEmbedForItem = (itemData, id) => {
     return new Discord.RichEmbed()
       .setColor('#0099ff')

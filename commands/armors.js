@@ -9,7 +9,7 @@ const {
   queryList,
   queryMap,
   tierFilter
-} = require('./commands');
+} = require('./lib');
 const flatten = require('ramda.flatten');
 
 const getArmors = (msg) => {
@@ -20,14 +20,14 @@ const getArmors = (msg) => {
   const items = isArmor(category) ? 
                  Object.keys(requestItem[category]).map( key => requestItem[category][key]) :
                  requestItem;
-                 
+
   if(queryList.includes(query_1)) {
     const specificData = items.filter( item => {
       if(query_1 === 'type' && isWeapon(query_2) && rest[0] === 'slayer' && isSlayer(rest[1])) {
         return typeFilter(query_2, item) && slayerFilter(rest[1], item);
       };
       if(query_1 === 'slayer' && isSlayer(query_2) && rest[0] === 'type' && isWeapon(rest[1])) {
-        return typeFilter(rest[1], item) && slayerFilter(query_2, item);
+        return slayerFilter(query_2, item) && typeFilter(rest[1], item);
       };
       if(query_1 === 'type' && isWeapon(query_2)) {
         return typeFilter(query_2, item);
@@ -75,3 +75,15 @@ const getArmors = (msg) => {
   }];
 };
 
+module.exports = { getArmors };
+
+// const a = getArmors({content: "?arms body type instrument slay ghost"}); 
+// const b = getArmors({content: "?arms head slay ghos type instrument"});
+// const c = getArmors({content: "?arms type instrument slay ghost"});
+// const d = getArmors({content: "?arms slay ghost type instrument"});
+// const e = getArmors({content: "?arms type instrument slay"});
+// const f = getArmors({content: "?arms slay ghost type"});
+// const g = getArmors({content: "?arms type instrument"});
+// const h = getArmors({content: "?arms slay ghost"});
+
+// console.log(a.length, b.length, c.length, d.length, e.length, f.length, g.length, h.length)
