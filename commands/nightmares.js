@@ -47,11 +47,13 @@ const searchEmbed = (data, command, query_1) => {
     return new Discord.RichEmbed()
     .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item                -              [Page ${i+1}/${arr.length} ]`)
     .setDescription(subArr.map((item, id) => {
-      return `\`${('000' + (id + 1)).slice(-2)}.\` [${item.name}](${item.url})`;
+      console.log(item.url.concat(' '))
+      return `\`${('000' + (id + 1)).slice(-2)}.\`[${item.name}](${item.url})`;
     }));
   });
   return pages;
 };
+
 
 
 const getNhm = (msg) => {
