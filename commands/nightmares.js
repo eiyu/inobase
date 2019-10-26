@@ -46,14 +46,14 @@ const searchEmbed = (data, command, query_1) => {
   const pages = chunked.map((subArr, i, arr) => {
     return new Discord.RichEmbed()
     .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item                -              [Page ${i+1}/${arr.length} ]`)
+    
     .setDescription(subArr.map((item, id) => {
-      console.log(item.url.concat(' '))
-      return `\`${('000' + (id + 1)).slice(-2)}.\`[${item.name}](${item.url})`;
+      const url = item.url.replace('(','%28').replace(')', '%29')
+      return `\`${('000' + (id + 1)).slice(-2)}.\`[${item.name}](${url})`;
     }));
   });
   return pages;
 };
-
 
 
 const getNhm = (msg) => {
