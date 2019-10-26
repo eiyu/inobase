@@ -165,8 +165,22 @@ const getCommand = msg => {
   return command;
 };
 
+const chunk = (array, size) => {
+  if (!array) return [];
+  const firstChunk = array.slice(0, size); 
+  if (!firstChunk.length) {
+    return array; 
+  }
+  return [firstChunk].concat(chunk(array.slice(size, array.length), size)); 
+}
 
-
+// const shortName = (str) => {
+//   const res = str.split('').filter( c => c.charCodeAt(0) < 0xff || c == '(' || c == ')').join('');
+//   if(res.length > 12) {
+//     return res.slice(12)+'...';
+//   }
+//   return res;
+// }; 
 
 // predicates
 const is = curry((name, patch, value) => {
@@ -208,7 +222,6 @@ const slayerFilter = (query, item) => {
 
 const nightmareFilter = (data, query, item) => {
   const elemBuff = data[query];
-  // console.log(elemBuff)
   return item ? item['colosseum_skill'].toLowerCase().indexOf(query) >= 0 ||
           (item['col_aid_skill'].toLowerCase().indexOf(query) >= 0 || item['col_aid_skill'].toLowerCase().indexOf(elemBuff) >= 0 ): false;
 };
@@ -264,8 +277,9 @@ module.exports = {
   typeFilter,
   slayerFilter,
   tierFilter,
+  chunk,
   nightmareFilter,
   nightmareBuff,
   nightmareElement,
-  allNighMares
+  allNighMares,
 };

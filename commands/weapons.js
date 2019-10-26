@@ -1,3 +1,4 @@
+const flatten = require('ramda.flatten');
 const {
   destruct, 
   dataMap, 
@@ -10,7 +11,23 @@ const {
   queryMap,
   tierFilter
 } = require('./lib');
-const flatten = require('ramda.flatten');
+
+const buildEmbedForItem = (itemData) => {
+  if (!itemData.hasOwnProperty('element')) {
+    return;
+  };
+  return new Discord.RichEmbed()
+    .setColor('#0099ff')
+    .setTitle(`${itemData['name']}`)
+    .setURL(`${itemData['url']}`)
+    .setDescription(`Element: ${itemData['element']}`)
+    .setThumbnail(`${itemData['picture']}`)
+    .addField('Colosseum Skill', `${itemData['colosseum_skill']}`, true)
+    .addField('Aid Skill', `${itemData['col_aid_skill']}`, true)
+    .addField('Stats', `PATK: ${itemData['patk']} \n MATK: ${itemData['matk']} \n PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
+    .setFooter('Some footer text here');;
+};
+
 
 const getWeapons = (msg) => {
   const { command, queries } = destruct(msg.content);
@@ -64,20 +81,18 @@ const getWeapons = (msg) => {
     return query_2 == 'tier' && rest.length == 1 ? tierFilter([query_2, rest[0]], unSpecificData) : unSpecificData;
   };
   // invalid query
-  return [{
-    err: "Invalid Query"
-  }];
+  msg.channel.send("Invalid query");
 };
 
 module.exports = { getWeapons };
 
-const a = getWeapons({content: "?weap blade buff patk elem wat"}); 
-const b = getWeapons({content: "?weap blade elem wat buff patk"});
-const c = getWeapons({content: "?weap buff patk elem wat"});
-const d = getWeapons({content: "?weap elem wat buff patk"});
-const e = getWeapons({content: "?weap buff patk elem"});
-const f = getWeapons({content: "?weap elem wat buff"});
-const g = getWeapons({content: "?weap buff patk"});
-const h = getWeapons({content: "?weap elem wat"});
+// const a = getWeapons({content: "?weap blade buff patk elem wat"}); 
+// const b = getWeapons({content: "?weap blade elem wat buff patk"});
+// const c = getWeapons({content: "?weap buff patk elem wat"});
+// const d = getWeapons({content: "?weap elem wat buff patk"});
+// const e = getWeapons({content: "?weap buff patk elem"});
+// const f = getWeapons({content: "?weap elem wat buff"});
+// const g = getWeapons({content: "?weap buff patk"});
+// const h = getWeapons({content: "?weap elem wat"});
 
-console.log(a.length, b.length, c.length, d.length, e.length, f.length, g.length, h.length)
+// console.log(a.length, b.length, c.length, d.length, e.length, f.length, g.length, h.length)
