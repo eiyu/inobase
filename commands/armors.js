@@ -137,30 +137,3 @@ const getArmors = (msg) => {
 };
 
 module.exports = { getArmors };
-
-
-  //     // armor
-  //     if (itemData.hasOwnProperty('weapon_type')) {
-  //       embed
-  //       .setColor('#0099ff')
-  //       .setTitle(`${itemData['name']}`)
-  //       .setURL(`${itemData['url']}`)
-  //       .setDescription(`Weapon Type: ${itemData['weapon_type']}`)
-  //       .setThumbnail(`${itemData['picture']}`)
-  //       .addField('Skill 1', `${itemData['colosseum_skill']}`, true)
-  //       .addField('Skill 2', `${itemData['col_aid_skill']}`, true)
-  //       .addField('Stats', `PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
-  //       .setFooter('Some footer text here');
-  //     }
-
-
-// const a = getArmors({content: "?arms body type instrument slay ghost"}); 
-// const b = getArmors({content: "?arms head slay ghos type instrument"});
-// const c = getArmors({content: "?arms type instrument slay ghost"});
-// const d = getArmors({content: "?arms slay ghost type instrument"});
-// const e = getArmors({content: "?arms type instrument slay"});
-// const f = getArmors({content: "?arms slay ghost type"});
-// const g = getArmors({content: "?arms type instrument"});
-// const h = getArmors({content: "?arms slay ghost"});
-
-// console.log(a.length, b.length, c.length, d.length, e.length, f.length, g.length, h.length)
