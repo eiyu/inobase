@@ -185,14 +185,6 @@ const chunk = (array, size) => {
   return [firstChunk].concat(chunk(array.slice(size, array.length), size)); 
 }
 
-// const shortName = (str) => {
-//   const res = str.split('').filter( c => c.charCodeAt(0) < 0xff || c == '(' || c == ')').join('');
-//   if(res.length > 12) {
-//     return res.slice(12)+'...';
-//   }
-//   return res;
-// }; 
-
 // predicates
 const is = curry((name, patch, value) => {
     const localSet = patch.hasOwnProperty(value);
@@ -255,11 +247,6 @@ const buildSetObj = querymap => {
 };
 
 const buildSetArr = (list, cb) => {
-  // const res = new fuzzyset();
-  // list.forEach(word => {
-  //   res.add(word)
-  // });
-  // return !cb ? res : cb(res);
   return fuzzyset(list, false);
 };
 

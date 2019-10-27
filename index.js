@@ -31,64 +31,6 @@ client.on('message', async msg => {
       return;
     };
     getMap[command](msg);
-  // if(data[0].hasOwnProperty('err')) {
-  //   msg.channel.send(`Sorry I can't find it or, ${data[0]['err']}`);
-  // };
-
-  // this shouldn't be here, under development
-  // const buildEmbedForItem = (itemData, id) => {
-  //   const embed =  new Discord.RichEmbed();
-  //     // weapon
-  //     if (itemData.hasOwnProperty('element')) {
-  //       embed
-  //       .setColor('#0099ff')
-  //       .setTitle(`${itemData['name']}`)
-  //       .setURL(`${itemData['url']}`)
-  //       .setDescription(`Element: ${itemData['element']}`)
-  //       .setThumbnail(`${itemData['picture']}`)
-  //       .addField('Colosseum Skill', `${itemData['colosseum_skill']}`, true)
-  //       .addField('Aid Skill', `${itemData['col_aid_skill']}`, true)
-  //       .addField('Stats', `PATK: ${itemData['patk']} \n MATK: ${itemData['matk']} \n PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
-  //       .setFooter('Some footer text here');
-  //     }
-  //     // armor
-  //     if (itemData.hasOwnProperty('weapon_type')) {
-  //       embed
-  //       .setColor('#0099ff')
-  //       .setTitle(`${itemData['name']}`)
-  //       .setURL(`${itemData['url']}`)
-  //       .setDescription(`Weapon Type: ${itemData['weapon_type']}`)
-  //       .setThumbnail(`${itemData['picture']}`)
-  //       .addField('Skill 1', `${itemData['colosseum_skill']}`, true)
-  //       .addField('Skill 2', `${itemData['col_aid_skill']}`, true)
-  //       .addField('Stats', `PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
-  //       .setFooter('Some footer text here');
-  //     }
-  //     // armor
-  //     if (itemData.hasOwnProperty('l_matk')) {
-  //       embed
-  //       .setColor('#0099ff')
-  //       .setTitle(`${itemData['name']}`)
-  //       .setURL(`${itemData['url']}`)
-  //       // .setDescription(`Weapon Type: ${itemData['weapon_type']}`)
-  //       .setThumbnail(`${itemData['picture']}`)
-  //       .addField('Skill 1', `${itemData['colosseum_skill']}`, true)
-  //       .addField('Skill 2', `${itemData['col_aid_skill']}`, true)
-  //       .addField('Stats', `PATK: ${itemData['patk']} \n MATK: ${itemData['matk']} \n PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
-  //       .setFooter('Some footer text here');
-  //     }
-  //     return embed;
-  // };
-
-  // new ReactionMenu.menu(
-  //   msg.channel,
-  //   msg.author.id,
-  //   data ? data.map((item, id) => buildEmbedForItem(item, id)): false,
-  //   120000,
-  //   // reactions
-  //   );
-  // };
-
   return;
   };
 });

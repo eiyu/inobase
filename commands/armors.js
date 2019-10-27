@@ -1,3 +1,5 @@
+const Discord = require('discord.js');
+const ReactionMenu = require('discord.js-reaction-menu');
 const {
   destruct, 
   dataMap, 
@@ -8,9 +10,52 @@ const {
   slayerFilter,
   queryList,
   queryMap,
-  tierFilter
+  chunk
 } = require('./lib');
 const flatten = require('ramda.flatten');
+
+
+const buildEmbedForItem = (itemData) => {
+  if (!itemData.hasOwnProperty('element')) {
+    return;
+  };
+  return new Discord.RichEmbed()
+    .setColor('#0099ff')
+    .setTitle(`${itemData['name']}`)
+    .setURL(`${itemData['url']}`)
+    .setDescription(`Element: ${itemData['element']}`)
+    .setThumbnail(`${itemData['picture']}`)
+    .addField('Colosseum Skill', `${itemData['colosseum_skill']}`, true)
+    .addField('Aid Skill', `${itemData['col_aid_skill']}`, true)
+    .addField('Stats', `PATK: ${itemData['patk']} \n MATK: ${itemData['matk']} \n PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
+    .setFooter('Some footer text here');;
+};
+
+const searchEmbed = (data, command, query_1) => {
+  if(data.length === 0) {
+    return;
+  };
+  if(data.length <= 8) {
+    const searchRes = new Discord.RichEmbed();
+    searchRes.setTitle(`Search result for ${command} ${query_1}`);
+    searchRes.setDescription(data.map((item,id) => {
+      return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\` [${item.name}](${item.url.split('\n').join('')})`;
+    }).join('\n'));
+    return [searchRes];
+  };
+
+  const chunked = chunk(data, 8);
+  const pages = chunked.map((subArr, i, arr) => {
+    return new Discord.RichEmbed()
+    .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item                -              [Page ${i+1}/${arr.length} ]`)
+    .setDescription(subArr.map((item, id) => {
+      const url = item.url.replace('(','%28').replace(')', '%29')
+      return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\`[${item.name}](${url})`;
+    }));
+  });
+  return pages;
+};
+
 
 const getArmors = (msg) => {
   const { command, queries } = destruct(msg.content);
@@ -36,8 +81,16 @@ const getArmors = (msg) => {
         return slayerFilter(query_2, item);
       };
     });
-    
-    return rest[0] == 'tier' && isTier(rest[1]) ? tierFilter(rest, specificData) : specificData;
+
+    if(specificData.length > 0) {
+      new ReactionMenu.menu(
+        msg.channel,
+        msg.author.id,
+        specificData ? [...searchEmbed(specificData, command[command], query_1) ,...specificData.map(item => buildEmbedForItem(item))] : false,
+        120000
+        );
+      };
+    return;
   };
 
   if(category == 'type' || category == 'slayer') {
@@ -65,8 +118,16 @@ const getArmors = (msg) => {
       
       return item;
     }, []);
-    
-    return query_2 == 'tier' && rest.length == 1 ? tierFilter([query_2, rest[0]], unSpecificData) : unSpecificData;
+
+    if(unSpecificData.length > 0) {
+      new ReactionMenu.menu(
+        msg.channel,
+        msg.author.id,
+        unSpecificData ? [...searchEmbed(unSpecificData, command[command], query_1) ,...unSpecificData.map(item => buildEmbedForItem(item))] : false,
+        120000
+      );
+    };
+    return;
   };
 
   // invalid query
@@ -76,6 +137,22 @@ const getArmors = (msg) => {
 };
 
 module.exports = { getArmors };
+
+
+  //     // armor
+  //     if (itemData.hasOwnProperty('weapon_type')) {
+  //       embed
+  //       .setColor('#0099ff')
+  //       .setTitle(`${itemData['name']}`)
+  //       .setURL(`${itemData['url']}`)
+  //       .setDescription(`Weapon Type: ${itemData['weapon_type']}`)
+  //       .setThumbnail(`${itemData['picture']}`)
+  //       .addField('Skill 1', `${itemData['colosseum_skill']}`, true)
+  //       .addField('Skill 2', `${itemData['col_aid_skill']}`, true)
+  //       .addField('Stats', `PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
+  //       .setFooter('Some footer text here');
+  //     }
+
 
 // const a = getArmors({content: "?arms body type instrument slay ghost"}); 
 // const b = getArmors({content: "?arms head slay ghos type instrument"});

@@ -49,7 +49,7 @@ const searchEmbed = (data, command, query_1) => {
     .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item                -              [Page ${i+1}/${arr.length} ]`)
     .setDescription(subArr.map((item, id) => {
       const url = item.url.replace('(','%28').replace(')', '%29')
-      return `\`${('000' + (id + 1)).slice(-2)}.\`[${item.name}](${url})`;
+      return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\`[${item.name}](${url})`;
     }));
   });
   return pages;
@@ -119,11 +119,10 @@ const getWeapons = (msg) => {
       new ReactionMenu.menu(
         msg.channel,
         msg.author.id,
-        unSpecificData ? [...searchEmbed(unSpecificData, path[command], query_1) ,...unSpecificData.map(item => buildEmbedForItem(item))] : false,
+        unSpecificData ? [...searchEmbed(unSpecificData, command[command], query_1) ,...unSpecificData.map(item => buildEmbedForItem(item))] : false,
         120000
-        );
-
-      };
+      );
+    };
     return;
   };
   // invalid query
