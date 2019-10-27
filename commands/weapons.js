@@ -30,13 +30,13 @@ const buildEmbedForItem = (itemData) => {
     .setFooter('Some footer text here');;
 };
 
-const searchEmbed = (data, command, query_1) => {
+const searchEmbed = (data, command, query_1, q2) => {
   if(data.length === 0) {
     return;
   };
   if(data.length <= 8) {
     const searchRes = new Discord.RichEmbed();
-    searchRes.setTitle(`Search result for ${command} ${query_1}`);
+    searchRes.setTitle(`Search result for ${command} ${query_1} ${q2}`);
     searchRes.setDescription(data.map((item,id) => {
       return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\` [${item.name}](${item.url.split('\n').join('')})`;
     }).join('\n'));
@@ -84,7 +84,7 @@ const getWeapons = (msg) => {
       new ReactionMenu.menu(
         msg.channel,
         msg.author.id,
-        specificData ? [...searchEmbed(specificData, command[command], query_1) ,...specificData.map(item => buildEmbedForItem(item))] : false,
+        specificData ? [...searchEmbed(specificData, command, query_1, query_2) ,...specificData.map(item => buildEmbedForItem(item))] : false,
         120000
         );
       };
@@ -119,7 +119,7 @@ const getWeapons = (msg) => {
       new ReactionMenu.menu(
         msg.channel,
         msg.author.id,
-        unSpecificData ? [...searchEmbed(unSpecificData, command[command], query_1) ,...unSpecificData.map(item => buildEmbedForItem(item))] : false,
+        unSpecificData ? [...searchEmbed(unSpecificData, command, query_1, query_2) ,...unSpecificData.map(item => buildEmbedForItem(item))] : false,
         120000
       );
     };
