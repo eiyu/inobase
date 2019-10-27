@@ -15,6 +15,7 @@ const commandList = [
   'nhms',
   'characters',
   'nhm',
+  'dhelp'
 ];
 
 const weaponList = [
@@ -86,10 +87,22 @@ const buffList = {
   'patk': 'increase own physical ATK',
   'mdef': 'increase own magical DEF',
   'pdef': 'increase own physical DEF',
-  'spcost': 'SP cost of',
+  'spcost': 'sp cost of',
   'hit': 'hit rate of',
   'spres': 'of max SP',
   'hpres': 'of max HP'
+};
+
+const daringList = {
+  'dc1': "slightly increase damage",
+  'dc2': "moderately increase damage",
+  'dc3': "greatly increase damage",
+  'sb1': "slightly increase support",
+  'sb2': "moderately increase support",
+  'sb3': "greatly increase support",
+  'rb1': "slightly increase HP",
+  'rb2': "moderately increase HP",
+  'rb3': "greatly increase HP"
 };
 
 const nightmareElement = {
@@ -250,9 +263,6 @@ const buildSetArr = (list, cb) => {
   return fuzzyset(list, false);
 };
 
-const fuzzyExtends = fsIns => {
-
-}
 
 // fuzzyset instances
 const commandSet = buildSetArr(commandList);

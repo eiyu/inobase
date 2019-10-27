@@ -27,7 +27,7 @@ const buildEmbedForItem = (itemData) => {
     .addField('Colosseum Skill', `${itemData['colosseum_skill']}`, true)
     .addField('Aid Skill', `${itemData['col_aid_skill']}`, true)
     .addField('Stats', `PATK: ${itemData['patk']} \n MATK: ${itemData['matk']} \n PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
-    .setFooter('Some footer text here');;
+    .setFooter('This is all I can give to you for now, for more details you can visit the link above');;
 };
 
 const searchEmbed = (data, command, query_1, q2) => {
