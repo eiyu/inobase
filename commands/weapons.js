@@ -1,3 +1,5 @@
+const Discord = require('discord.js');
+const ReactionMenu = require('discord.js-reaction-menu');
 const flatten = require('ramda.flatten');
 const {
   destruct, 
@@ -9,7 +11,7 @@ const {
   isWeapon,
   queryList,
   queryMap,
-  tierFilter
+  chunk
 } = require('./lib');
 
 const buildEmbedForItem = (itemData) => {
@@ -26,6 +28,31 @@ const buildEmbedForItem = (itemData) => {
     .addField('Aid Skill', `${itemData['col_aid_skill']}`, true)
     .addField('Stats', `PATK: ${itemData['patk']} \n MATK: ${itemData['matk']} \n PDEF: ${itemData['pdef']} \n MDEF: ${itemData['mdef']} \n` , true)
     .setFooter('Some footer text here');;
+};
+
+const searchEmbed = (data, command, query_1) => {
+  if(data.length === 0) {
+    return;
+  };
+  if(data.length <= 8) {
+    const searchRes = new Discord.RichEmbed();
+    searchRes.setTitle(`Search result for ${command} ${query_1}`);
+    searchRes.setDescription(data.map((item,id) => {
+      return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\` [${item.name}](${item.url.split('\n').join('')})`;
+    }).join('\n'));
+    return [searchRes];
+  };
+
+  const chunked = chunk(data, 8);
+  const pages = chunked.map((subArr, i, arr) => {
+    return new Discord.RichEmbed()
+    .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item                -              [Page ${i+1}/${arr.length} ]`)
+    .setDescription(subArr.map((item, id) => {
+      const url = item.url.replace('(','%28').replace(')', '%29')
+      return `\`${('000' + (id + 1)).slice(-2)}.\`[${item.name}](${url})`;
+    }));
+  });
+  return pages;
 };
 
 
@@ -52,7 +79,16 @@ const getWeapons = (msg) => {
         return queryFilter(query_2, item);
       };
     });
-    return rest[0] == 'tier' && isTier(rest[1]) ? tierFilter(rest, specificData) : specificData;
+
+    if(specificData.length > 0) {
+      new ReactionMenu.menu(
+        msg.channel,
+        msg.author.id,
+        specificData ? [...searchEmbed(specificData, command[command], query_1) ,...specificData.map(item => buildEmbedForItem(item))] : false,
+        120000
+        );
+      };
+    return;
   };
 
   if(category == 'element' || category == 'buff') {
@@ -78,21 +114,20 @@ const getWeapons = (msg) => {
       };
       return item;
     }, []);
-    return query_2 == 'tier' && rest.length == 1 ? tierFilter([query_2, rest[0]], unSpecificData) : unSpecificData;
+
+    if(unSpecificData.length > 0) {
+      new ReactionMenu.menu(
+        msg.channel,
+        msg.author.id,
+        unSpecificData ? [...searchEmbed(unSpecificData, path[command], query_1) ,...unSpecificData.map(item => buildEmbedForItem(item))] : false,
+        120000
+        );
+
+      };
+    return;
   };
   // invalid query
   msg.channel.send("Invalid query");
 };
 
 module.exports = { getWeapons };
-
-// const a = getWeapons({content: "?weap blade buff patk elem wat"}); 
-// const b = getWeapons({content: "?weap blade elem wat buff patk"});
-// const c = getWeapons({content: "?weap buff patk elem wat"});
-// const d = getWeapons({content: "?weap elem wat buff patk"});
-// const e = getWeapons({content: "?weap buff patk elem"});
-// const f = getWeapons({content: "?weap elem wat buff"});
-// const g = getWeapons({content: "?weap buff patk"});
-// const h = getWeapons({content: "?weap elem wat"});
-
-// console.log(a.length, b.length, c.length, d.length, e.length, f.length, g.length, h.length)

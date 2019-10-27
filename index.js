@@ -9,7 +9,7 @@ const ReactionMenu = require('discord.js-reaction-menu')
 const getMap = {
   'weapons': getWeapons,
   'armors': getArmors,
-  'nightmares': getNhm,
+  'nhms': getNhm,
   'nhm': getNhmName,
 }
 client.on('ready', () => {

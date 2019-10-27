@@ -12,7 +12,7 @@ const dataMap = {
 const commandList = [
   'weapons',
   'armors',
-  'nightmares',
+  'nhms',
   'characters',
   'nhm',
 ];
@@ -122,16 +122,16 @@ const getDataNames = data => Object.keys(data).map(job => {
   return Object.keys(data[job]);
 });
 
-const armorNames = flatten(getDataNames(dataMap['armors']));
-const weaponNames = flatten(getDataNames(dataMap['weapons']));
+// const armorNames = flatten(getDataNames(dataMap['armors']));
+// const weaponNames = flatten(getDataNames(dataMap['weapons']));
 const nhmNames = flatten(getDataNames(dataMap['nightmares']));
-const allNames = [...armorNames, ...weaponNames, ...nhmNames];
+// const allNames = [...armorNames, ...weaponNames, ...nhmNames];
 
 const queryMap = {
   'weapons': weaponList, 
   'armors': armorList, 
   'characters': charJobList,
-  'nightmares': nhmNames,
+  // 'nightmares': nhmNames,
   'query': queryList, 
   'element': elementList,
   'tier': tierList,
@@ -144,7 +144,6 @@ const queryMap = {
 // utilities
 const validator = (setName, word) => {
   const res = setName.get(word);
-  // returns fuzzyset get method results
   return res ? res[0][1] : false;
 };
 
@@ -159,6 +158,18 @@ const destruct = msg => {
     'queries': queries.map(item => validator(querySet, item))
   };
 };
+
+const destructWithNhmName = msg => {
+  const [prefix, ...rest] = msg.replace(/ {1,}/g," ");;
+  const commands = rest.join('').split(' ');
+  const [command, ...queries] = commands;
+  return {
+    'prefix': prefix,
+    'command': validator(commandSet, command),
+    'queries': queries.map(item => validator(nightmaresNameSet, item))
+  };
+};
+
 
 const getCommand = msg => {
   const { command } = destruct(msg);
@@ -243,20 +254,25 @@ const buildSetObj = querymap => {
   return res;
 };
 
-const buildSetArr = list => {
-  const res = new fuzzyset();
-  list.forEach(word => {
-    res.add(word)
-  })
-  return res;
-}
+const buildSetArr = (list, cb) => {
+  // const res = new fuzzyset();
+  // list.forEach(word => {
+  //   res.add(word)
+  // });
+  // return !cb ? res : cb(res);
+  return fuzzyset(list, false);
+};
 
+const fuzzyExtends = fsIns => {
+
+}
 
 // fuzzyset instances
 const commandSet = buildSetArr(commandList);
 const querySet = buildSetObj(queryMap);
-const dataSet = buildSetArr(allNames);
-const allNighMares = buildSetArr(nhmNames)
+// const dataSet = buildSetArr(allNames);
+const nightmaresNameSet = buildSetArr(nhmNames);
+
 
 module.exports = { 
   isCommand, 
@@ -281,5 +297,6 @@ module.exports = {
   nightmareFilter,
   nightmareBuff,
   nightmareElement,
-  allNighMares,
+  nightmaresNameSet,
+  destructWithNhmName
 };

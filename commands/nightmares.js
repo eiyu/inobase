@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const ReactionMenu = require('discord.js-reaction-menu')
+const ReactionMenu = require('discord.js-reaction-menu');
 const {
   destruct, 
   dataMap, 
@@ -9,7 +9,7 @@ const {
   nightmareBuff,
   nightmareElement,
   chunk,
-  
+  destructWithNhmName
 } = require('./lib');
 
 const buildEmbed = data => {
@@ -46,10 +46,9 @@ const searchEmbed = (data, command, query_1) => {
   const pages = chunked.map((subArr, i, arr) => {
     return new Discord.RichEmbed()
     .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item                -              [Page ${i+1}/${arr.length} ]`)
-    
     .setDescription(subArr.map((item, id) => {
       const url = item.url.replace('(','%28').replace(')', '%29')
-      return `\`${('000' + (id + 1)).slice(-2)}.\`[${item.name}](${url})`;
+      return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\`[${item.name}](${url})`;
     }));
   });
   return pages;
@@ -59,7 +58,8 @@ const searchEmbed = (data, command, query_1) => {
 const getNhm = (msg) => {
   const { command, queries } = destruct(msg.content);
   const [ category, query_1] = queries;
-  const nhmsObj = dataMap[command][command]
+  const path = {nhms:'nightmares'}
+  const nhmsObj = dataMap[path[command]][path[command]]
   const nightmares = Object.keys(nhmsObj).map(name => nhmsObj[name]);
   
   if(category == 'element' || category == 'buff') {
@@ -72,12 +72,11 @@ const getNhm = (msg) => {
       };
       return item;
     }, []);
-
     if(unSpecificData.length > 0) {
       new ReactionMenu.menu(
         msg.channel,
         msg.author.id,
-        unSpecificData ? [...searchEmbed(unSpecificData, command, query_1) ,...unSpecificData.map(item => buildEmbed(item))] : false,
+        unSpecificData ? [...searchEmbed(unSpecificData, path[command], query_1) ,...unSpecificData.map(item => buildEmbed(item))] : false,
         120000
         );
 
@@ -88,13 +87,14 @@ const getNhm = (msg) => {
   };
 
 getNhmName = (msg) => {
-  const { command, queries } = destruct(msg.content);
+  const { command, queries } = destructWithNhmName(msg.content);
   const nhmsObj = dataMap['nightmares']['nightmares'];
+
   const nightmare = nhmsObj[queries[0]];
   if(command !== 'nhm' || !nightmare) {
       return;
   };
-
+  
   new ReactionMenu.menu(
     msg.channel,
     msg.author.id,
