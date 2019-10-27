@@ -11,7 +11,9 @@ const {
   isWeapon,
   queryList,
   queryMap,
-  chunk
+  chunk,
+  daringFilter,
+  getDaring
 } = require('./lib');
 
 const buildEmbedForItem = (itemData) => {
@@ -78,6 +80,8 @@ const getWeapons = (msg) => {
       if(query_1 === 'buff' && isBuff(query_2)) {
         return queryFilter(query_2, item);
       };
+    }).filter(item => {
+      return !!getDaring(msg.content) ? daringFilter(getDaring(msg.content), item) : false;
     });
 
     if(specificData.length > 0) {
@@ -113,7 +117,9 @@ const getWeapons = (msg) => {
         return item.concat(next);
       };
       return item;
-    }, []);
+    }, []).filter(item => {
+      return !!getDaring(msg.content) ? daringFilter(getDaring(msg.content), item) : false;
+    });
 
     if(unSpecificData.length > 0) {
       new ReactionMenu.menu(

@@ -100,9 +100,9 @@ const daringList = {
   'sb1': "slightly increase support",
   'sb2': "moderately increase support",
   'sb3': "greatly increase support",
-  'rb1': "slightly increase HP",
-  'rb2': "moderately increase HP",
-  'rb3': "greatly increase HP"
+  'rb1': "slightly increase hp",
+  'rb2': "moderately increase hp",
+  'rb3': "greatly increase hp"
 };
 
 const nightmareElement = {
@@ -150,6 +150,7 @@ const queryMap = {
   'tier': tierList,
   'buff': Object.keys(buffList),
   'slayer': enemiesTypeList,
+  'daring': Object.keys(daringList)
 };
 
 
@@ -222,7 +223,12 @@ const isCommand = msg => {
   return prefix === '?' && commandList.includes(command);
 };
 
-
+const getDaring = msg => {
+  const wordList = msg.split(' ');
+  const lastWord = wordList[wordList.length -1];
+  const darings = Object.keys(daringList);
+  return darings.find((item) => item == lastWord);
+};
 
 // filters
 const queryFilter = (query, item) => {
@@ -241,6 +247,11 @@ const nightmareFilter = (data, query, item) => {
   return item ? item['colosseum_skill'].toLowerCase().indexOf(query) >= 0 ||
           (item['col_aid_skill'].toLowerCase().indexOf(query) >= 0 || item['col_aid_skill'].toLowerCase().indexOf(elemBuff) >= 0 ): false;
 };
+
+const daringFilter = (query, item) => {
+  const daring = daringList[query];
+  return item ? item['col_aid_skill'].toLowerCase().indexOf(daring) >= 0 : false;
+}
 
 
 const typeFilter = curry((type, item) => item ? item['weapon_type'].toLowerCase() == type : false);
@@ -295,5 +306,7 @@ module.exports = {
   nightmareBuff,
   nightmareElement,
   nightmaresNameSet,
-  destructWithNhmName
+  destructWithNhmName,
+  daringFilter,
+  getDaring
 };
