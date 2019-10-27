@@ -13,7 +13,7 @@ const getMap = {
   'nhm': getNhmName,
 }
 client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}! bleh`);
+  console.log(`Logged in as ${client.user.tag}!`);
 });
 
 client.on('message', async msg => {
@@ -25,7 +25,7 @@ client.on('message', async msg => {
     return;
   };
   if(prefix == '?' && !isCommand(msg.content)) {
-    msg.channel.send(`there is no ${command} command, ?help fro more info`);
+    msg.channel.send(`there is no ${command} command, ?dhelp fro more info`);
     return;
   };
   if(isCommand(msg.content)) {

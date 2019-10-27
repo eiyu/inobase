@@ -40,7 +40,7 @@ const searchEmbed = (data, command, query_1, q2) => {
     const searchRes = new Discord.RichEmbed();
     searchRes.setTitle(`Search result for ${command} ${query_1} ${q2}`);
     searchRes.setDescription(data.map((item,id) => {
-      return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\` [${item.name}](${item.url.split('\n').join('')})`;
+      return `\`${('000' + (id + 1)).slice(-2)}.\` [${item.name}](${item.url.split('\n').join('')})`;
     }).join('\n'));
     return [searchRes];
   };
@@ -48,7 +48,7 @@ const searchEmbed = (data, command, query_1, q2) => {
   const chunked = chunk(data, 8);
   const pages = chunked.map((subArr, i, arr) => {
     return new Discord.RichEmbed()
-    .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item                -              [Page ${i+1}/${arr.length} ]`)
+    .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item \n[Page ${i+1}/${arr.length} ]`)
     .setDescription(subArr.map((item, id) => {
       const url = item.url.replace('(','%28').replace(')', '%29')
       return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\`[${item.name}](${url})`;
@@ -134,5 +134,6 @@ const getWeapons = (msg) => {
   // invalid query
   msg.channel.send("Invalid query");
 };
+
 
 module.exports = { getWeapons };
