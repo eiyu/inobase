@@ -20,7 +20,6 @@ client.on('ready', () => {
 client.on('message', async msg => {
   const {prefix,command, queries } = destructQuerySet(msg.content);
   const [__type, query_1] = queries;
-  // const data = await 
   if(msg.content == '?dhelp') {
     help(msg);
     return;

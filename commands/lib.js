@@ -2,7 +2,6 @@ const fuzzyset = require('fuzzyset.js');
 const flatten = require('ramda.flatten');
 const curry = require('ramda.curry');
 const merge = require('ramda.merge');
-// const { allPass, chain, complement, fromPairs, isEmpty, toPairs, pipe } = R
 
 const dataMap = {
   armors: require('../data/armors'),

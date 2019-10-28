@@ -68,8 +68,3 @@ const getChar = (msg) => {
   // invalid query
   return [{}]
 };
-
-// console.log(getArmors({content:'arms head type tome'}));
-// console.log(getArmors({content:'arms han type foci'}));
-// console.log(getArmors({content:'arms  type tome sly humn'}));
-// console.log(getArmors({content:'armo slay drag type pol'}));
