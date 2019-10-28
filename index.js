@@ -1,5 +1,5 @@
 require('dotenv').config()
-const { isCommand, isQuery, isWeapon, destruct } = require('./commands/lib')
+const { isCommand, isQuery, isWeapon, destructQuerySet } = require('./commands/lib')
 const { getWeapons } = require('./commands/weapons');
 const { getArmors } = require('./commands/armors');
 const { getNhm, getNhmName } = require('./commands/nightmares');
@@ -17,7 +17,7 @@ client.on('ready', () => {
 });
 
 client.on('message', async msg => {
-  const {prefix,command, queries } = destruct(msg.content);
+  const {prefix,command, queries } = destructQuerySet(msg.content);
   const [__type, query_1] = queries;
   // const data = await 
   if(msg.content == '?dhelp') {

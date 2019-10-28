@@ -1,6 +1,7 @@
 const fuzzyset = require('fuzzyset.js');
 const flatten = require('ramda.flatten');
 const curry = require('ramda.curry');
+// const { allPass, chain, complement, fromPairs, isEmpty, toPairs, pipe } = R
 
 const dataMap = {
   'armors': require('../data/armors'),
@@ -75,13 +76,13 @@ const enemiesTypeList = [
   'monster[dod3]'
 ];
 
+// every buff must be registered here
 const elementBuff = {
   'wind': 'wind-element',
   'water': 'water-element',
   'fire': 'fire-element'
 };
 
-// every buff must be registered here
 const buffList = {
   'matk': 'increase own magical ATK',
   'patk': 'increase own physical ATK',
@@ -129,22 +130,17 @@ const tierList = [
 ];
 
 
-// const charNames = flatten(getDataNames(dataMap['characters']));
-
+// initials
 const getDataNames = data => Object.keys(data).map(job => {
   return Object.keys(data[job]);
 });
 
-// const armorNames = flatten(getDataNames(dataMap['armors']));
-// const weaponNames = flatten(getDataNames(dataMap['weapons']));
+const weaponNames = flatten(getDataNames(dataMap['weapons']));
 const nhmNames = flatten(getDataNames(dataMap['nightmares']));
-// const allNames = [...armorNames, ...weaponNames, ...nhmNames];
-
 const queryMap = {
   'weapons': weaponList, 
   'armors': armorList, 
   'characters': charJobList,
-  // 'nightmares': nhmNames,
   'query': queryList, 
   'element': elementList,
   'tier': tierList,
@@ -154,41 +150,62 @@ const queryMap = {
 };
 
 
+// fuzzyset
+const buildSetObj = querymap => {
+  const res = new fuzzyset();
+  for (const prop in querymap) {
+    querymap[prop].forEach(word => { res.add(word) })
+  };
+  return res;
+};
+
+const buildSetArr = (list, cb) => {
+  return fuzzyset(list, false);
+};
+// fuzzyset instances
+const commandSet = buildSetArr(commandList);
+const querySet = buildSetObj(queryMap);
+const nightmaresNameSet = buildSetArr(nhmNames);
+const weaponNameSet = buildSetArr(weaponNames);
+
 
 // utilities
 const validator = (setName, word) => {
   const res = setName.get(word);
   return res ? res[0][1] : false;
 };
-
-const destruct = msg => {
-  const [prefix, ...rest] = msg.replace(/ {1,}/g," ");;
+const destruct = curry((setInstance,msg) => {
+  const [prefix, ...rest] = msg.replace(/ {1,}/g," ");
   const commands = rest.join('').split(' ');
   const [command, ...queries] = commands;
   // get rid toLowerCase method
   return {
     'prefix': prefix,
     'command': validator(commandSet, command),
-    'queries': queries.map(item => validator(querySet, item))
+    'queries': queries.map(item => validator(setInstance, item))
   };
-};
+});
+const destructQuerySet = destruct(querySet);
+const destructWithNhmName = destruct(nightmaresNameSet);
+const destructWithWeaponName = destruct(weaponNameSet);
 
-const destructWithNhmName = msg => {
-  const [prefix, ...rest] = msg.replace(/ {1,}/g," ");;
-  const commands = rest.join('').split(' ');
-  const [command, ...queries] = commands;
-  return {
-    'prefix': prefix,
-    'command': validator(commandSet, command),
-    'queries': queries.map(item => validator(nightmaresNameSet, item))
-  };
-};
+// source
+// https://codepen.io/icylace/pen/wobovY?editors=0012
+const isPlainObject = obj => {
+  return obj !== null
+      && typeof obj === "object"
+      && (!obj.constructor || obj.constructor === Object)
+      && Object.prototype.toString.call(obj) === "[object Object]"
+}
+
+const flattenProps = obj => {
+  const jamming = allPass([isPlainObject, complement(isEmpty)])
+  const jam = ([k, v]) => jamming(v) ? go(v) : [[k, v]]
+  const go = pipe(toPairs, chain(jam))
+  return fromPairs(go(obj))
+}
 
 
-const getCommand = msg => {
-  const { command } = destruct(msg);
-  return command;
-};
 
 const chunk = (array, size) => {
   if (!array) return [];
@@ -219,7 +236,7 @@ const isBuff = (value) => {
 };
 
 const isCommand = msg => {
-  const { prefix, command } = destruct(msg);
+  const { prefix, command } = destruct(querySet, msg);
   return prefix === '?' && commandList.includes(command);
 };
 
@@ -251,35 +268,9 @@ const nightmareFilter = (data, query, item) => {
 const daringFilter = (query, item) => {
   const daring = daringList[query];
   return item ? item['col_aid_skill'].toLowerCase().indexOf(daring) >= 0 : false;
-}
-
-
-const typeFilter = curry((type, item) => item ? item['weapon_type'].toLowerCase() == type : false);
-const elementFilter = curry((val, item) => item ? item['element'].toLowerCase() == val : false);
-const tierFilter = curry(([tier, value], items) => {
-  return items.filter( item => item[tier] && item[tier].toLowerCase() == value.toLowerCase() )
-});
-
-
-// fuzzyset 
-const buildSetObj = querymap => {
-  const res = new fuzzyset();
-  for (const prop in querymap) {
-    querymap[prop].forEach(word => { res.add(word) })
-  };
-  return res;
 };
-
-const buildSetArr = (list, cb) => {
-  return fuzzyset(list, false);
-};
-
-
-// fuzzyset instances
-const commandSet = buildSetArr(commandList);
-const querySet = buildSetObj(queryMap);
-// const dataSet = buildSetArr(allNames);
-const nightmaresNameSet = buildSetArr(nhmNames);
+const typeFilter = (type, item) => item ? item['weapon_type'].toLowerCase() == type : false;
+const elementFilter = (val, item) => item ? item['element'].toLowerCase() == val : false;
 
 
 module.exports = { 
@@ -290,23 +281,23 @@ module.exports = {
   isArmor,
   isSlayer,
   queryMap,
-  getCommand,
+  // getCommand,
   commandList, 
   queryList, 
-  destruct, 
+  destructQuerySet, 
   isWeapon,
   dataMap,
   elementFilter,
   queryFilter,
   typeFilter,
   slayerFilter,
-  tierFilter,
   chunk,
   nightmareFilter,
   nightmareBuff,
   nightmareElement,
   nightmaresNameSet,
   destructWithNhmName,
+  destructWithWeaponName,
   daringFilter,
   getDaring
 };

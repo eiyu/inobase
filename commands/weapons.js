@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const ReactionMenu = require('discord.js-reaction-menu');
 const flatten = require('ramda.flatten');
 const {
-  destruct, 
+  destructQuerySet, 
   dataMap, 
   queryFilter, 
   isElement, 
@@ -13,7 +13,8 @@ const {
   queryMap,
   chunk,
   daringFilter,
-  getDaring
+  getDaring,
+  destructWithWeaponName
 } = require('./lib');
 
 const buildEmbedForItem = (itemData) => {
@@ -59,7 +60,7 @@ const searchEmbed = (data, command, query_1, q2) => {
 
 
 const getWeapons = (msg) => {
-  const { command, queries } = destruct(msg.content);
+  const { command, queries } = destructQuerySet(msg.content);
   const [ category, query_1, query_2, ...rest ] = queries;
   const requestItem = dataMap[command];
   const items = isWeapon(category) ? 
@@ -136,4 +137,27 @@ const getWeapons = (msg) => {
 };
 
 
-module.exports = { getWeapons };
+getWeaponName = (msg) => {
+  const { command, queries } = destructWithWeaponName(msg.content);
+  const weaponsObj = dataMap['weapons'];
+  const flattenObj = flatten(weaponsObj);
+  console.log(weaponsObj)
+
+  const weapon = flattenObj[queries[0]];
+  if(command !== 'weap' || !weapon) {
+      return;
+  };
+  
+  // new ReactionMenu.menu(
+  //   msg.channel,
+  //   msg.author.id,
+  //   [buildEmbed(nightmare)],
+  //   120000,
+  //   {}
+  // );
+  return;
+};
+
+console.log(getWeaponName({content: "?weap swordofhe"}))
+
+module.exports = { getWeapons, getWeaponName };

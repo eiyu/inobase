@@ -14,11 +14,12 @@ const help = async (msg) => {
   it will search the word of the "element_type" in skills description.
 
 **Weapon Commands**
-* \`?weap <weap_type> <buff> <buff_type> <dc/rb/sb>\` - search only weapon_type by given query
-* \`?weap <weap_type> <buff> <buff_type>\` - search only weapon_type by given query
-* \`?weap <buff> <buff_type>\` - search all weapons by given query
-* \`?weap <elem> <elem_type>\` - search all weapons by given query
-* \`?weap <buff> <elem>\` - search all weapons by given query
+* \`?weaps <weap_type> <buff> <buff_type> <dc/rb/sb>\` - search only weapon_type by given query
+* \`?weaps <weap_type> <buff> <buff_type>\` - search only weapon_type by given query
+* \`?weaps <buff> <buff_type>\` - search all weapons by given query
+* \`?weaps <elem> <elem_type>\` - search all weapons by given query
+* \`?weaps <buff> <elem>\` - search all weapons by given query
+* \`?weap <name>\` - find weapon by name
 
 * Weapon Types
 - blade/ instrument/ hammer/ ranged/ tome/ polearm/ staff/ focus

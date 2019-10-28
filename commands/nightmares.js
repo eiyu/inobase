@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const ReactionMenu = require('discord.js-reaction-menu');
 const {
-  destruct, 
+  destructQuerySet, 
   dataMap, 
   isSlayer, 
   isBuff, 
@@ -56,7 +56,7 @@ const searchEmbed = (data, command, query_1) => {
 
 
 const getNhm = (msg) => {
-  const { command, queries } = destruct(msg.content);
+  const { command, queries } = destructQuerySet(msg.content);
   const [ category, query_1] = queries;
   const path = {nhms:'nightmares'}
   const nhmsObj = dataMap[path[command]][path[command]]

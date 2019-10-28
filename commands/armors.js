@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const ReactionMenu = require('discord.js-reaction-menu');
 const {
-  destruct, 
+  destructQuerySet, 
   dataMap, 
   isWeapon, 
   isArmor, 
@@ -58,7 +58,7 @@ const searchEmbed = (data, command, query_1, q2) => {
 
 
 const getArmors = (msg) => {
-  const { command, queries } = destruct(msg.content);
+  const { command, queries } = destructQuerySet(msg.content);
   const [ category, query_1, query_2, ...rest ] = queries;
   const requestItem = dataMap[command];
 
