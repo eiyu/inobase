@@ -12,12 +12,14 @@ const dataMap = {
 }
 
 const commandList = [
-  'weapons',
+  // 'weapons',
   'armors',
   'nhms',
   'characters',
   'nhm',
-  'dhelp'
+  'dhelp',
+  'weap',
+  'weaps'
 ];
 
 const weaponList = [
@@ -188,7 +190,8 @@ const destruct = curry((setInstance,msg) => {
     'prefix': prefix,
     'command': validator(commandSet, command),
     'queries': queries.map(item => validator(setInstance, item)),
-    'originQueries': validator(setInstance, queries.join(''))
+    'queryJoin': validator(setInstance, queries.join('')),
+    'originQueries': queries
   };
 });
 const destructQuerySet = destruct(querySet);

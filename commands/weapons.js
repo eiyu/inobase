@@ -62,6 +62,7 @@ const searchEmbed = (data, command, query_1, q2) => {
 
 const getWeapons = (msg) => {
   const { command, queries } = destructQuerySet(msg.content);
+  const weapon_type = command == 'weaps' ? 'weapons' : 'balooney'
   const [ category, query_1, query_2, ...rest ] = queries;
   const items = isWeapon(category) ? 
                  Object.keys(weapons[category]).map( key => weapons[category][key]) :
@@ -83,12 +84,12 @@ const getWeapons = (msg) => {
     }).filter(item => {
       return !!getDaring(msg.content) ? daringFilter(getDaring(msg.content), item) : !getDaring(msg.content);
     });
-
+    
     if(specificData.length > 0) {
       new ReactionMenu.menu(
         msg.channel,
         msg.author.id,
-        specificData ? [...searchEmbed(specificData, command, query_1, query_2) ,...specificData.map(item => buildEmbedForItem(item))] : false,
+        specificData ? [...searchEmbed(specificData, weapon_type, query_1, query_2) ,...specificData.map(item => buildEmbedForItem(item))] : false,
         120000
         );
       };
@@ -98,7 +99,7 @@ const getWeapons = (msg) => {
   if(category == 'element' || category == 'buff') {
     const deepSearch1 = category === 'element' && isElement(query_1) && query_2 === 'buff' && isBuff(rest[0]);
     const deepSearch2 = category === 'buff' && isBuff(query_1,items) && query_2 === 'element' && isElement(rest[0]);
-    const unSpecificData = flatten(queryMap[command].map(subItem => {
+    const unSpecificData = flatten(queryMap[weapon_type].map(subItem => {
       return Object.keys(items[subItem]).map(item => {
         return items[subItem][item];
       });
@@ -120,12 +121,12 @@ const getWeapons = (msg) => {
     }, []).filter(item => {
       return !!getDaring(msg.content) ? daringFilter(getDaring(msg.content), item) : !getDaring(msg.content);
     });
-
+    
     if(unSpecificData.length > 0) {
       new ReactionMenu.menu(
         msg.channel,
         msg.author.id,
-        unSpecificData ? [...searchEmbed(unSpecificData, command, query_1, query_2) ,...unSpecificData.map(item => buildEmbedForItem(item))] : false,
+        unSpecificData ? [...searchEmbed(unSpecificData, weapon_type, query_1, query_2) ,...unSpecificData.map(item => buildEmbedForItem(item))] : false,
         120000
       );
     };
@@ -137,25 +138,22 @@ const getWeapons = (msg) => {
 
 
 getWeaponName = (msg) => {
-  const {prefix, command, originQueries } = destructWithWeaponName(msg.content);
-  console.log(originQueries)
-  // const weapon = weapFlat[queries[0]];
-  // if(command !== 'weap' || !weapon) {
-  //   // weapon not found
-  //     return;
-  // };
+  const {queryJoin, originQueries } = destructWithWeaponName(msg.content);
   
-  // new ReactionMenu.menu(
-  //   msg.channel,
-  //   msg.author.id,
-  //   [buildEmbed(nightmare)],
-  //   120000,
-  //   {}
-  // );
+  const weapon = weapFlat[queryJoin];
+  if(!weapon) {
+      msg.channel.send(`Sorry I can't find ${originQueries.join(' ')}`);
+      return;
+  };
+  
+  new ReactionMenu.menu(
+    msg.channel,
+    msg.author.id,
+    [buildEmbedForItem(weapon)],
+    120000,
+    {}
+  );
   return;
 };
-
-// console.log(destructWithWeaponName("?weap swordofs"));
-console.log(getWeaponName({content: '?weap mask of h'}));
 
 module.exports = { getWeapons, getWeaponName };

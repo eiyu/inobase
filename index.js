@@ -1,16 +1,17 @@
 require('dotenv').config()
 const { isCommand, isQuery, isWeapon, destructQuerySet } = require('./commands/lib')
-const { getWeapons } = require('./commands/weapons');
+const { getWeapons, getWeaponName } = require('./commands/weapons');
 const { getArmors } = require('./commands/armors');
 const { getNhm, getNhmName } = require('./commands/nightmares');
 const { help } = require('./commands/help');
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const getMap = {
-  'weapons': getWeapons,
+  'weaps': getWeapons,
   'armors': getArmors,
   'nhms': getNhm,
   'nhm': getNhmName,
+  'weap': getWeaponName
 }
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);

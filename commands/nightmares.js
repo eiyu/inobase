@@ -87,11 +87,12 @@ const getNhm = (msg) => {
   };
 
 getNhmName = (msg) => {
-  const { command, originQueries } = destructWithNhmName(msg.content);
+  const { command, originQueries, queryJoin } = destructWithNhmName(msg.content);
   const nhmsObj = dataMap['nightmares']['nightmares'];
 
-  const nightmare = nhmsObj[originQueries];
+  const nightmare = nhmsObj[queryJoin];
   if(command !== 'nhm' || !nightmare) {
+    msg.channel.send(`Sorry I can't find ${originQueries.join(' ')}`);
       return;
   };
   
