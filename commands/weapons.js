@@ -3,7 +3,7 @@ const ReactionMenu = require('discord.js-reaction-menu');
 const flatten = require('ramda.flatten');
 const {
   destructQuerySet, 
-  dataMap, 
+  weapons, 
   queryFilter, 
   isElement, 
   isBuff, 
@@ -62,11 +62,9 @@ const searchEmbed = (data, command, query_1, q2) => {
 const getWeapons = (msg) => {
   const { command, queries } = destructQuerySet(msg.content);
   const [ category, query_1, query_2, ...rest ] = queries;
-  const requestItem = dataMap[command];
   const items = isWeapon(category) ? 
-                 Object.keys(requestItem[category]).map( key => requestItem[category][key]) :
-                 requestItem;
-  
+                 Object.keys(weapons[category]).map( key => weapons[category][key]) :
+                 weapons;
   if(queryList.includes(query_1)) {
     const specificData = items.filter( item => {
       if(query_1 === 'element' && isElement(query_2) && rest[0] === 'buff' && isBuff(rest[1])) {
@@ -82,7 +80,7 @@ const getWeapons = (msg) => {
         return queryFilter(query_2, item);
       };
     }).filter(item => {
-      return !!getDaring(msg.content) ? daringFilter(getDaring(msg.content), item) : false;
+      return !!getDaring(msg.content) ? daringFilter(getDaring(msg.content), item) : !getDaring(msg.content);
     });
 
     if(specificData.length > 0) {
@@ -119,7 +117,7 @@ const getWeapons = (msg) => {
       };
       return item;
     }, []).filter(item => {
-      return !!getDaring(msg.content) ? daringFilter(getDaring(msg.content), item) : false;
+      return !!getDaring(msg.content) ? daringFilter(getDaring(msg.content), item) : !getDaring(msg.content);
     });
 
     if(unSpecificData.length > 0) {
@@ -138,15 +136,15 @@ const getWeapons = (msg) => {
 
 
 getWeaponName = (msg) => {
-  const { command, queries } = destructWithWeaponName(msg.content);
-  const weaponsObj = dataMap['weapons'];
-  const flattenObj = flatten(weaponsObj);
-  console.log(weaponsObj)
+  // const { command, queries } = destructWithWeaponName(msg.content);
+  // const weaponsObj = dataMap['weapons'];
+  // const flattenObj = flatten(weaponsObj);
+  // console.log(weaponsObj)
 
-  const weapon = flattenObj[queries[0]];
-  if(command !== 'weap' || !weapon) {
-      return;
-  };
+  // const weapon = flattenObj[queries[0]];
+  // if(command !== 'weap' || !weapon) {
+  //     return;
+  // };
   
   // new ReactionMenu.menu(
   //   msg.channel,
@@ -157,7 +155,5 @@ getWeaponName = (msg) => {
   // );
   return;
 };
-
-console.log(getWeaponName({content: "?weap swordofhe"}))
 
 module.exports = { getWeapons, getWeaponName };

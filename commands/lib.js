@@ -1,13 +1,14 @@
 const fuzzyset = require('fuzzyset.js');
 const flatten = require('ramda.flatten');
 const curry = require('ramda.curry');
+const merge = require('ramda.merge');
 // const { allPass, chain, complement, fromPairs, isEmpty, toPairs, pipe } = R
 
 const dataMap = {
-  'armors': require('../data/armors'),
-  'characters': require('../data/characters'),
-  'weapons': require('../data/weapons'),
-  'nightmares': require('../data/nightmares')
+  armors: require('../data/armors'),
+  characters: require('../data/characters'),
+  weapons: require('../data/weapons'),
+  nightmares: require('../data/nightmares')
 }
 
 const commandList = [
@@ -130,6 +131,10 @@ const tierList = [
 ];
 
 
+const weapFlat = Object.keys(dataMap['weapons']).reduce((res, next) => {
+  return merge(res, dataMap['weapons'][next])
+},{});
+
 // initials
 const getDataNames = data => Object.keys(data).map(job => {
   return Object.keys(data[job]);
@@ -188,24 +193,6 @@ const destruct = curry((setInstance,msg) => {
 const destructQuerySet = destruct(querySet);
 const destructWithNhmName = destruct(nightmaresNameSet);
 const destructWithWeaponName = destruct(weaponNameSet);
-
-// source
-// https://codepen.io/icylace/pen/wobovY?editors=0012
-const isPlainObject = obj => {
-  return obj !== null
-      && typeof obj === "object"
-      && (!obj.constructor || obj.constructor === Object)
-      && Object.prototype.toString.call(obj) === "[object Object]"
-}
-
-const flattenProps = obj => {
-  const jamming = allPass([isPlainObject, complement(isEmpty)])
-  const jam = ([k, v]) => jamming(v) ? go(v) : [[k, v]]
-  const go = pipe(toPairs, chain(jam))
-  return fromPairs(go(obj))
-}
-
-
 
 const chunk = (array, size) => {
   if (!array) return [];
@@ -274,6 +261,8 @@ const elementFilter = (val, item) => item ? item['element'].toLowerCase() == val
 
 
 module.exports = { 
+  ...dataMap,
+  weapFlat,
   isCommand, 
   isQuery, 
   isBuff,
@@ -281,12 +270,10 @@ module.exports = {
   isArmor,
   isSlayer,
   queryMap,
-  // getCommand,
   commandList, 
   queryList, 
   destructQuerySet, 
   isWeapon,
-  dataMap,
   elementFilter,
   queryFilter,
   typeFilter,
@@ -299,5 +286,5 @@ module.exports = {
   destructWithNhmName,
   destructWithWeaponName,
   daringFilter,
-  getDaring
+  getDaring,
 };
