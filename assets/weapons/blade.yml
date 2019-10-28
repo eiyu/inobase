@@ -1277,3 +1277,989 @@ scars_of_invasion:
   picture: https://sinoalice.game-db.tw/images/card/CardS4630.png
   total: 7084(Lv120)
   url: "https://sinoalice.game-db.tw/weapons/\u4FB5\u7565\u306E\u722A\u75D5"
+
+master_swordsman's_longsword:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 13
+  element: fire
+  matk: 865
+  mdef: 462
+  name: "Master Swordsman's Longsword\u5263\u8C6A\u306E\u592A\u5200"
+  patk: 1074
+  pdef: 573
+  picture: https://sinoalice.game-db.tw/images/card/CardS0010.png
+  total: 2974(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5263\u8C6A\u306E\u592A\u5200"
+
+lump_of_pure_love:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 13
+  element: fire
+  matk: 871
+  mdef: 577
+  name: "Lump of Pure Love\u7D14\u611B\u306E\u584A"
+  patk: 1080
+  pdef: 470
+  picture: https://sinoalice.game-db.tw/images/card/CardS0026.png
+  total: 2998(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D14\u611B\u306E\u584A"
+
+blade_of_depravity:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 16
+  element: wind
+  matk: 1180
+  mdef: 740
+  name: "Blade of Depravity\u5351\u52A3\u306E\u5203"
+  patk: 2226
+  pdef: 1110
+  picture: https://sinoalice.game-db.tw/images/card/CardS0042.png
+  total: 5256(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5351\u52A3\u306E\u5203"
+
+sword_of_necessary_evils:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 11
+  element: fire
+  matk: 731
+  mdef: 484
+  name: "Sword of Necessary Evils\u5FC5\u8981\u60AA\u306E\u5263"
+  patk: 909
+  pdef: 394
+  picture: https://sinoalice.game-db.tw/images/card/CardS0060.png
+  total: 2518(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FC5\u8981\u60AA\u306E\u5263"
+
+dagger_of_vows:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 8
+  element: fire
+  matk: 441
+  mdef: 241
+  name: "Dagger of Vows\u8A93\u7D04\u306E\u77ED\u5263"
+  patk: 548
+  pdef: 298
+  picture: https://sinoalice.game-db.tw/images/card/CardS0078.png
+  total: 1528(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u8A93\u7D04\u306E\u77ED\u5263"
+
+untainted_ambition:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive physical damage to 1 enemy."
+  cost: 16
+  element: fire
+  matk: 1392
+  mdef: 1112
+  name: "Untainted Ambition\u6C5A\u308C\u7121\u304D\u91CE\u671B"
+  patk: 2091
+  pdef: 746
+  picture: https://sinoalice.game-db.tw/images/card/CardS0096.png
+  total: 5341(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C5A\u308C\u7121\u304D\u91CE\u671B"
+
+false_victor:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2163)Deal massive physical damage to 1 enemy."
+  cost: 16
+  element: water
+  matk: 1180
+  mdef: 1108
+  name: "False Victor\u507D\u308A\u306E\u52DD\u8005"
+  patk: 2226
+  pdef: 742
+  picture: https://sinoalice.game-db.tw/images/card/CardS0112.png
+  total: 5256(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u507D\u308A\u306E\u52DD\u8005"
+
+the_greatest_meal:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 13
+  element: water
+  matk: 869
+  mdef: 466
+  name: "The Greatest Meal\u6700\u9AD8\u306E\u98DF\u4E8B"
+  patk: 1078
+  pdef: 577
+  picture: https://sinoalice.game-db.tw/images/card/CardS0124.png
+  total: 2990(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6700\u9AD8\u306E\u98DF\u4E8B"
+
+nocturne_blade:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 13
+  element: water
+  matk: 865
+  mdef: 571
+  name: "Nocturne Blade\u591C\u60F3\u5200"
+  patk: 1074
+  pdef: 464
+  picture: https://sinoalice.game-db.tw/images/card/CardS0140.png
+  total: 2974(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u591C\u60F3\u5200"
+
+sacrifice-bearing_greatsword:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 12
+  element: water
+  matk: 802
+  mdef: 431
+  name: "Sacrifice-Bearing Greatsword\u751F\u8D04\u306E\u62B1\u304F\u5927\u5263"
+  patk: 996
+  pdef: 533
+  picture: https://sinoalice.game-db.tw/images/card/CardS0164.png
+  total: 2762(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u751F\u8D04\u306E\u62B1\u304F\u5927\u5263"
+
+dual_blades_of_mutual_affection:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 9
+  element: water
+  matk: 486
+  mdef: 323
+  name: "Dual Blades of Mutual Affection\u76F8\u601D\u306E\u53CC\u5200"
+  patk: 605
+  pdef: 264
+  picture: https://sinoalice.game-db.tw/images/card/CardS0180.png
+  total: 1678(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u76F8\u601D\u306E\u53CC\u5200"
+
+blade_of_love_and_hate:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 16
+  element: water
+  matk: 1394
+  mdef: 746
+  name: "Blade of Love and Hate\u611B\u618E\u306E\u5200\u5203"
+  patk: 2093
+  pdef: 1116
+  picture: https://sinoalice.game-db.tw/images/card/CardS0198.png
+  total: 5349(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u611B\u618E\u306E\u5200\u5203"
+
+silent_desirer:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 13
+  element: wind
+  matk: 867
+  mdef: 464
+  name: "Silent Desirer\u9759\u5BC2\u306E\u9858\u671B\u8005"
+  patk: 1076
+  pdef: 575
+  picture: https://sinoalice.game-db.tw/images/card/CardS0212.png
+  total: 2982(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9759\u5BC2\u306E\u9858\u671B\u8005"
+
+sword_of_a_hero:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 13
+  element: wind
+  matk: 873
+  mdef: 579
+  name: "Sword of a Hero\u82F1\u96C4\u304C\u4F7F\u3044\u3057\u5263"
+  patk: 1082
+  pdef: 472
+  picture: https://sinoalice.game-db.tw/images/card/CardS0228.png
+  total: 3006(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u82F1\u96C4\u304C\u4F7F\u3044\u3057\u5263"
+
+the_swordsmith's_curse:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive physical damage to 1 enemy."
+  cost: 16
+  element: fire
+  matk: 1185
+  mdef: 745
+  name: "The Swordsmith's Curse\u5200\u935B\u51B6\u306E\u546A\u7E1B"
+  patk: 2231
+  pdef: 1115
+  picture: https://sinoalice.game-db.tw/images/card/CardS0247.png
+  total: 5276(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5200\u935B\u51B6\u306E\u546A\u7E1B"
+
+nameless:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 10
+  element: wind
+  matk: 547
+  mdef: 298
+  name: "Nameless\u7121\u9298"
+  patk: 679
+  pdef: 368
+  picture: https://sinoalice.game-db.tw/images/card/CardS0268.png
+  total: 1892(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u7121\u9298"
+
+tragedy_of_the_wicked_woman:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 8
+  element: wind
+  matk: 439
+  mdef: 294
+  name: "Tragedy of the Wicked Woman\u60AA\u5973\u306E\u60B2\u5287"
+  patk: 546
+  pdef: 241
+  picture: https://sinoalice.game-db.tw/images/card/CardS0286.png
+  total: 1520(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u60AA\u5973\u306E\u60B2\u5287"
+
+blade_of_spared_lives:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 16
+  element: wind
+  matk: 1612
+  mdef: 1106
+  name: "Blade of Spared Lives\u4E0D\u6BBA\u306E\u5203"
+  patk: 1998
+  pdef: 740
+  picture: https://sinoalice.game-db.tw/images/card/CardS0300.png
+  total: 5456(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u6BBA\u306E\u5203"
+
+demonic_avenger's_sword:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical ATK by a small amount."
+  cost: 14
+  element: fire
+  matk: 682
+  mdef: 500
+  name: "Demonic Avenger's Sword\u5FA9\u8B90\u9B3C\u306E\u5263"
+  patk: 1290
+  pdef: 619
+  picture: https://sinoalice.game-db.tw/images/card/CardS0312.png
+  total: 3091(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FA9\u8B90\u9B3C\u306E\u5263"
+
+dagger_of_bonds:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy, and recover\
+    \ a small amount of own HP."
+  cost: 14
+  element: water
+  matk: 805
+  mdef: 502
+  name: "Dagger of Bonds\u7D46\u306E\u77ED\u5263"
+  patk: 1211
+  pdef: 621
+  picture: https://sinoalice.game-db.tw/images/card/CardS0324.png
+  total: 3139(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D46\u306E\u77ED\u5263"
+
+demonic_sword_of_humility:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF and\
+    \ magical DEF while attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 16
+  element: water
+  matk: 1612
+  mdef: 1106
+  name: "Demonic Sword of Humility\u8B19\u865A\u306A\u9B54\u5263"
+  patk: 1998
+  pdef: 740
+  picture: https://sinoalice.game-db.tw/images/card/CardS0340.png
+  total: 5456(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8B19\u865A\u306A\u9B54\u5263"
+
+promise_of_incarnation:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical DEF and magical DEF by a small amount."
+  cost: 16
+  element: wind
+  matk: 1388
+  mdef: 740
+  name: "Promise of Incarnation\u8EE2\u751F\u306E\u7D04\u675F"
+  patk: 2087
+  pdef: 1110
+  picture: https://sinoalice.game-db.tw/images/card/CardS0352.png
+  total: 5325(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8EE2\u751F\u306E\u7D04\u675F"
+
+sword_of_sorrow:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy, and recover\
+    \ a small amount of own HP."
+  cost: 13
+  element: water
+  matk: 871
+  mdef: 468
+  name: "Sword of Sorrow\u60B2\u54C0\u306E\u5263"
+  patk: 1080
+  pdef: 579
+  picture: https://sinoalice.game-db.tw/images/card/CardS0586.png
+  total: 2998(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u5263"
+
+blade_of_restriction:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2163)Deal massive physical damage to 1 enemy."
+  cost: 16
+  element: water
+  matk: 1186
+  mdef: 746
+  name: "Blade of Restriction\u675F\u7E1B\u306E\u5200"
+  patk: 2232
+  pdef: 1116
+  picture: https://sinoalice.game-db.tw/images/card/CardS0588.png
+  total: 5280(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u5200"
+
+abyssal_greatsword:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 17
+  element: wind
+  matk: 2015
+  mdef: 1164
+  name: "Abyssal Greatsword\u6D77\u5E95\u306E\u5927\u5263"
+  patk: 2019
+  pdef: 945
+  picture: https://sinoalice.game-db.tw/images/card/CardS0646.png
+  total: 6143(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6D77\u5E95\u306E\u5927\u5263"
+
+chakram_of_violence:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy, and recover\
+    \ a small amount of own HP."
+  cost: 14
+  element: wind
+  matk: 1062
+  mdef: 615
+  name: "Chakram of Violence\u66B4\u529B\u306E\u6226\u8F2A"
+  patk: 1066
+  pdef: 500
+  picture: https://sinoalice.game-db.tw/images/card/CardS0680.png
+  total: 3243(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u529B\u306E\u6226\u8F2A"
+
+blackstone_greatsword:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2163)Deal massive physical damage to 1 enemy."
+  cost: 17
+  element: water
+  matk: 2017
+  mdef: 1166
+  name: "Blackstone Greatsword\u9ED2\u77F3\u306E\u5927\u5263"
+  patk: 2021
+  pdef: 947
+  picture: https://sinoalice.game-db.tw/images/card/CardS0748.png
+  total: 6151(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u77F3\u306E\u5927\u5263"
+
+azure_sword:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 14
+  element: water
+  matk: 1066
+  mdef: 619
+  name: "Azure Sword\u84BC\u304D\u5263"
+  patk: 1070
+  pdef: 504
+  picture: https://sinoalice.game-db.tw/images/card/CardS0754.png
+  total: 3259(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u84BC\u304D\u5263"
+
+scarlet_sword:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 14
+  element: fire
+  matk: 1064
+  mdef: 617
+  name: "Scarlet Sword\u7DCB\u8272\u306E\u5263"
+  patk: 1068
+  pdef: 502
+  picture: https://sinoalice.game-db.tw/images/card/CardS0802.png
+  total: 3251(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u7DCB\u8272\u306E\u5263"
+
+"type-4o_blade\u25CB":
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2163)Deal massive physical damage to 1 enemy."
+  cost: 17
+  element: water
+  matk: 1764
+  mdef: 939
+  name: "Type-4O Blade\u56DB\u25CB\u5F0F\u65AC\u6A5F\u5200"
+  patk: 2186
+  pdef: 1162
+  picture: https://sinoalice.game-db.tw/images/card/CardS0812.png
+  total: 6051(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u56DB\u25CB\u5F0F\u65AC\u6A5F\u5200"
+
+virtuous_contract:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 17
+  element: water
+  matk: 1768
+  mdef: 943
+  name: "Virtuous Contract\u767D\u306E\u5951\u7D04"
+  patk: 2190
+  pdef: 1166
+  picture: https://sinoalice.game-db.tw/images/card/CardS0816.png
+  total: 6067(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u767D\u306E\u5951\u7D04"
+
+golden_sword:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: fire
+  matk: 2180
+  mdef: 1158
+  name: "Golden Sword\u9EC4\u91D1\u306E\u5263"
+  patk: 1766
+  pdef: 939
+  picture: https://sinoalice.game-db.tw/images/card/CardS0576.png
+  total: 6043(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9EC4\u91D1\u306E\u5263"
+
+cold_violence:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2163)Deal massive physical damage to 1 enemy."
+  cost: 17
+  element: wind
+  matk: 2009
+  mdef: 1068
+  name: "Cold Violence\u51B7\u5FB9\u306A\u308B\u66B4\u529B"
+  patk: 2013
+  pdef: 1070
+  picture: https://sinoalice.game-db.tw/images/card/CardS1000.png
+  total: 6160(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u51B7\u5FB9\u306A\u308B\u66B4\u529B"
+
+proof_of_purity:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 17
+  element: wind
+  matk: 2009
+  mdef: 1068
+  name: "Proof of Purity\u7D14\u6F54\u306E\u8A3C"
+  patk: 2013
+  pdef: 1070
+  picture: https://sinoalice.game-db.tw/images/card/CardS1020.png
+  total: 6160(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D14\u6F54\u306E\u8A3C"
+
+greatsword_of_slumber:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical ATK and\
+    \ magical ATK while attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and decrease their\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 1517
+  mdef: 939
+  name: "Greatsword of Slumber\u7761\u7720\u306E\u5927\u5263"
+  patk: 2281
+  pdef: 1162
+  picture: https://sinoalice.game-db.tw/images/card/CardS1032.png
+  total: 5899(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u5927\u5263"
+
+doctrine_of_the_teacher:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 14
+  element: water
+  matk: 1068
+  mdef: 573
+  name: "Doctrine of the Teacher\u5E2B\u306E\u6559\u3048"
+  patk: 1072
+  pdef: 575
+  picture: https://sinoalice.game-db.tw/images/card/CardS1066.png
+  total: 3288(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5E2B\u306E\u6559\u3048"
+
+bisecting_blade:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 14
+  element: wind
+  matk: 1070
+  mdef: 575
+  name: "Bisecting Blade\u4E21\u65AD\u306E\u5200"
+  patk: 1074
+  pdef: 577
+  picture: https://sinoalice.game-db.tw/images/card/CardS1118.png
+  total: 3296(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E21\u65AD\u306E\u5200"
+
+heart_of_a_criminal:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 11
+  element: wind
+  matk: 739
+  mdef: 400
+  name: "Heart of a Criminal\u548E\u4EBA\u306E\u5FC3"
+  patk: 917
+  pdef: 494
+  picture: https://sinoalice.game-db.tw/images/card/CardS1128.png
+  total: 2550(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u548E\u4EBA\u306E\u5FC3"
+
+sword_of_the_conqueror:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical ATK by a small amount."
+  cost: 14
+  element: fire
+  matk: 1068
+  mdef: 573
+  name: "Sword of the Conqueror\u8987\u8005\u306E\u5263"
+  patk: 1072
+  pdef: 575
+  picture: https://sinoalice.game-db.tw/images/card/CardS1166.png
+  total: 3288(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u8987\u8005\u306E\u5263"
+
+anchor_rod:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical ATK and\
+    \ magical ATK while attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 14
+  element: wind
+  matk: 1063
+  mdef: 568
+  name: "Anchor Rod\u9328\u7AFF"
+  patk: 1067
+  pdef: 570
+  picture: https://sinoalice.game-db.tw/images/card/CardS1381.png
+  total: 3268(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9328\u7AFF"
+
+greatsword_of_revenge:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 15
+  element: wind
+  matk: 1674
+  mdef: 894
+  name: "Greatsword of Revenge\u5FA9\u8B90\u306E\u5927\u5263"
+  patk: 1678
+  pdef: 896
+  picture: https://sinoalice.game-db.tw/images/card/CardS1397.png
+  total: 5142(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FA9\u8B90\u306E\u5927\u5263"
+
+greatsword_of_memory:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical ATK and\
+    \ magical ATK while attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 12
+  element: wind
+  matk: 911
+  mdef: 487
+  name: "Greatsword of Memory\u8A18\u61B6\u306E\u5927\u5263"
+  patk: 915
+  pdef: 489
+  picture: https://sinoalice.game-db.tw/images/card/CardS1401.png
+  total: 2802(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u8A18\u61B6\u306E\u5927\u5263"
+
+sword_of_the_eye:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 15
+  element: fire
+  matk: 1148
+  mdef: 616
+  name: "Sword of the Eye\u77B3\u306E\u5200"
+  patk: 1152
+  pdef: 618
+  picture: https://sinoalice.game-db.tw/images/card/CardS1419.png
+  total: 3534(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u77B3\u306E\u5200"
+
+imanotsurugi:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 17
+  element: fire
+  matk: 1801
+  mdef: 1073
+  name: "Imanotsurugi\u4ECA\u5263"
+  patk: 2189
+  pdef: 1097
+  picture: https://sinoalice.game-db.tw/images/card/CardS1435.png
+  total: 6160(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4ECA\u5263"
+
+sword_of_waterways:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical ATK and\
+    \ magical ATK while attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 14
+  element: water
+  matk: 1063
+  mdef: 568
+  name: "Sword of Waterways\u6C34\u8108\u306E\u5263"
+  patk: 1067
+  pdef: 570
+  picture: https://sinoalice.game-db.tw/images/card/CardS1461.png
+  total: 3268(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C34\u8108\u306E\u5263"
+
+sword_of_harmony:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy, and increase\
+    \ own physical ATK by a small amount."
+  cost: 14
+  element: wind
+  matk: 1069
+  mdef: 574
+  name: "Sword of Harmony\u878D\u548C\u306E\u5263"
+  patk: 1073
+  pdef: 576
+  picture: https://sinoalice.game-db.tw/images/card/CardS1597.png
+  total: 3292(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u878D\u548C\u306E\u5263"
+
+cries_and_whispers:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 14
+  element: fire
+  matk: 1069
+  mdef: 574
+  name: "Cries and Whispers\u8B00\u7565\u3068\u80CC\u5FB3"
+  patk: 1073
+  pdef: 576
+  picture: https://sinoalice.game-db.tw/images/card/CardS1637.png
+  total: 3292(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u8B00\u7565\u3068\u80CC\u5FB3"
+
+sword_of_dependency:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive physical damage to 1 enemy."
+  cost: 17
+  element: wind
+  matk: 2016
+  mdef: 1075
+  name: "Sword of Dependency\u4F9D\u5B58\u306E\u5263"
+  patk: 2156
+  pdef: 1117
+  picture: https://sinoalice.game-db.tw/images/card/CardS1727.png
+  total: 6364(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u5263"
+
+blade_of_absurdity:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: Deal great physical damage to 1 enemy, and increase own physical
+    ATK and physical DEF by a small amount.
+  cost: 16
+  element: wind
+  matk: 1842
+  mdef: 981
+  name: "Blade of Absurdity\u4E0D\u6761\u7406\u306E\u5203"
+  patk: 1947
+  pdef: 1037
+  picture: https://sinoalice.game-db.tw/images/card/CardS1814.png
+  total: 5807(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u6761\u7406\u306E\u5203"
+
+the_man_who_dwells_in_the_sword:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 15
+  element: water
+  matk: 1142
+  mdef: 610
+  name: "The Man who Dwells in the Sword\u5263\u306B\u5BBF\u308A\u3057\u8005"
+  patk: 1146
+  pdef: 612
+  picture: https://sinoalice.game-db.tw/images/card/CardS2123.png
+  total: 3510(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5263\u306B\u5BBF\u308A\u3057\u8005"
+
+shortsword_of_delusion:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: fire
+  matk: 1845
+  mdef: 1071
+  name: "Shortsword of Delusion\u865A\u5984\u306E\u77ED\u5263"
+  patk: 2152
+  pdef: 1095
+  picture: https://sinoalice.game-db.tw/images/card/CardS2243.png
+  total: 6163(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u77ED\u5263"
+
+curved_sword_of_pride_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 1848
+  mdef: 1034
+  name: "Curved Sword of Pride (Kageuchi)\u50B2\u6162\u30CE\u66F2\u5263(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  patk: 2129
+  pdef: 1116
+  picture: https://sinoalice.game-db.tw/images/card/CardS2636.png
+  total: 6127(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u50B2\u6162\u30CE\u66F2\u5263(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+shabby_sword:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy."
+  cost: 11
+  element: wind
+  matk: 100
+  mdef: 100
+  name: "Shabby Sword\u3057\u3087\u307C\u3044\u5263"
+  patk: 100
+  pdef: 100
+  picture: https://sinoalice.game-db.tw/images/card/CardS2708.png
+  total: 400(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u3057\u3087\u307C\u3044\u5263"
+
+"zweih\xE4nder_of_justice":
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 1844
+  mdef: 1003
+  name: "Zweih\xE4nder of Justice\u6B63\u7FA9\u306E\u30C4\u30F4\u30A1\u30A4\u30D8\u30F3\
+    \u30C0\u30FC"
+  patk: 2151
+  pdef: 1130
+  picture: https://sinoalice.game-db.tw/images/card/CardS2752.png
+  total: 6128(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u30C4\u30F4\u30A1\u30A4\
+    \u30D8\u30F3\u30C0\u30FC"
+
+new_year's_blade_of_parvenu:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and decrease their\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: fire
+  matk: 1939
+  mdef: 1034
+  name: "New Year's Blade of Parvenu\u6210\u91D1\u306E\u8CC0\u6B63\u5200"
+  patk: 2095
+  pdef: 1098
+  picture: https://sinoalice.game-db.tw/images/card/CardS2766.png
+  total: 6166(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6210\u91D1\u306E\u8CC0\u6B63\u5200"
+
+selector's_sword:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 14
+  element: wind
+  matk: 1002
+  mdef: 526
+  name: "Selector's Sword\u9078\u5B9A\u306E\u5263"
+  patk: 1131
+  pdef: 596
+  picture: https://sinoalice.game-db.tw/images/card/CardS2826.png
+  total: 3255(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9078\u5B9A\u306E\u5263"
+
+love_blade_of_restriction:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and decrease their\
+    \ physical DEF by a small amount."
+  cost: 17
+  element: wind
+  matk: 1850
+  mdef: 987
+  name: "Love Blade of Restriction\u675F\u7E1B\u306E\u604B\u5200"
+  patk: 2131
+  pdef: 1136
+  picture: https://sinoalice.game-db.tw/images/card/CardS2968.png
+  total: 6104(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u604B\u5200"
+
+song_of_the_labyrinth:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy."
+  cost: 14
+  element: wind
+  matk: 976
+  mdef: 534
+  name: "Song of the Labyrinth\u8FF7\u5BAE\u306E\u6B4C"
+  patk: 1127
+  pdef: 602
+  picture: https://sinoalice.game-db.tw/images/card/CardS2982.png
+  total: 3239(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u8FF7\u5BAE\u306E\u6B4C"
+
+steel_rose:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy, and increase\
+    \ own physical ATK by a small amount."
+  cost: 14
+  element: wind
+  matk: 982
+  mdef: 540
+  name: "Steel Rose\u9244\u584A"
+  patk: 1133
+  pdef: 608
+  picture: https://sinoalice.game-db.tw/images/card/CardS2988.png
+  total: 3263(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9244\u584A"
+
+sinful_blade_of_pride_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: fire
+  matk: 1885
+  mdef: 981
+  name: "Sinful Blade of Pride (Kageuchi)\u50B2\u6162\u30CE\u7F6A\u5200(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  patk: 2125
+  pdef: 1130
+  picture: https://sinoalice.game-db.tw/images/card/CardS3102.png
+  total: 6121(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u50B2\u6162\u30CE\u7F6A\u5200(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+shortsword_of_disappearance_:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy, and increase\
+    \ own physical ATK by a small amount."
+  cost: 14
+  element: wind
+  matk: 983
+  mdef: 516
+  name: "Shortsword of Disappearance \u5931\u589C\u306E\u77ED\u5263"
+  patk: 1116
+  pdef: 590
+  picture: https://sinoalice.game-db.tw/images/card/CardS3489.png
+  total: 3205(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5931\u589C\u306E\u77ED\u5263"
+
+pride_of_the_angel:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and increase own\
+    \ physical ATK by a small amount."
+  cost: 15
+  element: wind
+  matk: 1500
+  mdef: 1000
+  name: "Pride of the Angel(\u546A)\u5929\u4F7F\u306E\u50B2\u6162"
+  patk: 1500
+  pdef: 1000
+  picture: https://sinoalice.game-db.tw/images/card/CardS3733.png
+  total: 5000(Lv1)
+  url: "https://sinoalice.game-db.tw/weapons/(\u546A)\u5929\u4F7F\u306E\u50B2\u6162"
+
+shortsword_of_drowning:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own physical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy, and recover\
+    \ a small amount of own HP."
+  cost: 14
+  element: water
+  matk: 1000
+  mdef: 536
+  name: "Shortsword of Drowning\u6EBA\u308C\u308B\u77ED\u5263"
+  patk: 1111
+  pdef: 594
+  picture: https://sinoalice.game-db.tw/images/card/CardS3924.png
+  total: 3241(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6EBA\u308C\u308B\u77ED\u5263"
+
+excalipoor:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate physical damage to 1 enemy, and recover\
+    \ a small amount of own HP."
+  cost: 14
+  element: water
+  matk: 888
+  mdef: 547
+  name: "Excalipoor\u30A8\u30AF\u30B9\u30AB\u30EA\u30D1\u30FC"
+  patk: 1208
+  pdef: 570
+  picture: https://sinoalice.game-db.tw/images/card/CardS4401.png
+  total: 3213(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u30A8\u30AF\u30B9\u30AB\u30EA\u30D1\u30FC"
+
+first_light:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great physical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 17
+  element: fire
+  matk: 1888
+  mdef: 1033
+  name: "First Light\u592A\u521D\u306E\u706F\u706B"
+  patk: 2128
+  pdef: 1075
+  picture: https://sinoalice.game-db.tw/images/card/CardS4435.png
+  total: 6124(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u592A\u521D\u306E\u706F\u706B"

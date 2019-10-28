@@ -1465,3 +1465,745 @@ allure_of_the_underworld:
   picture: https://sinoalice.game-db.tw/images/card/CardS4607.png
   total: 7655(Lv120)
   url: "https://sinoalice.game-db.tw/weapons/\u5E7D\u51A5\u3078\u306E\u8A98\u3044"
+
+staff_of_submission:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP."
+  cost: 13
+  element: fire
+  matk: 871
+  mdef: 468
+  name: "Staff of Submission\u670D\u5F93\u306E\u6756"
+  patk: 1080
+  pdef: 579
+  picture: https://sinoalice.game-db.tw/images/card/CardS0006.png
+  total: 2998(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u670D\u5F93\u306E\u6756"
+
+monk's_staff:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2160)Heal 2 allies by a small amount of HP."
+  cost: 13
+  element: fire
+  matk: 1072
+  mdef: 573
+  name: "Monk's Staff\u50E7\u4FB6\u306E\u932B\u6756"
+  patk: 871
+  pdef: 466
+  picture: https://sinoalice.game-db.tw/images/card/CardS0022.png
+  total: 2982(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u50E7\u4FB6\u306E\u932B\u6756"
+
+rousing_staff:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 16
+  element: fire
+  matk: 2089
+  mdef: 746
+  name: "Rousing Staff\u6C7A\u8D77\u306E\u6756"
+  patk: 1398
+  pdef: 1116
+  picture: https://sinoalice.game-db.tw/images/card/CardS0038.png
+  total: 5349(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C7A\u8D77\u306E\u6756"
+
+scepter_of_authority:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Heal 1-2 allies by a small amount of HP."
+  cost: 12
+  element: fire
+  matk: 805
+  mdef: 434
+  name: "Scepter of Authority\u6A29\u529B\u306E\u738B\u7B0F"
+  patk: 999
+  pdef: 536
+  picture: https://sinoalice.game-db.tw/images/card/CardS0057.png
+  total: 2774(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6A29\u529B\u306E\u738B\u7B0F"
+
+staff_of_the_apprentice:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 1 ally by a moderate amount of HP."
+  cost: 10
+  element: fire
+  matk: 671
+  mdef: 362
+  name: "Staff of the Apprentice\u898B\u7FD2\u3044\u306E\u6756"
+  patk: 547
+  pdef: 296
+  picture: https://sinoalice.game-db.tw/images/card/CardS0074.png
+  total: 1876(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u898B\u7FD2\u3044\u306E\u6756"
+
+nemesis:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical ATK and\
+    \ magical ATK while attacking."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 16
+  element: fire
+  matk: 1388
+  mdef: 1108
+  name: "Nemesis\u4E0D\u5036\u6234\u5929"
+  patk: 2087
+  pdef: 742
+  picture: https://sinoalice.game-db.tw/images/card/CardS0092.png
+  total: 5325(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u5036\u6234\u5929"
+
+staff_of_restriction:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ magical ATK by a small amount."
+  cost: 16
+  element: water
+  matk: 2089
+  mdef: 1114
+  name: "Staff of Restriction\u675F\u7E1B\u306E\u6756"
+  patk: 1398
+  pdef: 748
+  picture: https://sinoalice.game-db.tw/images/card/CardS0108.png
+  total: 5349(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u6756"
+
+engraved_blue_staff:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2160)Heal 2 allies by a small amount of HP."
+  cost: 13
+  element: water
+  matk: 1070
+  mdef: 462
+  name: "Engraved Blue Staff\u523B\u306E\u84BC\u6756"
+  patk: 869
+  pdef: 573
+  picture: https://sinoalice.game-db.tw/images/card/CardS0120.png
+  total: 2974(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u523B\u306E\u84BC\u6756"
+
+the_cove's_sands_of_time:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP."
+  cost: 13
+  element: wind
+  matk: 871
+  mdef: 577
+  name: "The Cove's Sands of Time\u5165\u6C5F\u306E\u6642\u7802"
+  patk: 1080
+  pdef: 470
+  picture: https://sinoalice.game-db.tw/images/card/CardS0136.png
+  total: 2998(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5165\u6C5F\u306E\u6642\u7802"
+
+demon's_staff:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Heal 1-2 allies by a small amount of HP."
+  cost: 11
+  element: water
+  matk: 913
+  mdef: 492
+  name: "Demon's Staff\u60AA\u9B54\u306E\u6756"
+  patk: 743
+  pdef: 402
+  picture: https://sinoalice.game-db.tw/images/card/CardS0158.png
+  total: 2550(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u60AA\u9B54\u306E\u6756"
+
+staff_of_the_mad_judge:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 1 ally by a moderate amount of HP."
+  cost: 8
+  element: water
+  matk: 439
+  mdef: 239
+  name: "Staff of the Mad Judge\u72C2\u88C1\u8005\u306E\u6756"
+  patk: 546
+  pdef: 296
+  picture: https://sinoalice.game-db.tw/images/card/CardS0176.png
+  total: 1520(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u72C2\u88C1\u8005\u306E\u6756"
+
+a_naive_boy_and_his_staff_of_miracles:
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 16
+  element: water
+  matk: 1390
+  mdef: 742
+  name: "A Naive Boy and His Staff of Miracles\u611A\u76F4\u306A\u5C11\u5E74\u3068\
+    \u5947\u8DE1\u306E\u6756"
+  patk: 2089
+  pdef: 1112
+  picture: https://sinoalice.game-db.tw/images/card/CardS0194.png
+  total: 5333(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u611A\u76F4\u306A\u5C11\u5E74\u3068\u5947\
+    \u8DE1\u306E\u6756"
+
+staff_of_suffering:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP."
+  cost: 13
+  element: water
+  matk: 1078
+  mdef: 470
+  name: "Staff of Suffering\u88AB\u8650\u306E\u6756"
+  patk: 877
+  pdef: 581
+  picture: https://sinoalice.game-db.tw/images/card/CardS0208.png
+  total: 3006(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u6756"
+
+staff_of_inexperience:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 1-2 allies by a moderate amount of HP."
+  cost: 13
+  element: wind
+  matk: 869
+  mdef: 575
+  name: "Staff of Inexperience\u672A\u4FEE\u719F\u306E\u6756"
+  patk: 1078
+  pdef: 468
+  picture: https://sinoalice.game-db.tw/images/card/CardS0224.png
+  total: 2990(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u672A\u4FEE\u719F\u306E\u6756"
+
+wiseman_of_hollyhocks_(one_petal):
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ magical DEF by a small amount."
+  cost: 16
+  element: wind
+  matk: 2084
+  mdef: 741
+  name: "Wiseman of Hollyhocks (One Petal)\u8475\u306E\u8CE2\u8005(\u4E00\u5F01)"
+  patk: 1393
+  pdef: 1111
+  picture: https://sinoalice.game-db.tw/images/card/CardS0243.png
+  total: 5329(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8475\u306E\u8CE2\u8005(\u4E00\u5F01\
+    )"
+
+staff_of_white_lightning:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 1 ally by a moderate amount of HP."
+  cost: 9
+  element: wind
+  matk: 492
+  mdef: 268
+  name: "Staff of White Lightning\u767D\u96F7\u306E\u6756"
+  patk: 611
+  pdef: 331
+  picture: https://sinoalice.game-db.tw/images/card/CardS0266.png
+  total: 1702(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u767D\u96F7\u306E\u6756"
+
+staff_of_the_sage:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's physical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Heal 1-2 allies by a small amount of HP."
+  cost: 10
+  element: wind
+  matk: 669
+  mdef: 360
+  name: "Staff of the Sage\u8CE2\u8005\u306E\u6756"
+  patk: 545
+  pdef: 294
+  picture: https://sinoalice.game-db.tw/images/card/CardS0282.png
+  total: 1868(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u8CE2\u8005\u306E\u6756"
+
+wiseman_of_hollyhocks_(two_petals):
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
+  cost: 16
+  element: wind
+  matk: 1392
+  mdef: 1112
+  name: "Wiseman of Hollyhocks (Two Petals)\u8475\u306E\u8CE2\u8005(\u4E8C\u5F01)"
+  patk: 2091
+  pdef: 746
+  picture: https://sinoalice.game-db.tw/images/card/CardS0296.png
+  total: 5341(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8475\u306E\u8CE2\u8005(\u4E8C\u5F01\
+    )"
+
+metempsychosis:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Heal 1 ally by a moderate amount of HP, and increase their\
+    \ magical ATK by a small amount."
+  cost: 14
+  element: water
+  matk: 1211
+  mdef: 506
+  name: "Metempsychosis\u8F2A\u5EFB\u8EE2\u751F"
+  patk: 813
+  pdef: 625
+  picture: https://sinoalice.game-db.tw/images/card/CardS0318.png
+  total: 3155(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u8F2A\u5EFB\u8EE2\u751F"
+
+staff_of_oblivion:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 16
+  element: wind
+  matk: 2000
+  mdef: 1112
+  name: "Staff of Oblivion\u5FD8\u5374\u306E\u6756"
+  patk: 1622
+  pdef: 746
+  picture: https://sinoalice.game-db.tw/images/card/CardS0336.png
+  total: 5480(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FD8\u5374\u306E\u6756"
+
+staff_of_incarnation:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 17
+  element: wind
+  matk: 1766
+  mdef: 811
+  name: "Staff of Incarnation\u5177\u73FE\u306E\u6756"
+  patk: 2188
+  pdef: 1214
+  picture: https://sinoalice.game-db.tw/images/card/CardS0354.png
+  total: 5979(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5177\u73FE\u306E\u6756"
+
+abyssal_staff:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
+  cost: 17
+  element: fire
+  matk: 2011
+  mdef: 1160
+  name: "Abyssal Staff\u6D77\u5E95\u306E\u6756"
+  patk: 2015
+  pdef: 941
+  picture: https://sinoalice.game-db.tw/images/card/CardS0642.png
+  total: 6127(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6D77\u5E95\u306E\u6756"
+
+proof_of_goodwill:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP."
+  cost: 14
+  element: wind
+  matk: 1070
+  mdef: 623
+  name: "Proof of Goodwill\u5584\u610F\u306E\u8A3C"
+  patk: 1074
+  pdef: 508
+  picture: https://sinoalice.game-db.tw/images/card/CardS0658.png
+  total: 3275(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5584\u610F\u306E\u8A3C"
+
+proof_of_hypocrisy:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2160)Heal 2 allies by a small amount of HP."
+  cost: 14
+  element: water
+  matk: 1062
+  mdef: 615
+  name: "Proof of Hypocrisy\u507D\u5584\u306E\u8A3C"
+  patk: 1066
+  pdef: 500
+  picture: https://sinoalice.game-db.tw/images/card/CardS0690.png
+  total: 3243(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u507D\u5584\u306E\u8A3C"
+
+blackstone_staff:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's physical DEF and\
+    \ magical DEF while attacking."
+  colosseum_skill: "(\u2162)Heal 2 allies by a great amount of HP."
+  cost: 17
+  element: fire
+  matk: 2011
+  mdef: 1160
+  name: "Blackstone Staff\u9ED2\u77F3\u306E\u6756"
+  patk: 2015
+  pdef: 941
+  picture: https://sinoalice.game-db.tw/images/card/CardS0752.png
+  total: 6127(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u77F3\u306E\u6756"
+
+staff_of_clairvoyance:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP."
+  cost: 14
+  element: fire
+  matk: 1066
+  mdef: 619
+  name: "Staff of Clairvoyance\u5343\u91CC\u773C\u306E\u6756"
+  patk: 1070
+  pdef: 504
+  picture: https://sinoalice.game-db.tw/images/card/CardS0764.png
+  total: 3259(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5343\u91CC\u773C\u306E\u6756"
+
+staff_of_prohibition:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 1 ally by a moderate amount of HP, and increase their\
+    \ magical ATK by a small amount."
+  cost: 14
+  element: wind
+  matk: 1068
+  mdef: 621
+  name: "Staff of Prohibition\u7981\u8A00\u306E\u6756"
+  patk: 1072
+  pdef: 506
+  picture: https://sinoalice.game-db.tw/images/card/CardS0806.png
+  total: 3267(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u7981\u8A00\u306E\u6756"
+
+no._7's_staff7:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 17
+  element: water
+  matk: 1770
+  mdef: 945
+  name: "No. 7's Staff7\u53F7\u306E\u6756"
+  patk: 2192
+  pdef: 1168
+  picture: https://sinoalice.game-db.tw/images/card/CardS0818.png
+  total: 6075(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/7\u53F7\u306E\u6756"
+
+golden_staff:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 2188
+  mdef: 1166
+  name: "Golden Staff\u9EC4\u91D1\u306E\u6756"
+  patk: 1774
+  pdef: 947
+  picture: https://sinoalice.game-db.tw/images/card/CardS0578.png
+  total: 6075(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9EC4\u91D1\u306E\u6756"
+
+staff_of_the_signal_bell:
+  col_aid_skill: "(\u2160)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a slightly amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
+  cost: 17
+  element: fire
+  matk: 2015
+  mdef: 1074
+  name: "Staff of the Signal Bell\u53F7\u9418\u306E\u6756"
+  patk: 2019
+  pdef: 1076
+  picture: https://sinoalice.game-db.tw/images/card/CardS0996.png
+  total: 6184(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u53F7\u9418\u306E\u6756"
+
+precious_staff_of_the_ice_falls:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2160)Heal 2 allies by a small amount of HP."
+  cost: 14
+  element: water
+  matk: 1064
+  mdef: 569
+  name: "Precious Staff of the Ice Falls\u6C37\u6EDD\u306E\u5B9D\u6756"
+  patk: 1068
+  pdef: 571
+  picture: https://sinoalice.game-db.tw/images/card/CardS1022.png
+  total: 3272(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C37\u6EDD\u306E\u5B9D\u6756"
+
+spidersilk_staff:
+  col_aid_skill: "(\u2160)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a small amount while executing commands."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ magical DEF by a small amount."
+  cost: 17
+  element: wind
+  matk: 1519
+  mdef: 1212
+  name: "Spidersilk Staff\u8718\u86DB\u306E\u7CF8\u6756"
+  patk: 1523
+  pdef: 1214
+  picture: https://sinoalice.game-db.tw/images/card/CardS1034.png
+  total: 5468(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8718\u86DB\u306E\u7CF8\u6756"
+
+retrograde_staff:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2160)Heal 2 allies by a small amount of HP."
+  cost: 14
+  element: fire
+  matk: 1064
+  mdef: 569
+  name: "Retrograde Staff\u9006\u884C\u306E\u6756"
+  patk: 1068
+  pdef: 571
+  picture: https://sinoalice.game-db.tw/images/card/CardS1042.png
+  total: 3272(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9006\u884C\u306E\u6756"
+
+staff_of_scales:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
+  cost: 17
+  element: wind
+  matk: 1762
+  mdef: 1158
+  name: "Staff of Scales\u9C57\u7247\u306E\u6756"
+  patk: 1766
+  pdef: 1160
+  picture: https://sinoalice.game-db.tw/images/card/CardS1060.png
+  total: 5846(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9C57\u7247\u306E\u6756"
+
+salvation_of_the_forests:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP."
+  cost: 14
+  element: wind
+  matk: 1062
+  mdef: 567
+  name: "Salvation of the Forests\u68EE\u6797\u306E\u6551\u6E08"
+  patk: 1066
+  pdef: 569
+  picture: https://sinoalice.game-db.tw/images/card/CardS1120.png
+  total: 3264(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u68EE\u6797\u306E\u6551\u6E08"
+
+in_high_spirits:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP."
+  cost: 14
+  element: fire
+  matk: 1062
+  mdef: 567
+  name: "In High Spirits\u6C17\u708E\u4E07\u4E08"
+  patk: 1066
+  pdef: 569
+  picture: https://sinoalice.game-db.tw/images/card/CardS1310.png
+  total: 3264(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C17\u708E\u4E07\u4E08"
+
+fishing_rod_of_justice:
+  col_aid_skill: "(\u2160)Fixed chance to Increase the physical DEF of 1 ally in the\
+    \ vanguard by a slightly amount while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ physical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 2014
+  mdef: 1073
+  name: "Fishing Rod of Justice\u6B63\u7FA9\u306E\u91E3\u308A\u7AFF"
+  patk: 2018
+  pdef: 1075
+  picture: https://sinoalice.game-db.tw/images/card/CardS1375.png
+  total: 6180(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u91E3\u308A\u7AFF"
+
+staff_of_the_emperor:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP."
+  cost: 15
+  element: water
+  matk: 1144
+  mdef: 612
+  name: "Staff of the Emperor\u6C34\u5E1D\u306E\u6756"
+  patk: 1148
+  pdef: 614
+  picture: https://sinoalice.game-db.tw/images/card/CardS1425.png
+  total: 3518(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C34\u5E1D\u306E\u6756"
+
+staff_of_sadness:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 17
+  element: fire
+  matk: 2014
+  mdef: 1073
+  name: "Staff of Sadness\u60B2\u54C0\u306E\u6756"
+  patk: 2018
+  pdef: 1075
+  picture: https://sinoalice.game-db.tw/images/card/CardS1555.png
+  total: 6180(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u6756"
+
+conjurer's_staff:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2161)Heal 1-2 allies by a moderate amount of HP."
+  cost: 14
+  element: fire
+  matk: 1065
+  mdef: 570
+  name: "Conjurer's Staff\u5947\u8853\u5E2B\u306E\u6756"
+  patk: 1069
+  pdef: 572
+  picture: https://sinoalice.game-db.tw/images/card/CardS1643.png
+  total: 3276(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5947\u8853\u5E2B\u306E\u6756"
+
+sub-zero_staff:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2161)Heal 1-2 allies by a moderate amount of HP."
+  cost: 17
+  element: water
+  matk: 2017
+  mdef: 1076
+  name: "Sub-Zero Staff\u96F6\u5EA6\u306E\u6756"
+  patk: 2021
+  pdef: 1078
+  picture: https://sinoalice.game-db.tw/images/card/CardS1818.png
+  total: 6192(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u96F6\u5EA6\u306E\u6756"
+
+staff_of_depravity:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1 ally by a great amount of HP, and increase their\
+    \ magical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 2013
+  mdef: 1112
+  name: "Staff of Depravity\u5351\u52A3\u306E\u6756"
+  patk: 1941
+  pdef: 1114
+  picture: https://sinoalice.game-db.tw/images/card/CardS1884.png
+  total: 6180(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5351\u52A3\u306E\u6756"
+
+parasol_of_inquisition:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP."
+  cost: 17
+  element: fire
+  matk: 1936
+  mdef: 1143
+  name: "Parasol of Inquisition\u63A2\u7A76\u306E\u30D1\u30E9\u30BD\u30EB"
+  patk: 1940
+  pdef: 1145
+  picture: https://sinoalice.game-db.tw/images/card/CardS2323.png
+  total: 6164(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u30D1\u30E9\u30BD\u30EB"
+
+purple_staff_of_lust_(kageuchi):
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase HP recovered while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 17
+  element: water
+  matk: 1938
+  mdef: 1131
+  name: "Purple Staff of Lust (Kageuchi)\u8272\u6B32\u30CE\u7D2B\u6756(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  patk: 1942
+  pdef: 1097
+  picture: https://sinoalice.game-db.tw/images/card/CardS2395.png
+  total: 6108(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8272\u6B32\u30CE\u7D2B\u6756(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+invader_staff_of_suffering:
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 2012
+  mdef: 1143
+  name: "Invader Staff of Suffering\u88AB\u8650\u306E\u4FB5\u7565\u6756"
+  patk: 1849
+  pdef: 1131
+  picture: https://sinoalice.game-db.tw/images/card/CardS2503.png
+  total: 6135(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u4FB5\u7565\u6756"
+
+crescent_staff_of_lust_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to increase physical DEF of one member of the\
+    \ vanguard by a great amount while executing commands."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their physical DEF by a small amount."
+  cost: 17
+  element: fire
+  matk: 1887
+  mdef: 1162
+  name: "Crescent Staff of Lust (Kageuchi)\u8272\u6B32\u30CE\u6708\u6756(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  patk: 1891
+  pdef: 1164
+  picture: https://sinoalice.game-db.tw/images/card/CardS2664.png
+  total: 6104(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8272\u6B32\u30CE\u6708\u6756(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+bud_staff_of_lust_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical DEF of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical DEF by a small amount."
+  cost: 17
+  element: wind
+  matk: 2011
+  mdef: 1142
+  name: "Bud Staff of Lust (Kageuchi)\u8272\u6B32\u30CE\u857E\u6756(\u30AB\u30B2\u30A6\
+    \u30C1)"
+  patk: 1848
+  pdef: 1130
+  picture: https://sinoalice.game-db.tw/images/card/CardS3132.png
+  total: 6131(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8272\u6B32\u30CE\u857E\u6756(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+bone_staff_of_lust_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to Increase the magical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 1889
+  mdef: 1172
+  name: "Bone Staff of Lust (Kageuchi)\u8272\u6B32\u30CE\u9AB8\u6756(\u30AB\u30B2\u30A6\
+    \u30C1)"
+  patk: 1893
+  pdef: 1166
+  picture: https://sinoalice.game-db.tw/images/card/CardS3376.png
+  total: 6120(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8272\u6B32\u30CE\u9AB8\u6756(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+otherworldly_prophecy:
+  col_aid_skill: "(\u2161)Fixed chance to Increase the physical ATK of 1 ally in the\
+    \ vanguard by a moderate amount while healing."
+  colosseum_skill: "(\u2162)Heal 1-2 allies by a great amount of HP, and increase\
+    \ their magical ATK by a small amount."
+  cost: 15
+  element: fire
+  matk: 1500
+  mdef: 1000
+  name: "Otherworldly Prophecy(\u546A)\u51A5\u9014\u306E\u4E88\u8A00"
+  patk: 1500
+  pdef: 1000
+  picture: https://sinoalice.game-db.tw/images/card/CardS3740.png
+  total: 5000(Lv1)
+  url: "https://sinoalice.game-db.tw/weapons/(\u546A)\u51A5\u9014\u306E\u4E88\u8A00"
+
+first_poisonous_tail:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase HP recovered while healing."
+  colosseum_skill: "(\u2163)Heal 1 ally by a massive amount of HP."
+  cost: 17
+  element: wind
+  matk: 1886
+  mdef: 1175
+  name: "First Poisonous Tail\u592A\u521D\u306E\u6BD2\u5C3E"
+  patk: 1890
+  pdef: 1177
+  picture: https://sinoalice.game-db.tw/images/card/CardS4443.png
+  total: 6128(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u592A\u521D\u306E\u6BD2\u5C3E"

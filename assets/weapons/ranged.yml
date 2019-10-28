@@ -1152,3 +1152,832 @@ pitiful_liquid:
   picture: https://sinoalice.game-db.tw/images/card/CardS4597.png
   total: 7662(Lv120)
   url: "https://sinoalice.game-db.tw/weapons/\u54C0\u60DC\u306E\u30EA\u30AD\u30C3\u30C9"
+
+reparation_for_the_usurped_princess:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 13
+  element: fire
+  matk: 1074
+  mdef: 466
+  name: "Reparation for the Usurped Princess\u596A\u59EB\u306E\u4EE3\u511F"
+  patk: 873
+  pdef: 577
+  picture: https://sinoalice.game-db.tw/images/card/CardS0014.png
+  total: 2990(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u596A\u59EB\u306E\u4EE3\u511F"
+ 
+ancient_elven_bow:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 13
+  element: fire
+  matk: 1070
+  mdef: 571
+  name: "Ancient Elven Bow\u30A8\u30EB\u30D5\u306E\u53E4\u5F13"
+  patk: 869
+  pdef: 464
+  picture: https://sinoalice.game-db.tw/images/card/CardS0030.png
+  total: 2974(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u30A8\u30EB\u30D5\u306E\u53E4\u5F13"
+
+bow_of_the_pursuer:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 16
+  element: fire
+  matk: 2226
+  mdef: 1112
+  name: "Bow of the Pursuer\u8FFD\u8DE1\u8005\u306E\u5F13"
+  patk: 1188
+  pdef: 746
+  picture: https://sinoalice.game-db.tw/images/card/CardS0046.png
+  total: 5272(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8FFD\u8DE1\u8005\u306E\u5F13"
+
+peasant's_bow:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy."
+  cost: 11
+  element: fire
+  matk: 911
+  mdef: 398
+  name: "Peasant's Bow\u8FB2\u6C11\u306E\u5F13"
+  patk: 741
+  pdef: 492
+  picture: https://sinoalice.game-db.tw/images/card/CardS0066.png
+  total: 2542(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u8FB2\u6C11\u306E\u5F13"
+
+bow_of_calamity:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy."
+  cost: 8
+  element: fire
+  matk: 538
+  mdef: 290
+  name: "Bow of Calamity\u707D\u3044\u306E\u5F13"
+  patk: 439
+  pdef: 237
+  picture: https://sinoalice.game-db.tw/images/card/CardS0082.png
+  total: 1504(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u707D\u3044\u306E\u5F13"
+
+cursed_gun_of_resentment:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 16
+  element: fire
+  matk: 2081
+  mdef: 738
+  name: "Cursed Gun of Resentment\u6068\u307F\u306E\u546A\u9283"
+  patk: 1390
+  pdef: 1108
+  picture: https://sinoalice.game-db.tw/images/card/CardS0100.png
+  total: 5317(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6068\u307F\u306E\u546A\u9283"
+
+beauty_in_death:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 13
+  element: water
+  matk: 1078
+  mdef: 470
+  name: "Beauty in Death\u5931\u547D\u306E\u7F8E"
+  patk: 877
+  pdef: 581
+  picture: https://sinoalice.game-db.tw/images/card/CardS0128.png
+  total: 3006(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5931\u547D\u306E\u7F8E"
+
+bow_of_the_great_wolf:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 13
+  element: water
+  matk: 1074
+  mdef: 575
+  name: "Bow of the Great Wolf\u5927\u72FC\u306E\u5F13"
+  patk: 873
+  pdef: 468
+  picture: https://sinoalice.game-db.tw/images/card/CardS0144.png
+  total: 2990(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5927\u72FC\u306E\u5F13"
+
+gun_of_the_end:
+  col_aid_skill: Fixed chance to moderately reduce SP consumption while executing
+    commands.
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 16
+  element: water
+  matk: 2228
+  mdef: 746
+  name: "Gun of the End\u7D42\u7D50\u306E\u9283"
+  patk: 1190
+  pdef: 1116
+  picture: https://sinoalice.game-db.tw/images/card/CardS0148.png
+  total: 5280(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D42\u7D50\u306E\u9283"
+
+bewitching_gun_of_morality:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy."
+  cost: 9
+  element: water
+  matk: 605
+  mdef: 266
+  name: "Bewitching Gun of Morality\u5996\u9283\u9ED2\u767D"
+  patk: 494
+  pdef: 329
+  picture: https://sinoalice.game-db.tw/images/card/CardS0184.png
+  total: 1694(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u5996\u9283\u9ED2\u767D"
+
+pride_of_the_vigilante_corps:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy."
+  cost: 10
+  element: water
+  matk: 675
+  mdef: 366
+  name: "Pride of the Vigilante Corps\u81EA\u8B66\u56E3\u306E\u8A87\u308A"
+  patk: 551
+  pdef: 300
+  picture: https://sinoalice.game-db.tw/images/card/CardS0188.png
+  total: 1892(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u81EA\u8B66\u56E3\u306E\u8A87\u308A"
+
+bow_of_the_death_god:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 16
+  element: water
+  matk: 2083
+  mdef: 1108
+  name: "Bow of the Death God\u6B7B\u795E\u306E\u5F13"
+  patk: 1392
+  pdef: 742
+  picture: https://sinoalice.game-db.tw/images/card/CardS0202.png
+  total: 5325(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B7B\u795E\u306E\u5F13"
+
+foolhardy_sling:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 13
+  element: wind
+  matk: 1076
+  mdef: 468
+  name: "Foolhardy Sling\u86EE\u52C7\u306E\u5F29"
+  patk: 875
+  pdef: 579
+  picture: https://sinoalice.game-db.tw/images/card/CardS0216.png
+  total: 2998(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u86EE\u52C7\u306E\u5F29"
+
+fabrications_of_the_werewolf:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 13
+  element: wind
+  matk: 1072
+  mdef: 573
+  name: "Fabrications of the Werewolf\u4EBA\u72FC\u306E\u507D\u308A"
+  patk: 871
+  pdef: 466
+  picture: https://sinoalice.game-db.tw/images/card/CardS0232.png
+  total: 2982(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u4EBA\u72FC\u306E\u507D\u308A"
+
+bow_of_substitution:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 16
+  element: wind
+  matk: 2221
+  mdef: 739
+  name: "Bow of Substitution\u5165\u308C\u66FF\u3048\u306E\u5F13"
+  patk: 1183
+  pdef: 1109
+  picture: https://sinoalice.game-db.tw/images/card/CardS0251.png
+  total: 5252(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5165\u308C\u66FF\u3048\u306E\u5F13"
+
+ancient_gun_of_a_ruined_land:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy."
+  cost: 12
+  element: wind
+  matk: 996
+  mdef: 535
+  name: "Ancient Gun of a Ruined Land\u4EA1\u56FD\u306E\u53E4\u9283"
+  patk: 810
+  pdef: 437
+  picture: https://sinoalice.game-db.tw/images/card/CardS0258.png
+  total: 2778(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u4EA1\u56FD\u306E\u53E4\u9283"
+
+surefire_sling:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy."
+  cost: 8
+  element: wind
+  matk: 539
+  mdef: 236
+  name: "Surefire Sling\u5FC5\u4E2D\u306E\u5F29"
+  patk: 440
+  pdef: 293
+  picture: https://sinoalice.game-db.tw/images/card/CardS0273.png
+  total: 1508(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FC5\u4E2D\u306E\u5F29"
+
+paladin's_pistol:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 16
+  element: wind
+  matk: 2085
+  mdef: 1110
+  name: "Paladin's Pistol\u8056\u9A0E\u58EB\u306E\u5C0F\u9283"
+  patk: 1394
+  pdef: 744
+  picture: https://sinoalice.game-db.tw/images/card/CardS0304.png
+  total: 5333(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8056\u9A0E\u58EB\u306E\u5C0F\u9283"
+
+old_soldier's_cannon:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase own\
+    \ magical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 2430
+  mdef: 1162
+  name: "Old Soldier's Cannon\u8001\u5175\u306E\u5927\u7B52"
+  patk: 1295
+  pdef: 943
+  picture: https://sinoalice.game-db.tw/images/card/CardS0314.png
+  total: 5830(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8001\u5175\u306E\u5927\u7B52"
+
+sling_of_the_blue_wing:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy, and recover a\
+    \ small amount of own HP."
+  cost: 14
+  element: wind
+  matk: 1209
+  mdef: 621
+  name: "Sling of the Blue Wing\u84BC\u7FFC\u306E\u5F29"
+  patk: 811
+  pdef: 506
+  picture: https://sinoalice.game-db.tw/images/card/CardS0326.png
+  total: 3147(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u84BC\u7FFC\u306E\u5F29"
+
+gun_of_incineration:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 16
+  element: fire
+  matk: 1998
+  mdef: 742
+  name: "Gun of Incineration\u713C\u5374\u306E\u9283"
+  patk: 1620
+  pdef: 1112
+  picture: https://sinoalice.game-db.tw/images/card/CardS0344.png
+  total: 5472(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u713C\u5374\u306E\u9283"
+
+abyssal_bow:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 17
+  element: water
+  matk: 2013
+  mdef: 1162
+  name: "Abyssal Bow\u6D77\u5E95\u306E\u5F13"
+  patk: 2017
+  pdef: 943
+  picture: https://sinoalice.game-db.tw/images/card/CardS0644.png
+  total: 6135(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6D77\u5E95\u306E\u5F13"
+
+soul_of_the_hunter:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 14
+  element: fire
+  matk: 1062
+  mdef: 615
+  name: "Soul of the Hunter\u72E9\u4EBA\u306E\u9B42"
+  patk: 1066
+  pdef: 500
+  picture: https://sinoalice.game-db.tw/images/card/CardS0650.png
+  total: 3243(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u72E9\u4EBA\u306E\u9B42"
+
+bow_of_dense_forests:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 14
+  element: wind
+  matk: 1064
+  mdef: 617
+  name: "Bow of Dense Forests\u68EE\u7136\u306E\u5F13"
+  patk: 1068
+  pdef: 502
+  picture: https://sinoalice.game-db.tw/images/card/CardS0682.png
+  total: 3251(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u68EE\u7136\u306E\u5F13"
+
+gun_of_guidance:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 14
+  element: water
+  matk: 1068
+  mdef: 621
+  name: "Gun of Guidance\u5C0E\u304D\u306E\u9283"
+  patk: 1072
+  pdef: 506
+  picture: https://sinoalice.game-db.tw/images/card/CardS0756.png
+  total: 3267(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5C0E\u304D\u306E\u9283"
+
+hunter's_bow_of_delusion:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 17
+  element: fire
+  matk: 2015
+  mdef: 1164
+  name: "Hunter's Bow of Delusion\u865A\u5984\u306E\u72E9\u731F\u5F13"
+  patk: 2019
+  pdef: 945
+  picture: https://sinoalice.game-db.tw/images/card/CardS0776.png
+  total: 6143(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u72E9\u731F\u5F13"
+
+bow_of_the_knight:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 17
+  element: wind
+  matk: 2009
+  mdef: 1158
+  name: "Bow of the Knight\u8056\u9A0E\u58EB\u306E\u5F13"
+  patk: 2013
+  pdef: 939
+  picture: https://sinoalice.game-db.tw/images/card/CardS0790.png
+  total: 6119(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8056\u9A0E\u58EB\u306E\u5F13"
+
+f8_magic_riflef8:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy, and recover a\
+    \ small amount of own HP."
+  cost: 14
+  element: wind
+  matk: 1070
+  mdef: 623
+  name: "F8 Magic RifleF8\u9B54\u5C0E\u5C0F\u9283"
+  patk: 1074
+  pdef: 508
+  picture: https://sinoalice.game-db.tw/images/card/CardS0798.png
+  total: 3275(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/F8\u9B54\u5C0E\u5C0F\u9283"
+
+syringe_of_pursuit:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and decrease their\
+    \ magical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 2184
+  mdef: 1162
+  name: "Syringe of Pursuit\u63A2\u7A76\u306E\u6CE8\u5C04\u5668"
+  patk: 1770
+  pdef: 943
+  picture: https://sinoalice.game-db.tw/images/card/CardS0984.png
+  total: 6059(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u6CE8\u5C04\u5668"
+
+bow_of_white_waves:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 17
+  element: water
+  matk: 2017
+  mdef: 1076
+  name: "Bow of White Waves\u767D\u6CE2\u306E\u5F13"
+  patk: 2021
+  pdef: 1078
+  picture: https://sinoalice.game-db.tw/images/card/CardS0998.png
+  total: 6192(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u767D\u6CE2\u306E\u5F13"
+
+cannon_of_the_ornamental_stone:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 14
+  element: wind
+  matk: 1066
+  mdef: 571
+  name: "Cannon of the Ornamental Stone\u6368\u3066\u77F3\u306E\u5927\u7832"
+  patk: 1070
+  pdef: 573
+  picture: https://sinoalice.game-db.tw/images/card/CardS1024.png
+  total: 3280(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6368\u3066\u77F3\u306E\u5927\u7832"
+
+golden_bow:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 14
+  element: water
+  matk: 1066
+  mdef: 571
+  name: "Golden Bow\u9EC4\u91D1\u306E\u5F13"
+  patk: 1070
+  pdef: 573
+  picture: https://sinoalice.game-db.tw/images/card/CardS1044.png
+  total: 3280(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9EC4\u91D1\u306E\u5F13"
+
+bow_of_scales:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase own\
+    \ magical DEF by a small amount."
+  cost: 17
+  element: fire
+  matk: 2182
+  mdef: 1070
+  name: "Bow of Scales\u9C57\u7247\u306E\u5F13"
+  patk: 1768
+  pdef: 1072
+  picture: https://sinoalice.game-db.tw/images/card/CardS1062.png
+  total: 6092(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9C57\u7247\u306E\u5F13"
+
+false_bowgun:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 14
+  element: fire
+  matk: 1064
+  mdef: 569
+  name: "False Bowgun\u898B\u305B\u304B\u3051\u306E\u5F13\u9283"
+  patk: 1068
+  pdef: 571
+  picture: https://sinoalice.game-db.tw/images/card/CardS1122.png
+  total: 3272(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u898B\u305B\u304B\u3051\u306E\u5F13\u9283"
+
+absolute_zero:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy, and increase\
+    \ own magical ATK by a small amount."
+  cost: 14
+  element: water
+  matk: 1064
+  mdef: 569
+  name: "Absolute Zero\u7D76\u5BFE\u96F6\u5EA6"
+  patk: 1068
+  pdef: 571
+  picture: https://sinoalice.game-db.tw/images/card/CardS1312.png
+  total: 3272(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D76\u5BFE\u96F6\u5EA6"
+
+bow_of_the_water_fowl:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy."
+  cost: 12
+  element: water
+  matk: 915
+  mdef: 491
+  name: "Bow of the Water Fowl\u6C34\u9CE5\u306E\u5F13"
+  patk: 919
+  pdef: 493
+  picture: https://sinoalice.game-db.tw/images/card/CardS1405.png
+  total: 2818(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C34\u9CE5\u306E\u5F13"
+
+dark_spider's_crossbow:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy, and increase\
+    \ own magical ATK by a small amount."
+  cost: 12
+  element: fire
+  matk: 917
+  mdef: 493
+  name: "Dark Spider's Crossbow\u95C7\u8718\u86DB\u306E\u5F29"
+  patk: 921
+  pdef: 495
+  picture: https://sinoalice.game-db.tw/images/card/CardS1407.png
+  total: 2826(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u95C7\u8718\u86DB\u306E\u5F29"
+
+fated_edge_of_unjust_resentment:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 15
+  element: wind
+  matk: 1142
+  mdef: 610
+  name: "Fated Edge of Unjust Resentment\u9006\u6068\u307F\u306E\u7E01\u5203"
+  patk: 1146
+  pdef: 612
+  picture: https://sinoalice.game-db.tw/images/card/CardS1463.png
+  total: 3510(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9006\u6068\u307F\u306E\u7E01\u5203"
+
+gun_of_restriction:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 17
+  element: wind
+  matk: 2150
+  mdef: 1131
+  name: "Gun of Restriction\u675F\u7E1B\u306E\u9283"
+  patk: 1942
+  pdef: 1035
+  picture: https://sinoalice.game-db.tw/images/card/CardS1575.png
+  total: 6258(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u675F\u7E1B\u306E\u9283"
+
+crossbow_of_justice:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and decrease their\
+    \ magical DEF by a small amount."
+  cost: 17
+  element: water
+  matk: 2090
+  mdef: 1113
+  name: "Crossbow of Justice\u6B63\u7FA9\u306E\u5341\u5B57\u5F13"
+  patk: 2018
+  pdef: 1075
+  picture: https://sinoalice.game-db.tw/images/card/CardS1655.png
+  total: 6296(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u5341\u5B57\u5F13"
+
+strange_bat_bow:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 17
+  element: fire
+  matk: 2059
+  mdef: 1076
+  name: "Strange Bat Bow\u8759\u8760\u306E\u602A\u5F13"
+  patk: 1945
+  pdef: 1078
+  picture: https://sinoalice.game-db.tw/images/card/CardS1938.png
+  total: 6158(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u8759\u8760\u306E\u602A\u5F13"
+
+crossbow_of_justice:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase own\
+    \ magical DEF by a small amount."
+  cost: 17
+  element: fire
+  matk: 2150
+  mdef: 1095
+  name: "Crossbow of Justice\u6B63\u7FA9\u306E\u5F29"
+  patk: 1851
+  pdef: 1075
+  picture: https://sinoalice.game-db.tw/images/card/CardS2245.png
+  total: 6171(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u5F29"
+
+handgun_of_envy_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2163)Deal massive magical damage to 1 enemy."
+  cost: 17
+  element: fire
+  matk: 2090
+  mdef: 1095
+  name: "Handgun of Envy (Kageuchi)\u5AC9\u59AC\u30CE\u62F3\u9283(\u30AB\u30B2\u30A6\
+    \u30C1)"
+  patk: 1892
+  pdef: 1035
+  picture: https://sinoalice.game-db.tw/images/card/CardS2385.png
+  total: 6112(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5AC9\u59AC\u30CE\u62F3\u9283(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+hunter_bow_of_sorrow:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and decrease their\
+    \ magical DEF by a small amount."
+  cost: 17
+  element: wind
+  matk: 2150
+  mdef: 1131
+  name: "Hunter Bow of Sorrow\u60B2\u54C0\u306E\u72E9\u5F13"
+  patk: 1851
+  pdef: 986
+  picture: https://sinoalice.game-db.tw/images/card/CardS2615.png
+  total: 6118(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u72E9\u5F13"
+
+gun_of_suffering:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase own\
+    \ magical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 2145
+  mdef: 1140
+  name: "Gun of Suffering\u88AB\u8650\u306E\u9283"
+  patk: 1846
+  pdef: 981
+  picture: https://sinoalice.game-db.tw/images/card/CardS2710.png
+  total: 6112(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u88AB\u8650\u306E\u9283"
+
+gun_of_cleansing:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 14
+  element: water
+  matk: 1129
+  mdef: 606
+  name: "Gun of Cleansing\u6E05\u88C1\u306E\u9283"
+  patk: 1008
+  pdef: 542
+  picture: https://sinoalice.game-db.tw/images/card/CardS2758.png
+  total: 3285(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6E05\u88C1\u306E\u9283"
+
+coordinates_of_time:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase own\
+    \ magical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 2299
+  mdef: 1222
+  name: "Coordinates of Time\u6642\u306E\u5EA7\u6A19"
+  patk: 2048
+  pdef: 1088
+  picture: https://sinoalice.game-db.tw/images/card/CardS2860.png
+  total: 6657(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6642\u306E\u5EA7\u6A19"
+
+bow_of_stormy_fans:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy."
+  cost: 14
+  element: wind
+  matk: 1135
+  mdef: 598
+  name: "Bow of Stormy Fans\u5D50\u6247\u306E\u5F13"
+  patk: 1026
+  pdef: 534
+  picture: https://sinoalice.game-db.tw/images/card/CardS3150.png
+  total: 3293(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5D50\u6247\u306E\u5F13"
+
+three-stringed_bow:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase Power\
+    \ when Party Summon [] is active."
+  cost: 17
+  element: wind
+  matk: 2330
+  mdef: 1224
+  name: "Three-Stringed Bow\u4E09\u5F26\u306E\u5F29"
+  patk: 2004
+  pdef: 1066
+  picture: https://sinoalice.game-db.tw/images/card/CardS3152.png
+  total: 6624(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E09\u5F26\u306E\u5F29"
+
+sniper_rifle_of_envy_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase own\
+    \ magical ATK by a small amount."
+  cost: 17
+  element: fire
+  matk: 2122
+  mdef: 1129
+  name: "Sniper Rifle of Envy (Kageuchi)\u5AC9\u59AC\u30CE\u72D9\u6483\u9283\uFF08\
+    \u30AB\u30B2\u30A6\u30C1\uFF09"
+  patk: 1890
+  pdef: 984
+  picture: https://sinoalice.game-db.tw/images/card/CardS3253.png
+  total: 6125(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5AC9\u59AC\u30CE\u72D9\u6483\u9283\uFF08\
+    \u30AB\u30B2\u30A6\u30C1\uFF09"
+
+rifle_of_envy_(kageuchi):
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and decrease their\
+    \ magical DEF by a small amount."
+  cost: 17
+  element: wind
+  matk: 2149
+  mdef: 1130
+  name: "Rifle of Envy (Kageuchi)\u5AC9\u59AC\u30CE\u5C0F\u9283(\u30AB\u30B2\u30A6\
+    \u30C1)"
+  patk: 1891
+  pdef: 961
+  picture: https://sinoalice.game-db.tw/images/card/CardS3304.png
+  total: 6131(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5AC9\u59AC\u30CE\u5C0F\u9283(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+morning_news:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase Power\
+    \ when Party Summon [] is active."
+  cost: 17
+  element: fire
+  matk: 2389
+  mdef: 1280
+  name: "Morning News\u671D\u306E\u77E5\u3089\u305B"
+  patk: 1961
+  pdef: 1046
+  picture: https://sinoalice.game-db.tw/images/card/CardS3328.png
+  total: 6676(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u671D\u306E\u77E5\u3089\u305B"
+
+typhoon_handgun:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase own\
+    \ magical ATK by a small amount."
+  cost: 15
+  element: wind
+  matk: 1500
+  mdef: 1000
+  name: "Typhoon Handgun(\u546A)\u98B6\u98A8\u306E\u77ED\u9283"
+  patk: 1500
+  pdef: 1000
+  picture: https://sinoalice.game-db.tw/images/card/CardS3736.png
+  total: 5000(Lv1)
+  url: "https://sinoalice.game-db.tw/weapons/(\u546A)\u98B6\u98A8\u306E\u77ED\u9283"
+
+zero's_pistol:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1 enemy, and increase\
+    \ own magical ATK by a small amount."
+  cost: 14
+  element: water
+  matk: 1105
+  mdef: 590
+  name: "Zero's Pistol\u30BC\u30ED\u306E\u77ED\u9283"
+  patk: 1002
+  pdef: 536
+  picture: https://sinoalice.game-db.tw/images/card/CardS3922.png
+  total: 3233(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u30BC\u30ED\u306E\u77ED\u9283"
+
+first_tide:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and recover a small\
+    \ amount of own HP."
+  cost: 17
+  element: water
+  matk: 2126
+  mdef: 1075
+  name: "First Tide\u592A\u521D\u306E\u6F6E\u6C50"
+  patk: 1894
+  pdef: 1037
+  picture: https://sinoalice.game-db.tw/images/card/CardS4437.png
+  total: 6132(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u592A\u521D\u306E\u6F6E\u6C50"

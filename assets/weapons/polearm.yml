@@ -1064,3 +1064,928 @@ flashing_spear_of_inquisition:
   picture: https://sinoalice.game-db.tw/images/card/CardS4609.png
   total: 6621(Lv120)
   url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u9583\u5149\u69CD"
+
+scythe_of_illusions:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 13
+  element: fire
+  matk: 1076
+  mdef: 468
+  name: "Scythe of Illusions\u5E7B\u899A\u306E\u938C"
+  patk: 875
+  pdef: 579
+  picture: https://sinoalice.game-db.tw/images/card/CardS0016.png
+  total: 2998(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5E7B\u899A\u306E\u938C"
+
+thirst_for_conflict:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies, and recover\
+    \ a small amount of own HP."
+  cost: 13
+  element: fire
+  matk: 1072
+  mdef: 573
+  name: "Thirst for Conflict\u95D8\u4E89\u306E\u6E07\u671B"
+  patk: 871
+  pdef: 466
+  picture: https://sinoalice.game-db.tw/images/card/CardS0032.png
+  total: 2982(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u95D8\u4E89\u306E\u6E07\u671B"
+
+ritual_spear:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 16
+  element: fire
+  matk: 2228
+  mdef: 746
+  name: "Ritual Spear\u5100\u5F0F\u306E\u69CD"
+  patk: 1190
+  pdef: 1116
+  picture: https://sinoalice.game-db.tw/images/card/CardS0048.png
+  total: 5280(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5100\u5F0F\u306E\u69CD"
+
+charity_of_the_hypocrite:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies."
+  cost: 10
+  element: fire
+  matk: 675
+  mdef: 298
+  name: "Charity of the Hypocrite\u507D\u5584\u8005\u306E\u65BD\u3057"
+  patk: 551
+  pdef: 368
+  picture: https://sinoalice.game-db.tw/images/card/CardS0068.png
+  total: 1892(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u507D\u5584\u8005\u306E\u65BD\u3057"
+
+scythe_of_dragonification:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies."
+  cost: 8
+  element: fire
+  matk: 540
+  mdef: 292
+  name: "Scythe of Dragonification\u7ADC\u5316\u306E\u938C"
+  patk: 441
+  pdef: 239
+  picture: https://sinoalice.game-db.tw/images/card/CardS0084.png
+  total: 1512(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u7ADC\u5316\u306E\u938C"
+
+soul_of_the_inquisitor:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 16
+  element: fire
+  matk: 2083
+  mdef: 1108
+  name: "Soul of the Inquisitor\u8FFD\u53CA\u8005\u306E\u9B42"
+  patk: 1392
+  pdef: 742
+  picture: https://sinoalice.game-db.tw/images/card/CardS0102.png
+  total: 5325(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u8FFD\u53CA\u8005\u306E\u9B42"
+
+spear_of_doubt:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 13
+  element: water
+  matk: 1070
+  mdef: 462
+  name: "Spear of Doubt\u8FF7\u3044\u306E\u69CD"
+  patk: 869
+  pdef: 573
+  picture: https://sinoalice.game-db.tw/images/card/CardS0130.png
+  total: 2974(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u8FF7\u3044\u306E\u69CD"
+
+substitute_life:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies, and recover\
+    \ a small amount of own HP."
+  cost: 13
+  element: water
+  matk: 1076
+  mdef: 577
+  name: "Substitute Life\u4EE3\u66FF\u306E\u547D"
+  patk: 875
+  pdef: 470
+  picture: https://sinoalice.game-db.tw/images/card/CardS0146.png
+  total: 2998(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u4EE3\u66FF\u306E\u547D"
+
+dragoon's_holy_spear:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 16
+  element: water
+  matk: 2220
+  mdef: 1106
+  name: "Dragoon's Holy Spear\u7ADC\u9A0E\u5175\u306E\u8056\u69CD"
+  patk: 1182
+  pdef: 740
+  picture: https://sinoalice.game-db.tw/images/card/CardS0150.png
+  total: 5248(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7ADC\u9A0E\u5175\u306E\u8056\u69CD"
+
+spear_of_dismemberment:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies."
+  cost: 11
+  element: water
+  matk: 905
+  mdef: 484
+  name: "Spear of Dismemberment\u516B\u88C2\u304D\u306E\u69CD"
+  patk: 735
+  pdef: 394
+  picture: https://sinoalice.game-db.tw/images/card/CardS0170.png
+  total: 2518(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u516B\u88C2\u304D\u306E\u69CD"
+
+purity_of_the_maiden:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies."
+  cost: 9
+  element: water
+  matk: 607
+  mdef: 268
+  name: "Purity of the Maiden\u4E59\u5973\u306E\u7D14\u771F"
+  patk: 496
+  pdef: 331
+  picture: https://sinoalice.game-db.tw/images/card/CardS0186.png
+  total: 1702(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E59\u5973\u306E\u7D14\u771F"
+
+dwarven_spear:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 16
+  element: water
+  matk: 2085
+  mdef: 742
+  name: "Dwarven Spear\u3053\u3073\u3068\u306E\u69CD"
+  patk: 1394
+  pdef: 1112
+  picture: https://sinoalice.game-db.tw/images/card/CardS0204.png
+  total: 5333(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u3053\u3073\u3068\u306E\u69CD"
+
+scythe_of_buffoonery:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 13
+  element: wind
+  matk: 1078
+  mdef: 470
+  name: "Scythe of Buffoonery\u9053\u5316\u306E\u938C"
+  patk: 877
+  pdef: 581
+  picture: https://sinoalice.game-db.tw/images/card/CardS0218.png
+  total: 3006(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9053\u5316\u306E\u938C"
+
+demon's_spear:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies, and recover\
+    \ a small amount of own HP."
+  cost: 13
+  element: wind
+  matk: 1074
+  mdef: 575
+  name: "Demon's Spear\u9B54\u7269\u306E\u69CD"
+  patk: 873
+  pdef: 468
+  picture: https://sinoalice.game-db.tw/images/card/CardS0234.png
+  total: 2990(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9B54\u7269\u306E\u69CD"
+
+artisan's_lance:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 16
+  element: wind
+  matk: 2223
+  mdef: 1109
+  name: "Artisan's Lance\u540D\u5DE5\u306E\u91CD\u69CD"
+  patk: 1185
+  pdef: 743
+  picture: https://sinoalice.game-db.tw/images/card/CardS0253.png
+  total: 5260(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u540D\u5DE5\u306E\u91CD\u69CD"
+
+spear_of_love_and_hate:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies."
+  cost: 12
+  element: wind
+  matk: 994
+  mdef: 433
+  name: "Spear of Love and Hate\u611B\u618E\u306E\u69CD"
+  patk: 808
+  pdef: 535
+  picture: https://sinoalice.game-db.tw/images/card/CardS0276.png
+  total: 2770(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u611B\u618E\u306E\u69CD"
+
+holy_spear_of_beloved_green:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies."
+  cost: 10
+  element: wind
+  matk: 667
+  mdef: 358
+  name: "Holy Spear of Beloved Green\u611B\u7DD1\u8005\u306E\u8056\u69CD"
+  patk: 543
+  pdef: 292
+  picture: https://sinoalice.game-db.tw/images/card/CardS0290.png
+  total: 1860(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u611B\u7DD1\u8005\u306E\u8056\u69CD"
+
+scythe_of_surfeit:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 16
+  element: wind
+  matk: 2087
+  mdef: 744
+  name: "Scythe of Surfeit\u66B4\u98DF\u306E\u938C"
+  patk: 1396
+  pdef: 1114
+  picture: https://sinoalice.game-db.tw/images/card/CardS0306.png
+  total: 5341(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u98DF\u306E\u938C"
+
+pike_of_an_empty_husk:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 14
+  element: water
+  matk: 1203
+  mdef: 498
+  name: "Pike of an Empty Husk\u629C\u3051\u6BBB\u306E\u6301\u3064\u9577\u69CD"
+  patk: 805
+  pdef: 617
+  picture: https://sinoalice.game-db.tw/images/card/CardS0330.png
+  total: 3123(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u629C\u3051\u6BBB\u306E\u6301\u3064\u9577\
+    \u69CD"
+
+snowflake_spear:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 16
+  element: water
+  matk: 2000
+  mdef: 744
+  name: "Snowflake Spear\u96EA\u82B1\u30CE\u69CD"
+  patk: 1622
+  pdef: 1114
+  picture: https://sinoalice.game-db.tw/images/card/CardS0346.png
+  total: 5480(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u96EA\u82B1\u30CE\u69CD"
+
+gaze_of_deceit:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: wind
+  matk: 1066
+  mdef: 619
+  name: "Gaze of Deceit\u60D1\u308F\u3057\u306E\u76EE"
+  patk: 1070
+  pdef: 504
+  picture: https://sinoalice.game-db.tw/images/card/CardS0654.png
+  total: 3259(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u60D1\u308F\u3057\u306E\u76EE"
+
+mechanical_spear:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 17
+  element: fire
+  matk: 2013
+  mdef: 1162
+  name: "Mechanical Spear\u7D61\u7E70\u306E\u69CD"
+  patk: 2017
+  pdef: 943
+  picture: https://sinoalice.game-db.tw/images/card/CardS0674.png
+  total: 6135(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D61\u7E70\u306E\u69CD"
+
+black-winged_scythe:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: water
+  matk: 1068
+  mdef: 621
+  name: "Black-Winged Scythe\u9ED2\u7FFC\u306E\u5927\u938C"
+  patk: 1072
+  pdef: 506
+  picture: https://sinoalice.game-db.tw/images/card/CardS0686.png
+  total: 3267(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u7FFC\u306E\u5927\u938C"
+
+blackstone_scythe:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 2009
+  mdef: 1158
+  name: "Blackstone Scythe\u9ED2\u77F3\u306E\u5927\u938C"
+  patk: 2013
+  pdef: 939
+  picture: https://sinoalice.game-db.tw/images/card/CardS0750.png
+  total: 6119(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u77F3\u306E\u5927\u938C"
+
+halberd_of_demon_sealing:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: fire
+  matk: 1062
+  mdef: 615
+  name: "Halberd of Demon Sealing\u5C01\u9B54\u306E\u8599\u5200"
+  patk: 1066
+  pdef: 500
+  picture: https://sinoalice.game-db.tw/images/card/CardS0760.png
+  total: 3243(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5C01\u9B54\u306E\u8599\u5200"
+
+spear_of_slumber:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 2017
+  mdef: 1166
+  name: "Spear of Slumber\u7761\u7720\u306E\u69CD"
+  patk: 2021
+  pdef: 947
+  picture: https://sinoalice.game-db.tw/images/card/CardS0788.png
+  total: 6151(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7761\u7720\u306E\u69CD"
+
+spear_of_cycles:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 14
+  element: water
+  matk: 1068
+  mdef: 621
+  name: "Spear of Cycles\u5186\u74B0\u306E\u69CD"
+  patk: 1072
+  pdef: 506
+  picture: https://sinoalice.game-db.tw/images/card/CardS0796.png
+  total: 3267(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5186\u74B0\u306E\u69CD"
+
+cruel_arrogance:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 17
+  element: water
+  matk: 1766
+  mdef: 941
+  name: "Cruel Arrogance\u9ED2\u306E\u5028\u50B2"
+  patk: 2188
+  pdef: 1164
+  picture: https://sinoalice.game-db.tw/images/card/CardS0814.png
+  total: 6059(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u9ED2\u306E\u5028\u50B2"
+
+type-3_lance:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: water
+  matk: 934
+  mdef: 500
+  name: "Type-3 Lance\u4E09\u5F0F\u6226\u8853\u69CD"
+  patk: 1159
+  pdef: 619
+  picture: https://sinoalice.game-db.tw/images/card/CardS0822.png
+  total: 3212(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E09\u5F0F\u6226\u8853\u69CD"
+
+ice_pillar_scythe:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: water
+  matk: 1068
+  mdef: 573
+  name: "Ice Pillar Scythe\u6C37\u67F1\u938C"
+  patk: 1072
+  pdef: 575
+  picture: https://sinoalice.game-db.tw/images/card/CardS1006.png
+  total: 3288(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6C37\u67F1\u938C"
+
+scythe_of_justice:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 2277
+  mdef: 1160
+  name: "Scythe of Justice\u6B63\u7FA9\u306E\u5927\u938C"
+  patk: 1521
+  pdef: 941
+  picture: https://sinoalice.game-db.tw/images/card/CardS1012.png
+  total: 5899(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u5927\u938C"
+
+halberd_of_revenge:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 14
+  element: fire
+  matk: 1062
+  mdef: 567
+  name: "Halberd of Revenge\u5FA9\u8B90\u306E\u8599\u5200"
+  patk: 1066
+  pdef: 569
+  picture: https://sinoalice.game-db.tw/images/card/CardS1040.png
+  total: 3264(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5FA9\u8B90\u306E\u8599\u5200"
+
+scythe_of_sorrow:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 17
+  element: wind
+  matk: 2281
+  mdef: 1164
+  name: "Scythe of Sorrow\u60B2\u54C0\u306E\u5927\u938C"
+  patk: 1525
+  pdef: 945
+  picture: https://sinoalice.game-db.tw/images/card/CardS1056.png
+  total: 5915(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u5927\u938C"
+
+javelin_of_rupture:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 14
+  element: wind
+  matk: 1066
+  mdef: 571
+  name: "Javelin of Rupture\u7834\u88C2\u306E\u6295\u69CD"
+  patk: 1070
+  pdef: 573
+  picture: https://sinoalice.game-db.tw/images/card/CardS1164.png
+  total: 3280(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u7834\u88C2\u306E\u6295\u69CD"
+
+halberd_of_deception:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: wind
+  matk: 1070
+  mdef: 575
+  name: "Halberd of Deception\u9A19\u6B3A\u306E\u8599\u5200"
+  patk: 1074
+  pdef: 577
+  picture: https://sinoalice.game-db.tw/images/card/CardS1308.png
+  total: 3296(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u9A19\u6B3A\u306E\u8599\u5200"
+
+fishing_rod_of_dependency:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 17
+  element: wind
+  matk: 2187
+  mdef: 1075
+  name: "Fishing Rod of Dependency\u4F9D\u5B58\u306E\u91E3\u308A\u7AFF"
+  patk: 1773
+  pdef: 1077
+  picture: https://sinoalice.game-db.tw/images/card/CardS1377.png
+  total: 6112(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u4F9D\u5B58\u306E\u91E3\u308A\u7AFF"
+
+last_spear:
+  col_aid_skill: "(\u2160)Fixed chance to slightly reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 12
+  element: fire
+  matk: 919
+  mdef: 495
+  name: "Last Spear\u6700\u5F8C\u306E\u69CD"
+  patk: 923
+  pdef: 497
+  picture: https://sinoalice.game-db.tw/images/card/CardS1399.png
+  total: 2834(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6700\u5F8C\u306E\u69CD"
+
+terminal_sword_fight:
+  col_aid_skill: Fixed chance to moderately increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies."
+  cost: 17
+  element: wind
+  matk: 2181
+  mdef: 1069
+  name: "Terminal Sword Fight\u7D42\u672B\u306E\u5263\u621F"
+  patk: 1847
+  pdef: 1071
+  picture: https://sinoalice.game-db.tw/images/card/CardS1411.png
+  total: 6168(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u7D42\u672B\u306E\u5263\u621F"
+
+spear_of_depravity:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 2284
+  mdef: 1077
+  name: "Spear of Depravity\u5351\u52A3\u306E\u69CD"
+  patk: 1775
+  pdef: 1079
+  picture: https://sinoalice.game-db.tw/images/card/CardS1489.png
+  total: 6215(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5351\u52A3\u306E\u69CD"
+
+meaning_of_delusion:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 17
+  element: wind
+  matk: 2183
+  mdef: 1071
+  name: "Meaning of Delusion\u865A\u5984\u306E\u610F\u601D"
+  patk: 2058
+  pdef: 1006
+  picture: https://sinoalice.game-db.tw/images/card/CardS1583.png
+  total: 6318(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u610F\u601D"
+
+twisted_hunger:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 14
+  element: fire
+  matk: 1063
+  mdef: 568
+  name: "Twisted Hunger\u6B6A\u306A\u308B\u98E2\u9913"
+  patk: 1067
+  pdef: 570
+  picture: https://sinoalice.game-db.tw/images/card/CardS1641.png
+  total: 3268(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B6A\u306A\u308B\u98E2\u9913"
+
+eternal_wail:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: fire
+  matk: 1067
+  mdef: 572
+  name: "Eternal Wail\u5343\u5E74\u6A39\u306E\u5606\u304D"
+  patk: 1071
+  pdef: 574
+  picture: https://sinoalice.game-db.tw/images/card/CardS1645.png
+  total: 3284(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5343\u5E74\u6A39\u306E\u5606\u304D"
+
+kamaitaichi's_halberd:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 14
+  element: wind
+  matk: 1066
+  mdef: 571
+  name: "Kamaitaichi's Halberd\u938C\u9F2C\u306E\u8599\u5200"
+  patk: 1070
+  pdef: 573
+  picture: https://sinoalice.game-db.tw/images/card/CardS1914.png
+  total: 3280(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u938C\u9F2C\u306E\u8599\u5200"
+
+shovel_of_sorrow:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 2053
+  mdef: 1092
+  name: "Shovel of Sorrow\u60B2\u54C0\u306E\u30B8\u30E7\u30EC\u30F3"
+  patk: 1939
+  pdef: 1094
+  picture: https://sinoalice.game-db.tw/images/card/CardS1922.png
+  total: 6178(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u60B2\u54C0\u306E\u30B8\u30E7\u30EC\u30F3"
+
+treasured_spear_of_stubbornness:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 14
+  element: water
+  matk: 1112
+  mdef: 607
+  name: "Treasured Spear of Stubbornness\u56FA\u57F7\u306E\u5B9D\u69CD"
+  patk: 1009
+  pdef: 531
+  picture: https://sinoalice.game-db.tw/images/card/CardS2489.png
+  total: 3259(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u56FA\u57F7\u306E\u5B9D\u69CD"
+
+invader_spear_of_gluttony:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 17
+  element: water
+  matk: 2086
+  mdef: 1127
+  name: "Invader Spear of Gluttony\u66B4\u98DF\u306E\u4FB5\u7565\u69CD"
+  patk: 1888
+  pdef: 1031
+  picture: https://sinoalice.game-db.tw/images/card/CardS2501.png
+  total: 6132(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u66B4\u98DF\u306E\u4FB5\u7565\u69CD"
+
+spear_of_delusion:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical ATK by a small amount."
+  cost: 17
+  element: water
+  matk: 2126
+  mdef: 1133
+  name: "Spear of Delusion\u865A\u5984\u306E\u69CD"
+  patk: 1853
+  pdef: 1010
+  picture: https://sinoalice.game-db.tw/images/card/CardS2507.png
+  total: 6122(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u865A\u5984\u306E\u69CD"
+
+spear_of_inquisition:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 17
+  element: fire
+  matk: 2124
+  mdef: 1163
+  name: "Spear of Inquisition\u63A2\u7A76\u306E\u69CD"
+  patk: 1851
+  pdef: 986
+  picture: https://sinoalice.game-db.tw/images/card/CardS2515.png
+  total: 6124(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u63A2\u7A76\u306E\u69CD"
+
+winged_scythe_of_greed_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 17
+  element: fire
+  matk: 2089
+  mdef: 1130
+  name: "Winged Scythe of Greed (Kageuchi)\u5F37\u6B32\u30CE\u7FFC\u938C(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  patk: 1891
+  pdef: 1034
+  picture: https://sinoalice.game-db.tw/images/card/CardS2644.png
+  total: 6144(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5F37\u6B32\u30CE\u7FFC\u938C(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+flames_of_eradicated_sin:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: fire
+  matk: 1109
+  mdef: 594
+  name: "Flames of Eradicated Sin\u6EC5\u7F6A\u306E\u706B"
+  patk: 1006
+  pdef: 540
+  picture: https://sinoalice.game-db.tw/images/card/CardS2676.png
+  total: 3249(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u6EC5\u7F6A\u306E\u706B"
+
+unusable_spear:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2160)Deal small magical damage to 1-2 enemies."
+  cost: 11
+  element: fire
+  matk: 100
+  mdef: 100
+  name: "Unusable Spear\u3064\u304B\u3048\u306A\u3044\u69CD"
+  patk: 100
+  pdef: 100
+  picture: https://sinoalice.game-db.tw/images/card/CardS2704.png
+  total: 400(Lv70)
+  url: "https://sinoalice.game-db.tw/weapons/\u3064\u304B\u3048\u306A\u3044\u69CD"
+
+lip_spear_of_greed_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and decrease\
+    \ their magical DEF by a small amount."
+  cost: 17
+  element: wind
+  matk: 2091
+  mdef: 1132
+  name: "Lip Spear of Greed (Kageuchi)\u5F37\u6B32\u30CE\u5634\u69CD(\u30AB\u30B2\u30A6\
+    \u30C1)"
+  patk: 1893
+  pdef: 987
+  picture: https://sinoalice.game-db.tw/images/card/CardS2726.png
+  total: 6103(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5F37\u6B32\u30CE\u5634\u69CD(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+black_spear_of_greed_(kageuchi):
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 17
+  element: water
+  matk: 2119
+  mdef: 1126
+  name: "Black Spear of Greed (Kageuchi)\u5F37\u6B32\u30CE\u6F06\u69CD(\u30AB\u30B2\
+    \u30A6\u30C1)"
+  patk: 1887
+  pdef: 981
+  picture: https://sinoalice.game-db.tw/images/card/CardS2850.png
+  total: 6113(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u5F37\u6B32\u30CE\u6F06\u69CD(\u30AB\
+    \u30B2\u30A6\u30C1)"
+
+spear_of_the_undying_bird:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: wind
+  matk: 1125
+  mdef: 592
+  name: "Spear of the Undying Bird\u4E0D\u6B7B\u9CE5\u306E\u69CD"
+  patk: 1004
+  pdef: 526
+  picture: https://sinoalice.game-db.tw/images/card/CardS2984.png
+  total: 3247(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u4E0D\u6B7B\u9CE5\u306E\u69CD"
+
+silver_spear_of_parvenu:
+  col_aid_skill: "(\u2161)Fixed chance to moderately reduce enemy's magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical DEF by a small amount."
+  cost: 17
+  element: fire
+  matk: 2119
+  mdef: 1140
+  name: "Silver Spear of Parvenu\u6210\u91D1\u306E\u9280\u69CD"
+  patk: 1887
+  pdef: 981
+  picture: https://sinoalice.game-db.tw/images/card/CardS3110.png
+  total: 6127(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6210\u91D1\u306E\u9280\u69CD"
+
+flag_spear_of_justice:
+  col_aid_skill: Fixed chance to slightly increase damage while attacking.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ Power when Party Summon [] is active."
+  cost: 17
+  element: water
+  matk: 2316
+  mdef: 1032
+  name: "Flag Spear of Justice\u6B63\u7FA9\u306E\u65D7\u69CD"
+  patk: 1850
+  pdef: 943
+  picture: https://sinoalice.game-db.tw/images/card/CardS3404.png
+  total: 6141(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u65D7\u69CD"
+
+wavemaking_naginata:
+  col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 15
+  element: water
+  matk: 1500
+  mdef: 1000
+  name: "Wavemaking Naginata(\u546A)\u6CE2\u935B\u51B6\u306E\u8599\u5200"
+  patk: 1500
+  pdef: 1000
+  picture: https://sinoalice.game-db.tw/images/card/CardS3735.png
+  total: 5000(Lv1)
+  url: "https://sinoalice.game-db.tw/weapons/(\u546A)\u6CE2\u935B\u51B6\u306E\u8599\
+    \u5200"
+
+spear_of_solitude:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical ATK while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: water
+  matk: 1091
+  mdef: 594
+  name: "Spear of Solitude\u5BC2\u5BDE\u306E\u69CD"
+  patk: 1032
+  pdef: 540
+  picture: https://sinoalice.game-db.tw/images/card/CardS3926.png
+  total: 3257(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u5BC2\u5BDE\u306E\u69CD"
+
+first_crystals:
+  col_aid_skill: Fixed chance to slightly reduce SP consumption while executing commands.
+  colosseum_skill: "(\u2162)Deal great magical damage to 1-2 enemies, and increase\
+    \ own magical ATK by a small amount."
+  cost: 17
+  element: wind
+  matk: 2181
+  mdef: 1029
+  name: "First Crystals\u592A\u521D\u306E\u7D50\u6676"
+  patk: 1888
+  pdef: 1004
+  picture: https://sinoalice.game-db.tw/images/card/CardS4441.png
+  total: 6102(Lv120)
+  url: "https://sinoalice.game-db.tw/weapons/\u592A\u521D\u306E\u7D50\u6676"
+
+fool's_dead_end:
+  col_aid_skill: "(\u2160)Fixed chance to slightly increase own magical DEF while\
+    \ attacking."
+  colosseum_skill: "(\u2161)Deal moderate magical damage to 1-2 enemies."
+  cost: 14
+  element: fire
+  matk: 1086
+  mdef: 547
+  name: "Fool's Dead End\u611A\u7269\u306E\u672B\u8DEF"
+  patk: 1067
+  pdef: 523
+  picture: https://sinoalice.game-db.tw/images/card/CardS4611.png
+  total: 3223(Lv80)
+  url: "https://sinoalice.game-db.tw/weapons/\u611A\u7269\u306E\u672B\u8DEF"
