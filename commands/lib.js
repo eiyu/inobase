@@ -164,7 +164,7 @@ const buildSetObj = querymap => {
   return res;
 };
 
-const buildSetArr = (list, cb) => {
+const buildSetArr = (list) => {
   return fuzzyset(list, false);
 };
 // fuzzyset instances
@@ -177,7 +177,7 @@ const weaponNameSet = buildSetArr(weaponNames);
 // utilities
 const validator = (setName, word) => {
   const res = setName.get(word);
-  return res ? res[0][1] : false;
+  return res ? res[0][1] : "";
 };
 const destruct = curry((setInstance,msg) => {
   const [prefix, ...rest] = msg.replace(/ {1,}/g," ");
@@ -187,7 +187,8 @@ const destruct = curry((setInstance,msg) => {
   return {
     'prefix': prefix,
     'command': validator(commandSet, command),
-    'queries': queries.map(item => validator(setInstance, item))
+    'queries': queries.map(item => validator(setInstance, item)),
+    'originQueries': queries
   };
 });
 const destructQuerySet = destruct(querySet);

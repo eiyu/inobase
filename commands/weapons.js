@@ -4,7 +4,8 @@ const flatten = require('ramda.flatten');
 const {
   destructQuerySet, 
   weapons, 
-  queryFilter, 
+  queryFilter,
+  weapFlat, 
   isElement, 
   isBuff, 
   elementFilter,
@@ -136,13 +137,10 @@ const getWeapons = (msg) => {
 
 
 getWeaponName = (msg) => {
-  // const { command, queries } = destructWithWeaponName(msg.content);
-  // const weaponsObj = dataMap['weapons'];
-  // const flattenObj = flatten(weaponsObj);
-  // console.log(weaponsObj)
-
-  // const weapon = flattenObj[queries[0]];
+  const {prefix, command, originQueries } = destructWithWeaponName(msg.content);
+  // const weapon = weapFlat[queries[0]];
   // if(command !== 'weap' || !weapon) {
+  //   // weapon not found
   //     return;
   // };
   
@@ -155,5 +153,8 @@ getWeaponName = (msg) => {
   // );
   return;
 };
+
+// console.log(destructWithWeaponName("?weap swordofs"));
+console.log(getWeaponName({content: '?weap sword'}));
 
 module.exports = { getWeapons, getWeaponName };

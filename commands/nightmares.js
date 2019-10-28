@@ -87,10 +87,10 @@ const getNhm = (msg) => {
   };
 
 getNhmName = (msg) => {
-  const { command, queries } = destructWithNhmName(msg.content);
+  const { command, originQueries } = destructWithNhmName(msg.content);
   const nhmsObj = dataMap['nightmares']['nightmares'];
 
-  const nightmare = nhmsObj[queries[0]];
+  const nightmare = nhmsObj[originQueries.join('')];
   if(command !== 'nhm' || !nightmare) {
       return;
   };
