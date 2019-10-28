@@ -1760,21 +1760,6 @@ strange_bat_bow:
   total: 6158(Lv80)
   url: "https://sinoalice.game-db.tw/weapons/\u8759\u8760\u306E\u602A\u5F13"
 
-crossbow_of_justice:
-  col_aid_skill: Fixed chance to slightly increase damage while attacking.
-  colosseum_skill: "(\u2162)Deal great magical damage to 1 enemy, and increase own\
-    \ magical DEF by a small amount."
-  cost: 17
-  element: fire
-  matk: 2150
-  mdef: 1095
-  name: "Crossbow of Justice\u6B63\u7FA9\u306E\u5F29"
-  patk: 1851
-  pdef: 1075
-  picture: https://sinoalice.game-db.tw/images/card/CardS2245.png
-  total: 6171(Lv120)
-  url: "https://sinoalice.game-db.tw/weapons/\u6B63\u7FA9\u306E\u5F29"
-
 handgun_of_envy_(kageuchi):
   col_aid_skill: "(\u2161)Fixed chance to moderately increase own magical ATK while\
     \ attacking."

@@ -282,6 +282,7 @@ module.exports = {
   typeFilter,
   slayerFilter,
   chunk,
+  dataMap,
   nightmareFilter,
   nightmareBuff,
   nightmareElement,
