@@ -188,7 +188,7 @@ const destruct = curry((setInstance,msg) => {
     'prefix': prefix,
     'command': validator(commandSet, command),
     'queries': queries.map(item => validator(setInstance, item)),
-    'originQueries': queries
+    'originQueries': validator(setInstance, queries.join(''))
   };
 });
 const destructQuerySet = destruct(querySet);

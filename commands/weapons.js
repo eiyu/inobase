@@ -138,6 +138,7 @@ const getWeapons = (msg) => {
 
 getWeaponName = (msg) => {
   const {prefix, command, originQueries } = destructWithWeaponName(msg.content);
+  console.log(originQueries)
   // const weapon = weapFlat[queries[0]];
   // if(command !== 'weap' || !weapon) {
   //   // weapon not found
@@ -155,6 +156,6 @@ getWeaponName = (msg) => {
 };
 
 // console.log(destructWithWeaponName("?weap swordofs"));
-console.log(getWeaponName({content: '?weap sword'}));
+console.log(getWeaponName({content: '?weap mask of h'}));
 
 module.exports = { getWeapons, getWeaponName };
