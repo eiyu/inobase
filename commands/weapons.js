@@ -15,7 +15,8 @@ const {
   chunk,
   daringFilter,
   getDaring,
-  destructWithWeaponName
+  destructWithWeaponName,
+  getEmoji
 } = require('./lib');
 
 const buildEmbedForItem = (itemData) => {
@@ -26,7 +27,7 @@ const buildEmbedForItem = (itemData) => {
     .setColor('#0099ff')
     .setTitle(`${itemData['name']}`)
     .setURL(`${itemData['url']}`)
-    .setDescription(`Element: ${itemData['element']}`)
+    .setDescription(`Element: ${getEmoji(`doro${itemData.element}`)}`)
     .setThumbnail(`${itemData['picture']}`)
     .addField('Colosseum Skill', `${itemData['colosseum_skill']}`, true)
     .addField('Aid Skill', `${itemData['col_aid_skill']}`, true)
@@ -34,7 +35,12 @@ const buildEmbedForItem = (itemData) => {
     .setFooter('This is all I can give to you for now, for more details you can visit the link above');;
 };
 
-const searchEmbed = (data, command, query_1, q2) => {
+const whichvalid = (type, cat) => {
+  return type || cat || 'placeholder'
+}
+
+const searchEmbed = (data, command, query_1, q2, cat = null) => {
+  console.log('->', command, query_1, q2, cat)
   if(data.length === 0) {
     return;
   };
@@ -42,7 +48,9 @@ const searchEmbed = (data, command, query_1, q2) => {
     const searchRes = new Discord.RichEmbed();
     searchRes.setTitle(`Search result for ${command} ${query_1} ${q2}`);
     searchRes.setDescription(data.map((item,id) => {
-      return `\`${('000' + (id + 1)).slice(-2)}.\` [${item.name}](${item.url.split('\n').join('')})`;
+      const url = item.url.replace('(','%28').replace(')', '%29');
+      const weapType = whichvalid(item.type, cat);
+      return `\`${('000' + (id + 1)).slice(-2)}.\` ${getEmoji(`doro${item.element}`)} ${getEmoji(`doro${weapType}`)} [${item.name}](${url})`;
     }).join('\n'));
     return [searchRes];
   };
@@ -52,8 +60,9 @@ const searchEmbed = (data, command, query_1, q2) => {
     return new Discord.RichEmbed()
     .setTitle(`Search result for ${command} ${query_1}, I found ${data.length} item \n[Page ${i+1}/${arr.length} ]`)
     .setDescription(subArr.map((item, id) => {
-      const url = item.url.replace('(','%28').replace(')', '%29')
-      return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\`[${item.name}](${url})`;
+      const url = item.url.replace('(','%28').replace(')', '%29');
+      const weapType = whichvalid(item.type, cat);
+      return `\`${('000' + (id + 1 + (i*8))).slice(-2)}.\` ${getEmoji(`doro${item.element}`)} ${getEmoji(`doro${weapType}`)} [${item.name}](${url})`;
     }));
   });
   return pages;
@@ -89,7 +98,7 @@ const getWeapons = (msg) => {
       new ReactionMenu.menu(
         msg.channel,
         msg.author.id,
-        specificData ? [...searchEmbed(specificData, weapon_type, query_1, query_2) ,...specificData.map(item => buildEmbedForItem(item))] : false,
+        specificData ? [...searchEmbed(specificData, weapon_type, query_1, query_2, category) ,...specificData.map(item => buildEmbedForItem(item))] : false,
         120000
         );
       };
@@ -101,7 +110,8 @@ const getWeapons = (msg) => {
     const deepSearch2 = category === 'buff' && isBuff(query_1,items) && query_2 === 'element' && isElement(rest[0]);
     const unSpecificData = flatten(queryMap[weapon_type].map(subItem => {
       return Object.keys(items[subItem]).map(item => {
-        return items[subItem][item];
+        const result = Object.assign({},items[subItem][item], {type:subItem})
+        return result;
       });
     }))
     .reduce( (item, next) => {
@@ -130,10 +140,12 @@ const getWeapons = (msg) => {
         120000
       );
     };
+    
     return;
   };
   // invalid query
-  msg.channel.send("Invalid query");
+  msg.channel.send("Sorry I can't find it in the database, or invalid query");
+  return;
 };
 
 

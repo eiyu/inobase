@@ -1,9 +1,10 @@
 require('dotenv').config()
-const { isCommand, isQuery, isWeapon, destructQuerySet } = require('./commands/lib')
+const { isCommand, isQuery, isWeapon, destructQuerySet, emojiHash, emojiInstHash } = require('./commands/lib')
 const { getWeapons, getWeaponName } = require('./commands/weapons');
 const { getArmors } = require('./commands/armors');
 const { getNhm, getNhmName } = require('./commands/nightmares');
 const { help } = require('./commands/help');
+const { list } = require('./commands/list');
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const getMap = {
@@ -13,8 +14,16 @@ const getMap = {
   'nhm': getNhmName,
   'weap': getWeaponName
 }
+
+const emoji = {};
+
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
+  const allEmoji = client.emojis.filter(emoji => emoji.name.startsWith('doro'));
+  allEmoji.forEach(emoji => {
+    emojiInstHash[emoji.name] = emoji;
+    emojiHash[emoji.name] = emoji.toString();
+  });
 });
 
 client.on('message', async msg => {
@@ -24,8 +33,12 @@ client.on('message', async msg => {
     help(msg);
     return;
   };
+  if(msg.content == '?dlist' || msg.content == '?dlist-buff') {
+    list(msg);
+    return;
+  };
   if(prefix == '?' && !isCommand(msg.content)) {
-    msg.channel.send(`there is no ${command} command, ?dhelp fro more info`);
+    msg.channel.send(`there is no ${msg.content} command, ?dhelp fro more info`);
     return;
   };
   if(isCommand(msg.content)) {

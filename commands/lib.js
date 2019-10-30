@@ -17,6 +17,7 @@ const commandList = [
   'characters',
   'nhm',
   'dhelp',
+  'dlist-buff',
   'weap',
   'weaps'
 ];
@@ -86,14 +87,29 @@ const elementBuff = {
 };
 
 const buffList = {
+  // buff
   'matk': 'increase own magical ATK',
   'patk': 'increase own physical ATK',
   'mdef': 'increase own magical DEF',
   'pdef': 'increase own physical DEF',
+  'patk+matk': 'increase own physical ATK and magical ATK',
+  'pdef+mdef': 'increase own physical DEF and magical DEF',
+  'patk+pdef': 'increase own physical ATK and physical DEF',
+  'matk+mdef': 'increase own magical ATK and magical DEF',
   'spcost': 'sp cost of',
   'hit': 'hit rate of',
   'spres': 'of max SP',
-  'hpres': 'of max HP'
+  'hpres': 'of max HP',
+  // debuff
+  'patk-': 'Reduce the physical ATK',
+  'matk-': 'Reduce the magical ATK',
+  'pdef-': 'Reduce the physical DEF',
+  'mdef-': 'Reduce the magical DEF',
+  'matk-mdef': 'Reduce the magical ATK and magical DEF',
+  'patk-pdef': 'Reduce the physical ATK and physical DEF',
+  'matk-pdef': 'Reduce the magical ATK and physical DEF',
+  'patk-mdef': 'Reduce the physical ATK and magical DEF'
+
 };
 
 const daringList = {
@@ -263,6 +279,20 @@ const typeFilter = (type, item) => item ? item['weapon_type'].toLowerCase() == t
 const elementFilter = (val, item) => item ? item['element'].toLowerCase() == val : false;
 
 
+
+const emojiHash = {};
+const emojiInstHash = {};
+
+const getEmoji = (em) => {
+  console.log('emoji-', em)
+  return emojiHash[em];
+};
+
+const getEmojiInst = (em) => {
+  return emojiInstHash[em] || '';
+}; 
+
+
 module.exports = { 
   ...dataMap,
   weapFlat,
@@ -291,4 +321,8 @@ module.exports = {
   destructWithWeaponName,
   daringFilter,
   getDaring,
+  emojiHash,
+  emojiInstHash,
+  getEmoji,
+  getEmojiInst
 };

@@ -43,6 +43,7 @@ const help = async (msg) => {
 
 **Other Commands**
 * \`?dhelp\` - print this message
+* \`?dlist-buff\` - print detailed buff query list
   `);
 };
 
