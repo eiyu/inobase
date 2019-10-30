@@ -40,7 +40,6 @@ const whichvalid = (type, cat) => {
 }
 
 const searchEmbed = (data, command, query_1, q2, cat = null) => {
-  console.log('->', command, query_1, q2, cat)
   if(data.length === 0) {
     return;
   };

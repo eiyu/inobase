@@ -284,7 +284,6 @@ const emojiHash = {};
 const emojiInstHash = {};
 
 const getEmoji = (em) => {
-  console.log('emoji-', em)
   return emojiHash[em];
 };
 
