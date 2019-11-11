@@ -38,7 +38,6 @@ client.on('message', async msg => {
     return;
   };
   if(prefix == '?' && !isCommand(msg.content)) {
-    msg.channel.send(`there is no ${msg.content} command, ?dhelp fro more info`);
     return;
   };
   if(isCommand(msg.content)) {
